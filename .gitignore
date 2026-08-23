@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.DS_Store
+
+gfn_catalog_cache.json
+gfn_catalog_cache.tmp
+
+catalog_state.tmp

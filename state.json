@@ -1,0 +1,31 @@
+{
+  "Cyberpunk 2077": {
+    "name": "Cyberpunk 2077®",
+    "stores": [
+      "EPIC",
+      "GOG",
+      "STEAM"
+    ]
+  },
+  "Date Everything!": {
+    "name": "Date Everything!",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "Robocop: Rogue City": {
+    "name": "RoboCop: Rogue City",
+    "stores": [
+      "EPIC",
+      "STEAM",
+      "XBOX"
+    ]
+  },
+  "The Witcher 3: Wild Hunt": {
+    "name": "The Witcher® 3: Wild Hunt",
+    "stores": [
+      "EPIC",
+      "STEAM"
+    ]
+  }
+}
