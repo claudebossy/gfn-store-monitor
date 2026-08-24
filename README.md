@@ -3,6 +3,10 @@
 Monitors selected games on GeForce NOW and sends an email when a
 new supported game store becomes available.
 
+The repository also includes an Instant Gaming price tracker that
+stores periodic price snapshots and publishes a static page with a
+multi-product price history chart.
+
 For example:
 
 Before:
@@ -152,3 +156,36 @@ This prevents a temporary/incomplete API response from generating
 false notifications.
 
 Only newly observed stores generate emails.
+
+## Instant Gaming price tracker
+
+The Instant Gaming automation fetches the current price of each
+configured product, appends a new snapshot to the history file, and
+publishes a static page from:
+
+    site/index.html
+
+The tracked products are configured in:
+
+    instant_gaming_products.json
+
+Each entry needs:
+
+    id
+    label
+    url
+
+The URL should be the full Instant Gaming product page URL. The
+tracker adds the configured currency automatically before fetching
+the page.
+
+The generated history file is stored in:
+
+    site/data/instant-gaming-price-history.json
+
+The workflow that updates the history and deploys the static page is:
+
+    .github/workflows/instant-gaming-price-monitor.yml
+
+After the workflow has run successfully, the page can be published
+with GitHub Pages using the GitHub Actions source.

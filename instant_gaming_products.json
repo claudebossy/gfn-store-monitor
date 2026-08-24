@@ -1,0 +1,20 @@
+{
+  "currency": "CHF",
+  "products": [
+    {
+      "id": "xbox-game-pass-ultimate-3-mois",
+      "label": "Xbox Game Pass Ultimate 3 Mois (Microsoft Store)",
+      "url": "https://www.instant-gaming.com/fr/4994-acheter-xbox-game-pass-ultimate-3-mois-xbox-one-xbox-series-x-s-pc-microsoft-store/"
+    },
+    {
+      "id": "xbox-game-pass-ultimate-1-mois",
+      "label": "Xbox Game Pass Ultimate 1 Mois (Microsoft Store)",
+      "url": "https://www.instant-gaming.com/fr/4993-acheter-xbox-game-pass-ultimate-1-mois-xbox-one-xbox-series-x-s-pc-microsoft-store/"
+    },
+    {
+      "id": "xbox-game-pass-3-mois-pc",
+      "label": "Xbox Game Pass 3 Mois - PC (Microsoft Store)",
+      "url": "https://www.instant-gaming.com/fr/7613-acheter-xbox-game-pass-3-mois-pc-microsoft-store/"
+    }
+  ]
+}
