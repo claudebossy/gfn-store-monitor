@@ -110,9 +110,15 @@ The separate HBO Max check can be run manually with:
 It uses the same SMTP_* and EMAIL_* environment variables and always
 sends an email with the current result.
 
+There is also a dedicated GitHub Actions workflow for it:
+
+    Actions
+    -> Monitor HBO Max Availability
+    -> Run workflow
+
 ## Schedule
 
-The workflow normally runs every six hours.
+Both workflows normally run every six hours.
 
 GitHub Actions scheduled workflows are not guaranteed to start at
 the exact minute specified, so the cron expression should be viewed
