@@ -1,0 +1,603 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1"
+    />
+    <title>Instant Gaming Price Tracker</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"></script>
+    <style>
+      :root {
+        color-scheme: light;
+        --bg-top: #fff4fb;
+        --bg-bottom: #eef7ff;
+        --panel: rgba(255, 255, 255, 0.78);
+        --panel-strong: rgba(255, 255, 255, 0.92);
+        --panel-border: rgba(219, 190, 255, 0.55);
+        --text: #51355a;
+        --muted: #8c78a1;
+        --accent: #a96ff2;
+        --accent-strong: #7c52d9;
+        --accent-soft: rgba(214, 189, 255, 0.42);
+        --accent-soft-strong: rgba(191, 223, 255, 0.42);
+        --success: #4ebd8b;
+        --warning: #f08d77;
+        --shadow: rgba(191, 169, 220, 0.22);
+        --grid: rgba(169, 150, 204, 0.2);
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        font-family: Inter, system-ui, sans-serif;
+        background:
+          radial-gradient(circle at top left, #ffdff1 0, transparent 34%),
+          radial-gradient(circle at top right, #dff3ff 0, transparent 28%),
+          linear-gradient(180deg, var(--bg-top), var(--bg-bottom));
+        color: var(--text);
+      }
+
+      main {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 24px;
+      }
+
+      h1,
+      h2 {
+        margin: 0 0 12px;
+      }
+
+      p {
+        margin: 0;
+        color: var(--muted);
+      }
+
+      .hero,
+      .panel {
+        background: var(--panel);
+        border: 1px solid var(--panel-border);
+        border-radius: 18px;
+        padding: 20px;
+        box-shadow: 0 18px 40px var(--shadow);
+        backdrop-filter: blur(14px);
+      }
+
+      .hero {
+        margin-bottom: 20px;
+        background:
+          linear-gradient(135deg, rgba(255, 255, 255, 0.88), rgba(255, 242, 250, 0.96)),
+          var(--panel-strong);
+      }
+
+      .layout {
+        display: grid;
+        gap: 20px;
+        grid-template-columns: minmax(280px, 320px) minmax(0, 1fr);
+      }
+
+      .stack {
+        display: grid;
+        gap: 20px;
+      }
+
+      .toolbar {
+        display: flex;
+        gap: 8px;
+        margin: 16px 0 12px;
+      }
+
+      button {
+        border: 1px solid var(--panel-border);
+        background: linear-gradient(
+          135deg,
+          var(--accent-soft),
+          var(--accent-soft-strong)
+        );
+        color: var(--text);
+        border-radius: 999px;
+        padding: 8px 12px;
+        cursor: pointer;
+        box-shadow: 0 10px 20px rgba(196, 176, 232, 0.2);
+      }
+
+      button:hover {
+        border-color: var(--accent);
+        color: var(--accent-strong);
+      }
+
+      .selector-list {
+        display: grid;
+        gap: 10px;
+        max-height: 420px;
+        overflow: auto;
+        padding-right: 4px;
+      }
+
+      .selector-item {
+        display: flex;
+        gap: 12px;
+        align-items: flex-start;
+        padding: 12px;
+        border-radius: 14px;
+        background: rgba(255, 255, 255, 0.74);
+        border: 1px solid rgba(219, 190, 255, 0.35);
+        transition: border-color 0.2s ease, transform 0.2s ease,
+          box-shadow 0.2s ease;
+      }
+
+      .selector-item:hover {
+        border-color: var(--accent);
+        transform: translateY(-1px);
+        box-shadow: 0 12px 28px rgba(197, 175, 226, 0.16);
+      }
+
+      .selector-item input {
+        accent-color: var(--accent);
+      }
+
+      .selector-item small {
+        display: block;
+        color: var(--muted);
+        margin-top: 4px;
+      }
+
+      .chart-wrap {
+        height: 420px;
+      }
+
+      .meta {
+        margin-top: 10px;
+        font-size: 0.95rem;
+      }
+
+      .summary-grid {
+        display: grid;
+        gap: 12px;
+        grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+        margin-top: 18px;
+      }
+
+      .summary-card {
+        background: linear-gradient(
+          180deg,
+          rgba(255, 255, 255, 0.9),
+          rgba(255, 245, 252, 0.92)
+        );
+        border: 1px solid var(--panel-border);
+        border-radius: 16px;
+        padding: 16px;
+      }
+
+      .summary-card a {
+        color: var(--text);
+        text-decoration: none;
+      }
+
+      .summary-card a:hover {
+        color: var(--accent-strong);
+      }
+
+      .price {
+        font-size: 1.6rem;
+        font-weight: 700;
+        margin: 10px 0 8px;
+      }
+
+      .status {
+        display: inline-flex;
+        align-items: center;
+        gap: 6px;
+        font-size: 0.9rem;
+      }
+
+      .status.in-stock {
+        color: var(--success);
+      }
+
+      .status.out-of-stock {
+        color: var(--warning);
+      }
+
+      .empty-state,
+      .error-state {
+        padding: 16px;
+        border-radius: 14px;
+        background: rgba(255, 255, 255, 0.76);
+        border: 1px dashed var(--panel-border);
+        color: var(--muted);
+      }
+
+      @media (max-width: 900px) {
+        .layout {
+          grid-template-columns: 1fr;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <section class="hero">
+        <h1>Instant Gaming price tracker</h1>
+        <p>
+          Select one or more configured products to compare their sampled
+          prices over time.
+        </p>
+        <p class="meta" id="generated-at">Loading latest snapshot...</p>
+      </section>
+
+      <section class="layout">
+        <div class="stack">
+          <div class="panel">
+            <h2>Products</h2>
+            <div class="toolbar">
+              <button type="button" id="select-all">
+                Select all
+              </button>
+              <button type="button" id="clear-all">
+                Clear
+              </button>
+            </div>
+            <div
+              class="selector-list"
+              id="product-selector"
+            ></div>
+          </div>
+        </div>
+
+        <div class="stack">
+          <div class="panel">
+            <h2>Price evolution</h2>
+            <div class="chart-wrap">
+              <canvas id="price-chart"></canvas>
+            </div>
+          </div>
+
+          <div class="panel">
+            <h2>Latest prices</h2>
+            <div id="summary"></div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <script>
+      const DATA_URL = "./data/instant-gaming-price-history.json";
+      const COLORS = [
+        "#8ea8ff",
+        "#f7a8c8",
+        "#7fd5b3",
+        "#f7bf7f",
+        "#bc9cff",
+        "#ff9fad",
+        "#84dff5",
+        "#f2c66d"
+      ];
+
+      const chartTheme = getComputedStyle(document.documentElement);
+      const chartTextColor = chartTheme
+        .getPropertyValue("--text")
+        .trim();
+      const chartMutedColor = chartTheme
+        .getPropertyValue("--muted")
+        .trim();
+      const chartGridColor = chartTheme
+        .getPropertyValue("--grid")
+        .trim();
+      const chartPanelColor = chartTheme
+        .getPropertyValue("--panel-strong")
+        .trim();
+
+      let chart;
+      let trackerData = null;
+
+      function formatMoney(value, currency) {
+        return new Intl.NumberFormat(undefined, {
+          style: "currency",
+          currency,
+          minimumFractionDigits: 2,
+          maximumFractionDigits: 2
+        }).format(value);
+      }
+
+      function formatTimestamp(value) {
+        return new Date(value).toLocaleString();
+      }
+
+      function renderGeneratedAt() {
+        const target = document.getElementById("generated-at");
+
+        if (!trackerData || !trackerData.generated_at) {
+          target.textContent = "No snapshots recorded yet.";
+          return;
+        }
+
+        target.textContent =
+          "Last update: " + formatTimestamp(trackerData.generated_at);
+      }
+
+      function getSelectedIds() {
+        return Array.from(
+          document.querySelectorAll(
+            '#product-selector input[type="checkbox"]:checked'
+          )
+        ).map((checkbox) => checkbox.value);
+      }
+
+      function getSelectedProducts() {
+        const selectedIds = new Set(getSelectedIds());
+
+        return (trackerData.products || []).filter((product) =>
+          selectedIds.has(product.id)
+        );
+      }
+
+      function buildDatasets(selectedProducts, currency) {
+        return selectedProducts.map((product, index) => ({
+          label: product.label,
+          data: product.history.map((entry) => ({
+            x: formatTimestamp(entry.timestamp),
+            y: entry.price
+          })),
+          borderColor: COLORS[index % COLORS.length],
+          backgroundColor: COLORS[index % COLORS.length],
+          tension: 0.25,
+          pointRadius: 3,
+          pointHoverRadius: 5
+        }));
+      }
+
+      function renderChart() {
+        const selectedProducts = getSelectedProducts();
+        const summary = document.getElementById("summary");
+
+        if (chart) {
+          chart.destroy();
+          chart = null;
+        }
+
+        if (!selectedProducts.length) {
+          const ctx = document
+            .getElementById("price-chart")
+            .getContext("2d");
+          ctx.clearRect(
+            0,
+            0,
+            ctx.canvas.width,
+            ctx.canvas.height
+          );
+          summary.innerHTML =
+            '<div class="empty-state">Select at least one product.</div>';
+          return;
+        }
+
+        chart = new Chart(
+          document.getElementById("price-chart"),
+          {
+            type: "line",
+            data: {
+              datasets: buildDatasets(
+                selectedProducts,
+                trackerData.currency
+              )
+            },
+            options: {
+              responsive: true,
+              maintainAspectRatio: false,
+              parsing: false,
+              plugins: {
+                legend: {
+                  labels: {
+                    color: chartTextColor
+                  }
+                },
+                tooltip: {
+                  backgroundColor: chartPanelColor,
+                  titleColor: chartTextColor,
+                  bodyColor: chartTextColor,
+                  borderColor: chartGridColor,
+                  borderWidth: 1,
+                  callbacks: {
+                    label(context) {
+                      return (
+                        context.dataset.label +
+                        ": " +
+                        formatMoney(
+                          context.parsed.y,
+                          trackerData.currency
+                        )
+                      );
+                    }
+                  }
+                }
+              },
+              scales: {
+                x: {
+                  ticks: {
+                    color: chartMutedColor
+                  },
+                  grid: {
+                    color: chartGridColor
+                  }
+                },
+                y: {
+                  ticks: {
+                    color: chartMutedColor,
+                    callback(value) {
+                      return formatMoney(
+                        value,
+                        trackerData.currency
+                      );
+                    }
+                  },
+                  grid: {
+                    color: chartGridColor
+                  }
+                }
+              }
+            }
+          }
+        );
+
+        renderSummary(selectedProducts);
+      }
+
+      function renderSummary(selectedProducts) {
+        const summary = document.getElementById("summary");
+
+        summary.innerHTML = "";
+
+        const grid = document.createElement("div");
+        grid.className = "summary-grid";
+
+        for (const product of selectedProducts) {
+          const card = document.createElement("article");
+          card.className = "summary-card";
+
+          const current = product.current;
+          const statusClass = current.available
+            ? "in-stock"
+            : "out-of-stock";
+          const statusLabel = current.available
+            ? "In stock"
+            : "Out of stock";
+          const retailText =
+            typeof current.retail_price === "number"
+              ? `Retail: ${formatMoney(
+                  current.retail_price,
+                  trackerData.currency
+                )}`
+              : "Retail price unavailable";
+          const discountText =
+            typeof current.discount_percent === "number"
+              ? `Discount: ${current.discount_percent}%`
+              : "Discount unavailable";
+
+          card.innerHTML = `
+            <a href="${product.page_url}" target="_blank" rel="noreferrer">
+              <strong>${product.label}</strong>
+            </a>
+            <div class="price">${formatMoney(
+              current.price,
+              trackerData.currency
+            )}</div>
+            <div class="status ${statusClass}">${statusLabel}</div>
+            <p class="meta">${retailText}</p>
+            <p class="meta">${discountText}</p>
+            <p class="meta">Sampled: ${formatTimestamp(
+              current.timestamp
+            )}</p>
+          `;
+
+          grid.appendChild(card);
+        }
+
+        summary.appendChild(grid);
+      }
+
+      function renderSelector() {
+        const selector = document.getElementById("product-selector");
+        selector.innerHTML = "";
+
+        if (!trackerData.products.length) {
+          selector.innerHTML =
+            '<div class="empty-state">No products are configured yet. Edit instant_gaming_products.json and let the workflow run.</div>';
+          document.getElementById("summary").innerHTML =
+            '<div class="empty-state">No product data yet.</div>';
+          return;
+        }
+
+        for (const product of trackerData.products) {
+          const label = document.createElement("label");
+          label.className = "selector-item";
+
+          label.innerHTML = `
+            <input
+              type="checkbox"
+              value="${product.id}"
+              checked
+            />
+            <span>
+              <strong>${product.label}</strong>
+              <small>${product.title || product.canonical_url}</small>
+            </span>
+          `;
+
+          label
+            .querySelector("input")
+            .addEventListener("change", renderChart);
+
+          selector.appendChild(label);
+        }
+
+        renderChart();
+      }
+
+      async function loadTrackerData() {
+        const response = await fetch(DATA_URL, {
+          cache: "no-store"
+        });
+
+        if (!response.ok) {
+          throw new Error(
+            `Failed to load tracker data: ${response.status}`
+          );
+        }
+
+        return response.json();
+      }
+
+      async function init() {
+        try {
+          trackerData = await loadTrackerData();
+          trackerData.products = Array.isArray(trackerData.products)
+            ? trackerData.products
+            : [];
+          renderGeneratedAt();
+          renderSelector();
+        } catch (error) {
+          document.getElementById("generated-at").textContent =
+            "The tracker data is not available yet.";
+          document.getElementById("product-selector").innerHTML = `
+            <div class="error-state">${error.message}</div>
+          `;
+          document.getElementById("summary").innerHTML =
+            '<div class="error-state">Unable to render the latest prices.</div>';
+        }
+      }
+
+      document
+        .getElementById("select-all")
+        .addEventListener("click", () => {
+          document
+            .querySelectorAll(
+              '#product-selector input[type="checkbox"]'
+            )
+            .forEach((checkbox) => {
+              checkbox.checked = true;
+            });
+          renderChart();
+        });
+
+      document
+        .getElementById("clear-all")
+        .addEventListener("click", () => {
+          document
+            .querySelectorAll(
+              '#product-selector input[type="checkbox"]'
+            )
+            .forEach((checkbox) => {
+              checkbox.checked = false;
+            });
+          renderChart();
+        });
+
+      init();
+    </script>
+  </body>
+</html>
