@@ -11,7 +11,7 @@ import requests
 
 CATALOG_STATE_FILE = Path("catalog_state.json")
 CATALOG_CACHE_FILE = Path("gfn_catalog_cache.json")
-CATALOG_CACHE_MAX_AGE = 15 * 60  # 15 minutes
+CATALOG_CACHE_MAX_AGE = 15 * 60
 
 API_URL = "https://api-prod.nvidia.com/services/gfngames/v1/gameList"
 
@@ -224,63 +224,54 @@ def request_page(cursor: str) -> dict:
 
 
 def load_cached_catalog() -> list[dict] | None:
-    """
-    Return the cached catalog if it is younger than 15 minutes.
-    Otherwise return None.
-    """
-
     if not CATALOG_CACHE_FILE.exists():
         return None
 
-    age = time.time() - CATALOG_CACHE_FILE.stat().st_mtime
-
-    if age < 0:
-        # Clock moved backwards; don't trust the cache.
-        return None
-
-    if age >= CATALOG_CACHE_MAX_AGE:
-        print(
-            f"Catalog cache is {age / 60:.1f} minutes old; "
-            "fetching fresh catalog."
-        )
-        return None
-
     try:
-        catalog = json.loads(
+        cache = json.loads(
             CATALOG_CACHE_FILE.read_text(
                 encoding="utf-8"
             )
         )
 
-        if not isinstance(catalog, list):
-            print("WARNING: catalog cache is invalid.")
+        cached_at = cache["cached_at"]
+        catalog = cache["games"]
+
+        age = time.time() - cached_at
+
+        if age < 0 or age >= CATALOG_CACHE_MAX_AGE:
+            print(
+                f"Catalog cache expired "
+                f"({age / 60:.1f} minutes old)."
+            )
             return None
 
         print(
-            f"Using cached GFN catalog "
-            f"({age:.0f} seconds old, "
+            f"Using cached catalog "
+            f"({age:.1f} seconds old, "
             f"{len(catalog)} games)."
         )
 
         return catalog
 
-    except (OSError, json.JSONDecodeError) as exc:
+    except (OSError, KeyError, TypeError, ValueError) as exc:
         print(
-            f"WARNING: could not read catalog cache: {exc}"
+            f"WARNING: invalid catalog cache: {exc}"
         )
         return None
 
 
 def save_catalog_cache(catalog: list[dict]) -> None:
-    """
-    Atomically write the complete catalog to disk.
-    """
+    cache = {
+        "cached_at": time.time(),
+        "games": catalog,
+    }
 
     temporary_file = CATALOG_CACHE_FILE.with_suffix(".tmp")
 
     temporary_file.write_text(
         json.dumps(
-            catalog,
+            cache,
             ensure_ascii=False,
         ),
         encoding="utf-8",
