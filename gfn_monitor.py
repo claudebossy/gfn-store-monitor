@@ -697,10 +697,18 @@ def send_email(changes: dict) -> None:
         smtp.starttls()
         smtp.ehlo()
 
-        smtp.login(
-            smtp_username,
-            smtp_password,
-        )
+        try:
+            smtp.login(
+                smtp_username,
+                smtp_password,
+            )
+        except smtplib.SMTPAuthenticationError as exc:
+            raise RuntimeError(
+                "SMTP authentication failed. "
+                "If you are using Gmail, set SMTP_PASSWORD "
+                "to a Gmail App Password instead of your "
+                "normal account password."
+            ) from exc
 
         smtp.send_message(message)
 

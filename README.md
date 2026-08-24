@@ -42,11 +42,11 @@ The games to monitor are listed in:
 
     games.txt
 
-The previous store state is stored in:
+The previous catalog state is stored in:
 
-    state.json
+    catalog_state.json
 
-GitHub Actions commits state.json after each successful run.
+GitHub Actions commits catalog_state.json after each successful run.
 
 ## First run
 
@@ -102,6 +102,13 @@ The workflow can be started manually from:
     Actions
     -> Monitor GeForce NOW Store Availability
     -> Run workflow
+
+The separate HBO Max check can be run manually with:
+
+    python is_on_hbo.py
+
+It uses the same SMTP_* and EMAIL_* environment variables and always
+sends an email with the current result.
 
 ## Schedule
 
