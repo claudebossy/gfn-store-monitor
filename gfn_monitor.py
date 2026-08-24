@@ -928,7 +928,7 @@ def main() -> None:
             f"+ {', '.join(game['new_stores'])}"
         )
 
-    # send_email(changes)
+    send_email(changes)
 
 
 if __name__ == "__main__":
