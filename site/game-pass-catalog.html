@@ -300,19 +300,6 @@
         }
       }
 
-      function syncFilters() {
-        const catalogView =
-          document.getElementById("catalog-view").value || "intersection";
-        const gfnXboxFilter = document.getElementById("gfn-xbox-filter");
-        const isIntersectionView = catalogView === "intersection";
-
-        gfnXboxFilter.disabled = !isIntersectionView;
-
-        if (!isIntersectionView) {
-          gfnXboxFilter.value = "all";
-        }
-      }
-
       @media (max-width: 720px) {
         main {
           padding: 16px;
@@ -447,6 +434,19 @@
 
       function normalizeText(value) {
         return String(value || "").toLowerCase();
+      }
+
+      function syncFilters() {
+        const catalogView =
+          document.getElementById("catalog-view").value || "intersection";
+        const gfnXboxFilter = document.getElementById("gfn-xbox-filter");
+        const isIntersectionView = catalogView === "intersection";
+
+        gfnXboxFilter.disabled = !isIntersectionView;
+
+        if (!isIntersectionView) {
+          gfnXboxFilter.value = "all";
+        }
       }
 
       function renderGeneratedAt() {
