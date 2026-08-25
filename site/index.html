@@ -309,6 +309,15 @@
         return new Date(value).toLocaleString();
       }
 
+      function formatAxisTimestamp(value) {
+        return new Date(value).toLocaleString(undefined, {
+          month: "short",
+          day: "numeric",
+          hour: "2-digit",
+          minute: "2-digit"
+        });
+      }
+
       function renderGeneratedAt() {
         const target = document.getElementById("generated-at");
 
@@ -338,18 +347,25 @@
       }
 
       function buildDatasets(selectedProducts, currency) {
-        return selectedProducts.map((product, index) => ({
-          label: product.label,
-          data: product.history.map((entry) => ({
-            x: formatTimestamp(entry.timestamp),
-            y: entry.price
-          })),
-          borderColor: COLORS[index % COLORS.length],
-          backgroundColor: COLORS[index % COLORS.length],
-          tension: 0.25,
-          pointRadius: 3,
-          pointHoverRadius: 5
-        }));
+        return selectedProducts.map((product, index) => {
+          const data = (product.history || [])
+            .map((entry) => ({
+              x: new Date(entry.timestamp).getTime(),
+              y: entry.price
+            }))
+            .filter((entry) => Number.isFinite(entry.x))
+            .sort((left, right) => left.x - right.x);
+
+          return {
+            label: product.label,
+            data,
+            borderColor: COLORS[index % COLORS.length],
+            backgroundColor: COLORS[index % COLORS.length],
+            tension: 0.25,
+            pointRadius: 3,
+            pointHoverRadius: 5
+          };
+        });
       }
 
       function renderChart() {
@@ -403,6 +419,13 @@
                   borderColor: chartGridColor,
                   borderWidth: 1,
                   callbacks: {
+                    title(items) {
+                      if (!items.length) {
+                        return "";
+                      }
+
+                      return formatTimestamp(items[0].parsed.x);
+                    },
                     label(context) {
                       return (
                         context.dataset.label +
@@ -418,8 +441,12 @@
               },
               scales: {
                 x: {
+                  type: "linear",
                   ticks: {
-                    color: chartMutedColor
+                    color: chartMutedColor,
+                    callback(value) {
+                      return formatAxisTimestamp(value);
+                    }
                   },
                   grid: {
                     color: chartGridColor
