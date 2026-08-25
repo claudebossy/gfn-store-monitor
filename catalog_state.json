@@ -18840,6 +18840,12 @@
       "STEAM"
     ]
   },
+  "movies tycoon": {
+    "name": "Movies Tycoon",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "moving letters": {
     "name": "Moving Letters",
     "stores": [
@@ -20924,6 +20930,12 @@
       "STEAM"
     ]
   },
+  "painting pc": {
+    "name": "Painting PC",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "paladins": {
     "name": "Paladins®",
     "stores": [
@@ -22556,8 +22568,8 @@
       "STEAM"
     ]
   },
-  "purrrifiers cleaning chaos cats goofylike co op": {
-    "name": "Purrrifiers: Cleaning Chaos – Cats & Goofylike Co-op",
+  "purrrifiers cleaning chaos play for free with friend s pass": {
+    "name": "Purrrifiers: Cleaning Chaos (Play for Free with Friend's Pass)",
     "stores": [
       "STEAM"
     ]
@@ -29610,7 +29622,7 @@
   "terratech legion": {
     "name": "TerraTech Legion",
     "stores": [
-      "STEAM"
+      "XBOX"
     ]
   },
   "terratech legion demo": {
