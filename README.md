@@ -111,8 +111,9 @@ The separate HBO Max check can be run manually with:
 
     python is_on_hbo.py
 
-It uses the same SMTP_* and EMAIL_* environment variables and always
-sends an email with the current result.
+It uses the same SMTP_* and EMAIL_* environment variables and sends an
+email only when Hacks is present in the HBO Max Switzerland show
+sitemap.
 
 There is also a dedicated GitHub Actions workflow for it:
 
