@@ -185,10 +185,17 @@ The generated history file is stored in:
     site/data/instant-gaming-price-history.json
 
 The repository also builds a second static catalog page showing the
-overlap between the GeForce NOW catalog and Xbox PC Game Pass. The
+overlap between the GeForce NOW catalog and Xbox PC Game Pass, along
+with cached HowLongToBeat durations when a match is available. The
 generated dataset is stored in:
 
     site/data/gfn-xbox-pc-game-pass-catalog.json
+
+The generator also stores a HowLongToBeat lookup cache so scheduled
+GitHub Actions runs can refresh playtime data without starting from
+scratch every time:
+
+    site/data/howlongtobeat-cache.json
 
 and the page itself lives at:
 
