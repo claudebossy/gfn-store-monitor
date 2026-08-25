@@ -90,6 +90,7 @@
         display: flex;
         gap: 8px;
         margin: 16px 0 12px;
+        flex-wrap: wrap;
       }
 
       button {
@@ -106,7 +107,24 @@
         box-shadow: 0 10px 20px rgba(196, 176, 232, 0.2);
       }
 
-      button:hover {
+      .nav-link {
+        display: inline-flex;
+        align-items: center;
+        border: 1px solid var(--panel-border);
+        background: linear-gradient(
+          135deg,
+          var(--accent-soft),
+          var(--accent-soft-strong)
+        );
+        color: var(--text);
+        border-radius: 999px;
+        padding: 8px 12px;
+        text-decoration: none;
+        box-shadow: 0 10px 20px rgba(196, 176, 232, 0.2);
+      }
+
+      button:hover,
+      .nav-link:hover {
         border-color: var(--accent);
         color: var(--accent-strong);
       }
@@ -228,6 +246,11 @@
           Select one or more configured products to compare their sampled
           prices over time.
         </p>
+        <div class="toolbar">
+          <a class="nav-link" href="./game-pass-catalog.html">
+            GFN x PC Game Pass catalog
+          </a>
+        </div>
         <p class="meta" id="generated-at">Loading latest snapshot...</p>
       </section>
 

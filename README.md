@@ -184,9 +184,21 @@ The generated history file is stored in:
 
     site/data/instant-gaming-price-history.json
 
+The repository also builds a second static catalog page showing the
+overlap between the GeForce NOW catalog and Xbox PC Game Pass. The
+generated dataset is stored in:
+
+    site/data/gfn-xbox-pc-game-pass-catalog.json
+
+and the page itself lives at:
+
+    site/game-pass-catalog.html
+
 The workflow that updates the history and deploys the static page is:
 
     .github/workflows/instant-gaming-price-monitor.yml
 
 After the workflow has run successfully, the page can be published
-with GitHub Pages using the GitHub Actions source.
+with GitHub Pages using the GitHub Actions source. The existing
+Instant Gaming tracker remains at the site root and links to the
+GFN x PC Game Pass catalog page.
