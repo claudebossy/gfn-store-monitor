@@ -58,6 +58,8 @@ jobs:
 
           git add site/data/instant-gaming-price-history.json
           git add site/data/gfn-xbox-pc-game-pass-catalog.json
+          git add site/data/howlongtobeat-cache.json
+          git add site/data/opencritic-cache.json
 
           if git diff --cached --quiet; then
             echo "No Pages data changes to commit."
