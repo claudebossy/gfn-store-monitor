@@ -125,11 +125,13 @@ def main() -> None:
 
     print("\n".join(result_lines))
 
-    subject = (
-        "HBO Max CH: Hacks found"
-        if matches
-        else "HBO Max CH: Hacks not found"
-    )
+    if not matches:
+        print(
+            "Hacks is unavailable; skipping email notification."
+        )
+        return
+
+    subject = "HBO Max CH: Hacks found"
 
     send_email(subject, result_lines)
 
