@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T07:12:23+00:00",
+  "generated_at": "2026-08-25T13:15:27+00:00",
   "currency": "CHF",
   "products": [
     {
@@ -11,7 +11,7 @@
       "canonical_url": "https://www.instant-gaming.com/fr/4994-acheter-xbox-game-pass-ultimate-3-mois-xbox-one-xbox-series-x-s-pc-microsoft-store/",
       "image_url": "https://gaming-cdn.com/images/products/4994/orig-fallback-v1/xbox-game-pass-ultimate-3-mois-xbox-one-xbox-series-x-s-pc-microsoft-store-cover.jpg?v=1776851245",
       "current": {
-        "timestamp": "2026-08-25T07:12:23+00:00",
+        "timestamp": "2026-08-25T13:15:27+00:00",
         "price": 43.0,
         "available": true,
         "discount_percent": 27,
@@ -50,6 +50,14 @@
           "discount_percent": 27,
           "preorder": false,
           "retail_price": 59.0
+        },
+        {
+          "timestamp": "2026-08-25T13:15:27+00:00",
+          "price": 43.0,
+          "available": true,
+          "discount_percent": 27,
+          "preorder": false,
+          "retail_price": 59.0
         }
       ]
     },
@@ -62,7 +70,7 @@
       "canonical_url": "https://www.instant-gaming.com/fr/4993-acheter-xbox-game-pass-ultimate-1-mois-xbox-one-xbox-series-x-s-pc-microsoft-store/",
       "image_url": "https://gaming-cdn.com/images/products/4993/orig-fallback-v1/xbox-game-pass-ultimate-1-mois-xbox-one-xbox-series-x-s-pc-microsoft-store-cover.jpg?v=1776843160",
       "current": {
-        "timestamp": "2026-08-25T07:12:23+00:00",
+        "timestamp": "2026-08-25T13:15:27+00:00",
         "price": 15.89,
         "available": true,
         "discount_percent": 19,
@@ -101,6 +109,14 @@
           "discount_percent": 19,
           "preorder": false,
           "retail_price": 20.0
+        },
+        {
+          "timestamp": "2026-08-25T13:15:27+00:00",
+          "price": 15.89,
+          "available": true,
+          "discount_percent": 19,
+          "preorder": false,
+          "retail_price": 20.0
         }
       ]
     },
@@ -113,7 +129,7 @@
       "canonical_url": "https://www.instant-gaming.com/fr/7613-acheter-xbox-game-pass-3-mois-pc-microsoft-store/",
       "image_url": "https://gaming-cdn.com/images/products/7613/orig-fallback-v1/xbox-game-pass-3-mois-pc-microsoft-store-cover.jpg?v=1786528310",
       "current": {
-        "timestamp": "2026-08-25T07:12:23+00:00",
+        "timestamp": "2026-08-25T13:15:27+00:00",
         "price": 31.78,
         "available": false,
         "discount_percent": 13,
@@ -147,6 +163,14 @@
         },
         {
           "timestamp": "2026-08-25T07:12:23+00:00",
+          "price": 31.78,
+          "available": false,
+          "discount_percent": 13,
+          "preorder": false,
+          "retail_price": 36.0
+        },
+        {
+          "timestamp": "2026-08-25T13:15:27+00:00",
           "price": 31.78,
           "available": false,
           "discount_percent": 13,
