@@ -9,23 +9,23 @@
     <title>GFN x PC Game Pass catalog</title>
     <style>
       :root {
-        color-scheme: dark;
-        --bg-top: #0f1728;
-        --bg-bottom: #09101d;
-        --panel: rgba(15, 23, 42, 0.82);
-        --panel-strong: rgba(17, 24, 39, 0.95);
-        --panel-border: rgba(107, 114, 128, 0.32);
-        --text: #ecf7ff;
-        --muted: #9fb3c8;
-        --accent: #7dd3fc;
-        --accent-strong: #38bdf8;
-        --accent-soft: rgba(59, 130, 246, 0.2);
-        --accent-soft-strong: rgba(125, 211, 252, 0.2);
-        --success: #86efac;
-        --warning: #fbbf24;
-        --shadow: rgba(2, 8, 23, 0.45);
-        --tag: rgba(148, 163, 184, 0.16);
-        --tag-border: rgba(148, 163, 184, 0.28);
+        color-scheme: light;
+        --bg-top: #fff8fb;
+        --bg-bottom: #eff6ff;
+        --panel: rgba(255, 255, 255, 0.78);
+        --panel-strong: rgba(255, 251, 255, 0.92);
+        --panel-border: rgba(192, 181, 214, 0.52);
+        --text: #25324a;
+        --muted: #61708a;
+        --accent: #7c8cff;
+        --accent-strong: #5b6fe7;
+        --accent-soft: rgba(186, 200, 255, 0.52);
+        --accent-soft-strong: rgba(255, 210, 232, 0.42);
+        --success: #3d8b71;
+        --warning: #b7791f;
+        --shadow: rgba(155, 171, 203, 0.22);
+        --tag: rgba(255, 244, 249, 0.9);
+        --tag-border: rgba(204, 184, 214, 0.58);
       }
 
       * {
@@ -37,8 +37,9 @@
         font-family: Inter, system-ui, sans-serif;
         color: var(--text);
         background:
-          radial-gradient(circle at top left, rgba(59, 130, 246, 0.22) 0, transparent 28%),
-          radial-gradient(circle at top right, rgba(16, 185, 129, 0.16) 0, transparent 24%),
+          radial-gradient(circle at top left, rgba(191, 219, 254, 0.72) 0, transparent 30%),
+          radial-gradient(circle at top right, rgba(253, 230, 138, 0.34) 0, transparent 26%),
+          radial-gradient(circle at center, rgba(244, 208, 255, 0.22) 0, transparent 34%),
           linear-gradient(180deg, var(--bg-top), var(--bg-bottom));
       }
 
@@ -66,7 +67,7 @@
         padding: 24px;
         margin-bottom: 20px;
         background:
-          linear-gradient(135deg, rgba(14, 165, 233, 0.14), rgba(34, 197, 94, 0.08)),
+          linear-gradient(135deg, rgba(196, 181, 253, 0.34), rgba(253, 205, 232, 0.28)),
           var(--panel-strong);
       }
 
@@ -101,7 +102,7 @@
         border-radius: 999px;
         border: 1px solid var(--panel-border);
         color: var(--text);
-        background: rgba(15, 23, 42, 0.72);
+        background: rgba(255, 255, 255, 0.86);
       }
 
       .pill-link {
@@ -127,8 +128,8 @@
       .summary-card {
         padding: 16px;
         border-radius: 18px;
-        background: rgba(15, 23, 42, 0.56);
-        border: 1px solid rgba(125, 211, 252, 0.14);
+        background: rgba(255, 249, 253, 0.86);
+        border: 1px solid rgba(201, 190, 245, 0.48);
       }
 
       .summary-card strong {
@@ -140,7 +141,7 @@
       .toolbar {
         display: grid;
         gap: 16px;
-        grid-template-columns: minmax(0, 1.5fr) repeat(3, minmax(180px, 1fr));
+        grid-template-columns: minmax(0, 1.7fr) repeat(2, minmax(180px, 1fr));
       }
 
       .panel {
@@ -185,24 +186,6 @@
         margin-bottom: 16px;
       }
 
-      .store-pills {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 8px;
-        margin-top: 14px;
-      }
-
-      .store-pill {
-        display: inline-flex;
-        align-items: center;
-        gap: 8px;
-        padding: 8px 12px;
-        border-radius: 999px;
-        background: var(--tag);
-        border: 1px solid var(--tag-border);
-        color: var(--muted);
-      }
-
       .games-grid {
         display: grid;
         gap: 16px;
@@ -216,8 +199,8 @@
       .cover {
         aspect-ratio: 16 / 9;
         background:
-          linear-gradient(135deg, rgba(56, 189, 248, 0.22), rgba(34, 197, 94, 0.12)),
-          rgba(15, 23, 42, 0.7);
+          linear-gradient(135deg, rgba(191, 219, 254, 0.82), rgba(253, 205, 232, 0.52)),
+          rgba(255, 247, 251, 0.92);
       }
 
       .cover img {
@@ -262,25 +245,19 @@
 
       .tag.success {
         color: var(--success);
-        border-color: rgba(134, 239, 172, 0.32);
+        border-color: rgba(61, 139, 113, 0.28);
       }
 
       .tag.warning {
         color: var(--warning);
-        border-color: rgba(251, 191, 36, 0.32);
-      }
-
-      .hltb-grid {
-        display: grid;
-        gap: 8px;
-        grid-template-columns: repeat(2, minmax(0, 1fr));
+        border-color: rgba(183, 121, 31, 0.28);
       }
 
       .hltb-card {
         padding: 10px 12px;
         border-radius: 14px;
-        background: rgba(15, 23, 42, 0.56);
-        border: 1px solid rgba(125, 211, 252, 0.14);
+        background: rgba(250, 244, 255, 0.92);
+        border: 1px solid rgba(201, 190, 245, 0.48);
       }
 
       .hltb-card strong {
@@ -313,7 +290,7 @@
       .error-state {
         padding: 18px;
         border-radius: 16px;
-        background: rgba(15, 23, 42, 0.68);
+        background: rgba(255, 252, 255, 0.88);
         border: 1px dashed var(--panel-border);
       }
 
@@ -345,8 +322,8 @@
           <div>
             <h1>GeForce NOW x PC Game Pass catalog</h1>
             <p>
-              Browse the games currently present in both the GeForce NOW
-              catalog and Xbox PC Game Pass.
+              Browse PC Game Pass games that are already on GeForce NOW
+              or still missing from it, then sort them by short-game fit.
             </p>
           </div>
           <a class="pill-link" href="./index.html">
@@ -364,25 +341,24 @@
             <input
               id="search"
               type="search"
-              placeholder="Search title, publisher, developer, or store"
+              placeholder="Search title, publisher, or developer"
             />
           </div>
           <div class="field">
-            <label for="store-filter">GFN store</label>
-            <select id="store-filter"></select>
+            <label for="catalog-view">Catalog view</label>
+            <select id="catalog-view">
+              <option value="intersection">On GeForce NOW + PC Game Pass</option>
+              <option value="xbox-only">On PC Game Pass, not on GFN</option>
+            </select>
           </div>
           <div class="field">
             <label for="sort-order">Sort</label>
             <select id="sort-order">
+              <option value="short-score">Best short-game fit</option>
               <option value="title">Title A-Z</option>
-              <option value="publisher">Publisher A-Z</option>
               <option value="release">Newest release</option>
             </select>
           </div>
-          <label class="toggle-row" for="xbox-store-only">
-            <input id="xbox-store-only" type="checkbox" />
-            <span>Only games with a GFN Xbox store option</span>
-          </label>
         </div>
       </section>
 
@@ -392,7 +368,6 @@
             <h2>Catalog</h2>
             <p id="results-meta">Loading games...</p>
           </div>
-          <div class="store-pills" id="store-pills"></div>
         </div>
         <div class="games-grid" id="games"></div>
       </section>
@@ -437,6 +412,18 @@
         return totalHours.toFixed(1) + "h";
       }
 
+      function formatScore(value) {
+        if (!Number.isFinite(value) || value <= 0) {
+          return "N/A";
+        }
+
+        if (value >= 100 || Number.isInteger(value)) {
+          return Math.round(value);
+        }
+
+        return value.toFixed(1).replace(/\.0$/, "");
+      }
+
       function normalizeText(value) {
         return String(value || "").toLowerCase();
       }
@@ -464,11 +451,12 @@
         const details = catalogData.summary;
 
         const cards = [
-          ["Intersection titles", counts.intersection_titles],
-          ["GFN catalog", counts.gfn_titles],
-          ["PC Game Pass titles", counts.xbox_pc_titles],
-          ["GFN Xbox store", details.gfn_xbox_store_matches],
-          ["HowLongToBeat data", details.hltb_matches]
+          ["Catalog titles", counts.catalog_titles],
+          ["On GeForce NOW", counts.intersection_titles],
+          ["PC Game Pass only", counts.xbox_only_titles],
+          ["HowLongToBeat data", details.hltb_matches],
+          ["OpenCritic data", details.opencritic_matches],
+          ["Short-game scores", details.short_game_score_matches]
         ];
 
         summary.innerHTML = cards
@@ -483,50 +471,17 @@
           .join("");
       }
 
-      function renderStoreFilter() {
-        const select = document.getElementById("store-filter");
-        const stores = Object.keys(catalogData.summary.store_counts || {});
-
-        select.innerHTML = [
-          '<option value="all">All GFN stores</option>',
-          ...stores.map(
-            (store) => `<option value="${store}">${store}</option>`
-          )
-        ].join("");
-      }
-
-      function renderStorePills() {
-        const pills = document.getElementById("store-pills");
-        const storeCounts = catalogData.summary.store_counts || {};
-
-        pills.innerHTML = Object.entries(storeCounts)
-          .map(
-            ([store, count]) =>
-              `<span class="store-pill">${store}<strong>${count}</strong></span>`
-          )
-          .join("");
-      }
-
       function getFilteredGames() {
         const searchValue = normalizeText(
           document.getElementById("search").value
         );
-        const storeFilter =
-          document.getElementById("store-filter").value || "all";
-        const xboxStoreOnly =
-          document.getElementById("xbox-store-only").checked;
+        const catalogView =
+          document.getElementById("catalog-view").value || "intersection";
         const sortOrder =
-          document.getElementById("sort-order").value || "title";
+          document.getElementById("sort-order").value || "short-score";
 
         let games = (catalogData.games || []).filter((game) => {
-          if (
-            storeFilter !== "all" &&
-            !game.gfn_stores.includes(storeFilter)
-          ) {
-            return false;
-          }
-
-          if (xboxStoreOnly && !game.gfn_has_xbox_store) {
+          if (game.catalog_group !== catalogView) {
             return false;
           }
 
@@ -538,8 +493,7 @@
             game.title,
             game.xbox_title,
             game.publisher,
-            game.developer,
-            game.gfn_stores.join(" ")
+            game.developer
           ]
             .filter(Boolean)
             .join(" ");
@@ -548,16 +502,29 @@
         });
 
         games.sort((left, right) => {
+          if (sortOrder === "short-score") {
+            const leftScore = left.short_game_score?.score;
+            const rightScore = right.short_game_score?.score;
+
+            if (Number.isFinite(leftScore) || Number.isFinite(rightScore)) {
+              if (!Number.isFinite(leftScore)) {
+                return 1;
+              }
+
+              if (!Number.isFinite(rightScore)) {
+                return -1;
+              }
+
+              if (rightScore !== leftScore) {
+                return rightScore - leftScore;
+              }
+            }
+          }
+
           if (sortOrder === "release") {
             return (
               new Date(right.release_date || 0).getTime() -
               new Date(left.release_date || 0).getTime()
-            );
-          }
-
-          if (sortOrder === "publisher") {
-            return (left.publisher || left.title).localeCompare(
-              right.publisher || right.title
             );
           }
 
@@ -571,13 +538,25 @@
         const games = getFilteredGames();
         const gamesRoot = document.getElementById("games");
         const resultsMeta = document.getElementById("results-meta");
+        const catalogView =
+          document.getElementById("catalog-view").value || "intersection";
+        const totalForView =
+          catalogView === "intersection"
+            ? catalogData.counts.intersection_titles
+            : catalogData.counts.xbox_only_titles;
+        const viewLabel =
+          catalogView === "intersection"
+            ? "titles on both GeForce NOW and PC Game Pass"
+            : "PC Game Pass titles not currently on GeForce NOW";
 
         resultsMeta.textContent =
           "Showing " +
           games.length +
           " of " +
-          catalogData.counts.intersection_titles +
-          " overlapping titles.";
+          totalForView +
+          " " +
+          viewLabel +
+          ".";
 
         if (!games.length) {
           gamesRoot.innerHTML =
@@ -600,9 +579,17 @@
               ? `<img src="${game.image_url}" alt="${game.title}" loading="lazy" />`
               : "";
 
-            const xboxStoreTag = game.gfn_has_xbox_store
-              ? '<span class="tag success">GFN Xbox store</span>'
-              : '<span class="tag warning">No GFN Xbox store</span>';
+            const availabilityTags =
+              game.catalog_group === "intersection"
+                ? `
+                    <span class="tag success">On GeForce NOW</span>
+                    ${
+                      game.gfn_has_xbox_store
+                        ? '<span class="tag success">GFN Xbox store</span>'
+                        : ""
+                    }
+                  `
+                : '<span class="tag warning">PC Game Pass only</span>';
 
             const publisher = game.publisher
               ? `<p>Publisher: ${game.publisher}</p>`
@@ -611,25 +598,29 @@
               ? `<p>Developer: ${game.developer}</p>`
               : "";
             const hltb = game.howlongtobeat;
+            const opencritic = game.opencritic;
+            const shortGameScore = game.short_game_score;
+            const shortGameMarkup = shortGameScore
+              ? `
+                  <div class="hltb-card">
+                    <p>Short-game score</p>
+                    <strong>${formatScore(shortGameScore.score)}</strong>
+                  </div>
+                  <div class="subtitle hltb-meta">
+                    <p>Blend: 70% critics + 30% time fit</p>
+                    <p>OpenCritic: ${formatScore(shortGameScore.critic_score)}</p>
+                    <p>
+                      Main story: ${formatScore(shortGameScore.main_story_hours)}h
+                      · fit ${formatScore(shortGameScore.duration_fit_score)}/100
+                    </p>
+                  </div>
+                `
+              : '<p class="subtitle">Short-game score unavailable.</p>';
             const hltbMarkup = hltb
               ? `
-                  <div class="hltb-grid">
-                    <div class="hltb-card">
-                      <p>Main story</p>
-                      <strong>${formatDuration(hltb.main_story_seconds)}</strong>
-                    </div>
-                    <div class="hltb-card">
-                      <p>Main + extras</p>
-                      <strong>${formatDuration(hltb.main_extra_seconds)}</strong>
-                    </div>
-                    <div class="hltb-card">
-                      <p>Completionist</p>
-                      <strong>${formatDuration(hltb.completionist_seconds)}</strong>
-                    </div>
-                    <div class="hltb-card">
-                      <p>All styles</p>
-                      <strong>${formatDuration(hltb.all_styles_seconds)}</strong>
-                    </div>
+                  <div class="hltb-card">
+                    <p>Main story</p>
+                    <strong>${formatDuration(hltb.main_story_seconds)}</strong>
                   </div>
                   <div class="subtitle hltb-meta">
                     <p>HowLongToBeat match: ${hltb.title}</p>
@@ -646,6 +637,32 @@
                   </div>
                 `
               : '<p class="subtitle">HowLongToBeat data unavailable.</p>';
+            const opencriticMarkup = opencritic
+              ? `
+                  <div class="hltb-card">
+                    <p>OpenCritic</p>
+                    <strong>${formatScore(opencritic.top_critic_score)}</strong>
+                  </div>
+                  <div class="subtitle hltb-meta">
+                    <p>OpenCritic match: ${opencritic.title}</p>
+                    ${
+                      opencritic.tier
+                        ? `<p>Tier: ${opencritic.tier}</p>`
+                        : ""
+                    }
+                    ${
+                      opencritic.percent_recommended
+                        ? `<p>Recommended: ${formatScore(opencritic.percent_recommended)}%</p>`
+                        : ""
+                    }
+                    ${
+                      opencritic.review_count
+                        ? `<p>Reviews: ${opencritic.review_count}</p>`
+                        : ""
+                    }
+                  </div>
+                `
+              : '<p class="subtitle">OpenCritic data unavailable.</p>';
 
             return `
               <article class="game-card">
@@ -657,17 +674,16 @@
                   </div>
                   ${description}
                   <div class="tag-list">
-                    ${xboxStoreTag}
-                    ${game.gfn_stores
-                      .map((store) => `<span class="tag">${store}</span>`)
-                      .join("")}
+                    ${availabilityTags}
                   </div>
                   <div class="subtitle">
                     ${publisher}
                     ${developer}
                     <p>Release date: ${formatDate(game.release_date)}</p>
                   </div>
+                  ${shortGameMarkup}
                   ${hltbMarkup}
+                  ${opencriticMarkup}
                   <div class="action-row">
                     <a href="${game.xbox_url}" target="_blank" rel="noreferrer">
                       Open Microsoft Store
@@ -676,6 +692,13 @@
                       hltb
                         ? `<a href="${hltb.url}" target="_blank" rel="noreferrer">
                              Open HowLongToBeat
+                           </a>`
+                        : ""
+                    }
+                    ${
+                      opencritic
+                        ? `<a href="${opencritic.url}" target="_blank" rel="noreferrer">
+                            Open OpenCritic
                            </a>`
                         : ""
                     }
@@ -706,15 +729,12 @@
           catalogData = await loadCatalogData();
           renderGeneratedAt();
           renderSummary();
-          renderStoreFilter();
-          renderStorePills();
           renderGames();
 
           [
             "search",
-            "store-filter",
+            "catalog-view",
             "sort-order",
-            "xbox-store-only"
           ].forEach((id) => {
             document
               .getElementById(id)

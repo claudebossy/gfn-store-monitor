@@ -186,7 +186,12 @@ The generated history file is stored in:
 
 The repository also builds a second static catalog page showing the
 overlap between the GeForce NOW catalog and Xbox PC Game Pass, along
-with cached HowLongToBeat durations when a match is available. The
+with cached HowLongToBeat main-story durations and OpenCritic scores
+when matches are available. It also derives a short-game score that
+blends 70% OpenCritic score with 30% main-story length fit, giving full
+credit to games at 15 hours or under and tapering longer games down
+toward 40 hours. The page can switch between the overlap and the Xbox PC
+Game Pass titles that are still missing from GeForce NOW. The
 generated dataset is stored in:
 
     site/data/gfn-xbox-pc-game-pass-catalog.json
@@ -196,6 +201,10 @@ GitHub Actions runs can refresh playtime data without starting from
 scratch every time:
 
     site/data/howlongtobeat-cache.json
+
+and an OpenCritic lookup cache for the review metadata:
+
+    site/data/opencritic-cache.json
 
 and the page itself lives at:
 
