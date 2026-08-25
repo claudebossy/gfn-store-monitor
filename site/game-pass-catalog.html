@@ -300,6 +300,19 @@
         }
       }
 
+      function syncFilters() {
+        const catalogView =
+          document.getElementById("catalog-view").value || "intersection";
+        const gfnXboxFilter = document.getElementById("gfn-xbox-filter");
+        const isIntersectionView = catalogView === "intersection";
+
+        gfnXboxFilter.disabled = !isIntersectionView;
+
+        if (!isIntersectionView) {
+          gfnXboxFilter.value = "all";
+        }
+      }
+
       @media (max-width: 720px) {
         main {
           padding: 16px;
@@ -349,6 +362,14 @@
             <select id="catalog-view">
               <option value="intersection">On GeForce NOW + PC Game Pass</option>
               <option value="xbox-only">On PC Game Pass, not on GFN</option>
+            </select>
+          </div>
+          <div class="field">
+            <label for="gfn-xbox-filter">GFN Xbox store</label>
+            <select id="gfn-xbox-filter">
+              <option value="all">All overlap titles</option>
+              <option value="xbox-store">Playable with GFN Xbox store</option>
+              <option value="non-xbox-store">Not playable with GFN Xbox store</option>
             </select>
           </div>
           <div class="field">
@@ -477,12 +498,27 @@
         );
         const catalogView =
           document.getElementById("catalog-view").value || "intersection";
+        const gfnXboxFilter =
+          document.getElementById("gfn-xbox-filter").value || "all";
         const sortOrder =
           document.getElementById("sort-order").value || "short-score";
 
         let games = (catalogData.games || []).filter((game) => {
           if (game.catalog_group !== catalogView) {
             return false;
+          }
+
+          if (catalogView === "intersection") {
+            if (gfnXboxFilter === "xbox-store" && !game.gfn_has_xbox_store) {
+              return false;
+            }
+
+            if (
+              gfnXboxFilter === "non-xbox-store" &&
+              game.gfn_has_xbox_store
+            ) {
+              return false;
+            }
           }
 
           if (!searchValue) {
@@ -540,14 +576,32 @@
         const resultsMeta = document.getElementById("results-meta");
         const catalogView =
           document.getElementById("catalog-view").value || "intersection";
-        const totalForView =
-          catalogView === "intersection"
-            ? catalogData.counts.intersection_titles
-            : catalogData.counts.xbox_only_titles;
-        const viewLabel =
-          catalogView === "intersection"
-            ? "titles on both GeForce NOW and PC Game Pass"
-            : "PC Game Pass titles not currently on GeForce NOW";
+        const gfnXboxFilter =
+          document.getElementById("gfn-xbox-filter").value || "all";
+        let totalForView;
+        let viewLabel;
+
+        if (catalogView === "intersection") {
+          if (gfnXboxFilter === "xbox-store") {
+            totalForView = catalogData.summary.gfn_xbox_store_matches;
+            viewLabel =
+              "overlap titles with the GFN Xbox store available";
+          } else if (gfnXboxFilter === "non-xbox-store") {
+            totalForView =
+              catalogData.counts.intersection_titles -
+              catalogData.summary.gfn_xbox_store_matches;
+            viewLabel =
+              "overlap titles without GFN Xbox store support";
+          } else {
+            totalForView = catalogData.counts.intersection_titles;
+            viewLabel =
+              "titles on both GeForce NOW and PC Game Pass";
+          }
+        } else {
+          totalForView = catalogData.counts.xbox_only_titles;
+          viewLabel =
+            "PC Game Pass titles not currently on GeForce NOW";
+        }
 
         resultsMeta.textContent =
           "Showing " +
@@ -729,12 +783,14 @@
           catalogData = await loadCatalogData();
           renderGeneratedAt();
           renderSummary();
+          syncFilters();
           renderGames();
 
           [
             "search",
             "catalog-view",
             "sort-order",
+            "gfn-xbox-filter",
           ].forEach((id) => {
             document
               .getElementById(id)
@@ -743,6 +799,12 @@
               .getElementById(id)
               .addEventListener("change", renderGames);
           });
+          document
+            .getElementById("catalog-view")
+            .addEventListener("input", syncFilters);
+          document
+            .getElementById("catalog-view")
+            .addEventListener("change", syncFilters);
         } catch (error) {
           document.getElementById("generated-at").textContent =
             "The catalog data is not available yet.";
