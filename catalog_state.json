@@ -19933,6 +19933,12 @@
       "STEAM"
     ]
   },
+  "nuclear dawn": {
+    "name": "Nuclear Dawn",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "nuclear epoch": {
     "name": "Nuclear Epoch",
     "stores": [
@@ -21904,6 +21910,12 @@
   },
   "poly duels demo": {
     "name": "Poly Duels Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "polylithic": {
+    "name": "Polylithic",
     "stores": [
       "STEAM"
     ]
