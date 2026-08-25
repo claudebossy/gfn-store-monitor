@@ -1,4 +1,4 @@
-name: Track Instant Gaming Prices
+name: Update GitHub Pages Data
 
 on:
   schedule:
@@ -11,7 +11,7 @@ permissions:
   id-token: write
 
 concurrency:
-  group: instant-gaming-price-monitor
+  group: github-pages-data
   cancel-in-progress: false
 
 jobs:
@@ -39,6 +39,10 @@ jobs:
         run: |
           python instant_gaming_monitor.py
 
+      - name: Build GFN x PC Game Pass catalog
+        run: |
+          python gfn_xbox_game_pass_catalog.py
+
       - name: Configure Pages
         uses: actions/configure-pages@v5
 
@@ -53,13 +57,14 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add site/data/instant-gaming-price-history.json
+          git add site/data/gfn-xbox-pc-game-pass-catalog.json
 
           if git diff --cached --quiet; then
-            echo "No price history changes to commit."
+            echo "No Pages data changes to commit."
             exit 0
           fi
 
-          git commit -m "Update Instant Gaming price history"
+          git commit -m "Update GitHub Pages data"
           git push
 
   deploy:
