@@ -4497,7 +4497,8 @@
   "call of duty modern warfare 4 beta": {
     "name": "Call of Duty®: Modern Warfare® 4 - Beta",
     "stores": [
-      "BATTLENET"
+      "BATTLENET",
+      "XBOX"
     ]
   },
   "call of duty modern warfare ii": {
@@ -11785,6 +11786,12 @@
       "XBOX"
     ]
   },
+  "gallipoli": {
+    "name": "Gallipoli",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "galumb": {
     "name": "Galumb",
     "stores": [
@@ -12347,6 +12354,12 @@
     "stores": [
       "STEAM",
       "XBOX"
+    ]
+  },
+  "gold gold adventure gold": {
+    "name": "Gold Gold Adventure Gold",
+    "stores": [
+      "STEAM"
     ]
   },
   "gold miner classic edition": {
@@ -26361,6 +26374,12 @@
   },
   "sneak out": {
     "name": "Sneak Out",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "sniper camouflage orange spy warrior i buried two bodies in the garden and the police haven t figured out yet that they re missing because they were a lonely old couple who had no relatives simulator 2026": {
+    "name": "Sniper Camouflage Orange Spy Warrior I Buried Two Bodies in the Garden and the Police Haven't Figured Out Yet That They're Missing Because They Were a Lonely Old Couple Who Had No Relatives Simulator 2026",
     "stores": [
       "STEAM"
     ]
