@@ -3404,6 +3404,12 @@
       "STEAM"
     ]
   },
+  "biped 2": {
+    "name": "Biped 2",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "bird simulator": {
     "name": "Bird Simulator",
     "stores": [
@@ -7070,6 +7076,12 @@
     "name": "Darksiders: Warmastered Edition",
     "stores": [
       "EPIC",
+      "STEAM"
+    ]
+  },
+  "darkwater": {
+    "name": "Darkwater",
+    "stores": [
       "STEAM"
     ]
   },
@@ -25463,6 +25475,12 @@
       "STEAM"
     ]
   },
+  "sheepherds": {
+    "name": "Sheepherds!",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "shell corp": {
     "name": "Shell Corp",
     "stores": [
@@ -25973,6 +25991,12 @@
   },
   "skate story demo": {
     "name": "Skate Story Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "skatesterre": {
+    "name": "Skatesterre",
     "stores": [
       "STEAM"
     ]
@@ -31699,6 +31723,12 @@
   },
   "the wonderful one after school hero": {
     "name": "The Wonderful One: After School Hero",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "the world well blood of caro": {
+    "name": "The World Well: Blood of Caro",
     "stores": [
       "STEAM"
     ]
