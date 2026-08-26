@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T23:10:34+00:00",
+  "updated_at": "2026-08-26T02:02:17+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -8717,6 +8717,24 @@
         "release_year": 2017,
         "match_type": "exact",
         "match_score": 147
+      }
+    },
+    "once human": {
+      "title": "Once Human",
+      "status": "matched",
+      "fetched_at": "2026-08-26T02:02:15+00:00",
+      "data": {
+        "title": "Once Human",
+        "game_id": 16998,
+        "url": "https://opencritic.com/game/16998/once-human",
+        "top_critic_score": 74.0,
+        "percent_recommended": 53.8,
+        "tier": "Fair",
+        "median_score": 78,
+        "review_count": 16,
+        "release_year": 2024,
+        "match_type": "exact",
+        "match_score": 135
       }
     }
   }

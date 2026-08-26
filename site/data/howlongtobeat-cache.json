@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T23:10:34+00:00",
+  "updated_at": "2026-08-26T02:02:17+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -7829,6 +7829,24 @@
         "profile_platform": "PC, Xbox One",
         "match_type": "exact",
         "match_score": 132
+      }
+    },
+    "once human": {
+      "title": "Once Human",
+      "status": "matched",
+      "fetched_at": "2026-08-26T02:02:14+00:00",
+      "data": {
+        "title": "Once Human",
+        "game_id": 109248,
+        "url": "https://howlongtobeat.com/game/109248",
+        "image_url": "https://howlongtobeat.com/games/109248_Once_Human.jpg",
+        "main_story_seconds": 120375,
+        "review_score": 71,
+        "completion_count": 115,
+        "release_year": 2024,
+        "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
+        "match_type": "exact",
+        "match_score": 127
       }
     }
   }
