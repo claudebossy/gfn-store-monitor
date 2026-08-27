@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T09:58:03+00:00",
+  "generated_at": "2026-08-27T22:24:57+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,23 +13,23 @@
     }
   },
   "counts": {
-    "gfn_titles": 5926,
-    "xbox_pc_titles": 564,
-    "catalog_titles": 536,
-    "intersection_titles": 346,
+    "gfn_titles": 5932,
+    "xbox_pc_titles": 565,
+    "catalog_titles": 537,
+    "intersection_titles": 347,
     "xbox_only_titles": 190
   },
   "summary": {
     "store_counts": {
-      "STEAM": 321,
+      "STEAM": 322,
       "XBOX": 205,
       "EPIC": 75,
       "UPLAY": 31,
       "BATTLENET": 21,
       "EA_APP": 16,
+      "GOG": 4,
       "NONE": 3,
       "GAIJIN": 2,
-      "GOG": 1,
       "UNKNOWN": 1,
       "WARGAMING": 1
     },
@@ -60,7 +60,7 @@
       },
       {
         "name": "Focus Entertainment",
-        "count": 8
+        "count": 9
       },
       {
         "name": "Activision Publishing Inc.",
@@ -84,12 +84,12 @@
       }
     ],
     "gfn_xbox_store_matches": 205,
-    "intersection_titles": 346,
+    "intersection_titles": 347,
     "xbox_only_titles": 190,
-    "hltb_matches": 386,
-    "opencritic_matches": 460,
-    "short_game_score_matches": 303,
-    "exact_matches": 322,
+    "hltb_matches": 387,
+    "opencritic_matches": 461,
+    "short_game_score_matches": 304,
+    "exact_matches": 323,
     "partial_matches": 24
   },
   "games": [
@@ -3875,6 +3875,7 @@
       "normalized_title": "clair obscur expedition 33",
       "gfn_stores": [
         "EPIC",
+        "GOG",
         "STEAM",
         "XBOX"
       ],
@@ -11945,6 +11946,7 @@
       "normalized_title": "kingdom come deliverance ii",
       "gfn_stores": [
         "EPIC",
+        "GOG",
         "STEAM",
         "XBOX"
       ],
@@ -14630,6 +14632,7 @@
       "title": "No Man's Sky",
       "normalized_title": "no man s sky",
       "gfn_stores": [
+        "GOG",
         "STEAM",
         "XBOX"
       ],
@@ -17007,6 +17010,59 @@
         "critic_score": 84.1,
         "duration_fit_score": 100.0,
         "main_story_hours": 9.8,
+        "target_hours": 15.0
+      }
+    },
+    {
+      "catalog_group": "intersection",
+      "is_on_gfn": true,
+      "title": "Resonance: A Plague Tale Legacy",
+      "normalized_title": "resonance a plague tale legacy",
+      "gfn_stores": [
+        "STEAM"
+      ],
+      "gfn_has_xbox_store": false,
+      "xbox_title": "Resonance: A Plague Tale Legacy",
+      "xbox_product_id": "9PPBNCXP0096",
+      "xbox_url": "https://www.microsoft.com/store/productId/9PPBNCXP0096",
+      "publisher": "Focus Entertainment",
+      "developer": "Asobo Studio",
+      "release_date": "2026-08-27T16:00:00.0000000Z",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.5592.14332070469741251.b219f2ed-9161-4e36-815d-0a90a76aae89.a0a67d9d-a853-4710-a5d5-2abec52630ce",
+      "description": "Embark on an original story, prequel to the award-winning games: A Plague Tale. As Sophia, journey to the Minotaur’s Island, outsmart deadly foes, unravel ancient secrets, and confront a mythical creature at the heart of a devastating curse.",
+      "match_type": "exact-title",
+      "match_score": 120,
+      "howlongtobeat": {
+        "title": "Resonance: A Plague Tale Legacy",
+        "game_id": 169336,
+        "url": "https://howlongtobeat.com/game/169336",
+        "image_url": "https://howlongtobeat.com/games/169336_Resonance_A_Plague_Tale_Legacy.jpg",
+        "main_story_seconds": 34496,
+        "review_score": 79,
+        "completion_count": 17,
+        "release_year": 2026,
+        "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
+        "match_type": "exact",
+        "match_score": 142
+      },
+      "opencritic": {
+        "title": "Resonance: A Plague Tale Legacy",
+        "game_id": 20803,
+        "url": "https://opencritic.com/game/20803/resonance-a-plague-tale-legacy",
+        "top_critic_score": 83.0,
+        "percent_recommended": 86.6,
+        "tier": "Strong",
+        "median_score": 85,
+        "review_count": 82,
+        "release_year": 2026,
+        "match_type": "exact",
+        "match_score": 151
+      },
+      "short_game_score": {
+        "score": 88.1,
+        "critic_score": 83.0,
+        "duration_fit_score": 100.0,
+        "main_story_hours": 9.6,
         "target_hours": 15.0
       }
     },

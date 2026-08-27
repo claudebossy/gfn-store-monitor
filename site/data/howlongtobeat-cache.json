@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T09:58:13+00:00",
+  "updated_at": "2026-08-27T22:25:11+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -7847,6 +7847,24 @@
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
         "match_score": 127
+      }
+    },
+    "resonance a plague tale legacy": {
+      "title": "Resonance: A Plague Tale Legacy",
+      "status": "matched",
+      "fetched_at": "2026-08-27T22:25:09+00:00",
+      "data": {
+        "title": "Resonance: A Plague Tale Legacy",
+        "game_id": 169336,
+        "url": "https://howlongtobeat.com/game/169336",
+        "image_url": "https://howlongtobeat.com/games/169336_Resonance_A_Plague_Tale_Legacy.jpg",
+        "main_story_seconds": 34496,
+        "review_score": 79,
+        "completion_count": 17,
+        "release_year": 2026,
+        "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
+        "match_type": "exact",
+        "match_score": 142
       }
     }
   }
