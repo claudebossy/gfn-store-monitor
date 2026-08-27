@@ -872,6 +872,12 @@
       "STEAM"
     ]
   },
+  "aggelos 2": {
+    "name": "Aggelos 2",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "ai olympius": {
     "name": "AI Olympius",
     "stores": [
@@ -960,6 +966,12 @@
   },
   "airport contraband demo": {
     "name": "Airport Contraband Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "airport contraband prologue": {
+    "name": "Airport Contraband: Prologue",
     "stores": [
       "STEAM"
     ]
@@ -2360,12 +2372,6 @@
       "STEAM"
     ]
   },
-  "atlas": {
-    "name": "ATLAS",
-    "stores": [
-      "STEAM"
-    ]
-  },
   "atlas fallen reign of sand": {
     "name": "Atlas Fallen: Reign of Sand",
     "stores": [
@@ -2775,6 +2781,7 @@
   "baldur s gate 3": {
     "name": "Baldur's Gate 3",
     "stores": [
+      "GOG",
       "STEAM"
     ]
   },
@@ -3582,13 +3589,6 @@
       "XBOX"
     ]
   },
-  "blasphemous": {
-    "name": "Blasphemous",
-    "stores": [
-      "EPIC",
-      "STEAM"
-    ]
-  },
   "blasphemous 2": {
     "name": "Blasphemous 2",
     "stores": [
@@ -4312,12 +4312,6 @@
       "STEAM"
     ]
   },
-  "builders of egypt": {
-    "name": "Builders of Egypt",
-    "stores": [
-      "STEAM"
-    ]
-  },
   "builders of egypt prologue": {
     "name": "Builders of Egypt: Prologue",
     "stores": [
@@ -4494,10 +4488,11 @@
       "STEAM"
     ]
   },
-  "call of duty modern warfare 4 beta": {
-    "name": "Call of Duty®: Modern Warfare® 4 - Beta",
+  "call of duty modern warfare 4 open beta": {
+    "name": "Call of Duty®: Modern Warfare® 4 - Open Beta",
     "stores": [
       "BATTLENET",
+      "STEAM",
       "XBOX"
     ]
   },
@@ -5013,14 +5008,6 @@
     "name": "Center Station Simulator",
     "stores": [
       "STEAM"
-    ]
-  },
-  "century age of ashes": {
-    "name": "Century: Age of Ashes",
-    "stores": [
-      "EPIC",
-      "STEAM",
-      "XBOX"
     ]
   },
   "cepheus protocol": {
@@ -5603,6 +5590,7 @@
     "name": "Clair Obscur: Expedition 33",
     "stores": [
       "EPIC",
+      "GOG",
       "STEAM",
       "XBOX"
     ]
@@ -5793,6 +5781,12 @@
     "name": "Coin Pusher Casino",
     "stores": [
       "STEAM"
+    ]
+  },
+  "cold fear": {
+    "name": "Cold Fear™",
+    "stores": [
+      "GOG"
     ]
   },
   "collapse": {
@@ -8052,12 +8046,6 @@
       "STEAM"
     ]
   },
-  "dino crisis": {
-    "name": "Dino Crisis",
-    "stores": [
-      "STEAM"
-    ]
-  },
   "dino crisis 2": {
     "name": "Dino Crisis 2",
     "stores": [
@@ -9594,12 +9582,6 @@
       "STEAM"
     ]
   },
-  "empire of sin": {
-    "name": "Empire of Sin",
-    "stores": [
-      "STEAM"
-    ]
-  },
   "empire of the ants": {
     "name": "Empire of the Ants",
     "stores": [
@@ -9842,12 +9824,6 @@
   },
   "esc ape": {
     "name": "ESC/APE",
-    "stores": [
-      "STEAM"
-    ]
-  },
-  "escape from duckov": {
-    "name": "Escape From Duckov",
     "stores": [
       "STEAM"
     ]
@@ -10357,12 +10333,6 @@
       "STEAM"
     ]
   },
-  "f i s t forged in shadow torch": {
-    "name": "F.I.S.T.: Forged In Shadow Torch",
-    "stores": [
-      "STEAM"
-    ]
-  },
   "f r a x blackout": {
     "name": "F.R.A.X: BLACKOUT",
     "stores": [
@@ -10810,12 +10780,6 @@
   },
   "fata deum the god sim": {
     "name": "Fata Deum - The God Sim",
-    "stores": [
-      "STEAM"
-    ]
-  },
-  "fatal fury city of the wolves": {
-    "name": "FATAL FURY: City of the Wolves",
     "stores": [
       "STEAM"
     ]
@@ -13038,12 +13002,6 @@
       "STEAM"
     ]
   },
-  "halls of torment prelude": {
-    "name": "Halls of Torment: Prelude",
-    "stores": [
-      "STEAM"
-    ]
-  },
   "hallways": {
     "name": "Hallways",
     "stores": [
@@ -13656,6 +13614,12 @@
   },
   "heroes of legionwood": {
     "name": "Heroes of Legionwood",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "heroes of might and magic iii": {
+    "name": "Heroes Of Might And Magic III",
     "stores": [
       "STEAM"
     ]
@@ -14829,12 +14793,6 @@
       "STEAM"
     ]
   },
-  "inside soccer demo": {
-    "name": "Inside Soccer Demo",
-    "stores": [
-      "STEAM"
-    ]
-  },
   "inside the backrooms": {
     "name": "Inside the Backrooms",
     "stores": [
@@ -15387,12 +15345,6 @@
       "STEAM"
     ]
   },
-  "karmazoo": {
-    "name": "KarmaZoo",
-    "stores": [
-      "STEAM"
-    ]
-  },
   "karting superstars": {
     "name": "Karting Superstars",
     "stores": [
@@ -15652,12 +15604,6 @@
       "STEAM"
     ]
   },
-  "king arthur knight s tale": {
-    "name": "King Arthur: Knight's Tale",
-    "stores": [
-      "STEAM"
-    ]
-  },
   "king arthur legion ix": {
     "name": "King Arthur: Legion IX",
     "stores": [
@@ -15719,13 +15665,6 @@
       "STEAM"
     ]
   },
-  "king s bounty the legend": {
-    "name": "King's Bounty: The Legend",
-    "stores": [
-      "EPIC",
-      "STEAM"
-    ]
-  },
   "king s bounty warriors of the north": {
     "name": "King's Bounty: Warriors of the North",
     "stores": [
@@ -15756,6 +15695,7 @@
     "name": "Kingdom Come: Deliverance II",
     "stores": [
       "EPIC",
+      "GOG",
       "STEAM",
       "XBOX"
     ]
@@ -16769,12 +16709,6 @@
   },
   "little problems a cozy detective game": {
     "name": "Little Problems: A Cozy Detective Game",
-    "stores": [
-      "STEAM"
-    ]
-  },
-  "little racers street": {
-    "name": "Little Racers STREET",
     "stores": [
       "STEAM"
     ]
@@ -18197,12 +18131,6 @@
       "STEAM"
     ]
   },
-  "might magic fates heroes tcg": {
-    "name": "Might & Magic Fates - Heroes TCG",
-    "stores": [
-      "STEAM"
-    ]
-  },
   "might magic heroes vi": {
     "name": "Might & Magic® Heroes® VI",
     "stores": [
@@ -18855,14 +18783,9 @@
     "name": "Mount & Blade II: Bannerlord",
     "stores": [
       "EPIC",
+      "GOG",
       "STEAM",
       "XBOX"
-    ]
-  },
-  "mount blade warband": {
-    "name": "Mount & Blade: Warband",
-    "stores": [
-      "STEAM"
     ]
   },
   "mount blade with fire sword": {
@@ -19759,6 +19682,7 @@
   "no man s sky": {
     "name": "No Man's Sky",
     "stores": [
+      "GOG",
       "STEAM",
       "XBOX"
     ]
@@ -21100,7 +21024,8 @@
   "paradise killer": {
     "name": "Paradise Killer",
     "stores": [
-      "EPIC"
+      "EPIC",
+      "STEAM"
     ]
   },
   "paradise lost": {
@@ -23601,6 +23526,12 @@
       "STEAM"
     ]
   },
+  "resonance a plague tale legacy": {
+    "name": "Resonance: A Plague Tale Legacy",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "resoraki demo": {
     "name": "Resoraki Demo",
     "stores": [
@@ -24255,12 +24186,6 @@
   },
   "romans age of caesar": {
     "name": "Romans: Age of Caesar",
-    "stores": [
-      "STEAM"
-    ]
-  },
-  "romestead": {
-    "name": "Romestead",
     "stores": [
       "STEAM"
     ]
@@ -25358,12 +25283,6 @@
   },
   "shadow warrior 3 definitive edition": {
     "name": "Shadow Warrior 3: Definitive Edition",
-    "stores": [
-      "STEAM"
-    ]
-  },
-  "shadowgrounds": {
-    "name": "Shadowgrounds",
     "stores": [
       "STEAM"
     ]
@@ -27325,12 +27244,6 @@
       "STEAM"
     ]
   },
-  "squad 44": {
-    "name": "Squad 44",
-    "stores": [
-      "STEAM"
-    ]
-  },
   "squeakross home squeak home": {
     "name": "Squeakross: Home Squeak Home",
     "stores": [
@@ -27549,6 +27462,13 @@
   },
   "star wars squadrons": {
     "name": "STAR WARS™: Squadrons",
+    "stores": [
+      "EA_APP",
+      "STEAM"
+    ]
+  },
+  "star wars zero company": {
+    "name": "STAR WARS Zero Company™",
     "stores": [
       "EA_APP",
       "STEAM"
@@ -29569,12 +29489,6 @@
       "STEAM"
     ]
   },
-  "tempest rising": {
-    "name": "Tempest Rising",
-    "stores": [
-      "STEAM"
-    ]
-  },
   "temple of snek": {
     "name": "Temple Of Snek",
     "stores": [
@@ -30547,12 +30461,6 @@
   },
   "the incident at galley house": {
     "name": "The Incident at Galley House",
-    "stores": [
-      "STEAM"
-    ]
-  },
-  "the incredible adventures of van helsing final cut": {
-    "name": "The Incredible Adventures of Van Helsing: Final Cut",
     "stores": [
       "STEAM"
     ]
@@ -31725,6 +31633,7 @@
     "name": "The Witcher® 3: Wild Hunt",
     "stores": [
       "EPIC",
+      "GOG",
       "STEAM"
     ]
   },
@@ -35433,12 +35342,6 @@
   },
   "woodle tree 2 worlds": {
     "name": "Woodle Tree 2: Worlds",
-    "stores": [
-      "STEAM"
-    ]
-  },
-  "woodle tree adventures": {
-    "name": "Woodle Tree Adventures",
     "stores": [
       "STEAM"
     ]
