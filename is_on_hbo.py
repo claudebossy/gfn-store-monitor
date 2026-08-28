@@ -1,15 +1,26 @@
 import os
 import smtplib
 import sys
+from datetime import datetime, timezone
 from email.message import EmailMessage
+from pathlib import Path
 from urllib.parse import unquote
 
 import requests
 from bs4 import BeautifulSoup
+from site_history import (
+    load_history_document,
+    write_history_document,
+)
 
 SITEMAP = "https://www.hbomax.com/ch/en/sitemap/shows"
 SHOW = "hacks"
 REQUEST_TIMEOUT = 30
+HISTORY_FILE = (
+    Path("site")
+    / "data"
+    / "hbo-max-history.json"
+)
 
 
 def find_matches() -> list[dict[str, str]]:
@@ -70,6 +81,37 @@ def build_result_lines(
     ]
 
 
+def save_result_history(
+    timestamp: str,
+    matches: list[dict[str, str]],
+) -> None:
+    history = load_history_document(HISTORY_FILE)
+    entries = history["entries"]
+    entries.append(
+        {
+            "timestamp": timestamp,
+            "available": bool(matches),
+            "match_count": len(matches),
+            "matches": [
+                {
+                    "title": match["title"],
+                    "url": match["url"],
+                }
+                for match in matches
+            ],
+        }
+    )
+    write_history_document(
+        HISTORY_FILE,
+        {
+            "generated_at": timestamp,
+            "show": SHOW,
+            "sitemap_url": SITEMAP,
+            "entries": entries,
+        },
+    )
+
+
 def send_email(
     subject: str,
     lines: list[str],
@@ -120,10 +162,14 @@ def send_email(
 
 
 def main() -> None:
+    timestamp = datetime.now(timezone.utc).replace(
+        microsecond=0
+    ).isoformat()
     matches = find_matches()
     result_lines = build_result_lines(matches)
 
     print("\n".join(result_lines))
+    save_result_history(timestamp, matches)
 
     if not matches:
         print(
