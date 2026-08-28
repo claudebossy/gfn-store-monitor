@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T11:30:49+00:00",
+  "generated_at": "2026-08-28T22:27:21+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,7 +13,7 @@
     }
   },
   "counts": {
-    "gfn_titles": 5932,
+    "gfn_titles": 5934,
     "xbox_pc_titles": 565,
     "catalog_titles": 537,
     "intersection_titles": 347,
@@ -22,7 +22,7 @@
   "summary": {
     "store_counts": {
       "STEAM": 322,
-      "XBOX": 205,
+      "XBOX": 206,
       "EPIC": 75,
       "UPLAY": 31,
       "BATTLENET": 21,
@@ -83,7 +83,7 @@
         "count": 7
       }
     ],
-    "gfn_xbox_store_matches": 205,
+    "gfn_xbox_store_matches": 206,
     "intersection_titles": 347,
     "xbox_only_titles": 190,
     "hltb_matches": 387,
@@ -17019,9 +17019,10 @@
       "title": "Resonance: A Plague Tale Legacy",
       "normalized_title": "resonance a plague tale legacy",
       "gfn_stores": [
-        "STEAM"
+        "STEAM",
+        "XBOX"
       ],
-      "gfn_has_xbox_store": false,
+      "gfn_has_xbox_store": true,
       "xbox_title": "Resonance: A Plague Tale Legacy",
       "xbox_product_id": "9PPBNCXP0096",
       "xbox_url": "https://www.microsoft.com/store/productId/9PPBNCXP0096",
