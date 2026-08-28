@@ -115,6 +115,10 @@ It uses the same SMTP_* and EMAIL_* environment variables and sends an
 email only when Hacks is present in the HBO Max Switzerland show
 sitemap.
 
+Each HBO run also appends its result to:
+
+    site/data/hbo-max-history.json
+
 There is also a dedicated GitHub Actions workflow for it:
 
     Actions
@@ -123,7 +127,8 @@ There is also a dedicated GitHub Actions workflow for it:
 
 ## Schedule
 
-Both workflows normally run every six hours.
+The HBO Max, GeForce NOW, and GitHub Pages data workflows all run every
+six hours on staggered minutes so their history commits do not collide.
 
 GitHub Actions scheduled workflows are not guaranteed to start at
 the exact minute specified, so the cron expression should be viewed
@@ -157,6 +162,11 @@ This prevents a temporary/incomplete API response from generating
 false notifications.
 
 Only newly observed stores generate emails.
+
+Each GeForce NOW run also appends a compact change log for GitHub Pages
+to:
+
+    site/data/gfn-catalog-history.json
 
 ## Instant Gaming price tracker
 
@@ -210,11 +220,22 @@ and the page itself lives at:
 
     site/game-pass-catalog.html
 
-The workflow that updates the history and deploys the static page is:
+The workflow that updates the Instant Gaming and catalog data is:
 
     .github/workflows/instant-gaming-price-monitor.yml
 
-After the workflow has run successfully, the page can be published
-with GitHub Pages using the GitHub Actions source. The existing
-Instant Gaming tracker remains at the site root and links to the
-GFN x PC Game Pass catalog page.
+The repository now also includes a monitor history page at:
+
+    site/monitor-history.html
+
+It shows the HBO Max check history and the GeForce NOW catalog change
+history.
+
+GitHub Pages is deployed by:
+
+    .github/workflows/deploy-github-pages.yml
+
+That deployment runs after the data-update workflows complete
+successfully. The existing Instant Gaming tracker remains at the site
+root and links to both the GFN x PC Game Pass catalog page and the
+monitor history page.

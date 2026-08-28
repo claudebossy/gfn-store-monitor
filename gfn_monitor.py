@@ -4,14 +4,24 @@ import re
 import smtplib
 import sys
 import time
+from datetime import datetime, timezone
 from email.message import EmailMessage
 from pathlib import Path
 
 import requests
+from site_history import (
+    load_history_document,
+    write_history_document,
+)
 
 CATALOG_STATE_FILE = Path("catalog_state.json")
 CATALOG_CACHE_FILE = Path("gfn_catalog_cache.json")
 CATALOG_CACHE_MAX_AGE = 15 * 60
+CATALOG_HISTORY_FILE = (
+    Path("site")
+    / "data"
+    / "gfn-catalog-history.json"
+)
 
 API_URL = "https://api-prod.nvidia.com/services/gfngames/v1/gameList"
 
@@ -856,11 +866,62 @@ def compare_catalogs(
     }
 
 
+def save_catalog_history(
+    timestamp: str,
+    catalog: dict,
+    changes: dict,
+    *,
+    baseline: bool = False,
+) -> None:
+    history = load_history_document(
+        CATALOG_HISTORY_FILE
+    )
+    entries = history["entries"]
+    entries.append(
+        {
+            "timestamp": timestamp,
+            "baseline": baseline,
+            "catalog_game_count": len(catalog),
+            "new_game_count": len(changes["new_games"]),
+            "new_store_count": len(changes["new_stores"]),
+            "new_games": [
+                {
+                    "name": game["name"],
+                    "stores": list(game["stores"]),
+                }
+                for game in changes["new_games"]
+            ],
+            "new_stores": [
+                {
+                    "name": game["name"],
+                    "stores": list(game["stores"]),
+                    "new_stores": list(
+                        game["new_stores"]
+                    ),
+                }
+                for game in changes["new_stores"]
+            ],
+        }
+    )
+    write_history_document(
+        CATALOG_HISTORY_FILE,
+        {
+            "generated_at": timestamp,
+            "country": COUNTRY,
+            "language": LANGUAGE,
+            "entries": entries,
+        },
+    )
+
+
 def main() -> None:
     print("=== GeForce NOW Catalog Monitor ===")
     print(f"Country: {COUNTRY}")
     print(f"Language: {LANGUAGE}")
     print()
+    timestamp = datetime.now(timezone.utc).replace(
+        microsecond=0
+    ).isoformat()
 
     # fetch_all_games() automatically uses the 15-minute
     # catalog cache when available.
@@ -885,6 +946,15 @@ def main() -> None:
 
         save_catalog_state(
             new_catalog_state
+        )
+        save_catalog_history(
+            timestamp,
+            new_catalog_state,
+            {
+                "new_games": [],
+                "new_stores": [],
+            },
+            baseline=True,
         )
 
         print(
@@ -914,6 +984,11 @@ def main() -> None:
     # there were changes.
     save_catalog_state(
         new_catalog_state
+    )
+    save_catalog_history(
+        timestamp,
+        new_catalog_state,
+        changes,
     )
 
     if not new_games and not new_stores:

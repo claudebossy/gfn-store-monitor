@@ -7,8 +7,6 @@ on:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
 concurrency:
   group: github-pages-data
@@ -43,14 +41,6 @@ jobs:
         run: |
           python gfn_xbox_game_pass_catalog.py
 
-      - name: Configure Pages
-        uses: actions/configure-pages@v5
-
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: site
-
       - name: Commit updated price history
         run: |
           git config user.name "github-actions[bot]"
@@ -68,15 +58,3 @@ jobs:
 
           git commit -m "Update GitHub Pages data"
           git push
-
-  deploy:
-    needs: monitor
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4

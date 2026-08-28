@@ -1,0 +1,795 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1"
+    />
+    <title>Monitor history</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"></script>
+    <style>
+      :root {
+        color-scheme: light;
+        --bg-top: #fff8fd;
+        --bg-bottom: #eef6ff;
+        --panel: rgba(255, 255, 255, 0.82);
+        --panel-strong: rgba(255, 255, 255, 0.94);
+        --panel-border: rgba(201, 189, 229, 0.48);
+        --text: #2f3145;
+        --muted: #6f7892;
+        --accent: #7c6ff2;
+        --accent-soft: rgba(214, 205, 255, 0.5);
+        --accent-soft-strong: rgba(196, 225, 255, 0.48);
+        --success: #2f9d76;
+        --warning: #d17b4d;
+        --shadow: rgba(166, 176, 216, 0.18);
+        --grid: rgba(148, 158, 196, 0.18);
+        --danger-soft: rgba(255, 225, 225, 0.72);
+        --success-soft: rgba(224, 252, 239, 0.84);
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        font-family: Inter, system-ui, sans-serif;
+        color: var(--text);
+        background:
+          radial-gradient(circle at top left, rgba(255, 215, 240, 0.64) 0, transparent 32%),
+          radial-gradient(circle at top right, rgba(210, 230, 255, 0.7) 0, transparent 26%),
+          linear-gradient(180deg, var(--bg-top), var(--bg-bottom));
+      }
+
+      main {
+        max-width: 1280px;
+        margin: 0 auto;
+        padding: 24px;
+      }
+
+      a {
+        color: inherit;
+      }
+
+      h1,
+      h2,
+      h3,
+      p {
+        margin: 0;
+      }
+
+      p {
+        color: var(--muted);
+      }
+
+      .hero,
+      .panel,
+      .summary-card,
+      .entry-card {
+        background: var(--panel);
+        border: 1px solid var(--panel-border);
+        border-radius: 20px;
+        box-shadow: 0 20px 44px var(--shadow);
+        backdrop-filter: blur(14px);
+      }
+
+      .hero {
+        padding: 24px;
+        margin-bottom: 20px;
+        background:
+          linear-gradient(135deg, rgba(255, 255, 255, 0.92), rgba(248, 242, 255, 0.96)),
+          var(--panel-strong);
+      }
+
+      .hero-header {
+        display: flex;
+        justify-content: space-between;
+        gap: 16px;
+        flex-wrap: wrap;
+        align-items: flex-start;
+      }
+
+      .hero-copy p {
+        margin-top: 10px;
+        max-width: 780px;
+      }
+
+      .action-row {
+        display: flex;
+        gap: 8px;
+        flex-wrap: wrap;
+      }
+
+      .pill-link {
+        display: inline-flex;
+        align-items: center;
+        padding: 10px 14px;
+        border-radius: 999px;
+        text-decoration: none;
+        border: 1px solid var(--panel-border);
+        background: linear-gradient(
+          135deg,
+          var(--accent-soft),
+          var(--accent-soft-strong)
+        );
+      }
+
+      .meta {
+        margin-top: 14px;
+        font-size: 0.95rem;
+      }
+
+      .summary-grid {
+        display: grid;
+        gap: 14px;
+        grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+        margin-top: 18px;
+      }
+
+      .summary-card {
+        padding: 16px;
+      }
+
+      .summary-card strong {
+        display: block;
+        margin-top: 8px;
+        font-size: 1.7rem;
+      }
+
+      .layout {
+        display: grid;
+        gap: 20px;
+      }
+
+      .panel {
+        padding: 20px;
+      }
+
+      .panel + .panel {
+        margin-top: 20px;
+      }
+
+      .panel-header {
+        display: flex;
+        justify-content: space-between;
+        gap: 12px;
+        flex-wrap: wrap;
+        align-items: flex-start;
+        margin-bottom: 16px;
+      }
+
+      .chart-wrap {
+        height: 320px;
+      }
+
+      .entry-list {
+        display: grid;
+        gap: 12px;
+        margin-top: 18px;
+      }
+
+      .entry-card {
+        padding: 16px;
+      }
+
+      .entry-head {
+        display: flex;
+        justify-content: space-between;
+        gap: 12px;
+        flex-wrap: wrap;
+        align-items: center;
+      }
+
+      .status-pill {
+        display: inline-flex;
+        align-items: center;
+        padding: 6px 10px;
+        border-radius: 999px;
+        font-size: 0.85rem;
+        border: 1px solid var(--panel-border);
+      }
+
+      .status-pill.success {
+        background: var(--success-soft);
+        color: var(--success);
+      }
+
+      .status-pill.warning {
+        background: var(--danger-soft);
+        color: var(--warning);
+      }
+
+      .details-list {
+        display: grid;
+        gap: 8px;
+        margin-top: 12px;
+      }
+
+      details {
+        border-radius: 14px;
+        border: 1px solid rgba(201, 189, 229, 0.4);
+        background: rgba(255, 255, 255, 0.66);
+        padding: 12px 14px;
+      }
+
+      summary {
+        cursor: pointer;
+        font-weight: 600;
+      }
+
+      ul {
+        margin: 10px 0 0;
+        padding-left: 18px;
+        color: var(--muted);
+      }
+
+      li + li {
+        margin-top: 6px;
+      }
+
+      .empty-state {
+        margin-top: 18px;
+        padding: 18px;
+        border-radius: 16px;
+        border: 1px dashed var(--panel-border);
+        background: rgba(255, 255, 255, 0.78);
+        color: var(--muted);
+      }
+
+      @media (max-width: 720px) {
+        main {
+          padding: 16px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <section class="hero">
+        <div class="hero-header">
+          <div class="hero-copy">
+            <h1>Monitor history</h1>
+            <p>
+              Review every HBO Max sitemap check and GeForce NOW catalog change
+              snapshot that gets published to GitHub Pages.
+            </p>
+          </div>
+          <div class="action-row">
+            <a class="pill-link" href="./index.html">
+              Instant Gaming tracker
+            </a>
+            <a class="pill-link" href="./game-pass-catalog.html">
+              GFN x PC Game Pass catalog
+            </a>
+          </div>
+        </div>
+        <p class="meta" id="generated-at">Loading latest history...</p>
+        <div class="summary-grid" id="summary"></div>
+      </section>
+
+      <section class="panel">
+        <div class="panel-header">
+          <div>
+            <h2>HBO Max checks</h2>
+            <p>
+              Each run records whether the configured show is currently present
+              in the HBO Max Switzerland sitemap.
+            </p>
+          </div>
+        </div>
+        <div class="chart-wrap">
+          <canvas id="hbo-chart"></canvas>
+        </div>
+        <div class="entry-list" id="hbo-history"></div>
+      </section>
+
+      <section class="panel">
+        <div class="panel-header">
+          <div>
+            <h2>GeForce NOW catalog changes</h2>
+            <p>
+              Each run records catalog size and any newly detected games or new
+              store availability.
+            </p>
+          </div>
+        </div>
+        <div class="chart-wrap">
+          <canvas id="gfn-chart"></canvas>
+        </div>
+        <div class="entry-list" id="gfn-history"></div>
+      </section>
+    </main>
+
+    <script>
+      const HBO_DATA_URL = "./data/hbo-max-history.json";
+      const GFN_DATA_URL = "./data/gfn-catalog-history.json";
+      const theme = getComputedStyle(document.documentElement);
+      const textColor = theme.getPropertyValue("--text").trim();
+      const mutedColor = theme.getPropertyValue("--muted").trim();
+      const gridColor = theme.getPropertyValue("--grid").trim();
+      const panelColor = theme
+        .getPropertyValue("--panel-strong")
+        .trim();
+
+      let hboChart;
+      let gfnChart;
+
+      function formatTimestamp(value) {
+        return new Date(value).toLocaleString();
+      }
+
+      function formatShortTimestamp(value) {
+        return new Date(value).toLocaleString(undefined, {
+          month: "short",
+          day: "numeric",
+          hour: "2-digit",
+          minute: "2-digit"
+        });
+      }
+
+      function escapeHtml(value) {
+        return String(value).replace(/[&<>"']/g, (character) => {
+          const replacements = {
+            "&": "&amp;",
+            "<": "&lt;",
+            ">": "&gt;",
+            '"': "&quot;",
+            "'": "&#39;"
+          };
+
+          return replacements[character];
+        });
+      }
+
+      function createSummaryCard(label, value, detail) {
+        const card = document.createElement("article");
+        card.className = "summary-card";
+        card.innerHTML = `
+          <p>${label}</p>
+          <strong>${value}</strong>
+          <p>${detail}</p>
+        `;
+        return card;
+      }
+
+      function renderSummary(hboData, gfnData) {
+        const summary = document.getElementById("summary");
+        summary.innerHTML = "";
+
+        const hboEntries = Array.isArray(hboData.entries)
+          ? hboData.entries
+          : [];
+        const gfnEntries = Array.isArray(gfnData.entries)
+          ? gfnData.entries
+          : [];
+        const latestHbo = hboEntries.at(-1);
+        const latestGfn = gfnEntries.at(-1);
+        const totalGfnChanges = gfnEntries.reduce(
+          (sum, entry) =>
+            sum +
+            (entry.new_game_count || 0) +
+            (entry.new_store_count || 0),
+          0
+        );
+
+        summary.appendChild(
+          createSummaryCard(
+            "Latest HBO result",
+            latestHbo
+              ? latestHbo.available
+                ? "Match found"
+                : "No match"
+              : "No data",
+            latestHbo
+              ? `${latestHbo.match_count} sitemap match(es)`
+              : "Waiting for the first recorded run."
+          )
+        );
+        summary.appendChild(
+          createSummaryCard(
+            "HBO checks",
+            String(hboEntries.length),
+            `Tracking ${hboData.show || "the configured show"}.`
+          )
+        );
+        summary.appendChild(
+          createSummaryCard(
+            "Latest GFN catalog size",
+            latestGfn
+              ? String(latestGfn.catalog_game_count || 0)
+              : "No data",
+            latestGfn && latestGfn.baseline
+              ? "Latest recorded run established the baseline."
+              : "Unique games in the latest catalog snapshot."
+          )
+        );
+        summary.appendChild(
+          createSummaryCard(
+            "GFN detected changes",
+            String(totalGfnChanges),
+            `${gfnEntries.length} recorded catalog run(s).`
+          )
+        );
+      }
+
+      function renderGeneratedAt(hboData, gfnData) {
+        const generatedAt = document.getElementById("generated-at");
+        const timestamps = [hboData.generated_at, gfnData.generated_at]
+          .filter(Boolean)
+          .map((value) => new Date(value).getTime())
+          .filter((value) => Number.isFinite(value));
+
+        if (!timestamps.length) {
+          generatedAt.textContent =
+            "No history has been recorded yet.";
+          return;
+        }
+
+        generatedAt.textContent =
+          "Latest recorded update: " +
+          formatTimestamp(new Date(Math.max(...timestamps)).toISOString());
+      }
+
+      function ensureArray(value) {
+        return Array.isArray(value) ? value : [];
+      }
+
+      function renderHboChart(hboData) {
+        const entries = ensureArray(hboData.entries);
+        const canvas = document.getElementById("hbo-chart");
+
+        if (hboChart) {
+          hboChart.destroy();
+        }
+
+        if (!entries.length) {
+          const ctx = canvas.getContext("2d");
+          ctx.clearRect(0, 0, ctx.canvas.width, ctx.canvas.height);
+          return;
+        }
+
+        hboChart = new Chart(canvas, {
+          type: "line",
+          data: {
+            labels: entries.map((entry) =>
+              formatShortTimestamp(entry.timestamp)
+            ),
+            datasets: [
+              {
+                label: "Match found",
+                data: entries.map((entry) =>
+                  entry.available ? 1 : 0
+                ),
+                borderColor: "#7c6ff2",
+                backgroundColor: "#7c6ff2",
+                tension: 0.25,
+                pointRadius: 3
+              }
+            ]
+          },
+          options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: {
+              legend: {
+                labels: {
+                  color: textColor
+                }
+              },
+              tooltip: {
+                backgroundColor: panelColor,
+                titleColor: textColor,
+                bodyColor: textColor
+              }
+            },
+            scales: {
+              x: {
+                ticks: {
+                  color: mutedColor
+                },
+                grid: {
+                  color: gridColor
+                }
+              },
+              y: {
+                min: 0,
+                max: 1,
+                ticks: {
+                  stepSize: 1,
+                  color: mutedColor,
+                  callback(value) {
+                    return value === 1 ? "Yes" : "No";
+                  }
+                },
+                grid: {
+                  color: gridColor
+                }
+              }
+            }
+          }
+        });
+      }
+
+      function renderHboHistory(hboData) {
+        const container = document.getElementById("hbo-history");
+        const entries = ensureArray(hboData.entries).slice().reverse();
+        container.innerHTML = "";
+
+        if (!entries.length) {
+          container.innerHTML =
+            '<div class="empty-state">No HBO checks recorded yet.</div>';
+          return;
+        }
+
+        for (const entry of entries.slice(0, 20)) {
+          const card = document.createElement("article");
+          card.className = "entry-card";
+          const availabilityClass = entry.available
+            ? "success"
+            : "warning";
+          const availabilityLabel = entry.available
+            ? "Match found"
+            : "No match";
+          const matchItems = ensureArray(entry.matches);
+          const detailsHtml = matchItems.length
+            ? `
+              <ul>
+                ${matchItems
+                  .map(
+                    (match) =>
+                      `<li><a href="${encodeURI(match.url)}" target="_blank" rel="noreferrer">${escapeHtml(match.title)}</a></li>`
+                  )
+                  .join("")}
+              </ul>
+            `
+            : "";
+
+          card.innerHTML = `
+            <div class="entry-head">
+              <div>
+                <h3>${formatTimestamp(entry.timestamp)}</h3>
+                <p>${entry.match_count || 0} sitemap match(es)</p>
+              </div>
+              <span class="status-pill ${availabilityClass}">
+                ${availabilityLabel}
+              </span>
+            </div>
+            ${detailsHtml}
+          `;
+          container.appendChild(card);
+        }
+      }
+
+      function renderGfnChart(gfnData) {
+        const entries = ensureArray(gfnData.entries);
+        const canvas = document.getElementById("gfn-chart");
+
+        if (gfnChart) {
+          gfnChart.destroy();
+        }
+
+        if (!entries.length) {
+          const ctx = canvas.getContext("2d");
+          ctx.clearRect(0, 0, ctx.canvas.width, ctx.canvas.height);
+          return;
+        }
+
+        gfnChart = new Chart(canvas, {
+          data: {
+            labels: entries.map((entry) =>
+              formatShortTimestamp(entry.timestamp)
+            ),
+            datasets: [
+              {
+                type: "bar",
+                label: "New games",
+                data: entries.map((entry) => entry.new_game_count || 0),
+                backgroundColor: "#7c6ff2"
+              },
+              {
+                type: "bar",
+                label: "New store additions",
+                data: entries.map((entry) => entry.new_store_count || 0),
+                backgroundColor: "#f6a77d"
+              },
+              {
+                type: "line",
+                label: "Catalog size",
+                data: entries.map(
+                  (entry) => entry.catalog_game_count || 0
+                ),
+                borderColor: "#4e9dd8",
+                backgroundColor: "#4e9dd8",
+                yAxisID: "catalog",
+                tension: 0.25,
+                pointRadius: 3
+              }
+            ]
+          },
+          options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: {
+              legend: {
+                labels: {
+                  color: textColor
+                }
+              },
+              tooltip: {
+                backgroundColor: panelColor,
+                titleColor: textColor,
+                bodyColor: textColor
+              }
+            },
+            scales: {
+              x: {
+                ticks: {
+                  color: mutedColor
+                },
+                grid: {
+                  color: gridColor
+                }
+              },
+              y: {
+                beginAtZero: true,
+                ticks: {
+                  color: mutedColor
+                },
+                grid: {
+                  color: gridColor
+                }
+              },
+              catalog: {
+                position: "right",
+                beginAtZero: true,
+                ticks: {
+                  color: mutedColor
+                },
+                grid: {
+                  drawOnChartArea: false
+                }
+              }
+            }
+          }
+        });
+      }
+
+      function renderGfnHistory(gfnData) {
+        const container = document.getElementById("gfn-history");
+        const entries = ensureArray(gfnData.entries).slice().reverse();
+        container.innerHTML = "";
+
+        if (!entries.length) {
+          container.innerHTML =
+            '<div class="empty-state">No GeForce NOW catalog snapshots recorded yet.</div>';
+          return;
+        }
+
+        for (const entry of entries.slice(0, 20)) {
+          const card = document.createElement("article");
+          card.className = "entry-card";
+          const newGames = ensureArray(entry.new_games);
+          const newStores = ensureArray(entry.new_stores);
+          const sections = [];
+
+          if (entry.baseline) {
+            sections.push(`
+              <details open>
+                <summary>Baseline</summary>
+                <p>The first recorded snapshot established the comparison baseline.</p>
+              </details>
+            `);
+          }
+
+          if (newGames.length) {
+            sections.push(`
+              <details>
+                <summary>New games (${newGames.length})</summary>
+                <ul>
+                  ${newGames
+                    .map((game) => {
+                      const stores = ensureArray(game.stores);
+
+                      return `<li>${escapeHtml(game.name)}${stores.length ? ` — ${escapeHtml(stores.join(", "))}` : ""}</li>`;
+                    })
+                    .join("")}
+                </ul>
+              </details>
+            `);
+          }
+
+          if (newStores.length) {
+            sections.push(`
+              <details>
+                <summary>New store additions (${newStores.length})</summary>
+                <ul>
+                  ${newStores
+                    .map((game) => {
+                      const allStores = ensureArray(game.stores);
+                      const addedStores = ensureArray(game.new_stores);
+
+                      return `<li>${escapeHtml(game.name)} — ${escapeHtml(addedStores.join(", "))} added${allStores.length ? ` (${escapeHtml(allStores.join(", "))})` : ""}</li>`;
+                    })
+                    .join("")}
+                </ul>
+              </details>
+            `);
+          }
+
+          card.innerHTML = `
+            <div class="entry-head">
+              <div>
+                <h3>${formatTimestamp(entry.timestamp)}</h3>
+                <p>
+                  ${entry.catalog_game_count || 0} catalog games,
+                  ${entry.new_game_count || 0} new game(s),
+                  ${entry.new_store_count || 0} new store addition(s)
+                </p>
+              </div>
+              <span class="status-pill ${
+                entry.new_game_count || entry.new_store_count
+                  ? "success"
+                  : "warning"
+              }">
+                ${
+                  entry.new_game_count || entry.new_store_count
+                    ? "Changes detected"
+                    : "No additions"
+                }
+              </span>
+            </div>
+            ${
+              sections.length
+                ? `<div class="details-list">${sections.join("")}</div>`
+                : ""
+            }
+          `;
+          container.appendChild(card);
+        }
+      }
+
+      async function loadJson(url) {
+        const response = await fetch(url, {
+          cache: "no-store"
+        });
+
+        if (!response.ok) {
+          throw new Error(
+            `Failed to load ${url}: ${response.status}`
+          );
+        }
+
+        return response.json();
+      }
+
+      async function init() {
+        try {
+          const [hboData, gfnData] = await Promise.all([
+            loadJson(HBO_DATA_URL),
+            loadJson(GFN_DATA_URL)
+          ]);
+          renderGeneratedAt(hboData, gfnData);
+          renderSummary(hboData, gfnData);
+          renderHboChart(hboData);
+          renderHboHistory(hboData);
+          renderGfnChart(gfnData);
+          renderGfnHistory(gfnData);
+        } catch (error) {
+          const message = String(error.message || error);
+          document.getElementById("generated-at").textContent =
+            "The monitor history data is not available yet.";
+          document.getElementById("summary").innerHTML =
+            `<div class="empty-state">${escapeHtml(message)}</div>`;
+          document.getElementById("hbo-history").innerHTML =
+            '<div class="empty-state">Unable to render HBO history.</div>';
+          document.getElementById("gfn-history").innerHTML =
+            '<div class="empty-state">Unable to render GeForce NOW history.</div>';
+        }
+      }
+
+      init();
+    </script>
+  </body>
+</html>
