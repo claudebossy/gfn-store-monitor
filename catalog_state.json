@@ -938,14 +938,6 @@
       "STEAM"
     ]
   },
-  "airborne kingdom": {
-    "name": "Airborne Kingdom",
-    "stores": [
-      "EPIC",
-      "STEAM",
-      "XBOX"
-    ]
-  },
   "airhead": {
     "name": "Airhead",
     "stores": [
@@ -8694,6 +8686,12 @@
       "STEAM"
     ]
   },
+  "dragonlance veil of the last sanctum": {
+    "name": "Dragonlance: Veil of the Last Sanctum",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "draugen": {
     "name": "Draugen",
     "stores": [
@@ -8825,18 +8823,6 @@
   },
   "drone perspective": {
     "name": "DRONE PERSPECTIVE",
-    "stores": [
-      "STEAM"
-    ]
-  },
-  "drone perspective demo": {
-    "name": "DRONE PERSPECTIVE Demo",
-    "stores": [
-      "STEAM"
-    ]
-  },
-  "drone swarm": {
-    "name": "Drone Swarm",
     "stores": [
       "STEAM"
     ]
@@ -9285,12 +9271,6 @@
     "name": "Eastern Exorcist",
     "stores": [
       "XBOX"
-    ]
-  },
-  "eastward": {
-    "name": "Eastward",
-    "stores": [
-      "STEAM"
     ]
   },
   "easy red 2": {
@@ -10022,12 +10002,6 @@
   },
   "etrange overlord": {
     "name": "Etrange Overlord",
-    "stores": [
-      "STEAM"
-    ]
-  },
-  "etrange overlord demo": {
-    "name": "Etrange Overlord Demo",
     "stores": [
       "STEAM"
     ]
@@ -12933,12 +12907,6 @@
       "STEAM"
     ]
   },
-  "guns gore cannoli": {
-    "name": "Guns, Gore & Cannoli",
-    "stores": [
-      "STEAM"
-    ]
-  },
   "guntouchables": {
     "name": "GUNTOUCHABLES",
     "stores": [
@@ -12969,20 +12937,8 @@
       "STEAM"
     ]
   },
-  "hadean tactics": {
-    "name": "Hadean Tactics",
-    "stores": [
-      "STEAM"
-    ]
-  },
   "hae stack demo": {
     "name": "HAE Stack Demo",
-    "stores": [
-      "STEAM"
-    ]
-  },
-  "hakuoki edo blossoms": {
-    "name": "Hakuoki: Edo Blossoms",
     "stores": [
       "STEAM"
     ]
@@ -15932,12 +15888,6 @@
     "name": "Knights of Honor II: Sovereign",
     "stores": [
       "EPIC",
-      "STEAM"
-    ]
-  },
-  "knights of pen and paper 1 edition": {
-    "name": "Knights of Pen and Paper +1 Edition",
-    "stores": [
       "STEAM"
     ]
   },
@@ -19686,12 +19636,6 @@
       "STEAM"
     ]
   },
-  "night is coming wrath of the woods": {
-    "name": "Night is Coming — Wrath of the Woods",
-    "stores": [
-      "STEAM"
-    ]
-  },
   "night loops": {
     "name": "Night Loops",
     "stores": [
@@ -21909,6 +21853,12 @@
       "STEAM"
     ]
   },
+  "pliant": {
+    "name": "Pliant",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "plot of the druid": {
     "name": "Plot of the Druid",
     "stores": [
@@ -22490,12 +22440,6 @@
       "STEAM"
     ]
   },
-  "promise mascot agency": {
-    "name": "Promise Mascot Agency",
-    "stores": [
-      "STEAM"
-    ]
-  },
   "prop sumo": {
     "name": "Prop Sumo",
     "stores": [
@@ -22952,12 +22896,6 @@
   },
   "raiden iv x mikado remix": {
     "name": "Raiden IV x MIKADO remix",
-    "stores": [
-      "STEAM"
-    ]
-  },
-  "raiders of blackveil": {
-    "name": "Raiders of Blackveil",
     "stores": [
       "STEAM"
     ]
@@ -23635,7 +23573,8 @@
   "resonance a plague tale legacy": {
     "name": "Resonance: A Plague Tale Legacy",
     "stores": [
-      "STEAM"
+      "STEAM",
+      "XBOX"
     ]
   },
   "resoraki demo": {
@@ -25545,12 +25484,6 @@
   },
   "shell corp": {
     "name": "Shell Corp",
-    "stores": [
-      "STEAM"
-    ]
-  },
-  "shell runner": {
-    "name": "Shell Runner",
     "stores": [
       "STEAM"
     ]
@@ -30595,12 +30528,6 @@
       "STEAM"
     ]
   },
-  "the incredible adventures of van helsing final cut": {
-    "name": "The Incredible Adventures of Van Helsing: Final Cut",
-    "stores": [
-      "STEAM"
-    ]
-  },
   "the indie mixtape": {
     "name": "The Indie Mixtape",
     "stores": [
@@ -33748,12 +33675,6 @@
   },
   "universe sandbox": {
     "name": "Universe Sandbox",
-    "stores": [
-      "STEAM"
-    ]
-  },
-  "unknown fate": {
-    "name": "Unknown Fate",
     "stores": [
       "STEAM"
     ]
