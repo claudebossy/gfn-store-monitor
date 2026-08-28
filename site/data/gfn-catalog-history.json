@@ -1,6 +1,159 @@
 {
-  "generated_at": null,
+  "generated_at": "2026-08-28T08:39:52+00:00",
   "country": "CH",
   "language": "en_US",
-  "entries": []
+  "entries": [
+    {
+      "timestamp": "2026-08-28T08:39:52+00:00",
+      "baseline": false,
+      "catalog_game_count": 5932,
+      "new_game_count": 23,
+      "new_store_count": 0,
+      "new_games": [
+        {
+          "name": "ATLAS",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Blasphemous",
+          "stores": [
+            "EPIC",
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Builders of Egypt",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Century: Age of Ashes",
+          "stores": [
+            "EPIC",
+            "STEAM",
+            "XBOX"
+          ]
+        },
+        {
+          "name": "Dino Crisis",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Empire of Sin",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Escape From Duckov",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "F.I.S.T.: Forged In Shadow Torch",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "FATAL FURY: City of the Wolves",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Halls of Torment: Prelude",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Inside Soccer Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "KarmaZoo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "King Arthur: Knight's Tale",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "King's Bounty: The Legend",
+          "stores": [
+            "EPIC",
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Little Racers STREET",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Might & Magic Fates - Heroes TCG",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Mount & Blade: Warband",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Romestead",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Shadowgrounds",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Squad 44",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Tempest Rising",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "The Incredible Adventures of Van Helsing: Final Cut",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Woodle Tree Adventures",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
+      "new_stores": []
+    }
+  ]
 }
