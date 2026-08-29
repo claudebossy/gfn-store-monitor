@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T22:18:02+00:00",
+  "generated_at": "2026-08-29T07:02:51+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -196,6 +196,108 @@
           ]
         }
       ]
+    },
+    {
+      "timestamp": "2026-08-29T07:02:51+00:00",
+      "baseline": false,
+      "catalog_game_count": 5934,
+      "new_game_count": 15,
+      "new_store_count": 0,
+      "new_games": [
+        {
+          "name": "Airborne Kingdom",
+          "stores": [
+            "EPIC",
+            "STEAM",
+            "XBOX"
+          ]
+        },
+        {
+          "name": "DRONE PERSPECTIVE Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Drone Swarm",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Eastward",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Etrange Overlord Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Guns, Gore & Cannoli",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Hadean Tactics",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Hakuoki: Edo Blossoms",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Knights of Pen and Paper +1 Edition",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Night is Coming — Wrath of the Woods",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Promise Mascot Agency",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Raiders of Blackveil",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Shell Runner",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "The Incredible Adventures of Van Helsing: Final Cut",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Unknown Fate",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
+      "new_stores": []
     }
   ]
 }
