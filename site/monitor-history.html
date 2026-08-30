@@ -170,6 +170,14 @@
         margin-top: 18px;
       }
 
+      .entry-actions {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 12px;
+        flex-wrap: wrap;
+      }
+
       .entry-card {
         padding: 16px;
       }
@@ -205,6 +213,28 @@
         display: grid;
         gap: 8px;
         margin-top: 12px;
+      }
+
+      .list-meta {
+        font-size: 0.95rem;
+      }
+
+      .history-button {
+        border: 1px solid var(--panel-border);
+        background: linear-gradient(
+          135deg,
+          var(--accent-soft),
+          var(--accent-soft-strong)
+        );
+        color: var(--text);
+        border-radius: 999px;
+        padding: 8px 14px;
+        cursor: pointer;
+        box-shadow: 0 10px 20px rgba(166, 176, 216, 0.16);
+      }
+
+      .history-button:hover {
+        border-color: var(--accent);
       }
 
       details {
@@ -312,9 +342,14 @@
       const panelColor = theme
         .getPropertyValue("--panel-strong")
         .trim();
+      const INITIAL_HISTORY_ITEMS = 3;
 
       let hboChart;
       let gfnChart;
+      const historyVisibleCounts = {
+        hbo: INITIAL_HISTORY_ITEMS,
+        gfn: INITIAL_HISTORY_ITEMS
+      };
 
       function formatTimestamp(value) {
         return new Date(value).toLocaleString();
@@ -436,6 +471,79 @@
         return Array.isArray(value) ? value : [];
       }
 
+      function createHistoryActions(stateKey, totalCount, rerender) {
+        if (totalCount <= INITIAL_HISTORY_ITEMS) {
+          return null;
+        }
+
+        const visibleCount = Math.min(
+          historyVisibleCounts[stateKey],
+          totalCount
+        );
+        const actions = document.createElement("div");
+        actions.className = "entry-actions";
+
+        const meta = document.createElement("p");
+        meta.className = "list-meta";
+        meta.textContent = `Showing ${visibleCount} of ${totalCount} entries.`;
+        actions.appendChild(meta);
+
+        const button = document.createElement("button");
+        button.type = "button";
+        button.className = "history-button";
+
+        if (visibleCount < totalCount) {
+          const remainingCount = Math.min(
+            INITIAL_HISTORY_ITEMS,
+            totalCount - visibleCount
+          );
+          button.textContent = `Load ${remainingCount} more`;
+          button.addEventListener("click", () => {
+            historyVisibleCounts[stateKey] = Math.min(
+              visibleCount + INITIAL_HISTORY_ITEMS,
+              totalCount
+            );
+            rerender();
+          });
+        } else {
+          button.textContent = "Show less";
+          button.addEventListener("click", () => {
+            historyVisibleCounts[stateKey] = INITIAL_HISTORY_ITEMS;
+            rerender();
+          });
+        }
+
+        actions.appendChild(button);
+        return actions;
+      }
+
+      function renderHistoryEntries(
+        container,
+        entries,
+        stateKey,
+        renderCard,
+        rerender
+      ) {
+        const visibleCount = Math.min(
+          historyVisibleCounts[stateKey],
+          entries.length
+        );
+
+        for (const entry of entries.slice(0, visibleCount)) {
+          container.appendChild(renderCard(entry));
+        }
+
+        const actions = createHistoryActions(
+          stateKey,
+          entries.length,
+          rerender
+        );
+
+        if (actions) {
+          container.appendChild(actions);
+        }
+      }
+
       function renderHboChart(hboData) {
         const entries = ensureArray(hboData.entries);
         const canvas = document.getElementById("hbo-chart");
@@ -523,18 +631,22 @@
           return;
         }
 
-        for (const entry of entries.slice(0, 20)) {
-          const card = document.createElement("article");
-          card.className = "entry-card";
-          const availabilityClass = entry.available
-            ? "success"
-            : "warning";
-          const availabilityLabel = entry.available
-            ? "Match found"
-            : "No match";
-          const matchItems = ensureArray(entry.matches);
-          const detailsHtml = matchItems.length
-            ? `
+        renderHistoryEntries(
+          container,
+          entries,
+          "hbo",
+          (entry) => {
+            const card = document.createElement("article");
+            card.className = "entry-card";
+            const availabilityClass = entry.available
+              ? "success"
+              : "warning";
+            const availabilityLabel = entry.available
+              ? "Match found"
+              : "No match";
+            const matchItems = ensureArray(entry.matches);
+            const detailsHtml = matchItems.length
+              ? `
               <ul>
                 ${matchItems
                   .map(
@@ -544,9 +656,9 @@
                   .join("")}
               </ul>
             `
-            : "";
+             : "";
 
-          card.innerHTML = `
+            card.innerHTML = `
             <div class="entry-head">
               <div>
                 <h3>${formatTimestamp(entry.timestamp)}</h3>
@@ -558,8 +670,10 @@
             </div>
             ${detailsHtml}
           `;
-          container.appendChild(card);
-        }
+            return card;
+          },
+          () => renderHboHistory(hboData)
+        );
       }
 
       function renderGfnChart(gfnData) {
@@ -667,24 +781,28 @@
           return;
         }
 
-        for (const entry of entries.slice(0, 20)) {
-          const card = document.createElement("article");
-          card.className = "entry-card";
-          const newGames = ensureArray(entry.new_games);
-          const newStores = ensureArray(entry.new_stores);
-          const sections = [];
+        renderHistoryEntries(
+          container,
+          entries,
+          "gfn",
+          (entry) => {
+            const card = document.createElement("article");
+            card.className = "entry-card";
+            const newGames = ensureArray(entry.new_games);
+            const newStores = ensureArray(entry.new_stores);
+            const sections = [];
 
-          if (entry.baseline) {
-            sections.push(`
+            if (entry.baseline) {
+              sections.push(`
               <details open>
                 <summary>Baseline</summary>
                 <p>The first recorded snapshot established the comparison baseline.</p>
               </details>
             `);
-          }
+            }
 
-          if (newGames.length) {
-            sections.push(`
+            if (newGames.length) {
+              sections.push(`
               <details>
                 <summary>New games (${newGames.length})</summary>
                 <ul>
@@ -698,10 +816,10 @@
                 </ul>
               </details>
             `);
-          }
+            }
 
-          if (newStores.length) {
-            sections.push(`
+            if (newStores.length) {
+              sections.push(`
               <details>
                 <summary>New store additions (${newStores.length})</summary>
                 <ul>
@@ -716,9 +834,9 @@
                 </ul>
               </details>
             `);
-          }
+            }
 
-          card.innerHTML = `
+            card.innerHTML = `
             <div class="entry-head">
               <div>
                 <h3>${formatTimestamp(entry.timestamp)}</h3>
@@ -746,8 +864,10 @@
                 : ""
             }
           `;
-          container.appendChild(card);
-        }
+            return card;
+          },
+          () => renderGfnHistory(gfnData)
+        );
       }
 
       async function loadJson(url) {
