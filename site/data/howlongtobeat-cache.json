@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T05:45:35+00:00",
+  "updated_at": "2026-08-31T14:04:05+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -7865,6 +7865,24 @@
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
         "match_score": 142
+      }
+    },
+    "young suns": {
+      "title": "Young Suns",
+      "status": "matched",
+      "fetched_at": "2026-08-31T14:04:00+00:00",
+      "data": {
+        "title": "Young Suns",
+        "game_id": 177786,
+        "url": "https://howlongtobeat.com/game/177786",
+        "image_url": "https://howlongtobeat.com/games/177786_Young_Suns.jpg",
+        "main_story_seconds": 7200,
+        "review_score": null,
+        "completion_count": 2,
+        "release_year": 2025,
+        "profile_platform": "PC, Xbox One, Xbox Series X/S",
+        "match_type": "exact",
+        "match_score": 137
       }
     }
   }
