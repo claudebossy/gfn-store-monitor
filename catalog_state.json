@@ -4519,14 +4519,6 @@
       "STEAM"
     ]
   },
-  "call of duty modern warfare 4 open beta": {
-    "name": "Call of Duty®: Modern Warfare® 4 - Open Beta",
-    "stores": [
-      "BATTLENET",
-      "STEAM",
-      "XBOX"
-    ]
-  },
   "call of duty modern warfare ii": {
     "name": "Call of Duty®: Modern Warfare® II",
     "stores": [
@@ -28655,6 +28647,12 @@
   },
   "summer paws": {
     "name": "Summer Paws",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "sumoo demo": {
+    "name": "SUMOO Demo",
     "stores": [
       "STEAM"
     ]
