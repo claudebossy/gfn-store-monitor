@@ -4119,6 +4119,12 @@
       "XBOX"
     ]
   },
+  "breathedge 2": {
+    "name": "Breathedge 2",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "brewmaster beer brewing simulator": {
     "name": "Brewmaster: Beer Brewing Simulator",
     "stores": [
@@ -7711,6 +7717,12 @@
       "STEAM"
     ]
   },
+  "demon hunt": {
+    "name": "Demon Hunt",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "demoniaca everlasting night": {
     "name": "Demoniaca: Everlasting Night",
     "stores": [
@@ -7840,6 +7852,12 @@
   },
   "destroyer": {
     "name": "Destroyer",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "destroyer the u boat hunter": {
+    "name": "Destroyer: The U-Boat Hunter",
     "stores": [
       "STEAM"
     ]
@@ -25291,6 +25309,12 @@
   },
   "serious sam 4 planet badass": {
     "name": "Serious Sam 4: Planet Badass",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "serious sam shatterverse": {
+    "name": "Serious Sam: Shatterverse",
     "stores": [
       "STEAM"
     ]

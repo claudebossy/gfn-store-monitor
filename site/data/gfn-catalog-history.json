@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T22:49:13+00:00",
+  "generated_at": "2026-09-01T05:05:47+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -380,6 +380,40 @@
       "new_games": [
         {
           "name": "How to Fish",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
+      "new_stores": []
+    },
+    {
+      "timestamp": "2026-09-01T05:05:47+00:00",
+      "baseline": false,
+      "catalog_game_count": 5939,
+      "new_game_count": 4,
+      "new_store_count": 0,
+      "new_games": [
+        {
+          "name": "Breathedge 2",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Demon Hunt",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Destroyer: The U-Boat Hunter",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Serious Sam: Shatterverse",
           "stores": [
             "STEAM"
           ]
