@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T05:18:29+00:00",
+  "generated_at": "2026-09-01T11:46:42+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -14,16 +14,16 @@
   },
   "counts": {
     "gfn_titles": 5939,
-    "xbox_pc_titles": 565,
-    "catalog_titles": 537,
-    "intersection_titles": 347,
-    "xbox_only_titles": 190
+    "xbox_pc_titles": 561,
+    "catalog_titles": 534,
+    "intersection_titles": 345,
+    "xbox_only_titles": 189
   },
   "summary": {
     "store_counts": {
-      "STEAM": 322,
-      "XBOX": 206,
-      "EPIC": 75,
+      "STEAM": 320,
+      "XBOX": 204,
+      "EPIC": 74,
       "UPLAY": 31,
       "BATTLENET": 21,
       "EA_APP": 16,
@@ -83,13 +83,13 @@
         "count": 7
       }
     ],
-    "gfn_xbox_store_matches": 206,
-    "intersection_titles": 347,
-    "xbox_only_titles": 190,
-    "hltb_matches": 388,
-    "opencritic_matches": 461,
-    "short_game_score_matches": 304,
-    "exact_matches": 323,
+    "gfn_xbox_store_matches": 204,
+    "intersection_titles": 345,
+    "xbox_only_titles": 189,
+    "hltb_matches": 385,
+    "opencritic_matches": 459,
+    "short_game_score_matches": 302,
+    "exact_matches": 321,
     "partial_matches": 24
   },
   "games": [
@@ -1114,57 +1114,6 @@
         "critic_score": 73.5,
         "duration_fit_score": 100.0,
         "main_story_hours": 11.4,
-        "target_hours": 15.0
-      }
-    },
-    {
-      "catalog_group": "xbox-only",
-      "is_on_gfn": false,
-      "title": "Another Crab's Treasure",
-      "normalized_title": "another crab s treasure",
-      "gfn_stores": [],
-      "gfn_has_xbox_store": false,
-      "xbox_title": "Another Crab's Treasure",
-      "xbox_product_id": "9P97ZTRTH25W",
-      "xbox_url": "https://www.microsoft.com/store/productId/9P97ZTRTH25W",
-      "publisher": "Aggro Crab",
-      "developer": "Aggro Crab",
-      "release_date": "2024-04-25T16:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.32404.14077481160620630.1db41d01-0b54-4154-a1e1-f00cf31fab40.8c7bfed3-d183-4a98-ac33-8d9bdf0fa83f",
-      "description": "A soulslike adventure set in a crumbling underwater world.",
-      "match_type": "xbox-only",
-      "match_score": 0,
-      "howlongtobeat": {
-        "title": "Another Crab's Treasure",
-        "game_id": 107701,
-        "url": "https://howlongtobeat.com/game/107701",
-        "image_url": "https://howlongtobeat.com/games/107701_Another_Crabs_Treasure.jpg",
-        "main_story_seconds": 51352,
-        "review_score": 79,
-        "completion_count": 1185,
-        "release_year": 2024,
-        "profile_platform": "Nintendo Switch, Nintendo Switch 2, PC, PlayStation 5, Xbox One, Xbox Series X/S",
-        "match_type": "exact",
-        "match_score": 142
-      },
-      "opencritic": {
-        "title": "Another Crab's Treasure",
-        "game_id": 16589,
-        "url": "https://opencritic.com/game/16589/another-crabs-treasure",
-        "top_critic_score": 77.9,
-        "percent_recommended": 78.6,
-        "tier": "Strong",
-        "median_score": 80,
-        "review_count": 71,
-        "release_year": 2024,
-        "match_type": "exact",
-        "match_score": 150
-      },
-      "short_game_score": {
-        "score": 84.5,
-        "critic_score": 77.9,
-        "duration_fit_score": 100.0,
-        "main_story_hours": 14.3,
         "target_hours": 15.0
       }
     },
@@ -14257,61 +14206,6 @@
       "short_game_score": null
     },
     {
-      "catalog_group": "intersection",
-      "is_on_gfn": true,
-      "title": "Neon Abyss",
-      "normalized_title": "neon abyss",
-      "gfn_stores": [
-        "EPIC",
-        "STEAM",
-        "XBOX"
-      ],
-      "gfn_has_xbox_store": true,
-      "xbox_title": "Neon Abyss",
-      "xbox_product_id": "9PLWSGHFQ4PS",
-      "xbox_url": "https://www.microsoft.com/store/productId/9PLWSGHFQ4PS",
-      "publisher": "Team17",
-      "developer": "Veewo Games",
-      "release_date": "2020-07-14T00:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.19663.14309576365758777.173ab21c-81bd-4a31-b5cc-0d6495ab6a15.28771244-a15d-42c8-8ae9-2f252b179210",
-      "description": "Neon Abyss is a frantic, roguelike action-platformer where you run ‘n’ gun your way into the Abyss as part of the Hades formed ‘Grim Squad’. Featuring unlimited item synergies and a unique dungeon evolution system ensures each run will present a new challenge. Get ready to unleash hell!",
-      "match_type": "exact-title",
-      "match_score": 120,
-      "howlongtobeat": {
-        "title": "Neon Abyss",
-        "game_id": 77366,
-        "url": "https://howlongtobeat.com/game/77366",
-        "image_url": "https://howlongtobeat.com/games/77366_Neon_Abyss.jpg",
-        "main_story_seconds": 40928,
-        "review_score": 69,
-        "completion_count": 338,
-        "release_year": 2020,
-        "profile_platform": "Nintendo Switch, PC, PlayStation 4, Xbox One",
-        "match_type": "exact",
-        "match_score": 142
-      },
-      "opencritic": {
-        "title": "Neon Abyss",
-        "game_id": 9776,
-        "url": "https://opencritic.com/game/9776/neon-abyss",
-        "top_critic_score": 75.6,
-        "percent_recommended": 75.6,
-        "tier": "Strong",
-        "median_score": 80,
-        "review_count": 45,
-        "release_year": 2020,
-        "match_type": "exact",
-        "match_score": 149
-      },
-      "short_game_score": {
-        "score": 82.9,
-        "critic_score": 75.6,
-        "duration_fit_score": 100.0,
-        "main_story_hours": 11.4,
-        "target_hours": 15.0
-      }
-    },
-    {
       "catalog_group": "xbox-only",
       "is_on_gfn": false,
       "title": "New Super Lucky's Tale",
@@ -14769,42 +14663,6 @@
         "main_story_hours": 33.4,
         "target_hours": 15.0
       }
-    },
-    {
-      "catalog_group": "intersection",
-      "is_on_gfn": true,
-      "title": "One Lonely Outpost",
-      "normalized_title": "one lonely outpost",
-      "gfn_stores": [
-        "STEAM",
-        "XBOX"
-      ],
-      "gfn_has_xbox_store": true,
-      "xbox_title": "One Lonely Outpost",
-      "xbox_product_id": "9NRCM30L6GRQ",
-      "xbox_url": "https://www.microsoft.com/store/productId/9NRCM30L6GRQ",
-      "publisher": "indie.io",
-      "developer": "indie.io",
-      "release_date": "2025-03-06T17:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.59913.14390018847119191.29453666-331b-4d4a-872c-2620e4ba4254.7ba6fbb5-0830-409b-b7df-0abaf0a0897c",
-      "description": "An alien world sometimes needs a farmer’s touch to bring it to life. In this sci-fi, colonization-life sim, terraform a barren world: turn wastelands into verdant landscapes while exploring, farming, building, and unlocking all the mysteries of this strange new planet.",
-      "match_type": "exact-title",
-      "match_score": 120,
-      "howlongtobeat": {
-        "title": "One Lonely Outpost",
-        "game_id": 94928,
-        "url": "https://howlongtobeat.com/game/94928",
-        "image_url": "https://howlongtobeat.com/games/94928_One_Lonely_Outpost.jpg",
-        "main_story_seconds": null,
-        "review_score": 30,
-        "completion_count": 5,
-        "release_year": 2023,
-        "profile_platform": "Linux, Mac, PC, Xbox One",
-        "match_type": "exact",
-        "match_score": 127
-      },
-      "opencritic": null,
-      "short_game_score": null
     },
     {
       "catalog_group": "intersection",
