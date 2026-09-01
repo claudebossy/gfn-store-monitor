@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T11:46:42+00:00",
+  "generated_at": "2026-09-01T15:24:23+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,11 +13,11 @@
     }
   },
   "counts": {
-    "gfn_titles": 5939,
-    "xbox_pc_titles": 561,
-    "catalog_titles": 534,
+    "gfn_titles": 5940,
+    "xbox_pc_titles": 562,
+    "catalog_titles": 535,
     "intersection_titles": 345,
-    "xbox_only_titles": 189
+    "xbox_only_titles": 190
   },
   "summary": {
     "store_counts": {
@@ -85,8 +85,8 @@
     ],
     "gfn_xbox_store_matches": 204,
     "intersection_titles": 345,
-    "xbox_only_titles": 189,
-    "hltb_matches": 385,
+    "xbox_only_titles": 190,
+    "hltb_matches": 386,
     "opencritic_matches": 459,
     "short_game_score_matches": 302,
     "exact_matches": 321,
@@ -17741,6 +17741,39 @@
         "main_story_hours": 11.6,
         "target_hours": 15.0
       }
+    },
+    {
+      "catalog_group": "xbox-only",
+      "is_on_gfn": false,
+      "title": "Shelldiver",
+      "normalized_title": "shelldiver",
+      "gfn_stores": [],
+      "gfn_has_xbox_store": false,
+      "xbox_title": "Shelldiver",
+      "xbox_product_id": "9N51NR4GX891",
+      "xbox_url": "https://www.microsoft.com/store/productId/9N51NR4GX891",
+      "publisher": "Gagonfe",
+      "developer": "Gagonfe",
+      "release_date": "2026-09-01T13:00:00.0000000Z",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.23519.13976576036437000.15d2217e-0f3f-430d-bd96-a7159bbf5985.c292be72-ea5f-4139-a0c5-dd19ad26e8bd",
+      "description": "Take a deep breath and dive right into this cozy incremental game about a senior turtle trying to start a business selling jellyfish. Upgrade your equipment, explore biomes, and help your turtly village!",
+      "match_type": "xbox-only",
+      "match_score": 0,
+      "howlongtobeat": {
+        "title": "Shelldiver",
+        "game_id": 177233,
+        "url": "https://howlongtobeat.com/game/177233",
+        "image_url": "https://howlongtobeat.com/games/177233_Shelldiver.jpg",
+        "main_story_seconds": 13055,
+        "review_score": 79,
+        "completion_count": 253,
+        "release_year": 2025,
+        "profile_platform": "PC",
+        "match_type": "exact",
+        "match_score": 136
+      },
+      "opencritic": null,
+      "short_game_score": null
     },
     {
       "catalog_group": "xbox-only",
