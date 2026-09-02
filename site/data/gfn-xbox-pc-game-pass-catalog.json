@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T11:27:41+00:00",
+  "generated_at": "2026-09-02T16:40:28+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,16 +13,16 @@
     }
   },
   "counts": {
-    "gfn_titles": 5931,
+    "gfn_titles": 5948,
     "xbox_pc_titles": 562,
     "catalog_titles": 535,
-    "intersection_titles": 344,
-    "xbox_only_titles": 191
+    "intersection_titles": 345,
+    "xbox_only_titles": 190
   },
   "summary": {
     "store_counts": {
-      "STEAM": 319,
-      "XBOX": 203,
+      "STEAM": 320,
+      "XBOX": 204,
       "EPIC": 74,
       "UPLAY": 31,
       "BATTLENET": 21,
@@ -83,14 +83,14 @@
         "count": 7
       }
     ],
-    "gfn_xbox_store_matches": 203,
-    "intersection_titles": 344,
-    "xbox_only_titles": 191,
+    "gfn_xbox_store_matches": 204,
+    "intersection_titles": 345,
+    "xbox_only_titles": 190,
     "hltb_matches": 386,
     "opencritic_matches": 459,
     "short_game_score_matches": 302,
     "exact_matches": 320,
-    "partial_matches": 24
+    "partial_matches": 25
   },
   "games": [
     {
@@ -13693,12 +13693,15 @@
       }
     },
     {
-      "catalog_group": "xbox-only",
-      "is_on_gfn": false,
-      "title": "Monsters are Coming!",
-      "normalized_title": "monsters are coming",
-      "gfn_stores": [],
-      "gfn_has_xbox_store": false,
+      "catalog_group": "intersection",
+      "is_on_gfn": true,
+      "title": "Monsters are Coming! Rock & Road",
+      "normalized_title": "monsters are coming rock road",
+      "gfn_stores": [
+        "STEAM",
+        "XBOX"
+      ],
+      "gfn_has_xbox_store": true,
       "xbox_title": "Monsters are Coming!",
       "xbox_product_id": "9PJBKF27C16M",
       "xbox_url": "https://www.microsoft.com/store/productId/9PJBKF27C16M",
@@ -13707,8 +13710,8 @@
       "release_date": "2025-11-20T14:00:00.0000000Z",
       "image_url": "https://store-images.s-microsoft.com/image/apps.27775.14214770193219588.d7b03b82-15f1-412f-bb45-0e565e91a1bc.d088b3b7-14fa-4c4f-8f72-e5af300bee0c",
       "description": "Beware, Monsters are Coming! In this Tower-Survivor rogue-lite, you protect an ever-moving city from unrelenting hordes. Gather resources, fortify defences, and boost potential through enhanced player progression. Will you reach the Ark?",
-      "match_type": "xbox-only",
-      "match_score": 0,
+      "match_type": "partial",
+      "match_score": 95,
       "howlongtobeat": {
         "title": "Monsters are Coming! Rock & Road",
         "game_id": 176069,
@@ -13719,8 +13722,8 @@
         "completion_count": 53,
         "release_year": 2025,
         "profile_platform": "PC, Xbox Series X/S",
-        "match_type": "partial",
-        "match_score": 111
+        "match_type": "exact",
+        "match_score": 140
       },
       "opencritic": {
         "title": "Monsters Are Coming! Rock and Road",
@@ -13733,7 +13736,7 @@
         "review_count": 12,
         "release_year": 2025,
         "match_type": "partial",
-        "match_score": 114
+        "match_score": 118
       },
       "short_game_score": {
         "score": 88.6,
@@ -19421,8 +19424,8 @@
     {
       "catalog_group": "intersection",
       "is_on_gfn": true,
-      "title": "SUPERHOT",
-      "normalized_title": "superhot",
+      "title": "SUPERHOT: MIND CONTROL DELETE",
+      "normalized_title": "superhot mind control delete",
       "gfn_stores": [
         "EPIC",
         "STEAM",
@@ -19437,8 +19440,8 @@
       "release_date": "2020-07-16T00:00:00.0000000Z",
       "image_url": "https://store-images.s-microsoft.com/image/apps.24763.14383048766618347.734b0c9a-e030-4976-bf99-73f141752531.347d5269-0e81-483c-beed-f54d82584012",
       "description": "The third game in the SUPERHOT franchise - MIND CONTROL DELETE gives you more insight into the world of SUPERHOT, more story, more signature gameplay. Hours and hours of timeless combat. Keep dancing the slow motion ballet of destruction for so much longer than ever before.",
-      "match_type": "exact-search",
-      "match_score": 90,
+      "match_type": "exact-title",
+      "match_score": 120,
       "howlongtobeat": {
         "title": "SUPERHOT: MIND CONTROL DELETE",
         "game_id": 51504,
@@ -19446,28 +19449,28 @@
         "image_url": "https://howlongtobeat.com/games/51504_SUPERHOT_MIND_CONTROL_DELETE.jpg",
         "main_story_seconds": 25887,
         "review_score": 71,
-        "completion_count": 1488,
+        "completion_count": 1486,
         "release_year": 2020,
         "profile_platform": "Google Stadia, PC, PlayStation 4, Xbox One",
         "match_type": "exact",
         "match_score": 142
       },
       "opencritic": {
-        "title": "SUPERHOT",
-        "game_id": 2248,
-        "url": "https://opencritic.com/game/2248/superhot",
-        "top_critic_score": 82.2,
-        "percent_recommended": 75.9,
+        "title": "SUPERHOT: MIND CONTROL DELETE",
+        "game_id": 9761,
+        "url": "https://opencritic.com/game/9761/superhot-mind-control-delete",
+        "top_critic_score": 80.9,
+        "percent_recommended": 82.6,
         "tier": "Strong",
         "median_score": 80,
-        "review_count": 121,
-        "release_year": 2016,
+        "review_count": 70,
+        "release_year": 2020,
         "match_type": "exact",
-        "match_score": 141
+        "match_score": 150
       },
       "short_game_score": {
-        "score": 87.5,
-        "critic_score": 82.2,
+        "score": 86.6,
+        "critic_score": 80.9,
         "duration_fit_score": 100.0,
         "main_story_hours": 7.2,
         "target_hours": 15.0
