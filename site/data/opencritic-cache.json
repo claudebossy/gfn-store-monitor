@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T04:46:46+00:00",
+  "updated_at": "2026-09-02T11:27:58+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -8766,6 +8766,42 @@
       "status": "not_found",
       "fetched_at": "2026-09-01T15:24:38+00:00",
       "data": null
+    },
+    "monsters are coming": {
+      "title": "Monsters are Coming!",
+      "status": "matched",
+      "fetched_at": "2026-09-02T11:27:54+00:00",
+      "data": {
+        "title": "Monsters Are Coming! Rock and Road",
+        "game_id": 19705,
+        "url": "https://opencritic.com/game/19705/monsters-are-coming-rock-and-road",
+        "top_critic_score": 83.7,
+        "percent_recommended": 83.3,
+        "tier": "Mighty",
+        "median_score": 80,
+        "review_count": 12,
+        "release_year": 2025,
+        "match_type": "partial",
+        "match_score": 114
+      }
+    },
+    "superhot": {
+      "title": "SUPERHOT",
+      "status": "matched",
+      "fetched_at": "2026-09-02T11:27:57+00:00",
+      "data": {
+        "title": "SUPERHOT",
+        "game_id": 2248,
+        "url": "https://opencritic.com/game/2248/superhot",
+        "top_critic_score": 82.2,
+        "percent_recommended": 75.9,
+        "tier": "Strong",
+        "median_score": 80,
+        "review_count": 121,
+        "release_year": 2016,
+        "match_type": "exact",
+        "match_score": 141
+      }
     }
   }
 }

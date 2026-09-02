@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T04:46:46+00:00",
+  "updated_at": "2026-09-02T11:27:58+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -7901,6 +7901,42 @@
         "profile_platform": "PC",
         "match_type": "exact",
         "match_score": 136
+      }
+    },
+    "monsters are coming": {
+      "title": "Monsters are Coming!",
+      "status": "matched",
+      "fetched_at": "2026-09-02T11:27:54+00:00",
+      "data": {
+        "title": "Monsters are Coming! Rock & Road",
+        "game_id": 176069,
+        "url": "https://howlongtobeat.com/game/176069",
+        "image_url": "https://howlongtobeat.com/games/176069_Monsters_are_Coming_Rock_&_Road.jpg",
+        "main_story_seconds": 16874,
+        "review_score": 68,
+        "completion_count": 53,
+        "release_year": 2025,
+        "profile_platform": "PC, Xbox Series X/S",
+        "match_type": "partial",
+        "match_score": 111
+      }
+    },
+    "superhot": {
+      "title": "SUPERHOT",
+      "status": "matched",
+      "fetched_at": "2026-09-02T11:27:56+00:00",
+      "data": {
+        "title": "SUPERHOT: MIND CONTROL DELETE",
+        "game_id": 51504,
+        "url": "https://howlongtobeat.com/game/51504",
+        "image_url": "https://howlongtobeat.com/games/51504_SUPERHOT_MIND_CONTROL_DELETE.jpg",
+        "main_story_seconds": 25887,
+        "review_score": 71,
+        "completion_count": 1488,
+        "release_year": 2020,
+        "profile_platform": "Google Stadia, PC, PlayStation 4, Xbox One",
+        "match_type": "exact",
+        "match_score": 142
       }
     }
   }

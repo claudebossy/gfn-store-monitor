@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T04:44:04+00:00",
+  "generated_at": "2026-09-02T11:27:41+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,16 +13,16 @@
     }
   },
   "counts": {
-    "gfn_titles": 5941,
+    "gfn_titles": 5931,
     "xbox_pc_titles": 562,
     "catalog_titles": 535,
-    "intersection_titles": 345,
-    "xbox_only_titles": 190
+    "intersection_titles": 344,
+    "xbox_only_titles": 191
   },
   "summary": {
     "store_counts": {
-      "STEAM": 320,
-      "XBOX": 204,
+      "STEAM": 319,
+      "XBOX": 203,
       "EPIC": 74,
       "UPLAY": 31,
       "BATTLENET": 21,
@@ -83,13 +83,13 @@
         "count": 7
       }
     ],
-    "gfn_xbox_store_matches": 204,
-    "intersection_titles": 345,
-    "xbox_only_titles": 190,
+    "gfn_xbox_store_matches": 203,
+    "intersection_titles": 344,
+    "xbox_only_titles": 191,
     "hltb_matches": 386,
     "opencritic_matches": 459,
     "short_game_score_matches": 302,
-    "exact_matches": 321,
+    "exact_matches": 320,
     "partial_matches": 24
   },
   "games": [
@@ -8591,16 +8591,16 @@
         "UPLAY"
       ],
       "gfn_has_xbox_store": false,
-      "xbox_title": "FOR HONOR",
+      "xbox_title": "For Honor Standard",
       "xbox_product_id": "9P82LXD5RH31",
       "xbox_url": "https://www.microsoft.com/store/productId/9P82LXD5RH31",
       "publisher": "Ubisoft",
       "developer": null,
       "release_date": "2026-07-21T14:00:00.0000000Z",
       "image_url": "https://store-images.s-microsoft.com/image/apps.13935.13664541971149542.2f5fbe40-bf98-4cd6-8d48-94e08f070c43.f82a734b-6faa-4c8a-85e6-6233f7fec96b",
-      "description": "Fight alone or with friends in For Honor, a third-person hero-based melee fighting game. Enter the chaos of war as a Knight, a Viking, a Samurai, a Wu Lin, or an Outlander. Fight in brutal PvP and team-oriented modes, or play the thrilling story campaign.",
-      "match_type": "exact-title",
-      "match_score": 120,
+      "description": "For Honor is a groundbreaking team-based PvP melee fighting game where Knights, Samurai, Vikings, Wu Lin, and more clash in endless battles. Pick unique heroes and master intense 4v4, 2v2, or 1v1 battles.",
+      "match_type": "partial",
+      "match_score": 95,
       "howlongtobeat": {
         "title": "For Honor",
         "game_id": 36385,
@@ -13693,15 +13693,12 @@
       }
     },
     {
-      "catalog_group": "intersection",
-      "is_on_gfn": true,
-      "title": "Monsters are Coming! Rock & Road",
-      "normalized_title": "monsters are coming rock road",
-      "gfn_stores": [
-        "STEAM",
-        "XBOX"
-      ],
-      "gfn_has_xbox_store": true,
+      "catalog_group": "xbox-only",
+      "is_on_gfn": false,
+      "title": "Monsters are Coming!",
+      "normalized_title": "monsters are coming",
+      "gfn_stores": [],
+      "gfn_has_xbox_store": false,
       "xbox_title": "Monsters are Coming!",
       "xbox_product_id": "9PJBKF27C16M",
       "xbox_url": "https://www.microsoft.com/store/productId/9PJBKF27C16M",
@@ -13710,8 +13707,8 @@
       "release_date": "2025-11-20T14:00:00.0000000Z",
       "image_url": "https://store-images.s-microsoft.com/image/apps.27775.14214770193219588.d7b03b82-15f1-412f-bb45-0e565e91a1bc.d088b3b7-14fa-4c4f-8f72-e5af300bee0c",
       "description": "Beware, Monsters are Coming! In this Tower-Survivor rogue-lite, you protect an ever-moving city from unrelenting hordes. Gather resources, fortify defences, and boost potential through enhanced player progression. Will you reach the Ark?",
-      "match_type": "partial",
-      "match_score": 95,
+      "match_type": "xbox-only",
+      "match_score": 0,
       "howlongtobeat": {
         "title": "Monsters are Coming! Rock & Road",
         "game_id": 176069,
@@ -13722,8 +13719,8 @@
         "completion_count": 53,
         "release_year": 2025,
         "profile_platform": "PC, Xbox Series X/S",
-        "match_type": "exact",
-        "match_score": 140
+        "match_type": "partial",
+        "match_score": 111
       },
       "opencritic": {
         "title": "Monsters Are Coming! Rock and Road",
@@ -13736,7 +13733,7 @@
         "review_count": 12,
         "release_year": 2025,
         "match_type": "partial",
-        "match_score": 118
+        "match_score": 114
       },
       "short_game_score": {
         "score": 88.6,
@@ -13810,14 +13807,14 @@
         "XBOX"
       ],
       "gfn_has_xbox_store": true,
-      "xbox_title": "Moonlighter 2: The Endless Vault (Game Preview)",
+      "xbox_title": "Moonlighter 2: The Endless Vault",
       "xbox_product_id": "9NDJX252Q5BW",
       "xbox_url": "https://www.microsoft.com/store/productId/9NDJX252Q5BW",
       "publisher": "11 bit studios",
       "developer": "Digital Sun",
-      "release_date": "2025-11-19T14:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.49395.13613495733795404.f608471a-3b5d-40c6-8d16-e83de47f4af8.3aaae74d-7574-4dcc-9a04-17fa75b2500c",
-      "description": "Live the double life of a fearless adventurer and a crafty merchant! Dive into vibrant dimensions brimming with shiny loot and pesky enemies. Grow your shop, tinker with weapons and gadgets, as well as make your mark among a ragtag community of castaways.",
+      "release_date": "2026-09-02T14:00:00.0000000Z",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.4321.13613495733795404.958a29ae-aca4-4c3f-a15c-62c6c57d4d68.5f2dbb73-88d8-4b7b-8ea2-f27163e450bf",
+      "description": "Experience an action-RPG with roguelike elements where you live the double life of an adventurer and a merchant. Dive into vibrant dimensions to fight enemies, gather loot, and manage your backpack. Rebuild your shop and turn profits into gear for the next adventure!",
       "match_type": "exact-title",
       "match_score": 120,
       "howlongtobeat": {
@@ -19424,8 +19421,8 @@
     {
       "catalog_group": "intersection",
       "is_on_gfn": true,
-      "title": "SUPERHOT: MIND CONTROL DELETE",
-      "normalized_title": "superhot mind control delete",
+      "title": "SUPERHOT",
+      "normalized_title": "superhot",
       "gfn_stores": [
         "EPIC",
         "STEAM",
@@ -19440,8 +19437,8 @@
       "release_date": "2020-07-16T00:00:00.0000000Z",
       "image_url": "https://store-images.s-microsoft.com/image/apps.24763.14383048766618347.734b0c9a-e030-4976-bf99-73f141752531.347d5269-0e81-483c-beed-f54d82584012",
       "description": "The third game in the SUPERHOT franchise - MIND CONTROL DELETE gives you more insight into the world of SUPERHOT, more story, more signature gameplay. Hours and hours of timeless combat. Keep dancing the slow motion ballet of destruction for so much longer than ever before.",
-      "match_type": "exact-title",
-      "match_score": 120,
+      "match_type": "exact-search",
+      "match_score": 90,
       "howlongtobeat": {
         "title": "SUPERHOT: MIND CONTROL DELETE",
         "game_id": 51504,
@@ -19449,28 +19446,28 @@
         "image_url": "https://howlongtobeat.com/games/51504_SUPERHOT_MIND_CONTROL_DELETE.jpg",
         "main_story_seconds": 25887,
         "review_score": 71,
-        "completion_count": 1486,
+        "completion_count": 1488,
         "release_year": 2020,
         "profile_platform": "Google Stadia, PC, PlayStation 4, Xbox One",
         "match_type": "exact",
         "match_score": 142
       },
       "opencritic": {
-        "title": "SUPERHOT: MIND CONTROL DELETE",
-        "game_id": 9761,
-        "url": "https://opencritic.com/game/9761/superhot-mind-control-delete",
-        "top_critic_score": 80.9,
-        "percent_recommended": 82.6,
+        "title": "SUPERHOT",
+        "game_id": 2248,
+        "url": "https://opencritic.com/game/2248/superhot",
+        "top_critic_score": 82.2,
+        "percent_recommended": 75.9,
         "tier": "Strong",
         "median_score": 80,
-        "review_count": 70,
-        "release_year": 2020,
+        "review_count": 121,
+        "release_year": 2016,
         "match_type": "exact",
-        "match_score": 150
+        "match_score": 141
       },
       "short_game_score": {
-        "score": 86.6,
-        "critic_score": 80.9,
+        "score": 87.5,
+        "critic_score": 82.2,
         "duration_fit_score": 100.0,
         "main_story_hours": 7.2,
         "target_hours": 15.0
@@ -23764,7 +23761,7 @@
       "publisher": "Wargaming.net",
       "developer": "Wargaming.net",
       "release_date": "2026-05-26T07:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.28686.13914660851585642.f8c5ba4d-158e-487c-852f-a22c6ed534bc.4f17fedf-201d-40cf-974d-8e652a55b076",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.4791.13914660851585642.fe38acd5-d659-41ed-9bbf-feab6fa3d9c7.58e7658f-4a3e-44af-bdc7-14f65e060293",
       "description": "World of Tanks: HEAT is a free-to-play PvP vehicle shooter with powerful hero abilities and explosive team combat. Pilot customizable tanks, unleash Agent skills, and take control in 10v10 online battles where tactical warfare meets FPS-style intensity.",
       "match_type": "exact-title",
       "match_score": 120,
