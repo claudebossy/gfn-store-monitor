@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T11:16:21+00:00",
+  "generated_at": "2026-09-02T16:33:35+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -485,6 +485,58 @@
       "new_game_count": 0,
       "new_store_count": 0,
       "new_games": [],
+      "new_stores": []
+    },
+    {
+      "timestamp": "2026-09-02T16:33:35+00:00",
+      "baseline": false,
+      "catalog_game_count": 5948,
+      "new_game_count": 7,
+      "new_store_count": 0,
+      "new_games": [
+        {
+          "name": "Approximately Up",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Crimson Moon",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "He Who Watches",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "ShipShaper: Falconeer Chronicles",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Vanguard's Descent Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Veibyn's GunGame",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Zoominoes",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
       "new_stores": []
     }
   ]

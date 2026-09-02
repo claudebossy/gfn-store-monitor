@@ -1662,6 +1662,12 @@
       "STEAM"
     ]
   },
+  "approximately up": {
+    "name": "Approximately Up",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "aqtion": {
     "name": "AQtion",
     "stores": [
@@ -6494,6 +6500,12 @@
     "stores": [
       "STEAM",
       "XBOX"
+    ]
+  },
+  "crimson moon": {
+    "name": "Crimson Moon",
+    "stores": [
+      "STEAM"
     ]
   },
   "crimson oath": {
@@ -13313,6 +13325,12 @@
   },
   "he is coming demo": {
     "name": "He is Coming Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "he who watches": {
+    "name": "He Who Watches",
     "stores": [
       "STEAM"
     ]
@@ -25724,6 +25742,12 @@
       "STEAM"
     ]
   },
+  "shipshaper falconeer chronicles": {
+    "name": "ShipShaper: Falconeer Chronicles",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "shiren the wanderer the mystery dungeon of serpentcoil island": {
     "name": "Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island",
     "stores": [
@@ -34101,6 +34125,12 @@
       "STEAM"
     ]
   },
+  "vanguard s descent demo": {
+    "name": "Vanguard's Descent Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "vartio": {
     "name": "Vartio",
     "stores": [
@@ -34133,6 +34163,12 @@
   },
   "ved": {
     "name": "VED",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "veibyn s gungame": {
+    "name": "Veibyn's GunGame",
     "stores": [
       "STEAM"
     ]
@@ -36484,6 +36520,12 @@
   },
   "zool redimensioned": {
     "name": "Zool Redimensioned",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "zoominoes": {
+    "name": "Zoominoes",
     "stores": [
       "STEAM"
     ]
