@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T04:39:55+00:00",
+  "generated_at": "2026-09-03T11:24:16+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -21,8 +21,8 @@
   },
   "summary": {
     "store_counts": {
-      "STEAM": 320,
-      "XBOX": 204,
+      "STEAM": 321,
+      "XBOX": 203,
       "EPIC": 74,
       "UPLAY": 31,
       "BATTLENET": 21,
@@ -83,7 +83,7 @@
         "count": 7
       }
     ],
-    "gfn_xbox_store_matches": 204,
+    "gfn_xbox_store_matches": 203,
     "intersection_titles": 345,
     "xbox_only_titles": 190,
     "hltb_matches": 386,
@@ -19990,9 +19990,9 @@
       "title": "TerraTech Legion",
       "normalized_title": "terratech legion",
       "gfn_stores": [
-        "XBOX"
+        "STEAM"
       ],
-      "gfn_has_xbox_store": true,
+      "gfn_has_xbox_store": false,
       "xbox_title": "TerraTech Legion",
       "xbox_product_id": "9NG66K0Z31LH",
       "xbox_url": "https://www.microsoft.com/store/productId/9NG66K0Z31LH",
