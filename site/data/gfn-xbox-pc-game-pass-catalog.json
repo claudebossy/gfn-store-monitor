@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T16:32:00+00:00",
+  "generated_at": "2026-09-03T21:07:47+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,15 +13,15 @@
     }
   },
   "counts": {
-    "gfn_titles": 5954,
-    "xbox_pc_titles": 562,
-    "catalog_titles": 535,
-    "intersection_titles": 345,
+    "gfn_titles": 5960,
+    "xbox_pc_titles": 563,
+    "catalog_titles": 536,
+    "intersection_titles": 346,
     "xbox_only_titles": 190
   },
   "summary": {
     "store_counts": {
-      "STEAM": 321,
+      "STEAM": 322,
       "XBOX": 203,
       "EPIC": 74,
       "UPLAY": 31,
@@ -84,12 +84,12 @@
       }
     ],
     "gfn_xbox_store_matches": 203,
-    "intersection_titles": 345,
+    "intersection_titles": 346,
     "xbox_only_titles": 190,
-    "hltb_matches": 386,
-    "opencritic_matches": 459,
+    "hltb_matches": 387,
+    "opencritic_matches": 460,
     "short_game_score_matches": 302,
-    "exact_matches": 320,
+    "exact_matches": 321,
     "partial_matches": 25
   },
   "games": [
@@ -18343,6 +18343,53 @@
         "main_story_hours": 13.2,
         "target_hours": 15.0
       }
+    },
+    {
+      "catalog_group": "intersection",
+      "is_on_gfn": true,
+      "title": "SpeedRunners",
+      "normalized_title": "speedrunners",
+      "gfn_stores": [
+        "STEAM"
+      ],
+      "gfn_has_xbox_store": false,
+      "xbox_title": "SpeedRunners 2: King of Speed",
+      "xbox_product_id": "9PPKR9N31BW6",
+      "xbox_url": "https://www.microsoft.com/store/productId/9PPKR9N31BW6",
+      "publisher": "tinyBuild",
+      "developer": "tinyBuild Games",
+      "release_date": "2026-09-03T17:00:00.0000000Z",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.58974.14327242010981927.a5495c37-2e09-4b3f-82a1-e015a8eb734a.8c25e957-1f8c-439d-8dd9-71cffbb588bc",
+      "description": "The ultimate competitive platformer is back!",
+      "match_type": "exact-search",
+      "match_score": 90,
+      "howlongtobeat": {
+        "title": "SpeedRunners 2: King of Speed",
+        "game_id": 166772,
+        "url": "https://howlongtobeat.com/game/166772",
+        "image_url": "https://howlongtobeat.com/games/166772_SpeedRunners_2_King_of_Speed.jpg",
+        "main_story_seconds": null,
+        "review_score": 75,
+        "completion_count": 1,
+        "release_year": 2026,
+        "profile_platform": "Nintendo Switch, PC, PlayStation 5, Xbox Series X/S",
+        "match_type": "exact",
+        "match_score": 139
+      },
+      "opencritic": {
+        "title": "Speedrunners 2: King of Speed",
+        "game_id": 21312,
+        "url": "https://opencritic.com/game/21312/speedrunners-2-king-of-speed",
+        "top_critic_score": null,
+        "percent_recommended": null,
+        "tier": null,
+        "median_score": null,
+        "review_count": 1,
+        "release_year": 2026,
+        "match_type": "exact",
+        "match_score": 140
+      },
+      "short_game_score": null
     },
     {
       "catalog_group": "xbox-only",

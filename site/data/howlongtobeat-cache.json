@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T16:32:12+00:00",
+  "updated_at": "2026-09-03T21:07:58+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -7937,6 +7937,24 @@
         "profile_platform": "Google Stadia, PC, PlayStation 4, Xbox One",
         "match_type": "exact",
         "match_score": 142
+      }
+    },
+    "speedrunners": {
+      "title": "SpeedRunners",
+      "status": "matched",
+      "fetched_at": "2026-09-03T21:07:57+00:00",
+      "data": {
+        "title": "SpeedRunners 2: King of Speed",
+        "game_id": 166772,
+        "url": "https://howlongtobeat.com/game/166772",
+        "image_url": "https://howlongtobeat.com/games/166772_SpeedRunners_2_King_of_Speed.jpg",
+        "main_story_seconds": null,
+        "review_score": 75,
+        "completion_count": 1,
+        "release_year": 2026,
+        "profile_platform": "Nintendo Switch, PC, PlayStation 5, Xbox Series X/S",
+        "match_type": "exact",
+        "match_score": 139
       }
     }
   }
