@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T16:24:17+00:00",
+  "generated_at": "2026-09-03T21:00:53+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -635,6 +635,59 @@
         },
         {
           "name": "Friendly Steps",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
+      "new_stores": []
+    },
+    {
+      "timestamp": "2026-09-03T21:00:53+00:00",
+      "baseline": false,
+      "catalog_game_count": 5960,
+      "new_game_count": 7,
+      "new_store_count": 0,
+      "new_games": [
+        {
+          "name": "Crimson Desert Enhanced",
+          "stores": [
+            "STEAM",
+            "XBOX"
+          ]
+        },
+        {
+          "name": "How to Fish",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Shelves and Sorcery: Tidy Up the Enchanted Shop",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Sherman Commander",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "SlashZero Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Tyr",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "VHOLUME",
           "stores": [
             "STEAM"
           ]

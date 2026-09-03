@@ -6507,8 +6507,8 @@
       "STEAM"
     ]
   },
-  "crimson desert": {
-    "name": "Crimson Desert",
+  "crimson desert enhanced": {
+    "name": "Crimson Desert Enhanced",
     "stores": [
       "STEAM",
       "XBOX"
@@ -14334,6 +14334,12 @@
   },
   "hovercars 3077 underground racing": {
     "name": "Hovercars 3077: Underground racing",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "how to fish": {
+    "name": "How to Fish",
     "stores": [
       "STEAM"
     ]
@@ -25663,6 +25669,12 @@
       "STEAM"
     ]
   },
+  "shelves and sorcery tidy up the enchanted shop": {
+    "name": "Shelves and Sorcery: Tidy Up the Enchanted Shop",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "shenmue iii": {
     "name": "Shenmue III",
     "stores": [
@@ -25709,6 +25721,12 @@
     "name": "Sherlock Holmes: The Devil's Daughter",
     "stores": [
       "EPIC",
+      "STEAM"
+    ]
+  },
+  "sherman commander": {
+    "name": "Sherman Commander",
+    "stores": [
       "STEAM"
     ]
   },
@@ -26317,6 +26335,12 @@
   },
   "slashers": {
     "name": "Slashers",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "slashzero demo": {
+    "name": "SlashZero Demo",
     "stores": [
       "STEAM"
     ]
@@ -33621,6 +33645,12 @@
       "STEAM"
     ]
   },
+  "tyr": {
+    "name": "Tyr",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "tyranny": {
     "name": "Tyranny",
     "stores": [
@@ -34278,6 +34308,12 @@
   },
   "vessels of decay": {
     "name": "Vessels of Decay",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "vholume": {
+    "name": "VHOLUME",
     "stores": [
       "STEAM"
     ]
