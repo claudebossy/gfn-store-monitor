@@ -11841,6 +11841,12 @@
       "STEAM"
     ]
   },
+  "galactic prospectors": {
+    "name": "Galactic Prospectors",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "galactic vault": {
     "name": "Galactic Vault",
     "stores": [
@@ -14090,6 +14096,12 @@
   },
   "honey i joined a cult": {
     "name": "Honey, I Joined a Cult",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "honeycomb the world beyond demo": {
+    "name": "Honeycomb: The World Beyond Demo",
     "stores": [
       "STEAM"
     ]
@@ -26473,6 +26485,12 @@
       "STEAM"
     ]
   },
+  "smushi come home": {
+    "name": "Smushi Come Home",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "snake pass": {
     "name": "Snake Pass",
     "stores": [
@@ -30025,6 +30043,12 @@
   },
   "the black grimoire cursebreaker": {
     "name": "The Black Grimoire: Cursebreaker",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "the blood of dawnwalker": {
+    "name": "The Blood of Dawnwalker",
     "stores": [
       "STEAM"
     ]

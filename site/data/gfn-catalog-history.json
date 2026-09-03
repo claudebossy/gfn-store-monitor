@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T21:01:59+00:00",
+  "generated_at": "2026-09-03T04:21:39+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -548,6 +548,40 @@
       "new_games": [
         {
           "name": "Train Plus Japan Drive Western Japan Trains! Rapid Service Edition",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
+      "new_stores": []
+    },
+    {
+      "timestamp": "2026-09-03T04:21:39+00:00",
+      "baseline": false,
+      "catalog_game_count": 5953,
+      "new_game_count": 4,
+      "new_store_count": 0,
+      "new_games": [
+        {
+          "name": "Galactic Prospectors",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Honeycomb: The World Beyond Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Smushi Come Home",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "The Blood of Dawnwalker",
           "stores": [
             "STEAM"
           ]
