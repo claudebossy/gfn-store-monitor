@@ -3404,6 +3404,12 @@
       "STEAM"
     ]
   },
+  "bioeden": {
+    "name": "BioEden",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "bioeden demo": {
     "name": "BioEden Demo",
     "stores": [
@@ -5749,6 +5755,12 @@
   },
   "cloudbuilt": {
     "name": "Cloudbuilt",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "cloudgazer a game about watching clouds": {
+    "name": "Cloudgazer: A Game About Watching Clouds",
     "stores": [
       "STEAM"
     ]
@@ -8500,6 +8512,12 @@
   },
   "donna the canine quest": {
     "name": "Donna: The Canine Quest",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "donutal": {
+    "name": "Donutal",
     "stores": [
       "STEAM"
     ]
@@ -11619,6 +11637,12 @@
       "STEAM"
     ]
   },
+  "friendly steps": {
+    "name": "Friendly Steps",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "frigato shadows of the caribbean": {
     "name": "Frigato: Shadows of the Caribbean",
     "stores": [
@@ -14310,12 +14334,6 @@
   },
   "hovercars 3077 underground racing": {
     "name": "Hovercars 3077: Underground racing",
-    "stores": [
-      "STEAM"
-    ]
-  },
-  "how to fish": {
-    "name": "How to Fish",
     "stores": [
       "STEAM"
     ]
@@ -25645,12 +25663,6 @@
       "STEAM"
     ]
   },
-  "shelves and sorcery tidy up the enchanted shop": {
-    "name": "Shelves and Sorcery: Tidy Up the Enchanted Shop",
-    "stores": [
-      "STEAM"
-    ]
-  },
   "shenmue iii": {
     "name": "Shenmue III",
     "stores": [
@@ -34266,12 +34278,6 @@
   },
   "vessels of decay": {
     "name": "Vessels of Decay",
-    "stores": [
-      "STEAM"
-    ]
-  },
-  "vholume": {
-    "name": "VHOLUME",
     "stores": [
       "STEAM"
     ]
