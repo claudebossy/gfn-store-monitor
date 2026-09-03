@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T11:24:16+00:00",
+  "generated_at": "2026-09-03T16:32:00+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,7 +13,7 @@
     }
   },
   "counts": {
-    "gfn_titles": 5953,
+    "gfn_titles": 5954,
     "xbox_pc_titles": 562,
     "catalog_titles": 535,
     "intersection_titles": 345,
@@ -11648,7 +11648,7 @@
       "publisher": "Xbox Game Studios",
       "developer": "Double Fine Productions",
       "release_date": "2025-10-17T15:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.51871.13566978592979529.8c034f7f-7f73-4897-9410-31e1512536ea.c774a417-a08c-4291-b468-0f7ef9cfd6b5",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.23540.13566978592979529.a309a78d-6446-4646-b4cf-5f86cff39735.96aa6660-fe83-42f0-8903-4a95eb89e93f",
       "description": "Keeper is a story told without words, in which a long-forgotten lighthouse is awakened and embarks upon an unexpected journey into realms beyond understanding.",
       "match_type": "exact-title",
       "match_score": 120,
