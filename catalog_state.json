@@ -20488,6 +20488,12 @@
       "STEAM"
     ]
   },
+  "onimusha way of the sword": {
+    "name": "Onimusha: Way of the Sword",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "onimusha way of the sword demo": {
     "name": "Onimusha: Way of the Sword DEMO",
     "stores": [
@@ -23776,6 +23782,12 @@
       "STEAM"
     ]
   },
+  "retro arcade shop simulator": {
+    "name": "Retro Arcade Shop Simulator",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "retro arcade shop simulator demo": {
     "name": "Retro Arcade Shop Simulator (Demo)",
     "stores": [
@@ -27016,6 +27028,13 @@
       "STEAM"
     ]
   },
+  "space hulk deathwing enhanced edition": {
+    "name": "Space Hulk: Deathwing - Enhanced Edition",
+    "stores": [
+      "STEAM",
+      "XBOX"
+    ]
+  },
   "space hulk tactics": {
     "name": "Space Hulk: Tactics",
     "stores": [
@@ -27178,6 +27197,13 @@
     "name": "SpeedRunners",
     "stores": [
       "STEAM"
+    ]
+  },
+  "speedrunners 2 king of speed": {
+    "name": "SpeedRunners 2: King of Speed",
+    "stores": [
+      "STEAM",
+      "XBOX"
     ]
   },
   "spellcasters chronicles": {
@@ -29863,7 +29889,7 @@
   "terratech legion": {
     "name": "TerraTech Legion",
     "stores": [
-      "XBOX"
+      "STEAM"
     ]
   },
   "terratech legion demo": {
@@ -35706,6 +35732,12 @@
   },
   "world of warcraft burning crusade classic anniversary edition": {
     "name": "World of Warcraft® Burning Crusade Classic Anniversary Edition",
+    "stores": [
+      "BATTLENET"
+    ]
+  },
+  "world of warcraft classic": {
+    "name": "World of Warcraft® Classic",
     "stores": [
       "BATTLENET"
     ]

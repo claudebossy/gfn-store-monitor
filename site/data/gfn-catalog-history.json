@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T11:16:04+00:00",
+  "generated_at": "2026-09-04T16:20:19+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -726,6 +726,58 @@
           ],
           "new_stores": [
             "XBOX"
+          ]
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-04T16:20:19+00:00",
+      "baseline": false,
+      "catalog_game_count": 5963,
+      "new_game_count": 5,
+      "new_store_count": 1,
+      "new_games": [
+        {
+          "name": "Onimusha: Way of the Sword",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Retro Arcade Shop Simulator",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Space Hulk: Deathwing - Enhanced Edition",
+          "stores": [
+            "STEAM",
+            "XBOX"
+          ]
+        },
+        {
+          "name": "SpeedRunners 2: King of Speed",
+          "stores": [
+            "STEAM",
+            "XBOX"
+          ]
+        },
+        {
+          "name": "World of Warcraft® Classic",
+          "stores": [
+            "BATTLENET"
+          ]
+        }
+      ],
+      "new_stores": [
+        {
+          "name": "TerraTech Legion",
+          "stores": [
+            "STEAM"
+          ],
+          "new_stores": [
+            "STEAM"
           ]
         }
       ]
