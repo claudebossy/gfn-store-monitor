@@ -27016,13 +27016,6 @@
       "STEAM"
     ]
   },
-  "space hulk deathwing enhanced edition": {
-    "name": "Space Hulk: Deathwing - Enhanced Edition",
-    "stores": [
-      "STEAM",
-      "XBOX"
-    ]
-  },
   "space hulk tactics": {
     "name": "Space Hulk: Tactics",
     "stores": [
@@ -29870,7 +29863,7 @@
   "terratech legion": {
     "name": "TerraTech Legion",
     "stores": [
-      "STEAM"
+      "XBOX"
     ]
   },
   "terratech legion demo": {
@@ -35713,12 +35706,6 @@
   },
   "world of warcraft burning crusade classic anniversary edition": {
     "name": "World of Warcraft® Burning Crusade Classic Anniversary Edition",
-    "stores": [
-      "BATTLENET"
-    ]
-  },
-  "world of warcraft classic": {
-    "name": "World of Warcraft® Classic",
     "stores": [
       "BATTLENET"
     ]
