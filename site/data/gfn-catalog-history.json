@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T16:20:19+00:00",
+  "generated_at": "2026-09-04T20:44:25+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -781,6 +781,22 @@
           ]
         }
       ]
+    },
+    {
+      "timestamp": "2026-09-04T20:44:25+00:00",
+      "baseline": false,
+      "catalog_game_count": 5964,
+      "new_game_count": 1,
+      "new_store_count": 0,
+      "new_games": [
+        {
+          "name": "Halloween: The Game",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
+      "new_stores": []
     }
   ]
 }
