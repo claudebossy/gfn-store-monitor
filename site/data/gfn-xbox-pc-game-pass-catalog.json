@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T11:27:07+00:00",
+  "generated_at": "2026-09-04T16:27:46+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,7 +13,7 @@
     }
   },
   "counts": {
-    "gfn_titles": 5960,
+    "gfn_titles": 5963,
     "xbox_pc_titles": 563,
     "catalog_titles": 536,
     "intersection_titles": 346,
@@ -22,7 +22,7 @@
   "summary": {
     "store_counts": {
       "STEAM": 322,
-      "XBOX": 203,
+      "XBOX": 204,
       "EPIC": 74,
       "UPLAY": 31,
       "BATTLENET": 21,
@@ -83,7 +83,7 @@
         "count": 7
       }
     ],
-    "gfn_xbox_store_matches": 203,
+    "gfn_xbox_store_matches": 204,
     "intersection_titles": 346,
     "xbox_only_titles": 190,
     "hltb_matches": 387,
@@ -18347,12 +18347,13 @@
     {
       "catalog_group": "intersection",
       "is_on_gfn": true,
-      "title": "SpeedRunners",
-      "normalized_title": "speedrunners",
+      "title": "SpeedRunners 2: King of Speed",
+      "normalized_title": "speedrunners 2 king of speed",
       "gfn_stores": [
-        "STEAM"
+        "STEAM",
+        "XBOX"
       ],
-      "gfn_has_xbox_store": false,
+      "gfn_has_xbox_store": true,
       "xbox_title": "SpeedRunners 2: King of Speed",
       "xbox_product_id": "9PPKR9N31BW6",
       "xbox_url": "https://www.microsoft.com/store/productId/9PPKR9N31BW6",
@@ -18361,8 +18362,8 @@
       "release_date": "2026-09-03T17:00:00.0000000Z",
       "image_url": "https://store-images.s-microsoft.com/image/apps.58974.14327242010981927.a5495c37-2e09-4b3f-82a1-e015a8eb734a.8c25e957-1f8c-439d-8dd9-71cffbb588bc",
       "description": "The ultimate competitive platformer is back!",
-      "match_type": "exact-search",
-      "match_score": 90,
+      "match_type": "exact-title",
+      "match_score": 120,
       "howlongtobeat": {
         "title": "SpeedRunners 2: King of Speed",
         "game_id": 166772,
@@ -18374,7 +18375,7 @@
         "release_year": 2026,
         "profile_platform": "Nintendo Switch, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 139
+        "match_score": 140
       },
       "opencritic": {
         "title": "Speedrunners 2: King of Speed",
@@ -18387,7 +18388,7 @@
         "review_count": 1,
         "release_year": 2026,
         "match_type": "exact",
-        "match_score": 140
+        "match_score": 147
       },
       "short_game_score": null
     },
