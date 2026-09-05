@@ -1334,14 +1334,6 @@
       "XBOX"
     ]
   },
-  "amnesia the bunker": {
-    "name": "Amnesia: The Bunker",
-    "stores": [
-      "EPIC",
-      "STEAM",
-      "XBOX"
-    ]
-  },
   "amnesia the dark descent": {
     "name": "Amnesia: The Dark Descent",
     "stores": [
@@ -3968,12 +3960,6 @@
       "STEAM"
     ]
   },
-  "book of demons": {
-    "name": "Book of Demons",
-    "stores": [
-      "STEAM"
-    ]
-  },
   "book of hours": {
     "name": "BOOK OF HOURS",
     "stores": [
@@ -4793,12 +4779,6 @@
   },
   "cardaclysm": {
     "name": "Cardaclysm",
-    "stores": [
-      "STEAM"
-    ]
-  },
-  "cardboard town": {
-    "name": "Cardboard Town",
     "stores": [
       "STEAM"
     ]
@@ -6341,12 +6321,6 @@
   },
   "cozy marbles demo": {
     "name": "Cozy Marbles Demo",
-    "stores": [
-      "STEAM"
-    ]
-  },
-  "cr4ckr": {
-    "name": "cr4ckr",
     "stores": [
       "STEAM"
     ]
@@ -10608,12 +10582,6 @@
       "STEAM"
     ]
   },
-  "fallout 3": {
-    "name": "Fallout 3",
-    "stores": [
-      "STEAM"
-    ]
-  },
   "fallout 3 game of the year edition": {
     "name": "Fallout 3 Game of the Year Edition",
     "stores": [
@@ -12150,18 +12118,6 @@
   },
   "get to work": {
     "name": "Get To Work",
-    "stores": [
-      "STEAM"
-    ]
-  },
-  "getsuei gakuen kou": {
-    "name": "Getsuei Gakuen -kou-",
-    "stores": [
-      "STEAM"
-    ]
-  },
-  "ghost cleaner": {
-    "name": "Ghost Cleaner",
     "stores": [
       "STEAM"
     ]
@@ -14731,12 +14687,6 @@
   },
   "imp of the sun": {
     "name": "Imp of the Sun",
-    "stores": [
-      "STEAM"
-    ]
-  },
-  "imperator rome": {
-    "name": "Imperator: Rome",
     "stores": [
       "STEAM"
     ]
@@ -22840,14 +22790,6 @@
       "STEAM"
     ]
   },
-  "quake": {
-    "name": "Quake®",
-    "stores": [
-      "EPIC",
-      "STEAM",
-      "XBOX"
-    ]
-  },
   "quake ii": {
     "name": "Quake II",
     "stores": [
@@ -29907,7 +29849,7 @@
   "terratech legion": {
     "name": "TerraTech Legion",
     "stores": [
-      "STEAM"
+      "XBOX"
     ]
   },
   "terratech legion demo": {
@@ -30643,12 +30585,6 @@
   },
   "the gap": {
     "name": "The Gap",
-    "stores": [
-      "STEAM"
-    ]
-  },
-  "the ghost of solaris": {
-    "name": "The Ghost Of Solaris",
     "stores": [
       "STEAM"
     ]
