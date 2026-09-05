@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T15:12:00+00:00",
+  "generated_at": "2026-09-05T20:18:47+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -1058,6 +1058,80 @@
           ]
         }
       ]
+    },
+    {
+      "timestamp": "2026-09-05T20:18:47+00:00",
+      "baseline": false,
+      "catalog_game_count": 5967,
+      "new_game_count": 10,
+      "new_store_count": 0,
+      "new_games": [
+        {
+          "name": "Amnesia: The Bunker",
+          "stores": [
+            "EPIC",
+            "STEAM",
+            "XBOX"
+          ]
+        },
+        {
+          "name": "Book of Demons",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Cardboard Town",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "cr4ckr",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Fallout 3",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Getsuei Gakuen -kou-",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Ghost Cleaner",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Imperator: Rome",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Quake®",
+          "stores": [
+            "EPIC",
+            "STEAM",
+            "XBOX"
+          ]
+        },
+        {
+          "name": "The Ghost Of Solaris",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
+      "new_stores": []
     }
   ]
 }
