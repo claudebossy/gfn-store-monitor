@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T04:25:37+00:00",
+  "generated_at": "2026-09-05T10:33:41+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -820,6 +820,220 @@
         {
           "name": "Trident's Tale",
           "stores": [
+            "STEAM"
+          ]
+        }
+      ],
+      "new_stores": []
+    },
+    {
+      "timestamp": "2026-09-05T10:33:41+00:00",
+      "baseline": false,
+      "catalog_game_count": 5967,
+      "new_game_count": 32,
+      "new_store_count": 0,
+      "new_games": [
+        {
+          "name": "AETHUS",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Amnesia: Collection",
+          "stores": [
+            "XBOX"
+          ]
+        },
+        {
+          "name": "Assassin’s Creed® Chronicles: China",
+          "stores": [
+            "UPLAY"
+          ]
+        },
+        {
+          "name": "Assassin’s Creed® Rogue",
+          "stores": [
+            "STEAM",
+            "UPLAY"
+          ]
+        },
+        {
+          "name": "Better Mart Simulator",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Big Helmet Heroes",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "BlazBlue: Cross Tag Battle",
+          "stores": [
+            "STEAM",
+            "XBOX"
+          ]
+        },
+        {
+          "name": "Blind Fate: Edo no Yami — Dojo",
+          "stores": [
+            "NV_BUNDLE"
+          ]
+        },
+        {
+          "name": "Cauldron",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Cloudpunk",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Crysis 3 Remastered",
+          "stores": [
+            "EPIC",
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Dead Rising Deluxe Remaster",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Figment",
+          "stores": [
+            "EPIC"
+          ]
+        },
+        {
+          "name": "GreedFall: The Dying World",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Half-Life® 2 RTX demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Headbangers: Rhythm Royale",
+          "stores": [
+            "STEAM",
+            "XBOX"
+          ]
+        },
+        {
+          "name": "High On Life 2 Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "IT Specialist Simulator",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Kena: Bridge of Spirits",
+          "stores": [
+            "EPIC",
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Lonely Mountains: Downhill",
+          "stores": [
+            "STEAM",
+            "XBOX"
+          ]
+        },
+        {
+          "name": "Metal: Hellsinger",
+          "stores": [
+            "STEAM",
+            "XBOX"
+          ]
+        },
+        {
+          "name": "Monopoly: Star Wars™ Heroes vs. Villains",
+          "stores": [
+            "STEAM",
+            "UPLAY"
+          ]
+        },
+        {
+          "name": "OUTBRK",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Ride 4",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Settlement Survival",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Stronghold: Definitive Edition",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "TerraTech",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "TUNIC",
+          "stores": [
+            "EPIC",
+            "STEAM",
+            "XBOX"
+          ]
+        },
+        {
+          "name": "VOID/BREAKER",
+          "stores": [
+            "STEAM",
+            "XBOX"
+          ]
+        },
+        {
+          "name": "Warhammer: End Times - Vermintide",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "We Were Here",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "WRC 10 FIA World Rally Championship",
+          "stores": [
+            "EPIC",
             "STEAM"
           ]
         }

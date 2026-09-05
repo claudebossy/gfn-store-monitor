@@ -683,6 +683,12 @@
       "STEAM"
     ]
   },
+  "aethus": {
+    "name": "AETHUS",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "aethus demo": {
     "name": "AETHUS Demo",
     "stores": [
@@ -1306,6 +1312,12 @@
     "stores": [
       "EPIC",
       "STEAM"
+    ]
+  },
+  "amnesia collection": {
+    "name": "Amnesia: Collection",
+    "stores": [
+      "XBOX"
     ]
   },
   "amnesia memories": {
@@ -2101,6 +2113,12 @@
       "UPLAY"
     ]
   },
+  "assassin s creed chronicles china": {
+    "name": "Assassin’s Creed® Chronicles: China",
+    "stores": [
+      "UPLAY"
+    ]
+  },
   "assassin s creed chronicles india": {
     "name": "Assassin’s Creed® Chronicles: India",
     "stores": [
@@ -2193,6 +2211,13 @@
   },
   "assassin s creed revelations": {
     "name": "Assassin’s Creed® Revelations",
+    "stores": [
+      "STEAM",
+      "UPLAY"
+    ]
+  },
+  "assassin s creed rogue": {
+    "name": "Assassin’s Creed® Rogue",
     "stores": [
       "STEAM",
       "UPLAY"
@@ -3281,6 +3306,12 @@
       "STEAM"
     ]
   },
+  "better mart simulator": {
+    "name": "Better Mart Simulator",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "beyond contact": {
     "name": "Beyond Contact",
     "stores": [
@@ -3345,6 +3376,12 @@
   },
   "big dig demo": {
     "name": "Big Dig Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "big helmet heroes": {
+    "name": "Big Helmet Heroes",
     "stores": [
       "STEAM"
     ]
@@ -3614,6 +3651,13 @@
       "STEAM"
     ]
   },
+  "blazblue cross tag battle": {
+    "name": "BlazBlue: Cross Tag Battle",
+    "stores": [
+      "STEAM",
+      "XBOX"
+    ]
+  },
   "blazing sails": {
     "name": "Blazing Sails",
     "stores": [
@@ -3642,6 +3686,12 @@
     "name": "Blind Fate: Edo no Yami",
     "stores": [
       "STEAM"
+    ]
+  },
+  "blind fate edo no yami dojo": {
+    "name": "Blind Fate: Edo no Yami — Dojo",
+    "stores": [
+      "NV_BUNDLE"
     ]
   },
   "blind shot": {
@@ -4929,6 +4979,12 @@
       "STEAM"
     ]
   },
+  "cauldron": {
+    "name": "Cauldron",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "causal loop": {
     "name": "Causal Loop",
     "stores": [
@@ -5705,6 +5761,12 @@
   },
   "cloudgazer a game about watching clouds": {
     "name": "Cloudgazer: A Game About Watching Clouds",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "cloudpunk": {
+    "name": "Cloudpunk",
     "stores": [
       "STEAM"
     ]
@@ -6619,6 +6681,13 @@
       "STEAM"
     ]
   },
+  "crysis 3 remastered": {
+    "name": "Crysis 3 Remastered",
+    "stores": [
+      "EPIC",
+      "STEAM"
+    ]
+  },
   "crysis remastered": {
     "name": "Crysis Remastered",
     "stores": [
@@ -7297,6 +7366,12 @@
   },
   "dead man s draw": {
     "name": "Dead Man's Draw",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "dead rising deluxe remaster": {
+    "name": "Dead Rising Deluxe Remaster",
     "stores": [
       "STEAM"
     ]
@@ -10928,6 +11003,12 @@
       "STEAM"
     ]
   },
+  "figment": {
+    "name": "Figment",
+    "stores": [
+      "EPIC"
+    ]
+  },
   "figment 2 creed valley": {
     "name": "Figment 2: Creed Valley",
     "stores": [
@@ -12672,6 +12753,12 @@
       "XBOX"
     ]
   },
+  "greedfall the dying world": {
+    "name": "GreedFall: The Dying World",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "green hell": {
     "name": "Green Hell",
     "stores": [
@@ -13006,6 +13093,12 @@
       "STEAM"
     ]
   },
+  "half life 2 rtx demo": {
+    "name": "Half-Life® 2 RTX demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "half minute hero super mega neo climax ultimate boy": {
     "name": "Half Minute Hero: Super Mega Neo Climax Ultimate Boy",
     "stores": [
@@ -13294,6 +13387,13 @@
     "name": "Headbangers in Holiday Hell",
     "stores": [
       "STEAM"
+    ]
+  },
+  "headbangers rhythm royale": {
+    "name": "Headbangers: Rhythm Royale",
+    "stores": [
+      "STEAM",
+      "XBOX"
     ]
   },
   "heading out": {
@@ -13835,6 +13935,12 @@
     "stores": [
       "STEAM",
       "XBOX"
+    ]
+  },
+  "high on life 2 demo": {
+    "name": "High On Life 2 Demo",
+    "stores": [
+      "STEAM"
     ]
   },
   "highfleet": {
@@ -15042,6 +15148,12 @@
       "STEAM"
     ]
   },
+  "it specialist simulator": {
+    "name": "IT Specialist Simulator",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "it takes two": {
     "name": "It Takes Two",
     "stores": [
@@ -15508,6 +15620,13 @@
   "keepup survival": {
     "name": "KeepUp Survival",
     "stores": [
+      "STEAM"
+    ]
+  },
+  "kena bridge of spirits": {
+    "name": "Kena: Bridge of Spirits",
+    "stores": [
+      "EPIC",
       "STEAM"
     ]
   },
@@ -16842,6 +16961,13 @@
       "STEAM"
     ]
   },
+  "lonely mountains downhill": {
+    "name": "Lonely Mountains: Downhill",
+    "stores": [
+      "STEAM",
+      "XBOX"
+    ]
+  },
   "lonely mountains snow riders": {
     "name": "Lonely Mountains: Snow Riders",
     "stores": [
@@ -18068,6 +18194,13 @@
       "STEAM"
     ]
   },
+  "metal hellsinger": {
+    "name": "Metal: Hellsinger",
+    "stores": [
+      "STEAM",
+      "XBOX"
+    ]
+  },
   "metamorph dungeon creatures": {
     "name": "MetaMorph: Dungeon Creatures",
     "stores": [
@@ -18487,6 +18620,13 @@
   },
   "monopoly plus": {
     "name": "MONOPOLY® PLUS",
+    "stores": [
+      "STEAM",
+      "UPLAY"
+    ]
+  },
+  "monopoly star wars heroes vs villains": {
+    "name": "Monopoly: Star Wars™ Heroes vs. Villains",
     "stores": [
       "STEAM",
       "UPLAY"
@@ -20681,6 +20821,12 @@
   },
   "outbreak the nightmare chronicles": {
     "name": "Outbreak: The Nightmare Chronicles",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "outbrk": {
+    "name": "OUTBRK",
     "stores": [
       "STEAM"
     ]
@@ -23854,6 +24000,12 @@
       "STEAM"
     ]
   },
+  "ride 4": {
+    "name": "Ride 4",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "ride 5": {
     "name": "RIDE 5",
     "stores": [
@@ -25289,6 +25441,12 @@
     "name": "Session: Skate Sim",
     "stores": [
       "EPIC",
+      "STEAM"
+    ]
+  },
+  "settlement survival": {
+    "name": "Settlement Survival",
+    "stores": [
       "STEAM"
     ]
   },
@@ -28404,6 +28562,12 @@
       "STEAM"
     ]
   },
+  "stronghold definitive edition": {
+    "name": "Stronghold: Definitive Edition",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "stronghold hd": {
     "name": "Stronghold HD",
     "stores": [
@@ -29730,6 +29894,12 @@
   },
   "terrascape": {
     "name": "TerraScape",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "terratech": {
+    "name": "TerraTech",
     "stores": [
       "STEAM"
     ]
@@ -33371,6 +33541,14 @@
       "STEAM"
     ]
   },
+  "tunic": {
+    "name": "TUNIC",
+    "stores": [
+      "EPIC",
+      "STEAM",
+      "XBOX"
+    ]
+  },
   "tunshi kongming legends 吞食孔明传": {
     "name": "Tunshi Kongming Legends 吞食孔明传",
     "stores": [
@@ -34291,6 +34469,13 @@
       "STEAM"
     ]
   },
+  "void breaker": {
+    "name": "VOID/BREAKER",
+    "stores": [
+      "STEAM",
+      "XBOX"
+    ]
+  },
   "void breaker demo": {
     "name": "VOID/BREAKER Demo",
     "stores": [
@@ -34750,6 +34935,12 @@
       "STEAM"
     ]
   },
+  "warhammer end times vermintide": {
+    "name": "Warhammer: End Times - Vermintide",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "warhammer underworlds shadespire edition": {
     "name": "Warhammer Underworlds - Shadespire Edition",
     "stores": [
@@ -34955,6 +35146,12 @@
   },
   "we happy few": {
     "name": "We Happy Few",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "we were here": {
+    "name": "We Were Here",
     "stores": [
       "STEAM"
     ]
@@ -35723,6 +35920,13 @@
   "wrath aeon of ruin": {
     "name": "WRATH: Aeon of Ruin",
     "stores": [
+      "STEAM"
+    ]
+  },
+  "wrc 10 fia world rally championship": {
+    "name": "WRC 10 FIA World Rally Championship",
+    "stores": [
+      "EPIC",
       "STEAM"
     ]
   },
