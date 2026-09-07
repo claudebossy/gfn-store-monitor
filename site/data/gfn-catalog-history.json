@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T20:22:56+00:00",
+  "generated_at": "2026-09-07T04:38:15+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -1187,6 +1187,46 @@
       "new_game_count": 0,
       "new_store_count": 0,
       "new_games": [],
+      "new_stores": []
+    },
+    {
+      "timestamp": "2026-09-07T04:38:15+00:00",
+      "baseline": false,
+      "catalog_game_count": 5967,
+      "new_game_count": 5,
+      "new_store_count": 0,
+      "new_games": [
+        {
+          "name": "Global Protocol: New World Order",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Ho Tu Lo Shu: The Books of Dragon",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "HYPERDROP: A Pachinko Roguelite Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Knights of Honor",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Re:Turn - One Way Trip",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
       "new_stores": []
     }
   ]
