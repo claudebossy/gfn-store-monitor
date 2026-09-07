@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T04:52:34+00:00",
+  "generated_at": "2026-09-07T12:44:50+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -14,10 +14,10 @@
   },
   "counts": {
     "gfn_titles": 5967,
-    "xbox_pc_titles": 563,
-    "catalog_titles": 536,
+    "xbox_pc_titles": 562,
+    "catalog_titles": 535,
     "intersection_titles": 346,
-    "xbox_only_titles": 190
+    "xbox_only_titles": 189
   },
   "summary": {
     "store_counts": {
@@ -85,7 +85,7 @@
     ],
     "gfn_xbox_store_matches": 205,
     "intersection_titles": 346,
-    "xbox_only_titles": 190,
+    "xbox_only_titles": 189,
     "hltb_matches": 387,
     "opencritic_matches": 460,
     "short_game_score_matches": 302,
@@ -14083,27 +14083,6 @@
       }
     },
     {
-      "catalog_group": "xbox-only",
-      "is_on_gfn": false,
-      "title": "NBA 2K26 Standard Edition (Windows PC)",
-      "normalized_title": "nba 2k26 standard edition windows pc",
-      "gfn_stores": [],
-      "gfn_has_xbox_store": false,
-      "xbox_title": "NBA 2K26 Standard Edition (Windows PC)",
-      "xbox_product_id": "9N2FJQC9NTX6",
-      "xbox_url": "https://www.microsoft.com/store/productId/9N2FJQC9NTX6",
-      "publisher": "2K",
-      "developer": "Visual Concepts",
-      "release_date": "2026-04-03T15:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.50564.13957745975285029.52df9602-ccd8-4a0d-873f-5731652c7052.6bd08134-6f32-4256-84ae-bb4f82a82a9f",
-      "description": "Bragging rights are on the line in NBA 2K26. \n\nBuild your legend in MyCAREER, collect and compete with stars in MyTEAM, and make executive decisions in MyNBA on Windows PC.",
-      "match_type": "xbox-only",
-      "match_score": 0,
-      "howlongtobeat": null,
-      "opencritic": null,
-      "short_game_score": null
-    },
-    {
       "catalog_group": "intersection",
       "is_on_gfn": true,
       "title": "Need for Speed™ Heat",
@@ -23908,7 +23887,7 @@
       "publisher": "Wargaming.net",
       "developer": "Wargaming Group Limited",
       "release_date": "2019-08-12T00:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.27545.65694988112101034.315588c9-f4fb-4605-b06d-bd525b01ce5f.946e4c8b-1013-49cc-9627-8ca6a515035e",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.44774.65694988112101034.63b3705a-17e4-4e7b-b45a-a3aa58f7a4fc.631a7470-3bac-4ada-b00c-b9fcd9d1045b",
       "description": "Experience epic naval action in World of Warships: Legends, a global multiplayer free-to-play online game in which you can master the seas on the decks of history's greatest warships! Recruit Legendary Commanders, upgrade your vessels, and stake your claim to naval domination alongside and against players from around the world.",
       "match_type": "exact-title",
       "match_score": 120,
