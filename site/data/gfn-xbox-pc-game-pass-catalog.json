@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T11:27:17+00:00",
+  "generated_at": "2026-09-08T16:43:11+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,19 +13,19 @@
     }
   },
   "counts": {
-    "gfn_titles": 5971,
-    "xbox_pc_titles": 562,
-    "catalog_titles": 535,
-    "intersection_titles": 346,
+    "gfn_titles": 5976,
+    "xbox_pc_titles": 563,
+    "catalog_titles": 536,
+    "intersection_titles": 347,
     "xbox_only_titles": 189
   },
   "summary": {
     "store_counts": {
-      "STEAM": 321,
+      "STEAM": 322,
       "XBOX": 205,
       "EPIC": 74,
       "UPLAY": 31,
-      "BATTLENET": 21,
+      "BATTLENET": 22,
       "EA_APP": 16,
       "GOG": 4,
       "NONE": 3,
@@ -64,7 +64,7 @@
       },
       {
         "name": "Activision Publishing Inc.",
-        "count": 8
+        "count": 9
       },
       {
         "name": "SQUARE ENIX",
@@ -84,12 +84,12 @@
       }
     ],
     "gfn_xbox_store_matches": 205,
-    "intersection_titles": 346,
+    "intersection_titles": 347,
     "xbox_only_titles": 189,
     "hltb_matches": 387,
-    "opencritic_matches": 460,
+    "opencritic_matches": 461,
     "short_game_score_matches": 302,
-    "exact_matches": 321,
+    "exact_matches": 322,
     "partial_matches": 25
   },
   "games": [
@@ -3372,6 +3372,42 @@
         "release_year": 2024,
         "match_type": "exact",
         "match_score": 142
+      },
+      "short_game_score": null
+    },
+    {
+      "catalog_group": "intersection",
+      "is_on_gfn": true,
+      "title": "Call of Duty®: Black Ops Cold War",
+      "normalized_title": "call of duty black ops cold war",
+      "gfn_stores": [
+        "BATTLENET",
+        "STEAM"
+      ],
+      "gfn_has_xbox_store": false,
+      "xbox_title": "Call of Duty®: Black Ops Cold War (Windows)",
+      "xbox_product_id": "9N72SFQ24KW8",
+      "xbox_url": "https://www.microsoft.com/store/productId/9N72SFQ24KW8",
+      "publisher": "Activision Publishing Inc.",
+      "developer": null,
+      "release_date": "2026-06-30T16:00:00.0000000Z",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.16401.14006772409173009.275a9108-bec7-47d8-b889-1be3519a0aa3.633acee7-d3e2-405c-a054-59369be0ff79",
+      "description": "Black Ops Cold War, the direct sequel to Call of Duty®: Black Ops, drops fans into the depths of the Cold War’s volatile geopolitical battle of the early 1980s.",
+      "match_type": "exact-title",
+      "match_score": 120,
+      "howlongtobeat": null,
+      "opencritic": {
+        "title": "Call of Duty: Black Ops Cold War",
+        "game_id": 10119,
+        "url": "https://opencritic.com/game/10119/call-of-duty-black-ops-cold-war",
+        "top_critic_score": 75.2,
+        "percent_recommended": 61.0,
+        "tier": "Strong",
+        "median_score": 80,
+        "review_count": 162,
+        "release_year": 2020,
+        "match_type": "exact",
+        "match_score": 143
       },
       "short_game_score": null
     },

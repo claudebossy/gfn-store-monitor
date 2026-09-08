@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T11:27:29+00:00",
+  "updated_at": "2026-09-08T16:43:28+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -7974,6 +7974,12 @@
         "match_type": "exact",
         "match_score": 140
       }
+    },
+    "call of duty black ops cold war": {
+      "title": "Call of Duty®: Black Ops Cold War",
+      "status": "not_found",
+      "fetched_at": "2026-09-08T16:43:25+00:00",
+      "data": null
     }
   }
 }

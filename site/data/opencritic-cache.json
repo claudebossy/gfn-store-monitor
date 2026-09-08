@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T11:27:29+00:00",
+  "updated_at": "2026-09-08T16:43:28+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -8764,7 +8764,7 @@
     "shelldiver": {
       "title": "Shelldiver",
       "status": "not_found",
-      "fetched_at": "2026-09-01T15:24:38+00:00",
+      "fetched_at": "2026-09-08T16:43:27+00:00",
       "data": null
     },
     "monsters are coming": {
@@ -8837,6 +8837,24 @@
         "release_year": 2026,
         "match_type": "exact",
         "match_score": 147
+      }
+    },
+    "call of duty black ops cold war": {
+      "title": "Call of Duty®: Black Ops Cold War",
+      "status": "matched",
+      "fetched_at": "2026-09-08T16:43:26+00:00",
+      "data": {
+        "title": "Call of Duty: Black Ops Cold War",
+        "game_id": 10119,
+        "url": "https://opencritic.com/game/10119/call-of-duty-black-ops-cold-war",
+        "top_critic_score": 75.2,
+        "percent_recommended": 61.0,
+        "tier": "Strong",
+        "median_score": 80,
+        "review_count": 162,
+        "release_year": 2020,
+        "match_type": "exact",
+        "match_score": 143
       }
     }
   }
