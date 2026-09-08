@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T16:43:11+00:00",
+  "generated_at": "2026-09-08T21:14:40+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,7 +13,7 @@
     }
   },
   "counts": {
-    "gfn_titles": 5976,
+    "gfn_titles": 5978,
     "xbox_pc_titles": 563,
     "catalog_titles": 536,
     "intersection_titles": 347,
@@ -18022,7 +18022,7 @@
       "publisher": "Hi-Rez Studios",
       "developer": "Titan Forge Games",
       "release_date": "9998-12-30T00:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.54894.14402893629943553.362bf74c-1912-4b56-af34-2a4f02642352.823bd93f-bf11-4e1a-aa9f-a8bf96fef598",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.59570.14402893629943553.4ce4ac4a-6ead-40b7-84e1-cf013cdf1bd0.61c38eae-e055-4043-b23d-39500ac76282",
       "description": "This game is a work in progress. It may or may not change over time or release as a final product. Purchase only if you are comfortable with the current state of the unfinished game. \n\nBecome a god and wage war in SMITE 2, the Unreal Engine 5-powered sequel to the legendary third-person action MOBA. If you love competition, intense action, ability-driven combat, rewarding teamwork, or godly mythology, you’ll see why 40+ million players love SMITE.",
       "match_type": "exact-title",
       "match_score": 120,
