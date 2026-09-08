@@ -7454,6 +7454,12 @@
       "STEAM"
     ]
   },
+  "deadzoned": {
+    "name": "Deadzoned",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "dear esther landmark edition": {
     "name": "Dear Esther: Landmark Edition",
     "stores": [
@@ -10000,6 +10006,12 @@
   },
   "eschatos demo": {
     "name": "ESCHATOS Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "eslabong": {
+    "name": "Eslabong",
     "stores": [
       "STEAM"
     ]
@@ -23165,6 +23177,12 @@
       "STEAM"
     ]
   },
+  "random mix": {
+    "name": "Random Mix",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "ranger s path national park simulator": {
     "name": "Ranger’s Path: National Park Simulator",
     "stores": [
@@ -35640,6 +35658,12 @@
   },
   "wolfenstein youngblood deutsche version": {
     "name": "Wolfenstein®: Youngblood™ Deutsche Version",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "wolfpack": {
+    "name": "Wolfpack",
     "stores": [
       "STEAM"
     ]
