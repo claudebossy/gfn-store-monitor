@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T16:36:46+00:00",
+  "generated_at": "2026-09-08T21:08:07+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -1323,6 +1323,28 @@
         },
         {
           "name": "Voltage High Society",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
+      "new_stores": []
+    },
+    {
+      "timestamp": "2026-09-08T21:08:07+00:00",
+      "baseline": false,
+      "catalog_game_count": 5978,
+      "new_game_count": 2,
+      "new_store_count": 0,
+      "new_games": [
+        {
+          "name": "Bus Simulator 27",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "SPRAWL zero",
           "stores": [
             "STEAM"
           ]

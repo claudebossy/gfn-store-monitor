@@ -4447,6 +4447,12 @@
       "XBOX"
     ]
   },
+  "bus simulator 27": {
+    "name": "Bus Simulator 27",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "bus simulator 27 demo": {
     "name": "Bus Simulator 27 Demo",
     "stores": [
@@ -27524,6 +27530,12 @@
   },
   "sprawl": {
     "name": "SPRAWL",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "sprawl zero": {
+    "name": "SPRAWL zero",
     "stores": [
       "STEAM"
     ]
