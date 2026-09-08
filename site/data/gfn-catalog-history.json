@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T11:16:45+00:00",
+  "generated_at": "2026-09-08T16:36:46+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -1288,6 +1288,46 @@
       "new_game_count": 0,
       "new_store_count": 0,
       "new_games": [],
+      "new_stores": []
+    },
+    {
+      "timestamp": "2026-09-08T16:36:46+00:00",
+      "baseline": false,
+      "catalog_game_count": 5976,
+      "new_game_count": 5,
+      "new_store_count": 0,
+      "new_games": [
+        {
+          "name": "EMUUROM",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "In Sound Mind",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Notmads",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Tiny Bakery",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Voltage High Society",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
       "new_stores": []
     }
   ]

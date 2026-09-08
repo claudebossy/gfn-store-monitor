@@ -9734,6 +9734,12 @@
       "STEAM"
     ]
   },
+  "emuurom": {
+    "name": "EMUUROM",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "en garde": {
     "name": "En Garde!",
     "stores": [
@@ -14773,6 +14779,12 @@
   },
   "in other waters": {
     "name": "In Other Waters",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "in sound mind": {
+    "name": "In Sound Mind",
     "stores": [
       "STEAM"
     ]
@@ -20060,6 +20072,12 @@
     "name": "Not Tonight 2",
     "stores": [
       "EPIC",
+      "STEAM"
+    ]
+  },
+  "notmads": {
+    "name": "Notmads",
+    "stores": [
       "STEAM"
     ]
   },
@@ -32317,6 +32335,12 @@
       "STEAM"
     ]
   },
+  "tiny bakery": {
+    "name": "Tiny Bakery",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "tiny football": {
     "name": "Tiny Football",
     "stores": [
@@ -34576,6 +34600,12 @@
   },
   "volt patrol stealth driving": {
     "name": "Volt Patrol - Stealth Driving",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "voltage high society": {
+    "name": "Voltage High Society",
     "stores": [
       "STEAM"
     ]
