@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T21:14:40+00:00",
+  "generated_at": "2026-09-09T04:51:06+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,7 +13,7 @@
     }
   },
   "counts": {
-    "gfn_titles": 5978,
+    "gfn_titles": 5979,
     "xbox_pc_titles": 563,
     "catalog_titles": 536,
     "intersection_titles": 347,
@@ -24221,7 +24221,7 @@
       "publisher": "COGNOSPHERE PTE. LTD.",
       "developer": "Shanghai JiaoZhai Technology Co.,Ltd.",
       "release_date": "2025-06-05T22:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.58752.13974579424110118.a7c4bc1b-04b3-4177-85c0-1252f18d6f9c.91e6633b-1ba4-4bda-9a09-fdc53c5e6a7e",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.28577.13974579424110118.c5a91c87-b857-4a17-add3-fc6ba76c3f74.5bbb6b0c-cc25-4abe-bf01-c00408e6e3fa",
       "description": "Venture into a post-apocalyptic world, explore perilous Hollows, and unveil the mysteries behind the last beacon of hope for human civilization.",
       "match_type": "exact-title",
       "match_score": 120,
