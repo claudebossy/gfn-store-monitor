@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T11:20:32+00:00",
+  "generated_at": "2026-09-09T16:36:51+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -1375,6 +1375,76 @@
       "new_game_count": 0,
       "new_store_count": 0,
       "new_games": [],
+      "new_stores": []
+    },
+    {
+      "timestamp": "2026-09-09T16:36:51+00:00",
+      "baseline": false,
+      "catalog_game_count": 5989,
+      "new_game_count": 10,
+      "new_store_count": 0,
+      "new_games": [
+        {
+          "name": "Fakutori Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Fatal Claw",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Guidus Zero",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Heavy Cargo - The Truck Simulator",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "My Last Appointment",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Prinny Party: Going Overboard! Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Retro TV Tycoon Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Sunset Summit",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Veterum",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "ZENONIA 1",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
       "new_stores": []
     }
   ]

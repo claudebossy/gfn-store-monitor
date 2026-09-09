@@ -10596,6 +10596,12 @@
       "STEAM"
     ]
   },
+  "fakutori demo": {
+    "name": "Fakutori Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "falcon 2023 猎鹰2023": {
     "name": "Falcon 2023（猎鹰2023）",
     "stores": [
@@ -10913,6 +10919,12 @@
   },
   "fata deum the god sim": {
     "name": "Fata Deum - The God Sim",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "fatal claw": {
+    "name": "Fatal Claw",
     "stores": [
       "STEAM"
     ]
@@ -12930,6 +12942,12 @@
       "STEAM"
     ]
   },
+  "guidus zero": {
+    "name": "Guidus Zero",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "guild of ascension": {
     "name": "Guild of Ascension",
     "stores": [
@@ -13513,6 +13531,12 @@
   },
   "heaven dust": {
     "name": "Heaven Dust",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "heavy cargo the truck simulator": {
+    "name": "Heavy Cargo - The Truck Simulator",
     "stores": [
       "STEAM"
     ]
@@ -19264,6 +19288,12 @@
       "STEAM"
     ]
   },
+  "my last appointment": {
+    "name": "My Last Appointment",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "my little riding champion": {
     "name": "My Little Riding Champion",
     "stores": [
@@ -22437,6 +22467,12 @@
       "UPLAY"
     ]
   },
+  "prinny party going overboard demo": {
+    "name": "Prinny Party: Going Overboard! Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "prison architect": {
     "name": "Prison Architect",
     "stores": [
@@ -23868,6 +23904,12 @@
   },
   "retro rewind video store simulator": {
     "name": "Retro Rewind - Video Store Simulator",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "retro tv tycoon demo": {
+    "name": "Retro TV Tycoon Demo",
     "stores": [
       "STEAM"
     ]
@@ -28853,6 +28895,12 @@
   },
   "sunset motel prologue": {
     "name": "Sunset Motel: Prologue",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "sunset summit": {
+    "name": "Sunset Summit",
     "stores": [
       "STEAM"
     ]
@@ -34409,6 +34457,12 @@
       "STEAM"
     ]
   },
+  "veterum": {
+    "name": "Veterum",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "vholume": {
     "name": "VHOLUME",
     "stores": [
@@ -36580,6 +36634,12 @@
     "name": "Zenless Zone Zero",
     "stores": [
       "UNKNOWN"
+    ]
+  },
+  "zenonia 1": {
+    "name": "ZENONIA 1",
+    "stores": [
+      "STEAM"
     ]
   },
   "zephon": {
