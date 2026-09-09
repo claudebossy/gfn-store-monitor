@@ -14178,6 +14178,12 @@
       "STEAM"
     ]
   },
+  "honeycomb the world beyond": {
+    "name": "Honeycomb: The World Beyond",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "honeycomb the world beyond demo": {
     "name": "Honeycomb: The World Beyond Demo",
     "stores": [
@@ -19198,6 +19204,12 @@
   },
   "murky divers": {
     "name": "Murky Divers",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "museum guard exhibit unknown demo": {
+    "name": "Museum Guard: Exhibit Unknown Demo",
     "stores": [
       "STEAM"
     ]
