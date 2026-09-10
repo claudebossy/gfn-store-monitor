@@ -1800,12 +1800,6 @@
       "STEAM"
     ]
   },
-  "archean": {
-    "name": "Archean",
-    "stores": [
-      "STEAM"
-    ]
-  },
   "architect life a house design simulator": {
     "name": "Architect Life: A House Design Simulator",
     "stores": [
@@ -4313,6 +4307,12 @@
       "STEAM"
     ]
   },
+  "brokenlore don t lie": {
+    "name": "BrokenLore: DON’T LIE",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "brotato": {
     "name": "Brotato",
     "stores": [
@@ -4640,6 +4640,12 @@
   },
   "camp canyonwood": {
     "name": "Camp Canyonwood",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "camp manager simulator demo": {
+    "name": "Camp Manager Simulator (Demo)",
     "stores": [
       "STEAM"
     ]
@@ -8996,6 +9002,12 @@
       "STEAM"
     ]
   },
+  "dungeon automata demo": {
+    "name": "Dungeon Automata Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "dungeon defenders": {
     "name": "Dungeon Defenders",
     "stores": [
@@ -9395,6 +9407,12 @@
   },
   "echoes of the plum grove": {
     "name": "Echoes of the Plum Grove",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "eco volunteer": {
+    "name": "Eco Volunteer",
     "stores": [
       "STEAM"
     ]
@@ -14270,6 +14288,12 @@
   },
   "hot brass": {
     "name": "Hot Brass",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "hot wheels infinite rush": {
+    "name": "HOT WHEELS™ Infinite Rush",
     "stores": [
       "STEAM"
     ]
