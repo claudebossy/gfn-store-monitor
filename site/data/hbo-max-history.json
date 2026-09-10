@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T16:21:30+00:00",
+  "generated_at": "2026-09-10T20:49:03+00:00",
   "show": "hacks",
   "sitemap_url": "https://www.hbomax.com/ch/en/sitemap/shows",
   "entries": [
@@ -299,6 +299,12 @@
     },
     {
       "timestamp": "2026-09-10T16:21:30+00:00",
+      "available": false,
+      "match_count": 0,
+      "matches": []
+    },
+    {
+      "timestamp": "2026-09-10T20:49:03+00:00",
       "available": false,
       "match_count": 0,
       "matches": []
