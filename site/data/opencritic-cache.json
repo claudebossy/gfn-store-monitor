@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T21:00:16+00:00",
+  "updated_at": "2026-09-10T04:52:54+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -8855,6 +8855,42 @@
         "release_year": 2020,
         "match_type": "exact",
         "match_score": 143
+      }
+    },
+    "the royal writ": {
+      "title": "The Royal Writ",
+      "status": "matched",
+      "fetched_at": "2026-09-10T04:52:50+00:00",
+      "data": {
+        "title": "The Royal Writ",
+        "game_id": 19085,
+        "url": "https://opencritic.com/game/19085/the-royal-writ",
+        "top_critic_score": null,
+        "percent_recommended": null,
+        "tier": null,
+        "median_score": null,
+        "review_count": 4,
+        "release_year": 2025,
+        "match_type": "exact",
+        "match_score": 141
+      }
+    },
+    "virtua fighter 5 r e v o world stage": {
+      "title": "Virtua Fighter 5 R.E.V.O. World Stage",
+      "status": "matched",
+      "fetched_at": "2026-09-10T04:52:53+00:00",
+      "data": {
+        "title": "Virtua Fighter 5 R.E.V.O. World Stage",
+        "game_id": 19496,
+        "url": "https://opencritic.com/game/19496/virtua-fighter-5-r-e-v-o-world-stage",
+        "top_critic_score": 82.8,
+        "percent_recommended": 78.8,
+        "tier": "Strong",
+        "median_score": 80,
+        "review_count": 33,
+        "release_year": 2025,
+        "match_type": "exact",
+        "match_score": 148
       }
     }
   }

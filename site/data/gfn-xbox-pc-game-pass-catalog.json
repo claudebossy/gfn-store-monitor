@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T21:00:03+00:00",
+  "generated_at": "2026-09-10T04:52:38+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,15 +13,15 @@
     }
   },
   "counts": {
-    "gfn_titles": 5991,
-    "xbox_pc_titles": 563,
-    "catalog_titles": 536,
-    "intersection_titles": 347,
+    "gfn_titles": 5992,
+    "xbox_pc_titles": 565,
+    "catalog_titles": 538,
+    "intersection_titles": 349,
     "xbox_only_titles": 189
   },
   "summary": {
     "store_counts": {
-      "STEAM": 322,
+      "STEAM": 324,
       "XBOX": 205,
       "EPIC": 74,
       "UPLAY": 31,
@@ -84,12 +84,12 @@
       }
     ],
     "gfn_xbox_store_matches": 205,
-    "intersection_titles": 347,
+    "intersection_titles": 349,
     "xbox_only_titles": 189,
-    "hltb_matches": 387,
-    "opencritic_matches": 461,
-    "short_game_score_matches": 302,
-    "exact_matches": 322,
+    "hltb_matches": 389,
+    "opencritic_matches": 463,
+    "short_game_score_matches": 303,
+    "exact_matches": 324,
     "partial_matches": 25
   },
   "games": [
@@ -21075,6 +21075,53 @@
       }
     },
     {
+      "catalog_group": "intersection",
+      "is_on_gfn": true,
+      "title": "The Royal Writ",
+      "normalized_title": "the royal writ",
+      "gfn_stores": [
+        "STEAM"
+      ],
+      "gfn_has_xbox_store": false,
+      "xbox_title": "The Royal Writ",
+      "xbox_product_id": "9N034X5G08B7",
+      "xbox_url": "https://www.microsoft.com/store/productId/9N034X5G08B7",
+      "publisher": "Yogscast Games",
+      "developer": "Save Sloth Studios",
+      "release_date": "2026-09-10T17:00:00.0000000Z",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.34961.13929128993190644.5fdad478-5d9a-4e47-b2a4-acc499d07c78.1bc6ebd0-8d00-47c1-9bce-bc2e9c8549da",
+      "description": "Sacrifice creates stories in this medieval roguelike deckbuilder. Watch your cards march to glory or permanent death as they battle toward the enemy. Each fallen hero becomes part of your kingdom's legend. Command wisely... some sacrifices are necessary.",
+      "match_type": "exact-title",
+      "match_score": 120,
+      "howlongtobeat": {
+        "title": "The Royal Writ",
+        "game_id": 170289,
+        "url": "https://howlongtobeat.com/game/170289",
+        "image_url": "https://howlongtobeat.com/games/170289_The_Royal_Writ.jpg",
+        "main_story_seconds": 18000,
+        "review_score": 74,
+        "completion_count": 5,
+        "release_year": 2025,
+        "profile_platform": "PC",
+        "match_type": "exact",
+        "match_score": 133
+      },
+      "opencritic": {
+        "title": "The Royal Writ",
+        "game_id": 19085,
+        "url": "https://opencritic.com/game/19085/the-royal-writ",
+        "top_critic_score": null,
+        "percent_recommended": null,
+        "tier": null,
+        "median_score": null,
+        "review_count": 4,
+        "release_year": 2025,
+        "match_type": "exact",
+        "match_score": 141
+      },
+      "short_game_score": null
+    },
+    {
       "catalog_group": "xbox-only",
       "is_on_gfn": false,
       "title": "The Saboteur™",
@@ -22539,6 +22586,59 @@
       "howlongtobeat": null,
       "opencritic": null,
       "short_game_score": null
+    },
+    {
+      "catalog_group": "intersection",
+      "is_on_gfn": true,
+      "title": "Virtua Fighter 5 R.E.V.O. World Stage",
+      "normalized_title": "virtua fighter 5 r e v o world stage",
+      "gfn_stores": [
+        "STEAM"
+      ],
+      "gfn_has_xbox_store": false,
+      "xbox_title": "Virtua Fighter 5 R.E.V.O. World Stage",
+      "xbox_product_id": "9NSM674QVLBS",
+      "xbox_url": "https://www.microsoft.com/store/productId/9NSM674QVLBS",
+      "publisher": "SEGA",
+      "developer": "SEGA",
+      "release_date": "2025-10-29T23:00:00.0000000Z",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.22152.14360936962313275.d5800ab2-f5c2-4ca4-b20f-b66ceccc1330.89de29c2-55d6-4095-be26-b5d1eab6abf2",
+      "description": "The pioneer 3D fighting series continues to evolve as Virtua Fighter 5 R.E.V.O. World Stage arrives on Xbox Series X|S.",
+      "match_type": "exact-title",
+      "match_score": 120,
+      "howlongtobeat": {
+        "title": "Virtua Fighter 5 R.E.V.O. World Stage",
+        "game_id": 159606,
+        "url": "https://howlongtobeat.com/game/159606",
+        "image_url": "https://howlongtobeat.com/games/159606_Virtua_Fighter_5_R.E.V.O..jpg",
+        "main_story_seconds": 1613,
+        "review_score": 77,
+        "completion_count": 30,
+        "release_year": 2025,
+        "profile_platform": "Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
+        "match_type": "exact",
+        "match_score": 139
+      },
+      "opencritic": {
+        "title": "Virtua Fighter 5 R.E.V.O. World Stage",
+        "game_id": 19496,
+        "url": "https://opencritic.com/game/19496/virtua-fighter-5-r-e-v-o-world-stage",
+        "top_critic_score": 82.8,
+        "percent_recommended": 78.8,
+        "tier": "Strong",
+        "median_score": 80,
+        "review_count": 33,
+        "release_year": 2025,
+        "match_type": "exact",
+        "match_score": 148
+      },
+      "short_game_score": {
+        "score": 88.0,
+        "critic_score": 82.8,
+        "duration_fit_score": 100.0,
+        "main_story_hours": 0.4,
+        "target_hours": 15.0
+      }
     },
     {
       "catalog_group": "intersection",
