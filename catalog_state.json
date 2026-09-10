@@ -79,6 +79,12 @@
       "STEAM"
     ]
   },
+  "1666 amsterdam": {
+    "name": "1666: Amsterdam",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "1943 deadly desert": {
     "name": "1943 Deadly Desert",
     "stores": [
@@ -7538,6 +7544,7 @@
   "death stranding director s cut": {
     "name": "DEATH STRANDING DIRECTOR'S CUT™",
     "stores": [
+      "EPIC",
       "STEAM"
     ]
   },
@@ -8023,8 +8030,8 @@
       "UPLAY"
     ]
   },
-  "diablo ii resurrected": {
-    "name": "Diablo® II: Resurrected™",
+  "diablo ii resurrected infernal edition": {
+    "name": "Diablo II: Resurrected – Infernal Edition",
     "stores": [
       "BATTLENET",
       "STEAM",
@@ -9413,6 +9420,12 @@
   },
   "eco volunteer": {
     "name": "Eco Volunteer",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "eco volunteer demo": {
+    "name": "Eco Volunteer Demo",
     "stores": [
       "STEAM"
     ]
@@ -28001,6 +28014,12 @@
       "XBOX"
     ]
   },
+  "starfinder afterlight demo": {
+    "name": "Starfinder: Afterlight Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "stargate timekeepers": {
     "name": "Stargate: Timekeepers",
     "stores": [
@@ -30165,6 +30184,12 @@
   },
   "the age of decadence": {
     "name": "The Age of Decadence",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "the alighieri circle dante s bloodline": {
+    "name": "The Alighieri Circle: Dante's Bloodline",
     "stores": [
       "STEAM"
     ]

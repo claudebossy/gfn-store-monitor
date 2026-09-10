@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T16:22:52+00:00",
+  "generated_at": "2026-09-10T20:50:44+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -1543,6 +1543,59 @@
         }
       ],
       "new_stores": []
+    },
+    {
+      "timestamp": "2026-09-10T20:50:44+00:00",
+      "baseline": false,
+      "catalog_game_count": 6000,
+      "new_game_count": 5,
+      "new_store_count": 1,
+      "new_games": [
+        {
+          "name": "1666: Amsterdam",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Diablo II: Resurrected – Infernal Edition",
+          "stores": [
+            "BATTLENET",
+            "STEAM",
+            "UPLAY"
+          ]
+        },
+        {
+          "name": "Eco Volunteer Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Starfinder: Afterlight Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "The Alighieri Circle: Dante's Bloodline",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
+      "new_stores": [
+        {
+          "name": "DEATH STRANDING DIRECTOR'S CUT™",
+          "stores": [
+            "EPIC",
+            "STEAM"
+          ],
+          "new_stores": [
+            "EPIC"
+          ]
+        }
+      ]
     }
   ]
 }
