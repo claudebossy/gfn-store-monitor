@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T16:30:39+00:00",
+  "generated_at": "2026-09-10T20:56:43+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,19 +13,19 @@
     }
   },
   "counts": {
-    "gfn_titles": 5996,
+    "gfn_titles": 6000,
     "xbox_pc_titles": 565,
-    "catalog_titles": 538,
-    "intersection_titles": 349,
+    "catalog_titles": 537,
+    "intersection_titles": 348,
     "xbox_only_titles": 189
   },
   "summary": {
     "store_counts": {
-      "STEAM": 325,
+      "STEAM": 324,
       "XBOX": 204,
-      "EPIC": 74,
-      "UPLAY": 31,
-      "BATTLENET": 22,
+      "EPIC": 75,
+      "UPLAY": 30,
+      "BATTLENET": 21,
       "EA_APP": 16,
       "GOG": 4,
       "NONE": 3,
@@ -52,7 +52,7 @@
       },
       {
         "name": "Blizzard Entertainment",
-        "count": 12
+        "count": 11
       },
       {
         "name": "Microsoft Studios",
@@ -84,12 +84,12 @@
       }
     ],
     "gfn_xbox_store_matches": 204,
-    "intersection_titles": 349,
+    "intersection_titles": 348,
     "xbox_only_titles": 189,
     "hltb_matches": 389,
-    "opencritic_matches": 463,
+    "opencritic_matches": 462,
     "short_game_score_matches": 303,
-    "exact_matches": 324,
+    "exact_matches": 323,
     "partial_matches": 25
   },
   "games": [
@@ -5411,6 +5411,7 @@
       "title": "DEATH STRANDING DIRECTOR'S CUT™",
       "normalized_title": "death stranding director s cut",
       "gfn_stores": [
+        "EPIC",
         "STEAM"
       ],
       "gfn_has_xbox_store": false,
@@ -5796,43 +5797,6 @@
       "match_score": 120,
       "howlongtobeat": null,
       "opencritic": null,
-      "short_game_score": null
-    },
-    {
-      "catalog_group": "intersection",
-      "is_on_gfn": true,
-      "title": "Diablo® II: Resurrected™",
-      "normalized_title": "diablo ii resurrected",
-      "gfn_stores": [
-        "BATTLENET",
-        "STEAM",
-        "UPLAY"
-      ],
-      "gfn_has_xbox_store": false,
-      "xbox_title": "Diablo® II: Resurrected™ PC",
-      "xbox_product_id": "9NPSLX5HNN3H",
-      "xbox_url": "https://www.microsoft.com/store/productId/9NPSLX5HNN3H",
-      "publisher": "Blizzard Entertainment",
-      "developer": "Blizzard Entertainment",
-      "release_date": "2021-09-23T00:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.61919.13787575917554446.20ecdcd9-96ae-4d60-9a48-235f05f09ce0.7ba05d68-a72a-4087-818a-3cced112f118",
-      "description": "Evil has survived. Relive the epic adventure that defined the action RPG genre for decades.",
-      "match_type": "exact-title",
-      "match_score": 120,
-      "howlongtobeat": null,
-      "opencritic": {
-        "title": "Diablo II: Resurrected",
-        "game_id": 11620,
-        "url": "https://opencritic.com/game/11620/diablo-ii-resurrected",
-        "top_critic_score": 80.2,
-        "percent_recommended": 77.9,
-        "tier": "Strong",
-        "median_score": 80,
-        "review_count": 115,
-        "release_year": 2021,
-        "match_type": "exact",
-        "match_score": 152
-      },
       "short_game_score": null
     },
     {
@@ -9542,7 +9506,7 @@
       "publisher": "GOALS",
       "developer": "GOALS",
       "release_date": "2026-06-04T14:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.10514.14212860962709000.df32da00-c18c-45f6-a4b4-4e82dfd43691.7080987b-1659-4fef-8b18-c30c5e6cdf14",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.56361.14212860962709000.7d0349ee-2f9e-4a67-90da-e62696fef7df.7eaa543d-2505-4f0d-afcf-c78c480e525e",
       "description": "GOALS is a fast, responsive soccer game built for pure skill, real competition, and a global community. Gameplay first, free to play, crossplay and unique players. No excuses - just soccer.",
       "match_type": "exact-title",
       "match_score": 120,
