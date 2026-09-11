@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T20:50:44+00:00",
+  "generated_at": "2026-09-11T04:37:49+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -1593,6 +1593,56 @@
           ],
           "new_stores": [
             "EPIC"
+          ]
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-11T04:37:49+00:00",
+      "baseline": false,
+      "catalog_game_count": 6005,
+      "new_game_count": 5,
+      "new_store_count": 1,
+      "new_games": [
+        {
+          "name": "Mistfall Hunter",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Nucleares",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Scritchy Scratchy",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Shroom and Gloom",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Welcome to Elderfield",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
+      "new_stores": [
+        {
+          "name": "TerraTech Legion",
+          "stores": [
+            "XBOX"
+          ],
+          "new_stores": [
+            "XBOX"
           ]
         }
       ]

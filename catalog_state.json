@@ -18613,6 +18613,12 @@
       "STEAM"
     ]
   },
+  "mistfall hunter": {
+    "name": "Mistfall Hunter",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "misty valley a cozy fishing tale demo": {
     "name": "Misty Valley: A Cozy Fishing Tale Demo",
     "stores": [
@@ -20247,6 +20253,12 @@
   },
   "nuclear option": {
     "name": "Nuclear Option",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "nucleares": {
+    "name": "Nucleares",
     "stores": [
       "STEAM"
     ]
@@ -25324,6 +25336,12 @@
       "STEAM"
     ]
   },
+  "scritchy scratchy": {
+    "name": "Scritchy Scratchy",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "scrutinized": {
     "name": "Scrutinized",
     "stores": [
@@ -26045,6 +26063,12 @@
   },
   "shredders": {
     "name": "Shredders",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "shroom and gloom": {
+    "name": "Shroom and Gloom",
     "stores": [
       "STEAM"
     ]
@@ -30064,7 +30088,7 @@
   "terratech legion": {
     "name": "TerraTech Legion",
     "stores": [
-      "STEAM"
+      "XBOX"
     ]
   },
   "terratech legion demo": {
@@ -35407,6 +35431,12 @@
     "name": "Weird West: Definitive Edition",
     "stores": [
       "EPIC",
+      "STEAM"
+    ]
+  },
+  "welcome to elderfield": {
+    "name": "Welcome to Elderfield",
+    "stores": [
       "STEAM"
     ]
   },
