@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T20:56:43+00:00",
+  "generated_at": "2026-09-11T04:49:24+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,16 +13,16 @@
     }
   },
   "counts": {
-    "gfn_titles": 6000,
+    "gfn_titles": 6005,
     "xbox_pc_titles": 565,
     "catalog_titles": 537,
-    "intersection_titles": 348,
-    "xbox_only_titles": 189
+    "intersection_titles": 349,
+    "xbox_only_titles": 188
   },
   "summary": {
     "store_counts": {
       "STEAM": 324,
-      "XBOX": 204,
+      "XBOX": 205,
       "EPIC": 75,
       "UPLAY": 30,
       "BATTLENET": 21,
@@ -83,13 +83,13 @@
         "count": 7
       }
     ],
-    "gfn_xbox_store_matches": 204,
-    "intersection_titles": 348,
-    "xbox_only_titles": 189,
+    "gfn_xbox_store_matches": 205,
+    "intersection_titles": 349,
+    "xbox_only_titles": 188,
     "hltb_matches": 389,
     "opencritic_matches": 462,
     "short_game_score_matches": 303,
-    "exact_matches": 323,
+    "exact_matches": 324,
     "partial_matches": 25
   },
   "games": [
@@ -13488,11 +13488,13 @@
       "short_game_score": null
     },
     {
-      "catalog_group": "xbox-only",
-      "is_on_gfn": false,
+      "catalog_group": "intersection",
+      "is_on_gfn": true,
       "title": "Mistfall Hunter",
       "normalized_title": "mistfall hunter",
-      "gfn_stores": [],
+      "gfn_stores": [
+        "STEAM"
+      ],
       "gfn_has_xbox_store": false,
       "xbox_title": "Mistfall Hunter",
       "xbox_product_id": "9P8X6TVW9ZW8",
@@ -13502,8 +13504,8 @@
       "release_date": "2026-07-30T01:00:00.0000000Z",
       "image_url": "https://store-images.s-microsoft.com/image/apps.39397.14079456565345641.e3e3713f-53d2-4829-9bd5-395a291216ac.ebc9df1e-40f7-48ac-bc52-e91dfb954e0c",
       "description": "Mistfall Hunter is a dark fantasy extraction ARPG.\nCombine skills, talents, and gear for each class in thrilling combat! Whether you team up or go solo, one thing remains certain—only by fighting your way through can you return with a full haul. Good luck, Gyldhunter.",
-      "match_type": "xbox-only",
-      "match_score": 0,
+      "match_type": "exact-title",
+      "match_score": 120,
       "howlongtobeat": {
         "title": "Mistfall Hunter",
         "game_id": 158249,
@@ -20017,9 +20019,9 @@
       "title": "TerraTech Legion",
       "normalized_title": "terratech legion",
       "gfn_stores": [
-        "STEAM"
+        "XBOX"
       ],
-      "gfn_has_xbox_store": false,
+      "gfn_has_xbox_store": true,
       "xbox_title": "TerraTech Legion",
       "xbox_product_id": "9NG66K0Z31LH",
       "xbox_url": "https://www.microsoft.com/store/productId/9NG66K0Z31LH",
