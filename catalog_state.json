@@ -8138,6 +8138,12 @@
       "STEAM"
     ]
   },
+  "dimhaven the lost source": {
+    "name": "Dimhaven - The Lost Source",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "dinkum": {
     "name": "Dinkum",
     "stores": [
@@ -34983,6 +34989,12 @@
   },
   "warding witches demo": {
     "name": "Warding Witches Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "wardogs": {
+    "name": "WARDOGS",
     "stores": [
       "STEAM"
     ]
