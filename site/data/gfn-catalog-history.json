@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T20:56:48+00:00",
+  "generated_at": "2026-09-12T04:32:30+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -1680,6 +1680,22 @@
         },
         {
           "name": "WARDOGS",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
+      "new_stores": []
+    },
+    {
+      "timestamp": "2026-09-12T04:32:30+00:00",
+      "baseline": false,
+      "catalog_game_count": 6008,
+      "new_game_count": 1,
+      "new_store_count": 0,
+      "new_games": [
+        {
+          "name": "Football, Tactics & Glory",
           "stores": [
             "STEAM"
           ]
