@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T12:00:55+00:00",
+  "generated_at": "2026-09-13T16:26:10+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,17 +13,17 @@
     }
   },
   "counts": {
-    "gfn_titles": 6008,
+    "gfn_titles": 5997,
     "xbox_pc_titles": 565,
-    "catalog_titles": 537,
+    "catalog_titles": 532,
     "intersection_titles": 349,
-    "xbox_only_titles": 188
+    "xbox_only_titles": 183
   },
   "summary": {
     "store_counts": {
       "STEAM": 324,
-      "XBOX": 205,
-      "EPIC": 75,
+      "XBOX": 204,
+      "EPIC": 76,
       "UPLAY": 30,
       "BATTLENET": 21,
       "EA_APP": 16,
@@ -67,10 +67,6 @@
         "count": 9
       },
       {
-        "name": "SQUARE ENIX",
-        "count": 8
-      },
-      {
         "name": "Hooded Horse",
         "count": 7
       },
@@ -81,16 +77,20 @@
       {
         "name": "11 bit studios",
         "count": 7
+      },
+      {
+        "name": "Raw Fury",
+        "count": 6
       }
     ],
-    "gfn_xbox_store_matches": 205,
+    "gfn_xbox_store_matches": 204,
     "intersection_titles": 349,
-    "xbox_only_titles": 188,
-    "hltb_matches": 389,
-    "opencritic_matches": 462,
-    "short_game_score_matches": 303,
-    "exact_matches": 324,
-    "partial_matches": 25
+    "xbox_only_titles": 183,
+    "hltb_matches": 384,
+    "opencritic_matches": 458,
+    "short_game_score_matches": 300,
+    "exact_matches": 323,
+    "partial_matches": 26
   },
   "games": [
     {
@@ -8073,11 +8073,14 @@
       }
     },
     {
-      "catalog_group": "xbox-only",
-      "is_on_gfn": false,
-      "title": "FINAL FANTASY",
-      "normalized_title": "final fantasy",
-      "gfn_stores": [],
+      "catalog_group": "intersection",
+      "is_on_gfn": true,
+      "title": "FINAL FANTASY™ XVI",
+      "normalized_title": "final fantasy xvi",
+      "gfn_stores": [
+        "EPIC",
+        "STEAM"
+      ],
       "gfn_has_xbox_store": false,
       "xbox_title": "FINAL FANTASY",
       "xbox_product_id": "9P20JCF7BV93",
@@ -8087,272 +8090,41 @@
       "release_date": "2024-09-26T11:00:00.0000000Z",
       "image_url": "https://store-images.s-microsoft.com/image/apps.1297.14497225432838110.c9bc6313-59b0-4390-ab1e-e37d38dd231a.a3629331-43b4-4e38-8b8e-4edb20d76f93",
       "description": "The original FINAL FANTASY comes to life with completely new graphics and audio as a 2D pixel remaster!",
-      "match_type": "xbox-only",
-      "match_score": 0,
+      "match_type": "partial",
+      "match_score": 95,
       "howlongtobeat": {
-        "title": "Final Fantasy",
-        "game_id": 3480,
-        "url": "https://howlongtobeat.com/game/3480",
-        "image_url": "https://howlongtobeat.com/games/3480_Final_Fantasy.jpg",
-        "main_story_seconds": 54285,
-        "review_score": 72,
-        "completion_count": 5854,
-        "release_year": 1987,
-        "profile_platform": "Game Boy Advance, MSX, Mobile, NES, Nintendo 3DS, Nintendo Switch, PC, PlayStation, PlayStation 4, PlayStation Portable, WonderSwan, Xbox One, Xbox Series X/S",
+        "title": "Final Fantasy XVI",
+        "game_id": 83152,
+        "url": "https://howlongtobeat.com/game/83152",
+        "image_url": "https://howlongtobeat.com/games/83152_Final_Fantasy_XVI.jpg",
+        "main_story_seconds": 137850,
+        "review_score": 82,
+        "completion_count": 5666,
+        "release_year": 2023,
+        "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 136
       },
       "opencritic": {
         "title": "Final Fantasy XVI",
         "game_id": 14516,
         "url": "https://opencritic.com/game/14516/final-fantasy-xvi",
         "top_critic_score": 87.2,
-        "percent_recommended": 91.6,
+        "percent_recommended": 91.7,
         "tier": "Mighty",
         "median_score": 90,
-        "review_count": 209,
+        "review_count": 211,
         "release_year": 2023,
-        "match_type": "partial",
-        "match_score": 119
+        "match_type": "exact",
+        "match_score": 151
       },
       "short_game_score": {
-        "score": 91.0,
+        "score": 63.4,
         "critic_score": 87.2,
-        "duration_fit_score": 99.9,
-        "main_story_hours": 15.1,
+        "duration_fit_score": 7.8,
+        "main_story_hours": 38.3,
         "target_hours": 15.0
       }
-    },
-    {
-      "catalog_group": "xbox-only",
-      "is_on_gfn": false,
-      "title": "FINAL FANTASY II",
-      "normalized_title": "final fantasy ii",
-      "gfn_stores": [],
-      "gfn_has_xbox_store": false,
-      "xbox_title": "FINAL FANTASY II",
-      "xbox_product_id": "9P8S1MN4066K",
-      "xbox_url": "https://www.microsoft.com/store/productId/9P8S1MN4066K",
-      "publisher": "SQUARE ENIX",
-      "developer": null,
-      "release_date": "2024-09-26T11:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.1149.14086627234907834.c86030ab-e956-465c-adca-f4a75ba02c31.d412544c-097b-49f6-9c16-a40fc6325db6",
-      "description": "The original FINAL FANTASY II comes to life with completely new graphics and audio as a 2D pixel remaster!",
-      "match_type": "xbox-only",
-      "match_score": 0,
-      "howlongtobeat": {
-        "title": "Final Fantasy II",
-        "game_id": 3495,
-        "url": "https://howlongtobeat.com/game/3495",
-        "image_url": "https://howlongtobeat.com/games/3495_Final_Fantasy_II.jpg",
-        "main_story_seconds": 73348,
-        "review_score": 65,
-        "completion_count": 2961,
-        "release_year": 1988,
-        "profile_platform": "Game Boy Advance, Mobile, NES, Nintendo 3DS, Nintendo Switch, PC, PlayStation, PlayStation 4, PlayStation Portable, WonderSwan, Xbox One, Xbox Series X/S",
-        "match_type": "exact",
-        "match_score": 130
-      },
-      "opencritic": {
-        "title": "Final Fantasy III",
-        "game_id": 529,
-        "url": "https://opencritic.com/game/529/final-fantasy-iii",
-        "top_critic_score": 62.9,
-        "percent_recommended": 22.2,
-        "tier": "Weak",
-        "median_score": 60,
-        "review_count": 9,
-        "release_year": 2014,
-        "match_type": "partial",
-        "match_score": 106
-      },
-      "short_game_score": {
-        "score": 68.9,
-        "critic_score": 62.9,
-        "duration_fit_score": 82.9,
-        "main_story_hours": 20.4,
-        "target_hours": 15.0
-      }
-    },
-    {
-      "catalog_group": "xbox-only",
-      "is_on_gfn": false,
-      "title": "FINAL FANTASY III",
-      "normalized_title": "final fantasy iii",
-      "gfn_stores": [],
-      "gfn_has_xbox_store": false,
-      "xbox_title": "FINAL FANTASY III",
-      "xbox_product_id": "9NWDPFPPK30V",
-      "xbox_url": "https://www.microsoft.com/store/productId/9NWDPFPPK30V",
-      "publisher": "SQUARE ENIX",
-      "developer": null,
-      "release_date": "2024-09-26T11:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.29023.14451317888346729.aa788569-1cd5-4640-bca3-a53d5278fc18.7d86cffd-8a0c-4e73-a1b5-fd84675e5b6a",
-      "description": "The original FINAL FANTASY III comes to life with completely new graphics and audio as a 2D pixel remaster!",
-      "match_type": "xbox-only",
-      "match_score": 0,
-      "howlongtobeat": {
-        "title": "Final Fantasy III",
-        "game_id": 94537,
-        "url": "https://howlongtobeat.com/game/94537",
-        "image_url": "https://howlongtobeat.com/games/94537_Final_Fantasy_III.jpg",
-        "main_story_seconds": 57472,
-        "review_score": 73,
-        "completion_count": 1669,
-        "release_year": 1990,
-        "profile_platform": "Mobile, NES, Nintendo Switch, PC, PlayStation 4, Xbox One, Xbox Series X/S",
-        "match_type": "exact",
-        "match_score": 130
-      },
-      "opencritic": {
-        "title": "Final Fantasy III",
-        "game_id": 529,
-        "url": "https://opencritic.com/game/529/final-fantasy-iii",
-        "top_critic_score": 62.9,
-        "percent_recommended": 22.2,
-        "tier": "Weak",
-        "median_score": 60,
-        "review_count": 9,
-        "release_year": 2014,
-        "match_type": "exact",
-        "match_score": 135
-      },
-      "short_game_score": {
-        "score": 73.3,
-        "critic_score": 62.9,
-        "duration_fit_score": 97.6,
-        "main_story_hours": 16.0,
-        "target_hours": 15.0
-      }
-    },
-    {
-      "catalog_group": "xbox-only",
-      "is_on_gfn": false,
-      "title": "FINAL FANTASY IV",
-      "normalized_title": "final fantasy iv",
-      "gfn_stores": [],
-      "gfn_has_xbox_store": false,
-      "xbox_title": "FINAL FANTASY IV",
-      "xbox_product_id": "9N8C07SS8C9D",
-      "xbox_url": "https://www.microsoft.com/store/productId/9N8C07SS8C9D",
-      "publisher": "SQUARE ENIX",
-      "developer": null,
-      "release_date": "2024-09-26T11:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.22995.14047651100003233.0972ca9a-2a5a-40da-ab16-debd2d97175b.ee33af95-f2de-47b5-ac30-2f7ffb560270",
-      "description": "The original FINAL FANTASY IV comes to life with completely new graphics and audio as a 2D pixel remaster!",
-      "match_type": "xbox-only",
-      "match_score": 0,
-      "howlongtobeat": {
-        "title": "Final Fantasy IV",
-        "game_id": 3499,
-        "url": "https://howlongtobeat.com/game/3499",
-        "image_url": "https://howlongtobeat.com/games/3499_Final_Fantasy_IV.jpg",
-        "main_story_seconds": 71890,
-        "review_score": 80,
-        "completion_count": 2920,
-        "release_year": 1991,
-        "profile_platform": "Game Boy Advance, Mobile, Nintendo Switch, PC, PlayStation, PlayStation 4, PlayStation Portable, Super Nintendo, WonderSwan, Xbox One, Xbox Series X/S",
-        "match_type": "exact",
-        "match_score": 130
-      },
-      "opencritic": null,
-      "short_game_score": null
-    },
-    {
-      "catalog_group": "xbox-only",
-      "is_on_gfn": false,
-      "title": "FINAL FANTASY V",
-      "normalized_title": "final fantasy v",
-      "gfn_stores": [],
-      "gfn_has_xbox_store": false,
-      "xbox_title": "FINAL FANTASY V",
-      "xbox_product_id": "9N9C8SV0S16W",
-      "xbox_url": "https://www.microsoft.com/store/productId/9N9C8SV0S16W",
-      "publisher": "SQUARE ENIX",
-      "developer": null,
-      "release_date": "2024-09-26T11:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.11900.13539872402382388.b924c764-f5ca-49ac-9e31-d5ada1c5b84b.2fa554e2-7136-45e3-80b8-fcb28ebc23c4",
-      "description": "The original FINAL FANTASY V comes to life with completely new graphics and audio as a 2D pixel remaster!",
-      "match_type": "xbox-only",
-      "match_score": 0,
-      "howlongtobeat": {
-        "title": "Final Fantasy V",
-        "game_id": 3516,
-        "url": "https://howlongtobeat.com/game/3516",
-        "image_url": "https://howlongtobeat.com/games/3516_Final_Fantasy_V.jpg",
-        "main_story_seconds": 109745,
-        "review_score": 80,
-        "completion_count": 2349,
-        "release_year": 1992,
-        "profile_platform": "Game Boy Advance, Mobile, Nintendo Switch, PC, PlayStation, PlayStation 4, PlayStation Portable, Super Nintendo, Xbox One, Xbox Series X/S",
-        "match_type": "exact",
-        "match_score": 130
-      },
-      "opencritic": {
-        "title": "Final Fantasy V",
-        "game_id": 1821,
-        "url": "https://opencritic.com/game/1821/final-fantasy-v",
-        "top_critic_score": 64.0,
-        "percent_recommended": 60.0,
-        "tier": "Weak",
-        "median_score": 80,
-        "review_count": 5,
-        "release_year": 2015,
-        "match_type": "exact",
-        "match_score": 135
-      },
-      "short_game_score": {
-        "score": 57.5,
-        "critic_score": 64.0,
-        "duration_fit_score": 42.4,
-        "main_story_hours": 30.5,
-        "target_hours": 15.0
-      }
-    },
-    {
-      "catalog_group": "xbox-only",
-      "is_on_gfn": false,
-      "title": "FINAL FANTASY VI",
-      "normalized_title": "final fantasy vi",
-      "gfn_stores": [],
-      "gfn_has_xbox_store": false,
-      "xbox_title": "FINAL FANTASY VI",
-      "xbox_product_id": "9N255K81XBD3",
-      "xbox_url": "https://www.microsoft.com/store/productId/9N255K81XBD3",
-      "publisher": "SQUARE ENIX",
-      "developer": null,
-      "release_date": "2024-09-26T11:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.30999.13963239069939428.625a335f-7e8c-428e-8629-b822af0d8cc8.59166e05-0600-4e50-83f9-7149b9c79079",
-      "description": "The original FINAL FANTASY VI comes to life with completely new graphics and audio as a 2D pixel remaster!",
-      "match_type": "xbox-only",
-      "match_score": 0,
-      "howlongtobeat": {
-        "title": "Final Fantasy VI",
-        "game_id": 3519,
-        "url": "https://howlongtobeat.com/game/3519",
-        "image_url": "https://howlongtobeat.com/games/3519_Final_Fantasy_VI.jpg",
-        "main_story_seconds": 118719,
-        "review_score": 88,
-        "completion_count": 4032,
-        "release_year": 1994,
-        "profile_platform": "Game Boy Advance, Mobile, Nintendo Switch, PC, PlayStation, PlayStation 4, Super Nintendo, Xbox One, Xbox Series X/S",
-        "match_type": "exact",
-        "match_score": 130
-      },
-      "opencritic": {
-        "title": "Final Fantasy VI",
-        "game_id": 2168,
-        "url": "https://opencritic.com/game/2168/final-fantasy-vi",
-        "top_critic_score": null,
-        "percent_recommended": null,
-        "tier": null,
-        "median_score": null,
-        "review_count": 2,
-        "release_year": 2015,
-        "match_type": "exact",
-        "match_score": 135
-      },
-      "short_game_score": null
     },
     {
       "catalog_group": "intersection",
@@ -19607,15 +19379,12 @@
       "short_game_score": null
     },
     {
-      "catalog_group": "intersection",
-      "is_on_gfn": true,
+      "catalog_group": "xbox-only",
+      "is_on_gfn": false,
       "title": "SWORN",
       "normalized_title": "sworn",
-      "gfn_stores": [
-        "STEAM",
-        "XBOX"
-      ],
-      "gfn_has_xbox_store": true,
+      "gfn_stores": [],
+      "gfn_has_xbox_store": false,
       "xbox_title": "SWORN",
       "xbox_product_id": "9MWDJRQ1BXTC",
       "xbox_url": "https://www.microsoft.com/store/productId/9MWDJRQ1BXTC",
@@ -19624,8 +19393,8 @@
       "release_date": "2025-09-23T00:00:00.0000000Z",
       "image_url": "https://store-images.s-microsoft.com/image/apps.63785.13511316360139765.c27c733b-7cf6-4671-a04c-5a2fcb95b0f0.6ccd7a07-4bea-4edd-9d1a-ed34083247f3",
       "description": null,
-      "match_type": "exact-title",
-      "match_score": 120,
+      "match_type": "xbox-only",
+      "match_score": 0,
       "howlongtobeat": {
         "title": "SWORN",
         "game_id": 147515,

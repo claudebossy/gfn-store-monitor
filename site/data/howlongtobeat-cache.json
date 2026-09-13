@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T12:01:07+00:00",
+  "updated_at": "2026-09-13T16:26:27+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -8015,6 +8015,24 @@
         "profile_platform": "Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
         "match_score": 139
+      }
+    },
+    "final fantasy xvi": {
+      "title": "FINAL FANTASY™ XVI",
+      "status": "matched",
+      "fetched_at": "2026-09-13T16:26:23+00:00",
+      "data": {
+        "title": "Final Fantasy XVI",
+        "game_id": 83152,
+        "url": "https://howlongtobeat.com/game/83152",
+        "image_url": "https://howlongtobeat.com/games/83152_Final_Fantasy_XVI.jpg",
+        "main_story_seconds": 137850,
+        "review_score": 82,
+        "completion_count": 5666,
+        "release_year": 2023,
+        "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
+        "match_type": "exact",
+        "match_score": 136
       }
     }
   }
