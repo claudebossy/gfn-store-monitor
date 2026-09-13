@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T16:15:05+00:00",
+  "generated_at": "2026-09-13T20:48:28+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -1750,6 +1750,15 @@
     },
     {
       "timestamp": "2026-09-13T16:15:05+00:00",
+      "baseline": false,
+      "catalog_game_count": 6008,
+      "new_game_count": 0,
+      "new_store_count": 0,
+      "new_games": [],
+      "new_stores": []
+    },
+    {
+      "timestamp": "2026-09-13T20:48:28+00:00",
       "baseline": false,
       "catalog_game_count": 6008,
       "new_game_count": 0,
