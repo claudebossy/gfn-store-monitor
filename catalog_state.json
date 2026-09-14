@@ -7933,6 +7933,12 @@
       "STEAM"
     ]
   },
+  "detective dave 3d rpg": {
+    "name": "Detective Dave 3D RPG",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "deus ex breach": {
     "name": "Deus Ex: Breach™",
     "stores": [
@@ -9634,6 +9640,12 @@
   },
   "elizabeth": {
     "name": "Elizabeth",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "ells tales chairbound": {
+    "name": "Ells Tales: Chairbound",
     "stores": [
       "STEAM"
     ]
