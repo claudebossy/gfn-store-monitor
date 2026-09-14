@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T12:43:15+00:00",
+  "generated_at": "2026-09-14T21:48:31+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -1795,6 +1795,34 @@
       "new_game_count": 0,
       "new_store_count": 0,
       "new_games": [],
+      "new_stores": []
+    },
+    {
+      "timestamp": "2026-09-14T21:48:31+00:00",
+      "baseline": false,
+      "catalog_game_count": 6013,
+      "new_game_count": 3,
+      "new_store_count": 0,
+      "new_games": [
+        {
+          "name": "Cleaner Company Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Dunebound Tactics",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Emergency Call - The Firefighting Simulation 3",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
       "new_stores": []
     }
   ]

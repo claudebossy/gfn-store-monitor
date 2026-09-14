@@ -5728,6 +5728,12 @@
       "STEAM"
     ]
   },
+  "cleaner company demo": {
+    "name": "Cleaner Company Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "cleared hot": {
     "name": "Cleared Hot",
     "stores": [
@@ -9015,6 +9021,12 @@
       "XBOX"
     ]
   },
+  "dunebound tactics": {
+    "name": "Dunebound Tactics",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "dungelot shattered lands": {
     "name": "Dungelot: Shattered Lands",
     "stores": [
@@ -9694,6 +9706,12 @@
   },
   "embr": {
     "name": "Embr",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "emergency call the firefighting simulation 3": {
+    "name": "Emergency Call - The Firefighting Simulation 3",
     "stores": [
       "STEAM"
     ]
