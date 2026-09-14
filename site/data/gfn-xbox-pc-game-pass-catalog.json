@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T20:55:23+00:00",
+  "generated_at": "2026-09-14T05:05:28+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,7 +13,7 @@
     }
   },
   "counts": {
-    "gfn_titles": 6008,
+    "gfn_titles": 6010,
     "xbox_pc_titles": 565,
     "catalog_titles": 537,
     "intersection_titles": 349,
