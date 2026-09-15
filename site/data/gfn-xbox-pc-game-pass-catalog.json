@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T21:54:05+00:00",
+  "generated_at": "2026-09-15T05:01:18+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -19807,14 +19807,14 @@
         "XBOX"
       ],
       "gfn_has_xbox_store": true,
-      "xbox_title": "TCG Card Shop Simulator (Game Preview)",
+      "xbox_title": "TCG Card Shop Simulator",
       "xbox_product_id": "9P9GX5D8H9DW",
       "xbox_url": "https://www.microsoft.com/store/productId/9P9GX5D8H9DW",
       "publisher": "OPNeon Games Sdn Bhd",
       "developer": "OPNeon Games Sdn Bhd",
       "release_date": "2026-09-15T00:00:00.0000000Z",
       "image_url": "https://store-images.s-microsoft.com/image/apps.25142.14143053245725704.14ebe58d-2f1e-46da-9224-f0da06983250.7a1d13b7-1f0f-49cf-bb4f-71c01913ab00",
-      "description": "This game is a work in progress. It may or may not change over time or release as a final product. Purchase only if you are comfortable with the current state of the unfinished game.\n\nOpen your own local game store. Stock shelves with the latest booster packs, or crack them and collect the cards for yourself. Set your own prices, hire staff, host events, and expand your card shop.",
+      "description": "Open your own local game store. Stock shelves with the latest booster packs, or crack them and collect the cards for yourself. Set your own prices, hire staff, host events, and expand your card shop.",
       "match_type": "exact-title",
       "match_score": 120,
       "howlongtobeat": {
