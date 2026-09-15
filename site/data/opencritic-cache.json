@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T05:01:32+00:00",
+  "updated_at": "2026-09-15T11:53:06+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -8909,6 +8909,24 @@
         "release_year": 2023,
         "match_type": "exact",
         "match_score": 151
+      }
+    },
+    "runescape dragonwilds": {
+      "title": "RuneScape: Dragonwilds",
+      "status": "matched",
+      "fetched_at": "2026-09-15T11:53:05+00:00",
+      "data": {
+        "title": "RuneScape: Dragonwilds",
+        "game_id": 18422,
+        "url": "https://opencritic.com/game/18422/runescape-dragonwilds",
+        "top_critic_score": null,
+        "percent_recommended": null,
+        "tier": null,
+        "median_score": null,
+        "review_count": 2,
+        "release_year": 2025,
+        "match_type": "exact",
+        "match_score": 141
       }
     }
   }

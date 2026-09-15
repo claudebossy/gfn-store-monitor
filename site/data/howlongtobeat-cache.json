@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T05:01:32+00:00",
+  "updated_at": "2026-09-15T11:53:06+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -8031,6 +8031,24 @@
         "completion_count": 5666,
         "release_year": 2023,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
+        "match_type": "exact",
+        "match_score": 136
+      }
+    },
+    "runescape dragonwilds": {
+      "title": "RuneScape: Dragonwilds",
+      "status": "matched",
+      "fetched_at": "2026-09-15T11:53:05+00:00",
+      "data": {
+        "title": "RuneScape: Dragonwilds",
+        "game_id": 166197,
+        "url": "https://howlongtobeat.com/game/166197",
+        "image_url": "https://howlongtobeat.com/games/166197_RuneScape_Dragonwilds.jpg",
+        "main_story_seconds": 80544,
+        "review_score": 77,
+        "completion_count": 24,
+        "release_year": 2025,
+        "profile_platform": "Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
         "match_score": 136
       }

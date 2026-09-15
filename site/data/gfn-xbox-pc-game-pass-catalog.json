@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T05:01:18+00:00",
+  "generated_at": "2026-09-15T11:52:54+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -14,14 +14,14 @@
   },
   "counts": {
     "gfn_titles": 6013,
-    "xbox_pc_titles": 565,
-    "catalog_titles": 537,
-    "intersection_titles": 349,
+    "xbox_pc_titles": 566,
+    "catalog_titles": 538,
+    "intersection_titles": 350,
     "xbox_only_titles": 188
   },
   "summary": {
     "store_counts": {
-      "STEAM": 324,
+      "STEAM": 325,
       "XBOX": 205,
       "EPIC": 75,
       "UPLAY": 30,
@@ -84,12 +84,12 @@
       }
     ],
     "gfn_xbox_store_matches": 205,
-    "intersection_titles": 349,
+    "intersection_titles": 350,
     "xbox_only_titles": 188,
-    "hltb_matches": 389,
-    "opencritic_matches": 462,
+    "hltb_matches": 390,
+    "opencritic_matches": 463,
     "short_game_score_matches": 303,
-    "exact_matches": 324,
+    "exact_matches": 325,
     "partial_matches": 25
   },
   "games": [
@@ -17317,6 +17317,53 @@
         "main_story_hours": 6.5,
         "target_hours": 15.0
       }
+    },
+    {
+      "catalog_group": "intersection",
+      "is_on_gfn": true,
+      "title": "RuneScape: Dragonwilds",
+      "normalized_title": "runescape dragonwilds",
+      "gfn_stores": [
+        "STEAM"
+      ],
+      "gfn_has_xbox_store": false,
+      "xbox_title": "RuneScape: Dragonwilds",
+      "xbox_product_id": "9P402RWR63H4",
+      "xbox_url": "https://www.microsoft.com/store/productId/9P402RWR63H4",
+      "publisher": "Jagex: The RuneScape Company",
+      "developer": "Jagex: The RuneScape Company",
+      "release_date": "2026-09-15T09:00:00.0000000Z",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.5982.14598963835318421.d3340a04-fc78-4b06-9abb-2849494504b3.77f5bc2d-f8c7-4630-9567-dfd26fb43cb5",
+      "description": "On RuneScape's forgotten continent of Ashenfall, dragons have awoken. Gather, build, skill and craft in this co-operative survival adventure. Only by mastering survival and uncovering ancient secrets can you hope to face the ferocious Dragon Queen.",
+      "match_type": "exact-title",
+      "match_score": 120,
+      "howlongtobeat": {
+        "title": "RuneScape: Dragonwilds",
+        "game_id": 166197,
+        "url": "https://howlongtobeat.com/game/166197",
+        "image_url": "https://howlongtobeat.com/games/166197_RuneScape_Dragonwilds.jpg",
+        "main_story_seconds": 80544,
+        "review_score": 77,
+        "completion_count": 24,
+        "release_year": 2025,
+        "profile_platform": "Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
+        "match_type": "exact",
+        "match_score": 136
+      },
+      "opencritic": {
+        "title": "RuneScape: Dragonwilds",
+        "game_id": 18422,
+        "url": "https://opencritic.com/game/18422/runescape-dragonwilds",
+        "top_critic_score": null,
+        "percent_recommended": null,
+        "tier": null,
+        "median_score": null,
+        "review_count": 2,
+        "release_year": 2025,
+        "match_type": "exact",
+        "match_score": 141
+      },
+      "short_game_score": null
     },
     {
       "catalog_group": "xbox-only",
