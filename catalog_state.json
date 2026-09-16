@@ -641,6 +641,12 @@
       "STEAM"
     ]
   },
+  "active matter": {
+    "name": "Active Matter",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "active matter demo": {
     "name": "Active Matter Demo",
     "stores": [
@@ -24823,7 +24829,8 @@
   "runescape dragonwilds": {
     "name": "RuneScape: Dragonwilds",
     "stores": [
-      "STEAM"
+      "STEAM",
+      "XBOX"
     ]
   },
   "running train 走ル列車": {
@@ -25857,12 +25864,6 @@
   },
   "shapez 2 factory": {
     "name": "shapez 2 - Factory",
-    "stores": [
-      "STEAM"
-    ]
-  },
-  "shatter": {
-    "name": "Shatter",
     "stores": [
       "STEAM"
     ]
