@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T11:46:35+00:00",
+  "generated_at": "2026-09-16T17:06:46+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,7 +13,7 @@
     }
   },
   "counts": {
-    "gfn_titles": 6014,
+    "gfn_titles": 6018,
     "xbox_pc_titles": 558,
     "catalog_titles": 531,
     "intersection_titles": 344,
@@ -22107,7 +22107,7 @@
       "publisher": "Riot Games",
       "developer": "Riot Games",
       "release_date": "2022-12-12T00:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.36280.13663857844271189.41debf59-13e2-4cf9-a53f-e10086983497.63d6cd19-3636-44d1-88d9-a23c734833f8",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.17312.13663857844271189.42ac3116-ce9d-40e2-939f-ca94e72c04a8.60fe8f10-4191-45dd-8a2c-21eb91fb7ac2",
       "description": "VALORANT is a character-based 5v5 tactical shooter set on the global stage. Outwit, outplay, and outshine your competition with tactical abilities, precise gunplay, and adaptive teamwork.\r\n\r\nWith Game Pass, members will unlock: \r\n●\tAll current Agents \r\n●\tDay-one access to every new Agent as they're released\r\n●\t20% Match XP boost given to Battlepass, Event Pass, and active Agent Contract progress.",
       "match_type": "xbox-only",
       "match_score": 0,
@@ -22469,7 +22469,7 @@
       "publisher": "Gaijin Distribution Kft",
       "developer": "Gaijin Distribution Kft",
       "release_date": "2018-10-23T00:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.28763.63381296256995371.c90350dc-f7ef-4c1a-a158-a8de2f5a7725.4e32662f-ea9b-46db-abdf-c5d3071ee3cc",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.22630.63381296256995371.9e10cdbd-1881-4099-9f20-0b0885c216a7.c42b9272-8726-4fb6-b601-bc0ca73363a4",
       "description": "War Thunder is the most comprehensive free-to-play MMO military game dedicated to aviation, armoured vehicles, and naval craft from World War II and the Cold War. Join now and take part in major battles on land, in the air, and at sea, fighting with millions of players from all over the world in an ever-evolving environment.",
       "match_type": "exact-title",
       "match_score": 120,
