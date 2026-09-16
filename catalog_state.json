@@ -11304,6 +11304,12 @@
       "STEAM"
     ]
   },
+  "flamecraft demo": {
+    "name": "Flamecraft Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "flashback 2": {
     "name": "Flashback 2",
     "stores": [
@@ -22702,6 +22708,12 @@
       "STEAM"
     ]
   },
+  "professional ship simulator": {
+    "name": "Professional Ship Simulator",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "project chameleon": {
     "name": "Project Chameleon",
     "stores": [
@@ -26968,6 +26980,12 @@
   },
   "solasta crown of the magister": {
     "name": "Solasta: Crown of the Magister",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "solasta ii": {
+    "name": "Solasta II",
     "stores": [
       "STEAM"
     ]
@@ -35766,6 +35784,12 @@
   },
   "wing breakers": {
     "name": "Wing Breakers",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "wingspan": {
+    "name": "Wingspan",
     "stores": [
       "STEAM"
     ]

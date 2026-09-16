@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T11:30:06+00:00",
+  "generated_at": "2026-09-16T16:53:14+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -1889,6 +1889,40 @@
       "new_games": [
         {
           "name": "Aniimo",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
+      "new_stores": []
+    },
+    {
+      "timestamp": "2026-09-16T16:53:14+00:00",
+      "baseline": false,
+      "catalog_game_count": 6018,
+      "new_game_count": 4,
+      "new_store_count": 0,
+      "new_games": [
+        {
+          "name": "Flamecraft Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Professional Ship Simulator",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Solasta II",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Wingspan",
           "stores": [
             "STEAM"
           ]
