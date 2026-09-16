@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T21:28:11+00:00",
+  "generated_at": "2026-09-16T04:57:10+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -14,10 +14,10 @@
   },
   "counts": {
     "gfn_titles": 6013,
-    "xbox_pc_titles": 566,
-    "catalog_titles": 538,
+    "xbox_pc_titles": 567,
+    "catalog_titles": 539,
     "intersection_titles": 350,
-    "xbox_only_titles": 188
+    "xbox_only_titles": 189
   },
   "summary": {
     "store_counts": {
@@ -85,9 +85,9 @@
     ],
     "gfn_xbox_store_matches": 204,
     "intersection_titles": 350,
-    "xbox_only_titles": 188,
-    "hltb_matches": 390,
-    "opencritic_matches": 463,
+    "xbox_only_titles": 189,
+    "hltb_matches": 391,
+    "opencritic_matches": 464,
     "short_game_score_matches": 303,
     "exact_matches": 325,
     "partial_matches": 25
@@ -1025,6 +1025,51 @@
         "match_score": 128
       },
       "opencritic": null,
+      "short_game_score": null
+    },
+    {
+      "catalog_group": "xbox-only",
+      "is_on_gfn": false,
+      "title": "Aniimo",
+      "normalized_title": "aniimo",
+      "gfn_stores": [],
+      "gfn_has_xbox_store": false,
+      "xbox_title": "Aniimo",
+      "xbox_product_id": "9PK8PHLCQDF6",
+      "xbox_url": "https://www.microsoft.com/store/productId/9PK8PHLCQDF6",
+      "publisher": "Pawprint Studio",
+      "developer": "Pawprint Studio",
+      "release_date": "9998-12-30T00:00:00.0000000Z",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.29200.14271146495264987.c32913b7-6895-4338-ad19-54121ee5a1e9.9807370e-f74d-4e5a-b55e-d918d6e8d7d2",
+      "description": null,
+      "match_type": "xbox-only",
+      "match_score": 0,
+      "howlongtobeat": {
+        "title": "Aniimo",
+        "game_id": 169429,
+        "url": "https://howlongtobeat.com/game/169429",
+        "image_url": "https://howlongtobeat.com/games/169429_Aniimo.jpg",
+        "main_story_seconds": null,
+        "review_score": 60,
+        "completion_count": null,
+        "release_year": 2026,
+        "profile_platform": "Mobile, PC, PlayStation 5, Xbox Series X/S",
+        "match_type": "exact",
+        "match_score": 130
+      },
+      "opencritic": {
+        "title": "Aniimo",
+        "game_id": 21267,
+        "url": "https://opencritic.com/game/21267/aniimo",
+        "top_critic_score": null,
+        "percent_recommended": null,
+        "tier": null,
+        "median_score": null,
+        "review_count": 3,
+        "release_year": 2026,
+        "match_type": "exact",
+        "match_score": 135
+      },
       "short_game_score": null
     },
     {
