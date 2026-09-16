@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T17:06:46+00:00",
+  "generated_at": "2026-09-16T21:23:52+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -22,7 +22,7 @@
   "summary": {
     "store_counts": {
       "STEAM": 320,
-      "XBOX": 200,
+      "XBOX": 201,
       "EPIC": 74,
       "UPLAY": 30,
       "BATTLENET": 21,
@@ -83,7 +83,7 @@
         "count": 6
       }
     ],
-    "gfn_xbox_store_matches": 200,
+    "gfn_xbox_store_matches": 201,
     "intersection_titles": 344,
     "xbox_only_titles": 187,
     "hltb_matches": 385,
@@ -17101,9 +17101,10 @@
       "title": "RuneScape: Dragonwilds",
       "normalized_title": "runescape dragonwilds",
       "gfn_stores": [
-        "STEAM"
+        "STEAM",
+        "XBOX"
       ],
-      "gfn_has_xbox_store": false,
+      "gfn_has_xbox_store": true,
       "xbox_title": "RuneScape: Dragonwilds",
       "xbox_product_id": "9P402RWR63H4",
       "xbox_url": "https://www.microsoft.com/store/productId/9P402RWR63H4",
