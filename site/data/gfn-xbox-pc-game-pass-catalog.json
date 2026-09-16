@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T04:57:10+00:00",
+  "generated_at": "2026-09-16T11:46:35+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,17 +13,17 @@
     }
   },
   "counts": {
-    "gfn_titles": 6013,
-    "xbox_pc_titles": 567,
-    "catalog_titles": 539,
-    "intersection_titles": 350,
-    "xbox_only_titles": 189
+    "gfn_titles": 6014,
+    "xbox_pc_titles": 558,
+    "catalog_titles": 531,
+    "intersection_titles": 344,
+    "xbox_only_titles": 187
   },
   "summary": {
     "store_counts": {
-      "STEAM": 326,
-      "XBOX": 204,
-      "EPIC": 75,
+      "STEAM": 320,
+      "XBOX": 200,
+      "EPIC": 74,
       "UPLAY": 30,
       "BATTLENET": 21,
       "EA_APP": 16,
@@ -40,7 +40,7 @@
       },
       {
         "name": "Xbox Game Studios",
-        "count": 54
+        "count": 55
       },
       {
         "name": "Bethesda Softworks",
@@ -79,18 +79,18 @@
         "count": 7
       },
       {
-        "name": "11 bit studios",
-        "count": 7
+        "name": "Raw Fury",
+        "count": 6
       }
     ],
-    "gfn_xbox_store_matches": 204,
-    "intersection_titles": 350,
-    "xbox_only_titles": 189,
-    "hltb_matches": 391,
-    "opencritic_matches": 464,
-    "short_game_score_matches": 303,
-    "exact_matches": 325,
-    "partial_matches": 25
+    "gfn_xbox_store_matches": 200,
+    "intersection_titles": 344,
+    "xbox_only_titles": 187,
+    "hltb_matches": 385,
+    "opencritic_matches": 456,
+    "short_game_score_matches": 297,
+    "exact_matches": 320,
+    "partial_matches": 24
   },
   "games": [
     {
@@ -1028,11 +1028,13 @@
       "short_game_score": null
     },
     {
-      "catalog_group": "xbox-only",
-      "is_on_gfn": false,
+      "catalog_group": "intersection",
+      "is_on_gfn": true,
       "title": "Aniimo",
       "normalized_title": "aniimo",
-      "gfn_stores": [],
+      "gfn_stores": [
+        "STEAM"
+      ],
       "gfn_has_xbox_store": false,
       "xbox_title": "Aniimo",
       "xbox_product_id": "9PK8PHLCQDF6",
@@ -1042,8 +1044,8 @@
       "release_date": "9998-12-30T00:00:00.0000000Z",
       "image_url": "https://store-images.s-microsoft.com/image/apps.29200.14271146495264987.c32913b7-6895-4338-ad19-54121ee5a1e9.9807370e-f74d-4e5a-b55e-d918d6e8d7d2",
       "description": null,
-      "match_type": "xbox-only",
-      "match_score": 0,
+      "match_type": "exact-title",
+      "match_score": 120,
       "howlongtobeat": {
         "title": "Aniimo",
         "game_id": 169429,
@@ -1260,14 +1262,14 @@
         "STEAM"
       ],
       "gfn_has_xbox_store": false,
-      "xbox_title": "MULLET MADJACK",
-      "xbox_product_id": "9PG8TV30NN9H",
-      "xbox_url": "https://www.microsoft.com/store/productId/9PG8TV30NN9H",
-      "publisher": "Epopeia Games",
-      "developer": "HAMMER95",
-      "release_date": "2025-03-13T09:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.37428.14185273107843338.c1763a2c-a5bb-46ee-ade7-841a3c40c249.44b05042-287f-4641-8440-3749f42a5db9",
-      "description": "MULLET MADJACK is a HIGH-OCTANE-ACTION SHOOTER that put you directly inside a CLASSIC ANIME. Pick your favorite weapon and reach the last floor; Beat your best time or try again. Haste makes waste… OF YOUR ENEMIES!",
+      "xbox_title": "Microsoft Jewel",
+      "xbox_product_id": "9NC9M1NCZ7SD",
+      "xbox_url": "https://www.microsoft.com/store/productId/9NC9M1NCZ7SD",
+      "publisher": "Xbox Game Studios",
+      "developer": "Microsoft Studios",
+      "release_date": "2026-05-06T17:00:00.0000000Z",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.29722.13571962498350951.efc05940-c443-4e89-bd04-bc05db387746.98243a01-8153-4a46-b7d3-66f1b48cbdca",
+      "description": "Microsoft Jewel is the ultimate Match-3 game!\n\nMake matches to fill the meter & collect Bonus Jewels. Conquer fresh Daily Challenges, unlock Xbox Achievements, and dazzle in the brilliance of a high score!",
       "match_type": "exact-search",
       "match_score": 90,
       "howlongtobeat": {
@@ -4089,60 +4091,6 @@
       "short_game_score": null
     },
     {
-      "catalog_group": "intersection",
-      "is_on_gfn": true,
-      "title": "Commandos: Origins",
-      "normalized_title": "commandos origins",
-      "gfn_stores": [
-        "STEAM",
-        "XBOX"
-      ],
-      "gfn_has_xbox_store": true,
-      "xbox_title": "Commandos: Origins (Win)",
-      "xbox_product_id": "9PDH7X3J5CZT",
-      "xbox_url": "https://www.microsoft.com/store/productId/9PDH7X3J5CZT",
-      "publisher": "Kalypso Media",
-      "developer": "Claymore Game Studios",
-      "release_date": "2025-04-09T14:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.2379.13737393634442056.a42f3bd3-1ca9-420d-a018-a1064d15638e.ace2e008-347e-4f14-8ec7-933f5b45eb5a",
-      "description": "ALARM! You have been selected for a mission which will shape the fate of the entire world. Witness the very beginning of the legendary elite WWII force in Commandos: Origins. The long-awaited sequel to the Commandos series brings you right back to the foundation of the real-time tactics genre.",
-      "match_type": "exact-title",
-      "match_score": 120,
-      "howlongtobeat": {
-        "title": "Commandos: Origins",
-        "game_id": 138798,
-        "url": "https://howlongtobeat.com/game/138798",
-        "image_url": "https://howlongtobeat.com/games/138798_Commandos_Origins.jpg",
-        "main_story_seconds": 123184,
-        "review_score": 65,
-        "completion_count": 37,
-        "release_year": 2025,
-        "profile_platform": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
-        "match_type": "exact",
-        "match_score": 138
-      },
-      "opencritic": {
-        "title": "Commandos: Origins",
-        "game_id": 18368,
-        "url": "https://opencritic.com/game/18368/commandos-origins",
-        "top_critic_score": 71.7,
-        "percent_recommended": 52.2,
-        "tier": "Fair",
-        "median_score": 75,
-        "review_count": 46,
-        "release_year": 2025,
-        "match_type": "exact",
-        "match_score": 149
-      },
-      "short_game_score": {
-        "score": 58.0,
-        "critic_score": 71.7,
-        "duration_fit_score": 26.1,
-        "main_story_hours": 34.2,
-        "target_hours": 15.0
-      }
-    },
-    {
       "catalog_group": "xbox-only",
       "is_on_gfn": false,
       "title": "Conker: Live and Reloaded",
@@ -4607,60 +4555,6 @@
     {
       "catalog_group": "intersection",
       "is_on_gfn": true,
-      "title": "Cricket 24",
-      "normalized_title": "cricket 24",
-      "gfn_stores": [
-        "STEAM",
-        "XBOX"
-      ],
-      "gfn_has_xbox_store": true,
-      "xbox_title": "Cricket 24: The Official Game Of The Ashes",
-      "xbox_product_id": "9NKF2SZ630ZH",
-      "xbox_url": "https://www.microsoft.com/store/productId/9NKF2SZ630ZH",
-      "publisher": "Nacon",
-      "developer": "Big Ant Studios",
-      "release_date": "2024-06-26T00:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.58935.13662804336614394.63dd49dd-f93b-4b67-b597-bace2d4550c2.26dbe4d6-f7d0-4e9e-a21d-d5ade4bdc93b",
-      "description": "Cricket 24 is the culmination of a decade of Cricket video game development and includes teams from every corner of the globe.",
-      "match_type": "partial",
-      "match_score": 95,
-      "howlongtobeat": {
-        "title": "Cricket 24",
-        "game_id": 138653,
-        "url": "https://howlongtobeat.com/game/138653",
-        "image_url": "https://howlongtobeat.com/games/138653_Cricket_24.jpg",
-        "main_story_seconds": 44582,
-        "review_score": 63,
-        "completion_count": 12,
-        "release_year": 2023,
-        "profile_platform": "Nintendo Switch, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
-        "match_type": "exact",
-        "match_score": 131
-      },
-      "opencritic": {
-        "title": "Cricket 24",
-        "game_id": 15641,
-        "url": "https://opencritic.com/game/15641/cricket-24",
-        "top_critic_score": 60.6,
-        "percent_recommended": 12.5,
-        "tier": "Weak",
-        "median_score": 55,
-        "review_count": 8,
-        "release_year": 2023,
-        "match_type": "exact",
-        "match_score": 141
-      },
-      "short_game_score": {
-        "score": 72.4,
-        "critic_score": 60.6,
-        "duration_fit_score": 100.0,
-        "main_story_hours": 12.4,
-        "target_hours": 15.0
-      }
-    },
-    {
-      "catalog_group": "intersection",
-      "is_on_gfn": true,
       "title": "Cricket 26 - The Official Game of the Ashes",
       "normalized_title": "cricket 26 the official game of the ashes",
       "gfn_stores": [
@@ -5046,61 +4940,6 @@
         "critic_score": 70.0,
         "duration_fit_score": 0.0,
         "main_story_hours": 78.8,
-        "target_hours": 15.0
-      }
-    },
-    {
-      "catalog_group": "intersection",
-      "is_on_gfn": true,
-      "title": "Dead Cells",
-      "normalized_title": "dead cells",
-      "gfn_stores": [
-        "EPIC",
-        "STEAM",
-        "XBOX"
-      ],
-      "gfn_has_xbox_store": true,
-      "xbox_title": "Dead Cells",
-      "xbox_product_id": "9NKVX66J0ZSK",
-      "xbox_url": "https://www.microsoft.com/store/productId/9NKVX66J0ZSK",
-      "publisher": "Motion Twin",
-      "developer": "Motion Twin",
-      "release_date": "2019-09-05T00:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.28912.68724117649475771.eac68952-84aa-42f0-875b-09de4c2ee208.a51fd163-42d0-487e-8d7a-30e7d71a9025",
-      "description": "Dead Cells puts you in control of a failed alchemic experiment trying to figure out what's happening on a sprawling, ever-changing and seemingly cursed Island. Tough but fair combat, responsive controls, challenging foes, permadeath and of course, the emergency panic roll to get you out of trouble, make for a demanding, visceral and cathartic action game.",
-      "match_type": "exact-title",
-      "match_score": 120,
-      "howlongtobeat": {
-        "title": "Dead Cells",
-        "game_id": 45727,
-        "url": "https://howlongtobeat.com/game/45727",
-        "image_url": "https://howlongtobeat.com/games/45727_Dead_Cells.jpg",
-        "main_story_seconds": 50602,
-        "review_score": 82,
-        "completion_count": 4184,
-        "release_year": 2018,
-        "profile_platform": "Linux, Mac, Mobile, Nintendo Switch, PC, PlayStation 4, PlayStation 5, Xbox One",
-        "match_type": "exact",
-        "match_score": 136
-      },
-      "opencritic": {
-        "title": "Dead Cells",
-        "game_id": 6386,
-        "url": "https://opencritic.com/game/6386/dead-cells",
-        "top_critic_score": 88.8,
-        "percent_recommended": 95.2,
-        "tier": "Mighty",
-        "median_score": 90,
-        "review_count": 152,
-        "release_year": 2018,
-        "match_type": "exact",
-        "match_score": 148
-      },
-      "short_game_score": {
-        "score": 92.2,
-        "critic_score": 88.8,
-        "duration_fit_score": 100.0,
-        "main_story_hours": 14.1,
         "target_hours": 15.0
       }
     },
@@ -5610,59 +5449,6 @@
         "critic_score": 85.1,
         "duration_fit_score": 0.0,
         "main_story_hours": 44.7,
-        "target_hours": 15.0
-      }
-    },
-    {
-      "catalog_group": "intersection",
-      "is_on_gfn": true,
-      "title": "Deep Rock Galactic: Survivor",
-      "normalized_title": "deep rock galactic survivor",
-      "gfn_stores": [
-        "STEAM"
-      ],
-      "gfn_has_xbox_store": false,
-      "xbox_title": "Deep Rock Galactic: Survivor",
-      "xbox_product_id": "9PHGQPRBBSXK",
-      "xbox_url": "https://www.microsoft.com/store/productId/9PHGQPRBBSXK",
-      "publisher": "Ghost Ship Publishing",
-      "developer": "Funday Games",
-      "release_date": "2025-09-17T11:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.17518.14236455618786574.5b48af66-d01f-435c-addc-832c8e12d278.741c0a9e-bae8-4471-b6f8-28c0385a9265",
-      "description": "DEEP ROCK GALACTIC: SURVIVOR is a single player survivor-like auto-shooter. Take on hordes of lethal aliens, mine riches, and unlock powerful upgrades to survive, as you wield the full arsenal of Deep Rock Galactic. It's one dwarf against all of Planet Hoxxes!",
-      "match_type": "exact-title",
-      "match_score": 120,
-      "howlongtobeat": {
-        "title": "Deep Rock Galactic: Survivor",
-        "game_id": 139049,
-        "url": "https://howlongtobeat.com/game/139049",
-        "image_url": "https://howlongtobeat.com/games/139049_Deep_Rock_Galactic_Survivor.jpg",
-        "main_story_seconds": 58853,
-        "review_score": 75,
-        "completion_count": 289,
-        "release_year": 2025,
-        "profile_platform": "Mobile, PC, Xbox Series X/S",
-        "match_type": "exact",
-        "match_score": 142
-      },
-      "opencritic": {
-        "title": "Deep Rock Galactic: Survivor",
-        "game_id": 19313,
-        "url": "https://opencritic.com/game/19313/deep-rock-galactic-survivor",
-        "top_critic_score": 84.5,
-        "percent_recommended": 94.1,
-        "tier": "Mighty",
-        "median_score": 85,
-        "review_count": 17,
-        "release_year": 2025,
-        "match_type": "exact",
-        "match_score": 147
-      },
-      "short_game_score": {
-        "score": 88.1,
-        "critic_score": 84.5,
-        "duration_fit_score": 96.5,
-        "main_story_hours": 16.3,
         "target_hours": 15.0
       }
     },
@@ -8980,60 +8766,6 @@
       },
       "opencritic": null,
       "short_game_score": null
-    },
-    {
-      "catalog_group": "intersection",
-      "is_on_gfn": true,
-      "title": "Frostpunk 2",
-      "normalized_title": "frostpunk 2",
-      "gfn_stores": [
-        "STEAM",
-        "XBOX"
-      ],
-      "gfn_has_xbox_store": true,
-      "xbox_title": "Frostpunk 2",
-      "xbox_product_id": "9N0KN24FWP6B",
-      "xbox_url": "https://www.microsoft.com/store/productId/9N0KN24FWP6B",
-      "publisher": "11 bit studios",
-      "developer": "11 bit studios",
-      "release_date": "2024-09-20T17:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.16581.13923668312910701.01edfea1-db44-49e5-8fd9-8f546040b4b7.9388c62a-519b-43c5-9298-4c3ced46afae",
-      "description": "Develop, expand, and advance your city in a society survival game set 30 years after an apocalyptic blizzard ravaged Earth. In Frostpunk 2, you face not only the perils of never-ending winter, but also the powerful factions that watch your every step inside the Council Hall.",
-      "match_type": "exact-title",
-      "match_score": 120,
-      "howlongtobeat": {
-        "title": "Frostpunk 2",
-        "game_id": 96821,
-        "url": "https://howlongtobeat.com/game/96821",
-        "image_url": "https://howlongtobeat.com/games/96821_Frostpunk_2.jpg",
-        "main_story_seconds": 41727,
-        "review_score": 76,
-        "completion_count": 342,
-        "release_year": 2024,
-        "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
-        "match_type": "exact",
-        "match_score": 142
-      },
-      "opencritic": {
-        "title": "Frostpunk 2",
-        "game_id": 11840,
-        "url": "https://opencritic.com/game/11840/frostpunk-2",
-        "top_critic_score": 85.3,
-        "percent_recommended": 93.2,
-        "tier": "Mighty",
-        "median_score": 85,
-        "review_count": 120,
-        "release_year": 2024,
-        "match_type": "exact",
-        "match_score": 153
-      },
-      "short_game_score": {
-        "score": 89.7,
-        "critic_score": 85.3,
-        "duration_fit_score": 100.0,
-        "main_story_hours": 11.6,
-        "target_hours": 15.0
-      }
     },
     {
       "catalog_group": "xbox-only",
@@ -18466,39 +18198,6 @@
       "short_game_score": null
     },
     {
-      "catalog_group": "xbox-only",
-      "is_on_gfn": false,
-      "title": "Spiritfarer®: Farewell Edition",
-      "normalized_title": "spiritfarer farewell edition",
-      "gfn_stores": [],
-      "gfn_has_xbox_store": false,
-      "xbox_title": "Spiritfarer®: Farewell Edition",
-      "xbox_product_id": "9NG5L58FD3X5",
-      "xbox_url": "https://www.microsoft.com/store/productId/9NG5L58FD3X5",
-      "publisher": "Thunder Lotus",
-      "developer": "Thunder Lotus",
-      "release_date": "2020-08-18T17:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.11046.13581632098060782.9aea914f-fc5f-474f-a052-eac22427e863.2b12f018-928c-4244-bada-52eff11c91a7",
-      "description": "Spiritfarer is a cozy management game about dying. As ferrymaster to the deceased, build a boat to explore the world, care for your spirit friends, and guide them across mystical seas to finally release them into the afterlife.",
-      "match_type": "xbox-only",
-      "match_score": 0,
-      "howlongtobeat": null,
-      "opencritic": {
-        "title": "Spiritfarer",
-        "game_id": 10030,
-        "url": "https://opencritic.com/game/10030/spiritfarer",
-        "top_critic_score": 86.6,
-        "percent_recommended": 91.9,
-        "tier": "Mighty",
-        "median_score": 90,
-        "review_count": 76,
-        "release_year": 2020,
-        "match_type": "partial",
-        "match_score": 114
-      },
-      "short_game_score": null
-    },
-    {
       "catalog_group": "intersection",
       "is_on_gfn": true,
       "title": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
@@ -19594,59 +19293,6 @@
         "critic_score": 80.9,
         "duration_fit_score": 100.0,
         "main_story_hours": 7.2,
-        "target_hours": 15.0
-      }
-    },
-    {
-      "catalog_group": "intersection",
-      "is_on_gfn": true,
-      "title": "Superliminal",
-      "normalized_title": "superliminal",
-      "gfn_stores": [
-        "STEAM"
-      ],
-      "gfn_has_xbox_store": false,
-      "xbox_title": "Superliminal",
-      "xbox_product_id": "9NVR4ZQKNBSB",
-      "xbox_url": "https://www.microsoft.com/store/productId/9NVR4ZQKNBSB",
-      "publisher": "Pillow Castle",
-      "developer": "Pillow Castle",
-      "release_date": "2020-07-06T23:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.47663.14393569011623061.24d2b16b-20df-48f4-b265-623d2c0e948a.37ffa286-743f-4c55-9e7d-7c93def066a0",
-      "description": "Perception is reality. Escape a mind-bending dream by solving impossible puzzles using your perspective.",
-      "match_type": "exact-title",
-      "match_score": 120,
-      "howlongtobeat": {
-        "title": "Superliminal",
-        "game_id": 68378,
-        "url": "https://howlongtobeat.com/game/68378",
-        "image_url": "https://howlongtobeat.com/games/68378_Superliminal.jpg",
-        "main_story_seconds": 9473,
-        "review_score": 77,
-        "completion_count": 5210,
-        "release_year": 2019,
-        "profile_platform": "Nintendo Switch, PC, PlayStation 4, PlayStation 5, Xbox One",
-        "match_type": "exact",
-        "match_score": 136
-      },
-      "opencritic": {
-        "title": "Superliminal",
-        "game_id": 8533,
-        "url": "https://opencritic.com/game/8533/superliminal",
-        "top_critic_score": 74.8,
-        "percent_recommended": 65.3,
-        "tier": "Strong",
-        "median_score": 80,
-        "review_count": 74,
-        "release_year": 2019,
-        "match_type": "exact",
-        "match_score": 144
-      },
-      "short_game_score": {
-        "score": 82.4,
-        "critic_score": 74.8,
-        "duration_fit_score": 100.0,
-        "main_story_hours": 2.6,
         "target_hours": 15.0
       }
     },
@@ -22076,41 +21722,6 @@
         "main_story_hours": 14.4,
         "target_hours": 15.0
       }
-    },
-    {
-      "catalog_group": "intersection",
-      "is_on_gfn": true,
-      "title": "Train Sim World® 5",
-      "normalized_title": "train sim world 5",
-      "gfn_stores": [
-        "STEAM"
-      ],
-      "gfn_has_xbox_store": false,
-      "xbox_title": "Train Sim World® 5: Standard Edition",
-      "xbox_product_id": "9N9FR8CSZP56",
-      "xbox_url": "https://www.microsoft.com/store/productId/9N9FR8CSZP56",
-      "publisher": "Dovetail Games",
-      "developer": "Dovetail Games",
-      "release_date": "2024-09-17T15:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.42315.13533673129408975.95f4b180-e431-4714-922e-b555f8c6879d.d02babed-82cb-44f7-86ca-e8bcea827a63",
-      "description": "The Rails are Yours in Train Sim World 5! Take on new challenges and new roles as you master the tracks and trains of iconic cities across 3 new routes. Immerse yourself in the ultimate rail hobby and embark on your next journey.",
-      "match_type": "exact-title",
-      "match_score": 120,
-      "howlongtobeat": null,
-      "opencritic": {
-        "title": "Train Sim World 5",
-        "game_id": 17310,
-        "url": "https://opencritic.com/game/17310/train-sim-world-5",
-        "top_critic_score": null,
-        "percent_recommended": 100.0,
-        "tier": null,
-        "median_score": 80,
-        "review_count": 6,
-        "release_year": 2024,
-        "match_type": "exact",
-        "match_score": 147
-      },
-      "short_game_score": null
     },
     {
       "catalog_group": "intersection",
