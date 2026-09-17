@@ -18691,12 +18691,6 @@
       "STEAM"
     ]
   },
-  "mixtape": {
-    "name": "Mixtape",
-    "stores": [
-      "STEAM"
-    ]
-  },
   "mlf pro catch demo": {
     "name": "MLF: Pro Catch (Demo)",
     "stores": [
@@ -19740,12 +19734,6 @@
   },
   "neon chrome": {
     "name": "Neon Chrome",
-    "stores": [
-      "STEAM"
-    ]
-  },
-  "neon white": {
-    "name": "Neon White",
     "stores": [
       "STEAM"
     ]
@@ -21050,12 +21038,6 @@
   },
   "outcast second contact": {
     "name": "Outcast - Second Contact",
-    "stores": [
-      "STEAM"
-    ]
-  },
-  "outer wilds": {
-    "name": "Outer Wilds",
     "stores": [
       "STEAM"
     ]
@@ -23009,6 +22991,12 @@
   },
   "puzzling wild iq test": {
     "name": "Puzzling Wild IQ Test",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "pyr demo": {
+    "name": "PYR Demo",
     "stores": [
       "STEAM"
     ]
