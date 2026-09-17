@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T11:51:10+00:00",
+  "updated_at": "2026-09-17T17:07:22+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -8087,6 +8087,24 @@
         "profile_platform": "PC",
         "match_type": "exact",
         "match_score": 130
+      }
+    },
+    "kernel hearts": {
+      "title": "Kernel Hearts",
+      "status": "matched",
+      "fetched_at": "2026-09-17T17:07:20+00:00",
+      "data": {
+        "title": "Kernel Hearts",
+        "game_id": 157653,
+        "url": "https://howlongtobeat.com/game/157653",
+        "image_url": "https://howlongtobeat.com/games/157653_Kernel_Hearts.jpg",
+        "main_story_seconds": null,
+        "review_score": null,
+        "completion_count": null,
+        "release_year": 2026,
+        "profile_platform": "Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
+        "match_type": "exact",
+        "match_score": 138
       }
     }
   }

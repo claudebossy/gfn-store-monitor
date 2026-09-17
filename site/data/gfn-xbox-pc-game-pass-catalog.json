@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T11:50:55+00:00",
+  "generated_at": "2026-09-17T17:07:08+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,15 +13,15 @@
     }
   },
   "counts": {
-    "gfn_titles": 6022,
-    "xbox_pc_titles": 559,
-    "catalog_titles": 532,
-    "intersection_titles": 345,
-    "xbox_only_titles": 187
+    "gfn_titles": 6020,
+    "xbox_pc_titles": 560,
+    "catalog_titles": 533,
+    "intersection_titles": 344,
+    "xbox_only_titles": 189
   },
   "summary": {
     "store_counts": {
-      "STEAM": 321,
+      "STEAM": 320,
       "XBOX": 201,
       "EPIC": 74,
       "UPLAY": 30,
@@ -84,12 +84,12 @@
       }
     ],
     "gfn_xbox_store_matches": 201,
-    "intersection_titles": 345,
-    "xbox_only_titles": 187,
-    "hltb_matches": 386,
+    "intersection_titles": 344,
+    "xbox_only_titles": 189,
+    "hltb_matches": 387,
     "opencritic_matches": 457,
     "short_game_score_matches": 298,
-    "exact_matches": 321,
+    "exact_matches": 320,
     "partial_matches": 24
   },
   "games": [
@@ -3364,8 +3364,8 @@
       "publisher": "Activision Publishing Inc.",
       "developer": null,
       "release_date": "2022-11-14T18:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.3327.13739535057760905.cd3d6e45-3ccc-4b13-80a5-0568cb1692ae.97d8c14f-0665-4723-ae71-80c0b3cf0f52",
-      "description": "Welcome to Call of Duty®: Warzone™, the massive free-to-play combat arena. Experience thrilling modes & new gameplay features across the new Drone Labs POI in Verdansk, Endgame (for a limited time), Battle Royale, Black Ops Royale, and Resurgence.",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.60826.13739535057760905.ee63b998-143e-4256-bd0e-3e78d667ab11.d72c1992-0383-4ff8-91c5-e310141d9a07",
+      "description": "Welcome to Call of Duty®: Warzone™, the massive free-to-play combat arena. Experience thrilling modes & new gameplay features including a Haunting revamp of Haven's Hollow, Battle Royale, Black Ops Royale, and Resurgence.",
       "match_type": "partial",
       "match_score": 95,
       "howlongtobeat": null,
@@ -11464,6 +11464,39 @@
       }
     },
     {
+      "catalog_group": "xbox-only",
+      "is_on_gfn": false,
+      "title": "Kernel Hearts",
+      "normalized_title": "kernel hearts",
+      "gfn_stores": [],
+      "gfn_has_xbox_store": false,
+      "xbox_title": "Kernel Hearts",
+      "xbox_product_id": "9NXSNQR7CM1Q",
+      "xbox_url": "https://www.microsoft.com/store/productId/9NXSNQR7CM1Q",
+      "publisher": "Whitethorn Games",
+      "developer": "Ephemera Games",
+      "release_date": "2026-09-17T17:00:00.0000000Z",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.14322.14493835367297887.3453835a-68da-49f0-99e0-29a4915f2e4e.f2775962-26f0-44f2-892b-b4024e389f0b",
+      "description": "Gather your allies. Eliminate Angels. Transform into a Magical Girl. Slay god.\n\nKernel Hearts is a Multiplayer Co-Op Roguelike Action RPG about four magical girls and their attempt to save a world that's drowning in ashes.",
+      "match_type": "xbox-only",
+      "match_score": 0,
+      "howlongtobeat": {
+        "title": "Kernel Hearts",
+        "game_id": 157653,
+        "url": "https://howlongtobeat.com/game/157653",
+        "image_url": "https://howlongtobeat.com/games/157653_Kernel_Hearts.jpg",
+        "main_story_seconds": null,
+        "review_score": null,
+        "completion_count": null,
+        "release_year": 2026,
+        "profile_platform": "Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
+        "match_type": "exact",
+        "match_score": 138
+      },
+      "opencritic": null,
+      "short_game_score": null
+    },
+    {
       "catalog_group": "intersection",
       "is_on_gfn": true,
       "title": "Kill It With Fire 2",
@@ -13312,13 +13345,11 @@
       "short_game_score": null
     },
     {
-      "catalog_group": "intersection",
-      "is_on_gfn": true,
+      "catalog_group": "xbox-only",
+      "is_on_gfn": false,
       "title": "Mixtape",
       "normalized_title": "mixtape",
-      "gfn_stores": [
-        "STEAM"
-      ],
+      "gfn_stores": [],
       "gfn_has_xbox_store": false,
       "xbox_title": "Mixtape",
       "xbox_product_id": "9NH0MSG29X6L",
@@ -13328,8 +13359,8 @@
       "release_date": "2026-05-07T13:00:00.0000000Z",
       "image_url": "https://store-images.s-microsoft.com/image/apps.46062.13635458213452841.45b8e856-b2dd-47ac-944a-1447830e0663.a6d58058-3d50-47e1-98b1-8958a69ef3b3",
       "description": "Mixtape - Nothing but the hits. \nOn their last night together, three friends embark on one final adventure. Play through a mixtape of memories, set to the soundtrack of a generation.",
-      "match_type": "exact-title",
-      "match_score": 120,
+      "match_type": "xbox-only",
+      "match_score": 0,
       "howlongtobeat": {
         "title": "Mixtape",
         "game_id": 152041,
@@ -17562,7 +17593,7 @@
       "xbox_url": "https://www.microsoft.com/store/productId/9PK0DZ68LGC0",
       "publisher": "NEOWIZ",
       "developer": "Lizard Smoothie",
-      "release_date": "9998-12-30T00:00:00.0000000Z",
+      "release_date": "2026-09-17T11:00:00.0000000Z",
       "image_url": "https://store-images.s-microsoft.com/image/apps.57937.14272457971400341.9e426def-5803-4abc-8dd4-76b9f9ab9f3d.6300aa33-f63f-46db-82ef-5647a77e913b",
       "description": "Shape of Dreams delivers fast-paced top-down roguelite action with chaotic projectile-filled battles, fluid combat, and high-stakes co-op. Play solo or in up to 4-player co-op mode as you dodge overwhelming attacks and unleash devastating builds.",
       "match_type": "exact-title",

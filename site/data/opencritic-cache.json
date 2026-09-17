@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T11:51:10+00:00",
+  "updated_at": "2026-09-17T17:07:22+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -8964,6 +8964,12 @@
         "match_type": "exact",
         "match_score": 135
       }
+    },
+    "kernel hearts": {
+      "title": "Kernel Hearts",
+      "status": "not_found",
+      "fetched_at": "2026-09-17T17:07:21+00:00",
+      "data": null
     }
   }
 }
