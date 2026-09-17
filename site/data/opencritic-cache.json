@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T04:59:44+00:00",
+  "updated_at": "2026-09-17T11:51:10+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -8943,6 +8943,24 @@
         "median_score": null,
         "review_count": 3,
         "release_year": 2026,
+        "match_type": "exact",
+        "match_score": 135
+      }
+    },
+    "shape of dreams": {
+      "title": "Shape of Dreams",
+      "status": "matched",
+      "fetched_at": "2026-09-17T11:51:08+00:00",
+      "data": {
+        "title": "Shape of Dreams",
+        "game_id": 19269,
+        "url": "https://opencritic.com/game/19269/shape-of-dreams",
+        "top_critic_score": 85.8,
+        "percent_recommended": 88.9,
+        "tier": "Mighty",
+        "median_score": null,
+        "review_count": 9,
+        "release_year": 2025,
         "match_type": "exact",
         "match_score": 135
       }
