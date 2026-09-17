@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T16:59:00+00:00",
+  "generated_at": "2026-09-17T21:20:41+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -2015,6 +2015,51 @@
         }
       ],
       "new_stores": []
+    },
+    {
+      "timestamp": "2026-09-17T21:20:41+00:00",
+      "baseline": false,
+      "catalog_game_count": 6024,
+      "new_game_count": 4,
+      "new_store_count": 1,
+      "new_games": [
+        {
+          "name": "Mixtape",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Neon White",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Outer Wilds",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "The Guild 1 Remake: Europa 1410",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
+      "new_stores": [
+        {
+          "name": "The Blood of Dawnwalker",
+          "stores": [
+            "GOG",
+            "STEAM"
+          ],
+          "new_stores": [
+            "GOG"
+          ]
+        }
+      ]
     }
   ]
 }

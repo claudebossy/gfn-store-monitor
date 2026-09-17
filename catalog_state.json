@@ -18691,6 +18691,12 @@
       "STEAM"
     ]
   },
+  "mixtape": {
+    "name": "Mixtape",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "mlf pro catch demo": {
     "name": "MLF: Pro Catch (Demo)",
     "stores": [
@@ -19734,6 +19740,12 @@
   },
   "neon chrome": {
     "name": "Neon Chrome",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "neon white": {
+    "name": "Neon White",
     "stores": [
       "STEAM"
     ]
@@ -21038,6 +21050,12 @@
   },
   "outcast second contact": {
     "name": "Outcast - Second Contact",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "outer wilds": {
+    "name": "Outer Wilds",
     "stores": [
       "STEAM"
     ]
@@ -30395,6 +30413,7 @@
   "the blood of dawnwalker": {
     "name": "The Blood of Dawnwalker",
     "stores": [
+      "GOG",
       "STEAM"
     ]
   },
@@ -30935,6 +30954,12 @@
     "name": "The Great War: Western Front™",
     "stores": [
       "EPIC",
+      "STEAM"
+    ]
+  },
+  "the guild 1 remake europa 1410": {
+    "name": "The Guild 1 Remake: Europa 1410",
+    "stores": [
       "STEAM"
     ]
   },
