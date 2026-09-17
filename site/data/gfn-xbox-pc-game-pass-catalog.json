@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T17:07:08+00:00",
+  "generated_at": "2026-09-17T21:29:01+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,15 +13,15 @@
     }
   },
   "counts": {
-    "gfn_titles": 6020,
+    "gfn_titles": 6024,
     "xbox_pc_titles": 560,
     "catalog_titles": 533,
-    "intersection_titles": 344,
-    "xbox_only_titles": 189
+    "intersection_titles": 345,
+    "xbox_only_titles": 188
   },
   "summary": {
     "store_counts": {
-      "STEAM": 320,
+      "STEAM": 321,
       "XBOX": 201,
       "EPIC": 74,
       "UPLAY": 30,
@@ -84,12 +84,12 @@
       }
     ],
     "gfn_xbox_store_matches": 201,
-    "intersection_titles": 344,
-    "xbox_only_titles": 189,
+    "intersection_titles": 345,
+    "xbox_only_titles": 188,
     "hltb_matches": 387,
     "opencritic_matches": 457,
     "short_game_score_matches": 298,
-    "exact_matches": 320,
+    "exact_matches": 321,
     "partial_matches": 24
   },
   "games": [
@@ -11476,7 +11476,7 @@
       "publisher": "Whitethorn Games",
       "developer": "Ephemera Games",
       "release_date": "2026-09-17T17:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.14322.14493835367297887.3453835a-68da-49f0-99e0-29a4915f2e4e.f2775962-26f0-44f2-892b-b4024e389f0b",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.10087.14493835367297887.3d2ad750-4d36-4684-b869-351a4f2e7062.2767579f-d846-4f0a-b1d3-78c62b60df21",
       "description": "Gather your allies. Eliminate Angels. Transform into a Magical Girl. Slay god.\n\nKernel Hearts is a Multiplayer Co-Op Roguelike Action RPG about four magical girls and their attempt to save a world that's drowning in ashes.",
       "match_type": "xbox-only",
       "match_score": 0,
@@ -13345,11 +13345,13 @@
       "short_game_score": null
     },
     {
-      "catalog_group": "xbox-only",
-      "is_on_gfn": false,
+      "catalog_group": "intersection",
+      "is_on_gfn": true,
       "title": "Mixtape",
       "normalized_title": "mixtape",
-      "gfn_stores": [],
+      "gfn_stores": [
+        "STEAM"
+      ],
       "gfn_has_xbox_store": false,
       "xbox_title": "Mixtape",
       "xbox_product_id": "9NH0MSG29X6L",
@@ -13359,8 +13361,8 @@
       "release_date": "2026-05-07T13:00:00.0000000Z",
       "image_url": "https://store-images.s-microsoft.com/image/apps.46062.13635458213452841.45b8e856-b2dd-47ac-944a-1447830e0663.a6d58058-3d50-47e1-98b1-8958a69ef3b3",
       "description": "Mixtape - Nothing but the hits. \nOn their last night together, three friends embark on one final adventure. Play through a mixtape of memories, set to the soundtrack of a generation.",
-      "match_type": "xbox-only",
-      "match_score": 0,
+      "match_type": "exact-title",
+      "match_score": 120,
       "howlongtobeat": {
         "title": "Mixtape",
         "game_id": 152041,
