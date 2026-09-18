@@ -3598,6 +3598,12 @@
       "STEAM"
     ]
   },
+  "blackwood": {
+    "name": "BLACKWOOD",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "blade arcus from shining battle arena": {
     "name": "Blade Arcus from Shining: Battle Arena",
     "stores": [
@@ -11312,6 +11318,12 @@
   },
   "flame keeper": {
     "name": "Flame Keeper",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "flamecraft": {
+    "name": "Flamecraft",
     "stores": [
       "STEAM"
     ]
