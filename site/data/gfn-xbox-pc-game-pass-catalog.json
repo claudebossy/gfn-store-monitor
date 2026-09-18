@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T11:26:07+00:00",
+  "generated_at": "2026-09-18T16:31:47+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,7 +13,7 @@
     }
   },
   "counts": {
-    "gfn_titles": 6017,
+    "gfn_titles": 6025,
     "xbox_pc_titles": 560,
     "catalog_titles": 533,
     "intersection_titles": 345,
@@ -4649,7 +4649,7 @@
       "developer": "Microsoft Game Studios",
       "release_date": "2003-10-30T00:00:00.0000000Z",
       "image_url": "https://store-images.s-microsoft.com/image/apps.48725.66564363245508968.4a646a68-6736-4349-ad5c-933bc20f715a.b8eb2ce7-ae0f-4e67-8135-ff43f6e74122",
-      "description": "An Xbox 360 hard drive is required to use this item GAME-PLAY ALERT: The online multiplayer, leaderboards and voice features of this game are no longer supported. This game has been fully tested to successfully play on your Xbox 360 console. However, in some cases, you may see some minor irregularities with audio/video for brief periods. For more details, see www.xbox.com/xboxoriginals. Crimson Skies®: High Road to Revenge™ combines thrilling aerial combat with the swashbuckling style of a Holl…",
+      "description": "GAME-PLAY ALERT: The online multiplayer, leaderboards and voice features of this game are no longer supported. This game has been fully tested to successfully play on your Xbox 360 console. However, in some cases, you may see some minor irregularities with audio/video for brief periods. For more details, see www.xbox.com/xboxoriginals. Crimson Skies®: High Road to Revenge™ combines thrilling aerial combat with the swashbuckling style of a Holl…",
       "match_type": "xbox-only",
       "match_score": 0,
       "howlongtobeat": null,
