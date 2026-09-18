@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T16:22:55+00:00",
+  "generated_at": "2026-09-18T20:53:06+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -2099,6 +2099,28 @@
       "new_game_count": 0,
       "new_store_count": 0,
       "new_games": [],
+      "new_stores": []
+    },
+    {
+      "timestamp": "2026-09-18T20:53:06+00:00",
+      "baseline": false,
+      "catalog_game_count": 6027,
+      "new_game_count": 2,
+      "new_store_count": 0,
+      "new_games": [
+        {
+          "name": "Anymaker",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "iRacing® Studios NASCAR 26",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
       "new_stores": []
     }
   ]

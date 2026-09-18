@@ -1614,6 +1614,12 @@
       "STEAM"
     ]
   },
+  "anymaker": {
+    "name": "Anymaker",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "anymaker demo": {
     "name": "Anymaker Demo",
     "stores": [
@@ -15196,6 +15202,12 @@
   },
   "inzoi": {
     "name": "inZOI",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "iracing studios nascar 26": {
+    "name": "iRacing® Studios NASCAR 26",
     "stores": [
       "STEAM"
     ]
