@@ -21493,8 +21493,8 @@
       "STEAM"
     ]
   },
-  "parisian brasserie simulator": {
-    "name": "Parisian Brasserie Simulator",
+  "parisian bistro simulator": {
+    "name": "Parisian Bistro Simulator",
     "stores": [
       "STEAM"
     ]
@@ -30694,6 +30694,12 @@
   },
   "the dishwasher vampire smile": {
     "name": "The Dishwasher: Vampire Smile",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "the door factory": {
+    "name": "The Door Factory",
     "stores": [
       "STEAM"
     ]
