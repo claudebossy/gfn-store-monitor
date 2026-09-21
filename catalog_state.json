@@ -3828,6 +3828,12 @@
       "STEAM"
     ]
   },
+  "bloom control demo": {
+    "name": "Bloom Control Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "blooming business casino": {
     "name": "Blooming Business: Casino",
     "stores": [
@@ -17576,6 +17582,12 @@
       "STEAM"
     ]
   },
+  "mad metal": {
+    "name": "Mad Metal",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "mad tracks": {
     "name": "Mad Tracks",
     "stores": [
@@ -24495,6 +24507,12 @@
     "stores": [
       "STEAM",
       "XBOX"
+    ]
+  },
+  "roadhouse simulator": {
+    "name": "Roadhouse Simulator",
+    "stores": [
+      "STEAM"
     ]
   },
   "roadhouse simulator demo": {
@@ -34267,6 +34285,12 @@
   },
   "unknown fluffy object": {
     "name": "Unknown Fluffy Object",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "unknown operations the habitus demo": {
+    "name": "Unknown Operations : The Habitus Demo",
     "stores": [
       "STEAM"
     ]
