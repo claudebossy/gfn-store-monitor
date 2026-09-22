@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T11:48:41+00:00",
+  "generated_at": "2026-09-22T17:02:44+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -14,15 +14,15 @@
   },
   "counts": {
     "gfn_titles": 6031,
-    "xbox_pc_titles": 560,
-    "catalog_titles": 533,
-    "intersection_titles": 345,
-    "xbox_only_titles": 188
+    "xbox_pc_titles": 562,
+    "catalog_titles": 535,
+    "intersection_titles": 346,
+    "xbox_only_titles": 189
   },
   "summary": {
     "store_counts": {
       "STEAM": 321,
-      "XBOX": 201,
+      "XBOX": 202,
       "EPIC": 74,
       "UPLAY": 30,
       "BATTLENET": 21,
@@ -83,13 +83,13 @@
         "count": 6
       }
     ],
-    "gfn_xbox_store_matches": 201,
-    "intersection_titles": 345,
-    "xbox_only_titles": 188,
-    "hltb_matches": 387,
-    "opencritic_matches": 457,
-    "short_game_score_matches": 298,
-    "exact_matches": 321,
+    "gfn_xbox_store_matches": 202,
+    "intersection_titles": 346,
+    "xbox_only_titles": 189,
+    "hltb_matches": 389,
+    "opencritic_matches": 459,
+    "short_game_score_matches": 299,
+    "exact_matches": 322,
     "partial_matches": 24
   },
   "games": [
@@ -6620,6 +6620,59 @@
       "howlongtobeat": null,
       "opencritic": null,
       "short_game_score": null
+    },
+    {
+      "catalog_group": "intersection",
+      "is_on_gfn": true,
+      "title": "Dune: Awakening",
+      "normalized_title": "dune awakening",
+      "gfn_stores": [
+        "STEAM"
+      ],
+      "gfn_has_xbox_store": false,
+      "xbox_title": "Dune: Awakening",
+      "xbox_product_id": "9PJ6FV3130QZ",
+      "xbox_url": "https://www.microsoft.com/store/productId/9PJ6FV3130QZ",
+      "publisher": "Funcom",
+      "developer": "Funcom",
+      "release_date": "9998-12-30T00:00:00.0000000Z",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.15231.14221973547534254.c9400a22-a0eb-4428-bc72-11e2270ad849.2d59a2c9-5ea7-4e0d-97d3-8ffc82818b7c",
+      "description": "Dune: Awakening is a single- and multiplayer Open World Survival game with immersive adventure and RPG gameplay. Explore, build, craft, and unravel a cinematic Dune story as you rise from survival to greatness on the most legendary planet in the universe. Just remember: the sandworm always comes.",
+      "match_type": "exact-title",
+      "match_score": 120,
+      "howlongtobeat": {
+        "title": "Dune: Awakening",
+        "game_id": 118779,
+        "url": "https://howlongtobeat.com/game/118779",
+        "image_url": "https://howlongtobeat.com/games/118779_Dune_Awakening.jpg",
+        "main_story_seconds": 213120,
+        "review_score": 77,
+        "completion_count": 58,
+        "release_year": 2025,
+        "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
+        "match_type": "exact",
+        "match_score": 130
+      },
+      "opencritic": {
+        "title": "Dune: Awakening",
+        "game_id": 18178,
+        "url": "https://opencritic.com/game/18178/dune-awakening",
+        "top_critic_score": 80.3,
+        "percent_recommended": 80.8,
+        "tier": "Strong",
+        "median_score": 80,
+        "review_count": 80,
+        "release_year": 2025,
+        "match_type": "exact",
+        "match_score": 139
+      },
+      "short_game_score": {
+        "score": 56.2,
+        "critic_score": 80.3,
+        "duration_fit_score": 0.0,
+        "main_story_hours": 59.2,
+        "target_hours": 15.0
+      }
     },
     {
       "catalog_group": "xbox-only",
@@ -19844,9 +19897,9 @@
       "title": "TerraTech Legion",
       "normalized_title": "terratech legion",
       "gfn_stores": [
-        "STEAM"
+        "XBOX"
       ],
-      "gfn_has_xbox_store": false,
+      "gfn_has_xbox_store": true,
       "xbox_title": "TerraTech Legion",
       "xbox_product_id": "9NG66K0Z31LH",
       "xbox_url": "https://www.microsoft.com/store/productId/9NG66K0Z31LH",
@@ -23168,6 +23221,51 @@
         "main_story_hours": 20.9,
         "target_hours": 15.0
       }
+    },
+    {
+      "catalog_group": "xbox-only",
+      "is_on_gfn": false,
+      "title": "Well Dweller",
+      "normalized_title": "well dweller",
+      "gfn_stores": [],
+      "gfn_has_xbox_store": false,
+      "xbox_title": "Well Dweller",
+      "xbox_product_id": "9PLH7R84GJWP",
+      "xbox_url": "https://www.microsoft.com/store/productId/9PLH7R84GJWP",
+      "publisher": "Top Hat Studios, Inc.",
+      "developer": "Kyle Thompson",
+      "release_date": "2026-09-22T15:00:00.0000000Z",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.64966.14313416011451880.0dc13654-082f-4832-844b-343ef39821bf.9bce34eb-6c94-4ced-bbee-c6a9f477d036",
+      "description": "WELL DWELLER is a dark fairy-tale metroidvania made by the creators of Crypt Custodian and Islets!\n\n  Play as Glimmer - a tiny bird armed with a matchstick- who must burn the wicked queen to save his family. Explore a dark fairy-tale landscape and befriend the charming characters who reside in the kingdom’s underbelly. Battle terrifying beasts and gain new abilities to expand your map. Solve puzzles, discover secrets, and unravel the mysteries that lie in this rotted kingdom.",
+      "match_type": "xbox-only",
+      "match_score": 0,
+      "howlongtobeat": {
+        "title": "Well Dweller",
+        "game_id": 172190,
+        "url": "https://howlongtobeat.com/game/172190",
+        "image_url": "https://howlongtobeat.com/games/172190_Well_Dweller.jpg",
+        "main_story_seconds": null,
+        "review_score": null,
+        "completion_count": 1,
+        "release_year": 2026,
+        "profile_platform": "Nintendo Switch, Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
+        "match_type": "exact",
+        "match_score": 142
+      },
+      "opencritic": {
+        "title": "Well Dweller",
+        "game_id": 21304,
+        "url": "https://opencritic.com/game/21304/well-dweller",
+        "top_critic_score": 90.4,
+        "percent_recommended": 100.0,
+        "tier": "Mighty",
+        "median_score": 90,
+        "review_count": 17,
+        "release_year": 2026,
+        "match_type": "exact",
+        "match_score": 147
+      },
+      "short_game_score": null
     },
     {
       "catalog_group": "xbox-only",

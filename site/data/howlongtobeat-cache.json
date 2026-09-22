@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T11:48:51+00:00",
+  "updated_at": "2026-09-22T17:03:03+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -8105,6 +8105,42 @@
         "profile_platform": "Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
         "match_score": 138
+      }
+    },
+    "dune awakening": {
+      "title": "Dune: Awakening",
+      "status": "matched",
+      "fetched_at": "2026-09-22T17:02:56+00:00",
+      "data": {
+        "title": "Dune: Awakening",
+        "game_id": 118779,
+        "url": "https://howlongtobeat.com/game/118779",
+        "image_url": "https://howlongtobeat.com/games/118779_Dune_Awakening.jpg",
+        "main_story_seconds": 213120,
+        "review_score": 77,
+        "completion_count": 58,
+        "release_year": 2025,
+        "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
+        "match_type": "exact",
+        "match_score": 130
+      }
+    },
+    "well dweller": {
+      "title": "Well Dweller",
+      "status": "matched",
+      "fetched_at": "2026-09-22T17:02:59+00:00",
+      "data": {
+        "title": "Well Dweller",
+        "game_id": 172190,
+        "url": "https://howlongtobeat.com/game/172190",
+        "image_url": "https://howlongtobeat.com/games/172190_Well_Dweller.jpg",
+        "main_story_seconds": null,
+        "review_score": null,
+        "completion_count": 1,
+        "release_year": 2026,
+        "profile_platform": "Nintendo Switch, Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
+        "match_type": "exact",
+        "match_score": 142
       }
     }
   }

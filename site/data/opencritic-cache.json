@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T11:48:51+00:00",
+  "updated_at": "2026-09-22T17:03:03+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -8970,6 +8970,42 @@
       "status": "not_found",
       "fetched_at": "2026-09-17T17:07:21+00:00",
       "data": null
+    },
+    "dune awakening": {
+      "title": "Dune: Awakening",
+      "status": "matched",
+      "fetched_at": "2026-09-22T17:02:58+00:00",
+      "data": {
+        "title": "Dune: Awakening",
+        "game_id": 18178,
+        "url": "https://opencritic.com/game/18178/dune-awakening",
+        "top_critic_score": 80.3,
+        "percent_recommended": 80.8,
+        "tier": "Strong",
+        "median_score": 80,
+        "review_count": 80,
+        "release_year": 2025,
+        "match_type": "exact",
+        "match_score": 139
+      }
+    },
+    "well dweller": {
+      "title": "Well Dweller",
+      "status": "matched",
+      "fetched_at": "2026-09-22T17:03:03+00:00",
+      "data": {
+        "title": "Well Dweller",
+        "game_id": 21304,
+        "url": "https://opencritic.com/game/21304/well-dweller",
+        "top_critic_score": 90.4,
+        "percent_recommended": 100.0,
+        "tier": "Mighty",
+        "median_score": 90,
+        "review_count": 17,
+        "release_year": 2026,
+        "match_type": "exact",
+        "match_score": 147
+      }
     }
   }
 }
