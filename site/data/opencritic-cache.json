@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T21:26:15+00:00",
+  "updated_at": "2026-09-23T04:52:36+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -9006,6 +9006,12 @@
         "match_type": "exact",
         "match_score": 147
       }
+    },
+    "mad king redemption": {
+      "title": "Mad King Redemption",
+      "status": "not_found",
+      "fetched_at": "2026-09-23T04:52:35+00:00",
+      "data": null
     }
   }
 }

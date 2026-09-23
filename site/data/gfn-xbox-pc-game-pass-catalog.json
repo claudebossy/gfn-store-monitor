@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T21:26:01+00:00",
+  "generated_at": "2026-09-23T04:52:22+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,11 +13,11 @@
     }
   },
   "counts": {
-    "gfn_titles": 6020,
-    "xbox_pc_titles": 562,
-    "catalog_titles": 535,
+    "gfn_titles": 6031,
+    "xbox_pc_titles": 563,
+    "catalog_titles": 536,
     "intersection_titles": 346,
-    "xbox_only_titles": 189
+    "xbox_only_titles": 190
   },
   "summary": {
     "store_counts": {
@@ -85,8 +85,8 @@
     ],
     "gfn_xbox_store_matches": 202,
     "intersection_titles": 346,
-    "xbox_only_titles": 189,
-    "hltb_matches": 389,
+    "xbox_only_titles": 190,
+    "hltb_matches": 390,
     "opencritic_matches": 459,
     "short_game_score_matches": 299,
     "exact_matches": 322,
@@ -12520,6 +12520,39 @@
         "main_story_hours": 7.9,
         "target_hours": 15.0
       }
+    },
+    {
+      "catalog_group": "xbox-only",
+      "is_on_gfn": false,
+      "title": "Mad King Redemption",
+      "normalized_title": "mad king redemption",
+      "gfn_stores": [],
+      "gfn_has_xbox_store": false,
+      "xbox_title": "Mad King Redemption",
+      "xbox_product_id": "9N944N1WP67T",
+      "xbox_url": "https://www.microsoft.com/store/productId/9N944N1WP67T",
+      "publisher": "Secret Mission Games",
+      "developer": "Secret Mission Games",
+      "release_date": "2026-08-23T00:00:00.0000000Z",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.52962.13544556109351948.9c4c33b4-f6ce-4d2c-ac5f-3aa565d08d7d.367a2b17-e3d1-41e3-85d3-de507b095418",
+      "description": "Mad King Redemption è un mix unico di un gioco beat'em'up tradizionale con una forte progressione roguelite, mescolata a uno stile grafico pixelato in un mondo 2.5D. Liberate il re pazzo dalla sua follia e sconfiggete i nemici corrotti, in un modo sempre nuovo ad ogni run!",
+      "match_type": "xbox-only",
+      "match_score": 0,
+      "howlongtobeat": {
+        "title": "Mad King Redemption",
+        "game_id": 185968,
+        "url": "https://howlongtobeat.com/game/185968",
+        "image_url": "https://howlongtobeat.com/games/185968_Mad_King_Redemption.jpg",
+        "main_story_seconds": null,
+        "review_score": null,
+        "completion_count": null,
+        "release_year": 2026,
+        "profile_platform": "PC",
+        "match_type": "exact",
+        "match_score": 137
+      },
+      "opencritic": null,
+      "short_game_score": null
     },
     {
       "catalog_group": "xbox-only",

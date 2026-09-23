@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T21:26:15+00:00",
+  "updated_at": "2026-09-23T04:52:36+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -8141,6 +8141,24 @@
         "profile_platform": "Nintendo Switch, Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
         "match_score": 142
+      }
+    },
+    "mad king redemption": {
+      "title": "Mad King Redemption",
+      "status": "matched",
+      "fetched_at": "2026-09-23T04:52:34+00:00",
+      "data": {
+        "title": "Mad King Redemption",
+        "game_id": 185968,
+        "url": "https://howlongtobeat.com/game/185968",
+        "image_url": "https://howlongtobeat.com/games/185968_Mad_King_Redemption.jpg",
+        "main_story_seconds": null,
+        "review_score": null,
+        "completion_count": null,
+        "release_year": 2026,
+        "profile_platform": "PC",
+        "match_type": "exact",
+        "match_score": 137
       }
     }
   }
