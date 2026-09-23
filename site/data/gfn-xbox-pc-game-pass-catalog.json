@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T11:48:40+00:00",
+  "generated_at": "2026-09-23T17:12:13+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,7 +13,7 @@
     }
   },
   "counts": {
-    "gfn_titles": 6031,
+    "gfn_titles": 6032,
     "xbox_pc_titles": 563,
     "catalog_titles": 536,
     "intersection_titles": 346,
@@ -6635,7 +6635,7 @@
       "xbox_url": "https://www.microsoft.com/store/productId/9PJ6FV3130QZ",
       "publisher": "Funcom",
       "developer": "Funcom",
-      "release_date": "9998-12-30T00:00:00.0000000Z",
+      "release_date": "2026-09-22T12:00:00.0000000Z",
       "image_url": "https://store-images.s-microsoft.com/image/apps.15231.14221973547534254.c9400a22-a0eb-4428-bc72-11e2270ad849.2d59a2c9-5ea7-4e0d-97d3-8ffc82818b7c",
       "description": "Dune: Awakening is a single- and multiplayer Open World Survival game with immersive adventure and RPG gameplay. Explore, build, craft, and unravel a cinematic Dune story as you rise from survival to greatness on the most legendary planet in the universe. Just remember: the sandworm always comes.",
       "match_type": "exact-title",
@@ -12535,7 +12535,7 @@
       "developer": "Secret Mission Games",
       "release_date": "2026-08-23T00:00:00.0000000Z",
       "image_url": "https://store-images.s-microsoft.com/image/apps.52962.13544556109351948.9c4c33b4-f6ce-4d2c-ac5f-3aa565d08d7d.367a2b17-e3d1-41e3-85d3-de507b095418",
-      "description": "Mad King Redemption è un mix unico di un gioco beat'em'up tradizionale con una forte progressione roguelite, mescolata a uno stile grafico pixelato in un mondo 2.5D. Liberate il re pazzo dalla sua follia e sconfiggete i nemici corrotti, in un modo sempre nuovo ad ogni run!",
+      "description": "Mad King Redemption is a unique blend of a traditional beat'em'up game with strong roguelite progression, mixed in a pixelated graphic style in a 2.5D world. Relieve the king from his madness while beating up corrupted enemies, in a fresh way at every run!",
       "match_type": "xbox-only",
       "match_score": 0,
       "howlongtobeat": {
@@ -23826,7 +23826,7 @@
       "publisher": "Wargaming.net",
       "developer": "Wargaming.net",
       "release_date": "2026-05-26T07:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.4791.13914660851585642.fe38acd5-d659-41ed-9bbf-feab6fa3d9c7.58e7658f-4a3e-44af-bdc7-14f65e060293",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.63783.13914660851585642.a21c2c87-a21a-4263-9436-669b54cfa894.6f6c51ca-27ad-495d-892b-50adfb797702",
       "description": "World of Tanks: HEAT is a free-to-play PvP vehicle shooter with powerful hero abilities and explosive team combat. Pilot customizable tanks, unleash Agent skills, and take control in 10v10 online battles where tactical warfare meets FPS-style intensity.",
       "match_type": "exact-title",
       "match_score": 120,
