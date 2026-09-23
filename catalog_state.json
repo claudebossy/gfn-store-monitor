@@ -12499,6 +12499,12 @@
       "STEAM"
     ]
   },
+  "gobble": {
+    "name": "GOBBLE",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "goblin cleanup": {
     "name": "Goblin Cleanup",
     "stores": [
