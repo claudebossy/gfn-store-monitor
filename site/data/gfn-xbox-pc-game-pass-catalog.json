@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T04:52:22+00:00",
+  "generated_at": "2026-09-23T11:48:40+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -87,7 +87,7 @@
     "intersection_titles": 346,
     "xbox_only_titles": 190,
     "hltb_matches": 390,
-    "opencritic_matches": 459,
+    "opencritic_matches": 460,
     "short_game_score_matches": 299,
     "exact_matches": 322,
     "partial_matches": 24
@@ -19741,7 +19741,19 @@
         "match_type": "exact",
         "match_score": 130
       },
-      "opencritic": null,
+      "opencritic": {
+        "title": "TCG: Card Shop Simulator",
+        "game_id": 21392,
+        "url": "https://opencritic.com/game/21392/tcg-card-shop-simulator",
+        "top_critic_score": null,
+        "percent_recommended": 40.0,
+        "tier": null,
+        "median_score": 80,
+        "review_count": 5,
+        "release_year": 2026,
+        "match_type": "exact",
+        "match_score": 147
+      },
       "short_game_score": null
     },
     {
