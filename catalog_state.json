@@ -8825,6 +8825,12 @@
       "STEAM"
     ]
   },
+  "dragonsword awakening": {
+    "name": "DragonSword : Awakening",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "draugen": {
     "name": "Draugen",
     "stores": [
@@ -10344,12 +10350,6 @@
   },
   "every day we fight": {
     "name": "Every Day We Fight",
-    "stores": [
-      "STEAM"
-    ]
-  },
-  "everything is crab the animal evolution roguelite": {
-    "name": "Everything is Crab: The Animal Evolution Roguelite",
     "stores": [
       "STEAM"
     ]
@@ -24529,12 +24529,6 @@
   },
   "roadhouse simulator prologue": {
     "name": "Roadhouse Simulator - Prologue",
-    "stores": [
-      "STEAM"
-    ]
-  },
-  "roadside research": {
-    "name": "Roadside Research",
     "stores": [
       "STEAM"
     ]
