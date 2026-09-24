@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T11:56:37+00:00",
+  "updated_at": "2026-09-24T17:18:30+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -8979,9 +8979,21 @@
     },
     "kernel hearts": {
       "title": "Kernel Hearts",
-      "status": "not_found",
-      "fetched_at": "2026-09-17T17:07:21+00:00",
-      "data": null
+      "status": "matched",
+      "fetched_at": "2026-09-24T17:18:29+00:00",
+      "data": {
+        "title": "Kernel Hearts",
+        "game_id": 21419,
+        "url": "https://opencritic.com/game/21419/kernel-hearts",
+        "top_critic_score": null,
+        "percent_recommended": null,
+        "tier": null,
+        "median_score": null,
+        "review_count": 3,
+        "release_year": 2026,
+        "match_type": "exact",
+        "match_score": 147
+      }
     },
     "dune awakening": {
       "title": "Dune: Awakening",

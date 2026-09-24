@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T11:56:24+00:00",
+  "generated_at": "2026-09-24T17:18:16+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,7 +13,7 @@
     }
   },
   "counts": {
-    "gfn_titles": 6031,
+    "gfn_titles": 6030,
     "xbox_pc_titles": 563,
     "catalog_titles": 536,
     "intersection_titles": 345,
@@ -87,7 +87,7 @@
     "intersection_titles": 345,
     "xbox_only_titles": 191,
     "hltb_matches": 389,
-    "opencritic_matches": 460,
+    "opencritic_matches": 461,
     "short_game_score_matches": 299,
     "exact_matches": 321,
     "partial_matches": 24
@@ -11546,7 +11546,19 @@
         "match_type": "exact",
         "match_score": 138
       },
-      "opencritic": null,
+      "opencritic": {
+        "title": "Kernel Hearts",
+        "game_id": 21419,
+        "url": "https://opencritic.com/game/21419/kernel-hearts",
+        "top_critic_score": null,
+        "percent_recommended": null,
+        "tier": null,
+        "median_score": null,
+        "review_count": 3,
+        "release_year": 2026,
+        "match_type": "exact",
+        "match_score": 147
+      },
       "short_game_score": null
     },
     {
