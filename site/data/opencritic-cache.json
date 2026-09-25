@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-09-24T21:36:03+00:00",
+  "updated_at": "2026-09-25T05:14:21+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:37:42+00:00",
+      "fetched_at": "2026-09-25T05:05:16+00:00",
       "data": {
         "title": "1000xRESIST",
         "game_id": 16723,
         "url": "https://opencritic.com/game/16723/1000xresist",
         "top_critic_score": 89.9,
-        "percent_recommended": 100.0,
+        "percent_recommended": 97.1,
         "tier": "Mighty",
         "median_score": 90,
-        "review_count": 30,
+        "review_count": 34,
         "release_year": 2024,
         "match_type": "exact",
         "match_score": 142
@@ -22,7 +22,7 @@
     "33 immortals": {
       "title": "33 Immortals",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:37:46+00:00",
+      "fetched_at": "2026-09-25T05:05:18+00:00",
       "data": {
         "title": "33 Immortals",
         "game_id": 20844,
@@ -40,7 +40,7 @@
     "9 kings": {
       "title": "9 Kings",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:37:49+00:00",
+      "fetched_at": "2026-09-25T05:05:20+00:00",
       "data": {
         "title": "9 Kings",
         "game_id": 18612,
@@ -58,7 +58,7 @@
     "a game about digging a hole": {
       "title": "A Game About Digging A Hole™",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:37:51+00:00",
+      "fetched_at": "2026-09-25T05:05:21+00:00",
       "data": {
         "title": "A Game About Digging A Hole",
         "game_id": 18097,
@@ -76,7 +76,7 @@
     "a plague tale requiem": {
       "title": "A Plague Tale: Requiem",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:37:53+00:00",
+      "fetched_at": "2026-09-25T05:05:22+00:00",
       "data": {
         "title": "A Plague Tale: Requiem",
         "game_id": 13346,
@@ -94,16 +94,16 @@
     "a way out": {
       "title": "A Way Out",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:37:56+00:00",
+      "fetched_at": "2026-09-25T05:05:24+00:00",
       "data": {
         "title": "A Way Out",
         "game_id": 5413,
         "url": "https://opencritic.com/game/5413/a-way-out",
         "top_critic_score": 79.4,
-        "percent_recommended": 69.2,
+        "percent_recommended": 69.5,
         "tier": "Strong",
         "median_score": 80,
-        "review_count": 108,
+        "review_count": 109,
         "release_year": 2018,
         "match_type": "exact",
         "match_score": 152
@@ -112,7 +112,7 @@
     "abiotic factor": {
       "title": "Abiotic Factor",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:37:59+00:00",
+      "fetched_at": "2026-09-25T05:05:25+00:00",
       "data": {
         "title": "Abiotic Factor",
         "game_id": 18961,
@@ -130,7 +130,7 @@
     "absolum": {
       "title": "Absolum",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:38:01+00:00",
+      "fetched_at": "2026-09-25T05:05:27+00:00",
       "data": {
         "title": "Absolum",
         "game_id": 19143,
@@ -148,7 +148,7 @@
     "aerial_knight s dropshot": {
       "title": "Aerial_Knight's DropShot",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:38:03+00:00",
+      "fetched_at": "2026-09-25T05:05:28+00:00",
       "data": {
         "title": "Aerial_Knight's DropShot",
         "game_id": 20037,
@@ -166,7 +166,7 @@
     "age of empires definitive edition": {
       "title": "Age of Empires: Definitive Edition",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:38:06+00:00",
+      "fetched_at": "2026-09-25T05:05:30+00:00",
       "data": {
         "title": "Age of Empires: Definitive Edition",
         "game_id": 5451,
@@ -184,7 +184,7 @@
     "age of empires ii definitive edition": {
       "title": "Age of Empires II: Definitive Edition",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:38:08+00:00",
+      "fetched_at": "2026-09-25T05:05:31+00:00",
       "data": {
         "title": "Age of Empires II: Definitive Edition",
         "game_id": 8450,
@@ -202,7 +202,7 @@
     "age of empires iii definitive edition": {
       "title": "Age of Empires III: Definitive Edition",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:38:10+00:00",
+      "fetched_at": "2026-09-25T05:05:32+00:00",
       "data": {
         "title": "Age of Empires III: Definitive Edition",
         "game_id": 10246,
@@ -220,7 +220,7 @@
     "age of empires iv anniversary edition": {
       "title": "Age of Empires IV: Anniversary Edition",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:38:11+00:00",
+      "fetched_at": "2026-09-25T05:05:32+00:00",
       "data": {
         "title": "Age of Empires IV",
         "game_id": 11623,
@@ -238,7 +238,7 @@
     "age of mythology retold": {
       "title": "Age of Mythology: Retold",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:38:13+00:00",
+      "fetched_at": "2026-09-25T05:05:34+00:00",
       "data": {
         "title": "Age of Mythology: Retold",
         "game_id": 17117,
@@ -256,7 +256,7 @@
     "albion online": {
       "title": "Albion Online",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:38:15+00:00",
+      "fetched_at": "2026-09-25T05:05:35+00:00",
       "data": {
         "title": "Albion Online",
         "game_id": 1780,
@@ -280,7 +280,7 @@
     "aliens dark descent": {
       "title": "Aliens: Dark Descent",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:38:20+00:00",
+      "fetched_at": "2026-09-25T05:05:36+00:00",
       "data": {
         "title": "Aliens: Dark Descent",
         "game_id": 15096,
@@ -298,7 +298,7 @@
     "among us": {
       "title": "Among Us",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:38:23+00:00",
+      "fetched_at": "2026-09-25T05:05:38+00:00",
       "data": {
         "title": "Among Us",
         "game_id": 10238,
@@ -322,7 +322,7 @@
     "anno 1800": {
       "title": "Anno 1800™",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:38:27+00:00",
+      "fetched_at": "2026-09-25T05:05:40+00:00",
       "data": {
         "title": "Anno 1800",
         "game_id": 7085,
@@ -340,7 +340,7 @@
     "anno mutationem": {
       "title": "ANNO: Mutationem",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:38:30+00:00",
+      "fetched_at": "2026-09-25T05:05:41+00:00",
       "data": {
         "title": "ANNO: Mutationem",
         "game_id": 12900,
@@ -376,7 +376,7 @@
     "aphelion": {
       "title": "Aphelion",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:38:34+00:00",
+      "fetched_at": "2026-09-25T05:05:42+00:00",
       "data": {
         "title": "Aphelion",
         "game_id": 20233,
@@ -394,7 +394,7 @@
     "ara history untold anniversary edition": {
       "title": "Ara History Untold: Anniversary Edition",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:38:36+00:00",
+      "fetched_at": "2026-09-25T05:05:43+00:00",
       "data": {
         "title": "Ara: History Untold",
         "game_id": 17337,
@@ -411,26 +411,14 @@
     },
     "arcade": {
       "title": "ARCADE",
-      "status": "matched",
-      "fetched_at": "2026-08-25T22:38:39+00:00",
-      "data": {
-        "title": "MULLET MADJACK",
-        "game_id": 16689,
-        "url": "https://opencritic.com/game/16689/mullet-madjack",
-        "top_critic_score": 87.5,
-        "percent_recommended": 98.3,
-        "tier": "Mighty",
-        "median_score": 90,
-        "review_count": 59,
-        "release_year": 2024,
-        "match_type": "exact",
-        "match_score": 143
-      }
+      "status": "not_found",
+      "fetched_at": "2026-09-25T05:05:45+00:00",
+      "data": null
     },
     "ark survival ascended": {
       "title": "ARK: Survival Ascended",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:38:43+00:00",
+      "fetched_at": "2026-09-25T05:05:47+00:00",
       "data": {
         "title": "ARK: Survival Ascended",
         "game_id": 15987,
@@ -454,7 +442,7 @@
     "artifact": {
       "title": "Artifact",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:38:48+00:00",
+      "fetched_at": "2026-09-25T05:05:49+00:00",
       "data": {
         "title": "Artifact",
         "game_id": 6761,
@@ -472,7 +460,7 @@
     "arto": {
       "title": "Arto",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:38:50+00:00",
+      "fetched_at": "2026-09-25T05:05:51+00:00",
       "data": {
         "title": "Arto",
         "game_id": 14873,
@@ -490,7 +478,7 @@
     "arx fatalis": {
       "title": "Arx Fatalis",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:38:52+00:00",
+      "fetched_at": "2026-09-25T05:05:52+00:00",
       "data": {
         "title": "Arx Fatalis",
         "game_id": 13417,
@@ -508,7 +496,7 @@
     "as dusk falls": {
       "title": "As Dusk Falls",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:38:54+00:00",
+      "fetched_at": "2026-09-25T05:05:53+00:00",
       "data": {
         "title": "As Dusk Falls",
         "game_id": 13424,
@@ -526,7 +514,7 @@
     "asphalt legends": {
       "title": "Asphalt Legends",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:38:56+00:00",
+      "fetched_at": "2026-09-25T05:05:55+00:00",
       "data": {
         "title": "Asphalt Legends Unite",
         "game_id": 17017,
@@ -544,16 +532,16 @@
     "assassin s creed mirage": {
       "title": "Assassin's Creed® Mirage",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:38:59+00:00",
+      "fetched_at": "2026-09-25T05:05:56+00:00",
       "data": {
         "title": "Assassin's Creed Mirage",
         "game_id": 15005,
         "url": "https://opencritic.com/game/15005/assassins-creed-mirage",
         "top_critic_score": 76.2,
-        "percent_recommended": 72.8,
+        "percent_recommended": 72.4,
         "tier": "Strong",
         "median_score": 80,
-        "review_count": 200,
+        "review_count": 201,
         "release_year": 2023,
         "match_type": "exact",
         "match_score": 145
@@ -562,7 +550,7 @@
     "assassin s creed odyssey": {
       "title": "Assassin’s Creed® Odyssey",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:39:02+00:00",
+      "fetched_at": "2026-09-25T05:05:57+00:00",
       "data": {
         "title": "Assassin's Creed Odyssey",
         "game_id": 6222,
@@ -580,7 +568,7 @@
     "assassin s creed origins": {
       "title": "Assassin’s Creed® Origins",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:39:05+00:00",
+      "fetched_at": "2026-09-25T05:05:58+00:00",
       "data": {
         "title": "Assassin's Creed Origins",
         "game_id": 4503,
@@ -598,7 +586,7 @@
     "assassin s creed valhalla": {
       "title": "Assassin’s Creed®: Valhalla",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:39:07+00:00",
+      "fetched_at": "2026-09-25T05:05:58+00:00",
       "data": {
         "title": "Assassin's Creed Valhalla",
         "game_id": 9439,
@@ -616,7 +604,7 @@
     "astroneer": {
       "title": "ASTRONEER",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:39:08+00:00",
+      "fetched_at": "2026-09-25T05:05:59+00:00",
       "data": {
         "title": "Astroneer",
         "game_id": 7268,
@@ -634,16 +622,16 @@
     "atomfall": {
       "title": "Atomfall",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:39:11+00:00",
+      "fetched_at": "2026-09-25T05:06:01+00:00",
       "data": {
         "title": "Atomfall",
         "game_id": 17764,
         "url": "https://opencritic.com/game/17764/atomfall",
         "top_critic_score": 74.9,
-        "percent_recommended": 64.6,
+        "percent_recommended": 63.8,
         "tier": "Strong",
         "median_score": 78,
-        "review_count": 128,
+        "review_count": 131,
         "release_year": 2025,
         "match_type": "exact",
         "match_score": 153
@@ -652,7 +640,7 @@
     "avatar frontiers of pandora": {
       "title": "Avatar: Frontiers of Pandora™",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:39:14+00:00",
+      "fetched_at": "2026-09-25T05:06:03+00:00",
       "data": {
         "title": "Avatar: Frontiers of Pandora",
         "game_id": 15397,
@@ -670,16 +658,16 @@
     "avowed": {
       "title": "Avowed",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:39:16+00:00",
+      "fetched_at": "2026-09-25T05:06:04+00:00",
       "data": {
         "title": "Avowed",
         "game_id": 17747,
         "url": "https://opencritic.com/game/17747/avowed",
         "top_critic_score": 80.2,
-        "percent_recommended": 83.1,
+        "percent_recommended": 83.3,
         "tier": "Strong",
         "median_score": 82,
-        "review_count": 204,
+        "review_count": 206,
         "release_year": 2025,
         "match_type": "exact",
         "match_score": 157
@@ -688,7 +676,7 @@
     "balatro": {
       "title": "Balatro",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:39:19+00:00",
+      "fetched_at": "2026-09-25T05:06:06+00:00",
       "data": {
         "title": "Balatro",
         "game_id": 16300,
@@ -706,7 +694,7 @@
     "baldur s gate and baldur s gate ii enhanced editions": {
       "title": "Baldur's Gate and Baldur's Gate II: Enhanced Editions",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:39:21+00:00",
+      "fetched_at": "2026-09-25T05:06:07+00:00",
       "data": {
         "title": "Baldur's Gate II: Enhanced Edition",
         "game_id": 545,
@@ -724,16 +712,16 @@
     "ball x pit": {
       "title": "BALL x PIT",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:39:23+00:00",
+      "fetched_at": "2026-09-25T05:06:08+00:00",
       "data": {
         "title": "BALL x PIT",
         "game_id": 19209,
         "url": "https://opencritic.com/game/19209/ball-x-pit",
         "top_critic_score": 86.1,
-        "percent_recommended": 90.6,
+        "percent_recommended": 90.8,
         "tier": "Mighty",
         "median_score": 90,
-        "review_count": 96,
+        "review_count": 98,
         "release_year": 2025,
         "match_type": "exact",
         "match_score": 151
@@ -742,7 +730,7 @@
     "banishers ghosts of new eden": {
       "title": "Banishers: Ghosts of New Eden",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:39:25+00:00",
+      "fetched_at": "2026-09-25T05:06:10+00:00",
       "data": {
         "title": "Banishers: Ghosts of New Eden",
         "game_id": 15909,
@@ -766,7 +754,7 @@
     "batman arkham knight": {
       "title": "Batman™: Arkham Knight",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:39:30+00:00",
+      "fetched_at": "2026-09-25T05:06:11+00:00",
       "data": {
         "title": "Batman: Arkham Knight",
         "game_id": 1383,
@@ -784,7 +772,7 @@
     "battlefield 1": {
       "title": "Battlefield™ 1",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:39:33+00:00",
+      "fetched_at": "2026-09-25T05:06:12+00:00",
       "data": {
         "title": "Battlefield 1",
         "game_id": 2835,
@@ -802,7 +790,7 @@
     "battlefield 2042": {
       "title": "Battlefield™ 2042",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:39:35+00:00",
+      "fetched_at": "2026-09-25T05:06:13+00:00",
       "data": {
         "title": "Battlefield 2042",
         "game_id": 11561,
@@ -820,7 +808,7 @@
     "battlefield 4 premium edition": {
       "title": "Battlefield 4™ Premium Edition",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:39:37+00:00",
+      "fetched_at": "2026-09-25T05:06:13+00:00",
       "data": {
         "title": "Battlefield 4",
         "game_id": 317,
@@ -838,7 +826,7 @@
     "battlefield hardline ultimate edition": {
       "title": "Battlefield™ Hardline Ultimate Edition",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:39:38+00:00",
+      "fetched_at": "2026-09-25T05:06:13+00:00",
       "data": {
         "title": "Battlefield Hardline",
         "game_id": 81,
@@ -856,7 +844,7 @@
     "battlefield v": {
       "title": "Battlefield™ V",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:39:40+00:00",
+      "fetched_at": "2026-09-25T05:06:14+00:00",
       "data": {
         "title": "Battlefield V",
         "game_id": 6207,
@@ -874,7 +862,7 @@
     "battletech": {
       "title": "Battletech",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:39:41+00:00",
+      "fetched_at": "2026-09-25T05:06:15+00:00",
       "data": {
         "title": "BattleTech",
         "game_id": 5947,
@@ -892,7 +880,7 @@
     "battletoads": {
       "title": "Battletoads",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:39:43+00:00",
+      "fetched_at": "2026-09-25T05:06:16+00:00",
       "data": {
         "title": "Battletoads",
         "game_id": 10017,
@@ -910,25 +898,25 @@
     "beast of reincarnation": {
       "title": "Beast of Reincarnation",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:39:45+00:00",
+      "fetched_at": "2026-09-25T05:06:17+00:00",
       "data": {
         "title": "Beast of Reincarnation",
         "game_id": 20099,
         "url": "https://opencritic.com/game/20099/beast-of-reincarnation",
-        "top_critic_score": 73.7,
-        "percent_recommended": 50.5,
+        "top_critic_score": 72.3,
+        "percent_recommended": 46.6,
         "tier": "Fair",
-        "median_score": 75,
-        "review_count": 106,
+        "median_score": 73,
+        "review_count": 132,
         "release_year": 2026,
         "match_type": "exact",
-        "match_score": 152
+        "match_score": 153
       }
     },
     "beastro": {
       "title": "Beastro",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:39:47+00:00",
+      "fetched_at": "2026-09-25T05:06:18+00:00",
       "data": {
         "title": "Beastro",
         "game_id": 20846,
@@ -952,16 +940,16 @@
     "black jacket": {
       "title": "Black Jacket",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:39:51+00:00",
+      "fetched_at": "2026-09-25T05:06:20+00:00",
       "data": {
         "title": "Black Jacket",
         "game_id": 20593,
         "url": "https://opencritic.com/game/20593/black-jacket",
         "top_critic_score": 80.8,
-        "percent_recommended": 76.9,
+        "percent_recommended": 78.6,
         "tier": "Strong",
-        "median_score": 85,
-        "review_count": 13,
+        "median_score": null,
+        "review_count": 14,
         "release_year": 2026,
         "match_type": "exact",
         "match_score": 147
@@ -970,7 +958,7 @@
     "blasphemous": {
       "title": "Blasphemous",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:39:53+00:00",
+      "fetched_at": "2026-09-25T05:06:22+00:00",
       "data": {
         "title": "Blasphemous",
         "game_id": 8241,
@@ -988,7 +976,7 @@
     "blazblue entropy effect x": {
       "title": "BlazBlue Entropy Effect X",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:39:55+00:00",
+      "fetched_at": "2026-09-25T05:06:23+00:00",
       "data": {
         "title": "BlazBlue Entropy Effect X",
         "game_id": 19684,
@@ -1006,7 +994,7 @@
     "bleeding edge": {
       "title": "Bleeding Edge",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:39:58+00:00",
+      "fetched_at": "2026-09-25T05:06:24+00:00",
       "data": {
         "title": "Bleeding Edge",
         "game_id": 9180,
@@ -1030,7 +1018,7 @@
     "blizzard arcade collection": {
       "title": "Blizzard® Arcade Collection",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:40:03+00:00",
+      "fetched_at": "2026-09-25T05:06:26+00:00",
       "data": {
         "title": "Blizzard Arcade Collection",
         "game_id": 10978,
@@ -1048,16 +1036,16 @@
     "blue prince": {
       "title": "Blue Prince",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:40:06+00:00",
+      "fetched_at": "2026-09-25T05:06:27+00:00",
       "data": {
         "title": "Blue Prince",
         "game_id": 18352,
         "url": "https://opencritic.com/game/18352/blue-prince",
         "top_critic_score": 89.3,
-        "percent_recommended": 95.8,
+        "percent_recommended": 95.9,
         "tier": "Mighty",
         "median_score": 90,
-        "review_count": 121,
+        "review_count": 122,
         "release_year": 2025,
         "match_type": "exact",
         "match_score": 153
@@ -1066,7 +1054,7 @@
     "bluey the videogame": {
       "title": "Bluey: The Videogame",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:40:08+00:00",
+      "fetched_at": "2026-09-25T05:06:29+00:00",
       "data": {
         "title": "Bluey: The Videogame",
         "game_id": 15882,
@@ -1084,7 +1072,7 @@
     "bounty star": {
       "title": "Bounty Star",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:40:10+00:00",
+      "fetched_at": "2026-09-25T05:06:30+00:00",
       "data": {
         "title": "Bounty Star",
         "game_id": 19534,
@@ -1102,7 +1090,7 @@
     "brawlhalla": {
       "title": "Brawlhalla",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:40:13+00:00",
+      "fetched_at": "2026-09-25T05:06:31+00:00",
       "data": {
         "title": "Brawlhalla",
         "game_id": 5034,
@@ -1120,7 +1108,7 @@
     "broken age": {
       "title": "Broken Age",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:40:15+00:00",
+      "fetched_at": "2026-09-25T05:06:33+00:00",
       "data": {
         "title": "Broken Age",
         "game_id": 29,
@@ -1138,7 +1126,7 @@
     "brotato": {
       "title": "Brotato",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:40:17+00:00",
+      "fetched_at": "2026-09-25T05:06:34+00:00",
       "data": {
         "title": "Brotato",
         "game_id": 15137,
@@ -1156,7 +1144,7 @@
     "buckshot roulette": {
       "title": "Buckshot Roulette",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:40:20+00:00",
+      "fetched_at": "2026-09-25T05:06:36+00:00",
       "data": {
         "title": "Buckshot Roulette",
         "game_id": 16544,
@@ -1174,7 +1162,7 @@
     "burnout paradise remastered": {
       "title": "Burnout™ Paradise Remastered",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:40:22+00:00",
+      "fetched_at": "2026-09-25T05:06:37+00:00",
       "data": {
         "title": "Burnout Paradise Remastered",
         "game_id": 5689,
@@ -1192,7 +1180,7 @@
     "call of duty": {
       "title": "Call of Duty®",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:40:25+00:00",
+      "fetched_at": "2026-09-25T05:06:38+00:00",
       "data": {
         "title": "Call of Duty: Warzone",
         "game_id": 9162,
@@ -1210,7 +1198,7 @@
     "call of duty black ops 6": {
       "title": "Call of Duty®: Black Ops 6",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:40:28+00:00",
+      "fetched_at": "2026-09-25T05:06:38+00:00",
       "data": {
         "title": "Call of Duty: Black Ops 6",
         "game_id": 17124,
@@ -1228,7 +1216,7 @@
     "call of duty modern warfare ii": {
       "title": "Call of Duty®: Modern Warfare® II",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:40:31+00:00",
+      "fetched_at": "2026-09-25T05:06:39+00:00",
       "data": {
         "title": "Call of Duty: Modern Warfare II (2022)",
         "game_id": 13349,
@@ -1246,7 +1234,7 @@
     "call of duty modern warfare iii": {
       "title": "Call of Duty®: Modern Warfare® III",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:40:34+00:00",
+      "fetched_at": "2026-09-25T05:06:40+00:00",
       "data": {
         "title": "Call of Duty: Modern Warfare III",
         "game_id": 15396,
@@ -1264,7 +1252,7 @@
     "call of duty vanguard": {
       "title": "Call of Duty®: Vanguard",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:40:36+00:00",
+      "fetched_at": "2026-09-25T05:06:40+00:00",
       "data": {
         "title": "Call of Duty: Vanguard",
         "game_id": 12073,
@@ -1282,7 +1270,7 @@
     "call of the elder gods": {
       "title": "Call of the Elder Gods",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:40:37+00:00",
+      "fetched_at": "2026-09-25T05:06:41+00:00",
       "data": {
         "title": "Call of the Elder Gods",
         "game_id": 20582,
@@ -1300,7 +1288,7 @@
     "call of the wild the angler": {
       "title": "Call of the Wild: The Angler™",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:40:39+00:00",
+      "fetched_at": "2026-09-25T05:06:42+00:00",
       "data": {
         "title": "Call of the Wild: The Angler",
         "game_id": 13603,
@@ -1318,7 +1306,7 @@
     "car mechanic simulator 2021": {
       "title": "Car Mechanic Simulator 2021",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:40:40+00:00",
+      "fetched_at": "2026-09-25T05:06:43+00:00",
       "data": {
         "title": "Car Mechanic Simulator 2021",
         "game_id": 11826,
@@ -1336,7 +1324,7 @@
     "chivalry 2": {
       "title": "Chivalry 2",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:40:43+00:00",
+      "fetched_at": "2026-09-25T05:06:44+00:00",
       "data": {
         "title": "Chivalry 2",
         "game_id": 11293,
@@ -1354,7 +1342,7 @@
     "cities skylines": {
       "title": "Cities: Skylines©",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:40:46+00:00",
+      "fetched_at": "2026-09-25T05:06:45+00:00",
       "data": {
         "title": "Cities: Skylines",
         "game_id": 1260,
@@ -1372,7 +1360,7 @@
     "cities skylines ii": {
       "title": "Cities: Skylines II",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:40:48+00:00",
+      "fetched_at": "2026-09-25T05:06:47+00:00",
       "data": {
         "title": "Cities: Skylines",
         "game_id": 1260,
@@ -1390,7 +1378,7 @@
     "city 20": {
       "title": "City 20",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:40:50+00:00",
+      "fetched_at": "2026-09-25T05:06:48+00:00",
       "data": {
         "title": "City 20",
         "game_id": 17490,
@@ -1408,7 +1396,7 @@
     "clair obscur expedition 33": {
       "title": "Clair Obscur: Expedition 33",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:40:52+00:00",
+      "fetched_at": "2026-09-25T05:06:49+00:00",
       "data": {
         "title": "Clair Obscur: Expedition 33",
         "game_id": 18026,
@@ -1417,7 +1405,7 @@
         "percent_recommended": 97.6,
         "tier": "Mighty",
         "median_score": 95,
-        "review_count": 209,
+        "review_count": 210,
         "release_year": 2025,
         "match_type": "exact",
         "match_score": 157
@@ -1426,7 +1414,7 @@
     "clone drone in the danger zone": {
       "title": "Clone Drone in the Danger Zone",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:40:54+00:00",
+      "fetched_at": "2026-09-25T05:06:51+00:00",
       "data": {
         "title": "Clone Drone In The Danger Zone",
         "game_id": 12439,
@@ -1444,16 +1432,16 @@
     "cloverpit": {
       "title": "CloverPit",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:40:56+00:00",
+      "fetched_at": "2026-09-25T05:06:52+00:00",
       "data": {
         "title": "CloverPit",
         "game_id": 19389,
         "url": "https://opencritic.com/game/19389/cloverpit",
         "top_critic_score": 81.4,
-        "percent_recommended": 72.4,
+        "percent_recommended": 73.3,
         "tier": "Strong",
         "median_score": 80,
-        "review_count": 29,
+        "review_count": 30,
         "release_year": 2025,
         "match_type": "exact",
         "match_score": 148
@@ -1462,7 +1450,7 @@
     "command conquer remastered collection": {
       "title": "Command & Conquer™ Remastered Collection",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:40:59+00:00",
+      "fetched_at": "2026-09-25T05:06:53+00:00",
       "data": {
         "title": "Command & Conquer Remastered Collection",
         "game_id": 9589,
@@ -1504,7 +1492,7 @@
     "construction simulator": {
       "title": "Construction Simulator",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:41:05+00:00",
+      "fetched_at": "2026-09-25T05:06:55+00:00",
       "data": {
         "title": "Construction Simulator",
         "game_id": 13734,
@@ -1522,16 +1510,16 @@
     "control ultimate edition": {
       "title": "Control Ultimate Edition",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:41:07+00:00",
+      "fetched_at": "2026-09-25T05:06:57+00:00",
       "data": {
         "title": "Control: Ultimate Edition",
         "game_id": 10096,
         "url": "https://opencritic.com/game/10096/control-ultimate-edition",
-        "top_critic_score": 85.1,
-        "percent_recommended": 97.2,
+        "top_critic_score": 84.9,
+        "percent_recommended": 97.3,
         "tier": "Mighty",
-        "median_score": 87,
-        "review_count": 38,
+        "median_score": 86,
+        "review_count": 39,
         "release_year": 2020,
         "match_type": "exact",
         "match_score": 136
@@ -1540,7 +1528,7 @@
     "cooking simulator": {
       "title": "Cooking Simulator",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:41:08+00:00",
+      "fetched_at": "2026-09-25T05:06:57+00:00",
       "data": {
         "title": "Cooking Simulator",
         "game_id": 7916,
@@ -1558,7 +1546,7 @@
     "corsair cove": {
       "title": "Corsair Cove",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:41:11+00:00",
+      "fetched_at": "2026-09-25T05:06:59+00:00",
       "data": {
         "title": "Corsair Cove",
         "game_id": 21063,
@@ -1576,7 +1564,7 @@
     "crackdown 3": {
       "title": "Crackdown 3",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:41:13+00:00",
+      "fetched_at": "2026-09-25T05:07:00+00:00",
       "data": {
         "title": "Crackdown 3",
         "game_id": 1515,
@@ -1594,7 +1582,7 @@
     "crash bandicoot 4 it s about time": {
       "title": "Crash Bandicoot™ 4: It's About Time",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:41:17+00:00",
+      "fetched_at": "2026-09-25T05:07:01+00:00",
       "data": {
         "title": "Crash Bandicoot 4: It's About Time",
         "game_id": 9900,
@@ -1612,7 +1600,7 @@
     "crash bandicoot n sane trilogy": {
       "title": "Crash Bandicoot™ N. Sane Trilogy",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:41:19+00:00",
+      "fetched_at": "2026-09-25T05:07:02+00:00",
       "data": {
         "title": "Crash Bandicoot N. Sane Trilogy",
         "game_id": 4131,
@@ -1630,7 +1618,7 @@
     "crashout crew": {
       "title": "Crashout Crew",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:41:20+00:00",
+      "fetched_at": "2026-09-25T05:07:04+00:00",
       "data": {
         "title": "Crashout Crew",
         "game_id": 20816,
@@ -1648,7 +1636,7 @@
     "crawl": {
       "title": "Crawl",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:41:23+00:00",
+      "fetched_at": "2026-09-25T05:07:05+00:00",
       "data": {
         "title": "Crawl",
         "game_id": 4195,
@@ -1684,7 +1672,7 @@
     "cricket 26 the official game of the ashes": {
       "title": "Cricket 26 - The Official Game of the Ashes",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:41:27+00:00",
+      "fetched_at": "2026-09-25T05:07:06+00:00",
       "data": {
         "title": "Cricket 26",
         "game_id": 19720,
@@ -1702,7 +1690,7 @@
     "crime scene cleaner": {
       "title": "Crime Scene Cleaner",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:41:29+00:00",
+      "fetched_at": "2026-09-25T05:07:08+00:00",
       "data": {
         "title": "Crime Scene Cleaner",
         "game_id": 17636,
@@ -1744,7 +1732,7 @@
     "date everything": {
       "title": "Date Everything!",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:41:38+00:00",
+      "fetched_at": "2026-09-25T05:07:09+00:00",
       "data": {
         "title": "Date Everything!",
         "game_id": 17743,
@@ -1762,7 +1750,7 @@
     "day of the tentacle remastered": {
       "title": "Day of the Tentacle Remastered",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:41:40+00:00",
+      "fetched_at": "2026-09-25T05:07:11+00:00",
       "data": {
         "title": "Day of the Tentacle Remastered",
         "game_id": 2455,
@@ -1780,7 +1768,7 @@
     "dayz": {
       "title": "DayZ",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:41:42+00:00",
+      "fetched_at": "2026-09-25T05:07:12+00:00",
       "data": {
         "title": "DayZ",
         "game_id": 1736,
@@ -1798,7 +1786,7 @@
     "dead by daylight": {
       "title": "Dead by Daylight",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:41:45+00:00",
+      "fetched_at": "2026-09-25T05:07:14+00:00",
       "data": {
         "title": "Dead by Daylight",
         "game_id": 2844,
@@ -1834,16 +1822,16 @@
     "dead island 2": {
       "title": "Dead Island 2",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:41:49+00:00",
+      "fetched_at": "2026-09-25T05:07:15+00:00",
       "data": {
         "title": "Dead Island 2",
         "game_id": 1551,
         "url": "https://opencritic.com/game/1551/dead-island-2",
         "top_critic_score": 74.8,
-        "percent_recommended": 57.0,
+        "percent_recommended": 56.6,
         "tier": "Strong",
         "median_score": null,
-        "review_count": 163,
+        "review_count": 164,
         "release_year": 2023,
         "match_type": "exact",
         "match_score": 149
@@ -1852,7 +1840,7 @@
     "dead space": {
       "title": "Dead Space",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:41:51+00:00",
+      "fetched_at": "2026-09-25T05:07:17+00:00",
       "data": {
         "title": "Dead Space (2023)",
         "game_id": 13897,
@@ -1870,7 +1858,7 @@
     "dead space 2": {
       "title": "Dead Space 2",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:41:54+00:00",
+      "fetched_at": "2026-09-25T05:07:18+00:00",
       "data": {
         "title": "Dead Space (2023)",
         "game_id": 13897,
@@ -1888,7 +1876,7 @@
     "dead space 2008": {
       "title": "Dead Space - 2008",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:41:55+00:00",
+      "fetched_at": "2026-09-25T05:07:18+00:00",
       "data": {
         "title": "Dead Space (2023)",
         "game_id": 13897,
@@ -1906,7 +1894,7 @@
     "dead space 3": {
       "title": "Dead Space 3",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:41:56+00:00",
+      "fetched_at": "2026-09-25T05:07:19+00:00",
       "data": {
         "title": "Dead Space (2023)",
         "game_id": 13897,
@@ -1924,7 +1912,7 @@
     "dead static drive": {
       "title": "Dead Static Drive",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:41:56+00:00",
+      "fetched_at": "2026-09-25T05:07:20+00:00",
       "data": {
         "title": "Dead Static Drive",
         "game_id": 19609,
@@ -1942,25 +1930,25 @@
     "death howl": {
       "title": "Death Howl",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:41:58+00:00",
+      "fetched_at": "2026-09-25T05:07:21+00:00",
       "data": {
         "title": "Death Howl",
         "game_id": 19833,
         "url": "https://opencritic.com/game/19833/death-howl",
         "top_critic_score": 82.9,
-        "percent_recommended": 76.9,
+        "percent_recommended": 75.0,
         "tier": "Strong",
         "median_score": 85,
-        "review_count": 39,
+        "review_count": 40,
         "release_year": 2025,
         "match_type": "exact",
-        "match_score": 148
+        "match_score": 149
       }
     },
     "death stranding director s cut": {
       "title": "DEATH STRANDING DIRECTOR'S CUT™",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:42:01+00:00",
+      "fetched_at": "2026-09-25T05:07:23+00:00",
       "data": {
         "title": "Death Stranding Director's Cut",
         "game_id": 12011,
@@ -1978,7 +1966,7 @@
     "deathloop": {
       "title": "DEATHLOOP®",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:42:04+00:00",
+      "fetched_at": "2026-09-25T05:07:25+00:00",
       "data": {
         "title": "Deathloop",
         "game_id": 10993,
@@ -1996,7 +1984,7 @@
     "deep rock galactic": {
       "title": "Deep Rock Galactic",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:42:06+00:00",
+      "fetched_at": "2026-09-25T05:07:26+00:00",
       "data": {
         "title": "Deep Rock Galactic",
         "game_id": 9436,
@@ -2032,16 +2020,16 @@
     "denshattack": {
       "title": "Denshattack!",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:42:10+00:00",
+      "fetched_at": "2026-09-25T05:07:27+00:00",
       "data": {
         "title": "Denshattack!",
         "game_id": 20193,
         "url": "https://opencritic.com/game/20193/denshattack-",
-        "top_critic_score": 86.9,
-        "percent_recommended": 96.0,
+        "top_critic_score": 87.2,
+        "percent_recommended": 96.3,
         "tier": "Mighty",
         "median_score": 90,
-        "review_count": 124,
+        "review_count": 135,
         "release_year": 2026,
         "match_type": "exact",
         "match_score": 153
@@ -2050,7 +2038,7 @@
     "descenders": {
       "title": "Descenders",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:42:12+00:00",
+      "fetched_at": "2026-09-25T05:07:29+00:00",
       "data": {
         "title": "Descenders",
         "game_id": 7743,
@@ -2068,7 +2056,7 @@
     "descenders next": {
       "title": "Descenders Next",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:42:14+00:00",
+      "fetched_at": "2026-09-25T05:07:30+00:00",
       "data": {
         "title": "Descenders Next",
         "game_id": 19016,
@@ -2110,7 +2098,7 @@
     "diablo iii": {
       "title": "Diablo® III",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:42:20+00:00",
+      "fetched_at": "2026-09-25T05:07:30+00:00",
       "data": {
         "title": "Diablo III: Ultimate Evil Edition",
         "game_id": 224,
@@ -2128,7 +2116,7 @@
     "diablo iv": {
       "title": "Diablo® IV",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:42:22+00:00",
+      "fetched_at": "2026-09-25T05:07:32+00:00",
       "data": {
         "title": "Diablo IV",
         "game_id": 14353,
@@ -2137,7 +2125,7 @@
         "percent_recommended": 92.4,
         "tier": "Mighty",
         "median_score": 90,
-        "review_count": 178,
+        "review_count": 179,
         "release_year": 2023,
         "match_type": "exact",
         "match_score": 155
@@ -2146,7 +2134,7 @@
     "dice a million": {
       "title": "Dice A Million",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:42:24+00:00",
+      "fetched_at": "2026-09-25T05:07:33+00:00",
       "data": {
         "title": "Dice A Million",
         "game_id": 20153,
@@ -2164,7 +2152,7 @@
     "disco elysium": {
       "title": "Disco Elysium",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:42:26+00:00",
+      "fetched_at": "2026-09-25T05:07:34+00:00",
       "data": {
         "title": "Disco Elysium: The Final Cut",
         "game_id": 11148,
@@ -2182,7 +2170,7 @@
     "dishonored 2": {
       "title": "Dishonored 2",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:42:28+00:00",
+      "fetched_at": "2026-09-25T05:07:35+00:00",
       "data": {
         "title": "Dishonored 2",
         "game_id": 2843,
@@ -2200,7 +2188,7 @@
     "dishonored death of the outsider": {
       "title": "Dishonored®: Death of the Outsider™",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:42:31+00:00",
+      "fetched_at": "2026-09-25T05:07:36+00:00",
       "data": {
         "title": "Dishonored: Death of the Outsider",
         "game_id": 4613,
@@ -2218,7 +2206,7 @@
     "dishonored definitive edition": {
       "title": "Dishonored® Definitive Edition",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:42:33+00:00",
+      "fetched_at": "2026-09-25T05:07:37+00:00",
       "data": {
         "title": "Dishonored: Definitive Edition",
         "game_id": 1848,
@@ -2236,7 +2224,7 @@
     "disney dreamlight valley": {
       "title": "Disney Dreamlight Valley",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:42:35+00:00",
+      "fetched_at": "2026-09-25T05:07:38+00:00",
       "data": {
         "title": "Disney Dreamlight Valley",
         "game_id": 13635,
@@ -2254,7 +2242,7 @@
     "disneyland adventures": {
       "title": "Disneyland Adventures",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:42:37+00:00",
+      "fetched_at": "2026-09-25T05:07:39+00:00",
       "data": {
         "title": "Disneyland Adventures",
         "game_id": 5127,
@@ -2272,7 +2260,7 @@
     "dome keeper": {
       "title": "Dome Keeper",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:42:39+00:00",
+      "fetched_at": "2026-09-25T05:07:41+00:00",
       "data": {
         "title": "Dome Keeper",
         "game_id": 13733,
@@ -2290,7 +2278,7 @@
     "donut county": {
       "title": "Donut County",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:42:41+00:00",
+      "fetched_at": "2026-09-25T05:07:42+00:00",
       "data": {
         "title": "Donut County",
         "game_id": 1735,
@@ -2314,7 +2302,7 @@
     "doom 64": {
       "title": "DOOM 64",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:42:45+00:00",
+      "fetched_at": "2026-09-25T05:07:44+00:00",
       "data": {
         "title": "Doom 64",
         "game_id": 9179,
@@ -2332,7 +2320,7 @@
     "doom doom ii": {
       "title": "DOOM + DOOM II",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:42:46+00:00",
+      "fetched_at": "2026-09-25T05:07:45+00:00",
       "data": {
         "title": "Doom + Doom II",
         "game_id": 17297,
@@ -2350,7 +2338,7 @@
     "doom eternal standard edition pc": {
       "title": "DOOM Eternal Standard Edition (PC)",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:42:47+00:00",
+      "fetched_at": "2026-09-25T05:07:45+00:00",
       "data": {
         "title": "Doom Eternal",
         "game_id": 7410,
@@ -2368,7 +2356,7 @@
     "doom the dark ages": {
       "title": "DOOM: The Dark Ages",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:42:48+00:00",
+      "fetched_at": "2026-09-25T05:07:46+00:00",
       "data": {
         "title": "Doom: The Dark Ages",
         "game_id": 18023,
@@ -2377,7 +2365,7 @@
         "percent_recommended": 94.4,
         "tier": "Mighty",
         "median_score": 90,
-        "review_count": 217,
+        "review_count": 218,
         "release_year": 2025,
         "match_type": "exact",
         "match_score": 157
@@ -2392,7 +2380,7 @@
     "dragon age inquisition game of the year edition": {
       "title": "Dragon Age™: Inquisition - Game of the Year Edition",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:42:53+00:00",
+      "fetched_at": "2026-09-25T05:07:47+00:00",
       "data": {
         "title": "Dragon Age: Inquisition",
         "game_id": 156,
@@ -2416,7 +2404,7 @@
     "dragon age the veilguard": {
       "title": "Dragon Age™: The Veilguard",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:42:57+00:00",
+      "fetched_at": "2026-09-25T05:07:48+00:00",
       "data": {
         "title": "Dragon Age: The Veilguard",
         "game_id": 17037,
@@ -2434,7 +2422,7 @@
     "dragon ball xenoverse 2": {
       "title": "DRAGON BALL XENOVERSE 2",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:42:58+00:00",
+      "fetched_at": "2026-09-25T05:07:49+00:00",
       "data": {
         "title": "Dragon Ball Xenoverse 2",
         "game_id": 3170,
@@ -2458,7 +2446,7 @@
     "dredge": {
       "title": "DREDGE",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:43:02+00:00",
+      "fetched_at": "2026-09-25T05:07:50+00:00",
       "data": {
         "title": "Dredge",
         "game_id": 14348,
@@ -2482,7 +2470,7 @@
     "ea sports fc 25 pc": {
       "title": "EA SPORTS FC™ 25 - PC",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:43:06+00:00",
+      "fetched_at": "2026-09-25T05:07:51+00:00",
       "data": {
         "title": "EA Sports FC 25",
         "game_id": 17121,
@@ -2500,7 +2488,7 @@
     "ea sports fc 26 pc": {
       "title": "EA SPORTS FC™ 26 - PC",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:43:09+00:00",
+      "fetched_at": "2026-09-25T05:07:52+00:00",
       "data": {
         "title": "EA Sports FC 26",
         "game_id": 18960,
@@ -2518,7 +2506,7 @@
     "ea sports madden nfl 26": {
       "title": "EA SPORTS™ Madden NFL 26",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:43:10+00:00",
+      "fetched_at": "2026-09-25T05:07:52+00:00",
       "data": {
         "title": "Madden NFL 26",
         "game_id": 18644,
@@ -2536,7 +2524,7 @@
     "ea sports pga tour": {
       "title": "EA SPORTS™ PGA TOUR™",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:43:12+00:00",
+      "fetched_at": "2026-09-25T05:07:53+00:00",
       "data": {
         "title": "EA Sports PGA Tour",
         "game_id": 14635,
@@ -2554,7 +2542,7 @@
     "ea sports wrc": {
       "title": "EA SPORTS™ WRC",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:43:13+00:00",
+      "fetched_at": "2026-09-25T05:07:53+00:00",
       "data": {
         "title": "EA Sports WRC",
         "game_id": 15766,
@@ -2572,7 +2560,7 @@
     "easy delivery co": {
       "title": "Easy Delivery Co.",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:43:14+00:00",
+      "fetched_at": "2026-09-25T05:07:54+00:00",
       "data": {
         "title": "Easy Delivery Co.",
         "game_id": 19303,
@@ -2590,16 +2578,16 @@
     "echo generation 2": {
       "title": "Echo Generation 2",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:43:16+00:00",
+      "fetched_at": "2026-09-25T05:07:55+00:00",
       "data": {
         "title": "Echo Generation 2",
         "game_id": 20670,
         "url": "https://opencritic.com/game/20670/echo-generation-2",
         "top_critic_score": 74.2,
-        "percent_recommended": 30.4,
+        "percent_recommended": 33.3,
         "tier": "Fair",
         "median_score": 75,
-        "review_count": 23,
+        "review_count": 24,
         "release_year": 2026,
         "match_type": "exact",
         "match_score": 148
@@ -2608,7 +2596,7 @@
     "egging on": {
       "title": "Egging On",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:43:18+00:00",
+      "fetched_at": "2026-09-25T05:07:56+00:00",
       "data": {
         "title": "Egging On",
         "game_id": 19639,
@@ -2626,7 +2614,7 @@
     "endless space 2 digital deluxe edition": {
       "title": "Endless Space® 2 - Digital Deluxe Edition",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:43:20+00:00",
+      "fetched_at": "2026-09-25T05:07:57+00:00",
       "data": {
         "title": "Endless Space 2",
         "game_id": 4204,
@@ -2644,7 +2632,7 @@
     "enlisted": {
       "title": "Enlisted",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:43:22+00:00",
+      "fetched_at": "2026-09-25T05:07:58+00:00",
       "data": {
         "title": "Enlisted",
         "game_id": 11198,
@@ -2662,7 +2650,7 @@
     "escape simulator": {
       "title": "Escape Simulator",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:43:24+00:00",
+      "fetched_at": "2026-09-25T05:08:00+00:00",
       "data": {
         "title": "Escape Simulator",
         "game_id": 12224,
@@ -2680,7 +2668,7 @@
     "escape the backrooms": {
       "title": "Escape the Backrooms",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:43:26+00:00",
+      "fetched_at": "2026-09-25T05:08:01+00:00",
       "data": {
         "title": "Escape the Backrooms",
         "game_id": 20962,
@@ -2698,16 +2686,16 @@
     "eternal strands": {
       "title": "Eternal Strands",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:43:28+00:00",
+      "fetched_at": "2026-09-25T05:08:03+00:00",
       "data": {
         "title": "Eternal Strands",
         "game_id": 17977,
         "url": "https://opencritic.com/game/17977/eternal-strands",
         "top_critic_score": 74.1,
-        "percent_recommended": 60.6,
+        "percent_recommended": 60.0,
         "tier": "Fair",
         "median_score": 77,
-        "review_count": 100,
+        "review_count": 101,
         "release_year": 2025,
         "match_type": "exact",
         "match_score": 152
@@ -2716,7 +2704,7 @@
     "evil west": {
       "title": "Evil West",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:43:30+00:00",
+      "fetched_at": "2026-09-25T05:08:04+00:00",
       "data": {
         "title": "Evil West",
         "game_id": 13378,
@@ -2734,7 +2722,7 @@
     "f1 24": {
       "title": "F1® 24",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:43:32+00:00",
+      "fetched_at": "2026-09-25T05:08:04+00:00",
       "data": {
         "title": "F1 24",
         "game_id": 16779,
@@ -2752,7 +2740,7 @@
     "f1 25": {
       "title": "F1® 25",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:43:34+00:00",
+      "fetched_at": "2026-09-25T05:08:05+00:00",
       "data": {
         "title": "F1 25",
         "game_id": 18323,
@@ -2788,7 +2776,7 @@
     "fallout 4": {
       "title": "Fallout 4",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:43:40+00:00",
+      "fetched_at": "2026-09-25T05:08:08+00:00",
       "data": {
         "title": "Fallout 4",
         "game_id": 1508,
@@ -2806,7 +2794,7 @@
     "fallout 76": {
       "title": "Fallout 76",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:43:41+00:00",
+      "fetched_at": "2026-09-25T05:08:09+00:00",
       "data": {
         "title": "Fallout 76",
         "game_id": 6227,
@@ -2836,7 +2824,7 @@
     "far cry 4": {
       "title": "Far Cry® 4",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:43:45+00:00",
+      "fetched_at": "2026-09-25T05:08:11+00:00",
       "data": {
         "title": "Far Cry 4",
         "game_id": 159,
@@ -2854,7 +2842,7 @@
     "far cry 5": {
       "title": "Far Cry® 5",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:43:48+00:00",
+      "fetched_at": "2026-09-25T05:08:12+00:00",
       "data": {
         "title": "Far Cry 5",
         "game_id": 4384,
@@ -2872,7 +2860,7 @@
     "far cry 6": {
       "title": "Far Cry® 6",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:43:49+00:00",
+      "fetched_at": "2026-09-25T05:08:12+00:00",
       "data": {
         "title": "Far Cry 6",
         "game_id": 9783,
@@ -2890,7 +2878,7 @@
     "far cry new dawn": {
       "title": "Far Cry® New Dawn",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:43:51+00:00",
+      "fetched_at": "2026-09-25T05:08:14+00:00",
       "data": {
         "title": "Far Cry: New Dawn",
         "game_id": 7042,
@@ -2908,7 +2896,7 @@
     "farming simulator 25": {
       "title": "Farming Simulator 25",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:43:52+00:00",
+      "fetched_at": "2026-09-25T05:08:15+00:00",
       "data": {
         "title": "Farming Simulator 25",
         "game_id": 17647,
@@ -2926,7 +2914,7 @@
     "fbc firebreak": {
       "title": "FBC: Firebreak",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:43:54+00:00",
+      "fetched_at": "2026-09-25T05:08:16+00:00",
       "data": {
         "title": "FBC: Firebreak",
         "game_id": 18457,
@@ -2944,7 +2932,7 @@
     "fe": {
       "title": "Fe",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:43:57+00:00",
+      "fetched_at": "2026-09-25T05:08:18+00:00",
       "data": {
         "title": "Fe",
         "game_id": 5409,
@@ -2962,16 +2950,16 @@
     "final fantasy": {
       "title": "FINAL FANTASY",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:43:59+00:00",
+      "fetched_at": "2026-09-25T05:08:19+00:00",
       "data": {
         "title": "Final Fantasy XVI",
         "game_id": 14516,
         "url": "https://opencritic.com/game/14516/final-fantasy-xvi",
         "top_critic_score": 87.2,
-        "percent_recommended": 91.6,
+        "percent_recommended": 91.2,
         "tier": "Mighty",
         "median_score": 90,
-        "review_count": 209,
+        "review_count": 212,
         "release_year": 2023,
         "match_type": "partial",
         "match_score": 119
@@ -2980,7 +2968,7 @@
     "final fantasy ii": {
       "title": "FINAL FANTASY II",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:44:02+00:00",
+      "fetched_at": "2026-09-25T05:08:21+00:00",
       "data": {
         "title": "Final Fantasy III",
         "game_id": 529,
@@ -2998,7 +2986,7 @@
     "final fantasy iii": {
       "title": "FINAL FANTASY III",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:44:03+00:00",
+      "fetched_at": "2026-09-25T05:08:22+00:00",
       "data": {
         "title": "Final Fantasy III",
         "game_id": 529,
@@ -3022,7 +3010,7 @@
     "final fantasy v": {
       "title": "FINAL FANTASY V",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:44:06+00:00",
+      "fetched_at": "2026-09-25T05:08:24+00:00",
       "data": {
         "title": "Final Fantasy V",
         "game_id": 1821,
@@ -3040,7 +3028,7 @@
     "final fantasy vi": {
       "title": "FINAL FANTASY VI",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:44:07+00:00",
+      "fetched_at": "2026-09-25T05:08:25+00:00",
       "data": {
         "title": "Final Fantasy VI",
         "game_id": 2168,
@@ -3058,7 +3046,7 @@
     "firefighting simulator the squad": {
       "title": "Firefighting Simulator - The Squad",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:44:08+00:00",
+      "fetched_at": "2026-09-25T05:08:26+00:00",
       "data": {
         "title": "Firefighting Simulator - The Squad",
         "game_id": 14209,
@@ -3076,7 +3064,7 @@
     "fixforce": {
       "title": "FixForce",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:44:11+00:00",
+      "fetched_at": "2026-09-25T05:08:27+00:00",
       "data": {
         "title": "Fixforce",
         "game_id": 20993,
@@ -3094,16 +3082,16 @@
     "fogpiercer": {
       "title": "Fogpiercer",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:44:13+00:00",
+      "fetched_at": "2026-09-25T05:08:28+00:00",
       "data": {
         "title": "Fogpiercer",
         "game_id": 21089,
         "url": "https://opencritic.com/game/21089/fogpiercer",
         "top_critic_score": null,
-        "percent_recommended": 20.0,
+        "percent_recommended": 28.6,
         "tier": null,
-        "median_score": null,
-        "review_count": 5,
+        "median_score": 70,
+        "review_count": 7,
         "release_year": 2026,
         "match_type": "exact",
         "match_score": 147
@@ -3112,7 +3100,7 @@
     "football manager 26": {
       "title": "Football Manager 26",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:44:14+00:00",
+      "fetched_at": "2026-09-25T05:08:29+00:00",
       "data": {
         "title": "Football Manager 26",
         "game_id": 19479,
@@ -3130,7 +3118,7 @@
     "football manager 26 console": {
       "title": "Football Manager 26 Console",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:44:16+00:00",
+      "fetched_at": "2026-09-25T05:08:30+00:00",
       "data": {
         "title": "Football Manager 26",
         "game_id": 19479,
@@ -3148,7 +3136,7 @@
     "for honor": {
       "title": "For Honor™",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:44:18+00:00",
+      "fetched_at": "2026-09-25T05:08:31+00:00",
       "data": {
         "title": "For Honor",
         "game_id": 2863,
@@ -3166,7 +3154,7 @@
     "for the king ii": {
       "title": "For The King II",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:44:20+00:00",
+      "fetched_at": "2026-09-25T05:08:33+00:00",
       "data": {
         "title": "For the King",
         "game_id": 5927,
@@ -3184,7 +3172,7 @@
     "forza horizon 5": {
       "title": "Forza Horizon 5",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:44:22+00:00",
+      "fetched_at": "2026-09-25T05:08:34+00:00",
       "data": {
         "title": "Forza Horizon 5",
         "game_id": 11624,
@@ -3202,7 +3190,7 @@
     "forza horizon 6": {
       "title": "Forza Horizon 6",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:44:24+00:00",
+      "fetched_at": "2026-09-25T05:08:35+00:00",
       "data": {
         "title": "Forza Horizon 6",
         "game_id": 19996,
@@ -3211,7 +3199,7 @@
         "percent_recommended": 99.4,
         "tier": "Mighty",
         "median_score": 90,
-        "review_count": 164,
+        "review_count": 166,
         "release_year": 2026,
         "match_type": "exact",
         "match_score": 155
@@ -3220,16 +3208,16 @@
     "forza motorsport": {
       "title": "Forza Motorsport",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:44:26+00:00",
+      "fetched_at": "2026-09-25T05:08:36+00:00",
       "data": {
         "title": "Forza Motorsport",
         "game_id": 15504,
         "url": "https://opencritic.com/game/15504/forza-motorsport",
         "top_critic_score": 83.6,
-        "percent_recommended": 89.0,
+        "percent_recommended": 89.1,
         "tier": "Mighty",
         "median_score": 85,
-        "review_count": 130,
+        "review_count": 131,
         "release_year": 2023,
         "match_type": "exact",
         "match_score": 153
@@ -3238,7 +3226,7 @@
     "fragpunk": {
       "title": "FragPunk",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:44:28+00:00",
+      "fetched_at": "2026-09-25T05:08:38+00:00",
       "data": {
         "title": "FragPunk",
         "game_id": 17883,
@@ -3280,7 +3268,7 @@
     "full throttle remastered": {
       "title": "Full Throttle Remastered",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:44:34+00:00",
+      "fetched_at": "2026-09-25T05:08:40+00:00",
       "data": {
         "title": "Full Throttle: Remastered",
         "game_id": 4143,
@@ -3304,7 +3292,7 @@
     "gang beasts": {
       "title": "Gang Beasts",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:44:38+00:00",
+      "fetched_at": "2026-09-25T05:08:40+00:00",
       "data": {
         "title": "Gang Beasts",
         "game_id": 1591,
@@ -3322,16 +3310,16 @@
     "gears 5": {
       "title": "Gears 5",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:44:40+00:00",
+      "fetched_at": "2026-09-25T05:08:41+00:00",
       "data": {
         "title": "Gears 5",
         "game_id": 7402,
         "url": "https://opencritic.com/game/7402/gears-5",
-        "top_critic_score": 85.2,
-        "percent_recommended": 92.3,
+        "top_critic_score": 85.1,
+        "percent_recommended": 92.4,
         "tier": "Mighty",
         "median_score": 90,
-        "review_count": 150,
+        "review_count": 151,
         "release_year": 2019,
         "match_type": "exact",
         "match_score": 148
@@ -3340,16 +3328,16 @@
     "gears of war 4": {
       "title": "Gears of War 4",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:44:42+00:00",
+      "fetched_at": "2026-09-25T05:08:43+00:00",
       "data": {
         "title": "Gears of War 4",
         "game_id": 2570,
         "url": "https://opencritic.com/game/2570/gears-of-war-4",
-        "top_critic_score": 84.6,
-        "percent_recommended": 87.3,
+        "top_critic_score": 84.5,
+        "percent_recommended": 87.4,
         "tier": "Mighty",
-        "median_score": 87,
-        "review_count": 155,
+        "median_score": null,
+        "review_count": 156,
         "release_year": 2016,
         "match_type": "exact",
         "match_score": 154
@@ -3358,7 +3346,7 @@
     "gears of war reloaded": {
       "title": "Gears of War: Reloaded",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:44:44+00:00",
+      "fetched_at": "2026-09-25T05:08:44+00:00",
       "data": {
         "title": "Gears of War: Reloaded",
         "game_id": 18510,
@@ -3376,7 +3364,7 @@
     "gears tactics": {
       "title": "Gears Tactics",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:44:45+00:00",
+      "fetched_at": "2026-09-25T05:08:45+00:00",
       "data": {
         "title": "Gears Tactics",
         "game_id": 8784,
@@ -3394,7 +3382,7 @@
     "generation zero": {
       "title": "Generation Zero",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:44:46+00:00",
+      "fetched_at": "2026-09-25T05:08:46+00:00",
       "data": {
         "title": "Generation Zero",
         "game_id": 7431,
@@ -3412,7 +3400,7 @@
     "genesis noir": {
       "title": "Genesis Noir",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:44:48+00:00",
+      "fetched_at": "2026-09-25T05:08:46+00:00",
       "data": {
         "title": "Genesis Noir",
         "game_id": 11134,
@@ -3430,7 +3418,7 @@
     "ghostwire tokyo": {
       "title": "Ghostwire: Tokyo",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:44:50+00:00",
+      "fetched_at": "2026-09-25T05:08:48+00:00",
       "data": {
         "title": "Ghostwire: Tokyo",
         "game_id": 12720,
@@ -3448,7 +3436,7 @@
     "goals": {
       "title": "GOALS",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:44:52+00:00",
+      "fetched_at": "2026-09-25T05:08:49+00:00",
       "data": {
         "title": "GOALS",
         "game_id": 20757,
@@ -3466,7 +3454,7 @@
     "goat simulator 3": {
       "title": "Goat Simulator 3",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:44:54+00:00",
+      "fetched_at": "2026-09-25T05:08:51+00:00",
       "data": {
         "title": "Goat Simulator 3",
         "game_id": 13689,
@@ -3484,7 +3472,7 @@
     "great god grove": {
       "title": "Great God Grove",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:44:55+00:00",
+      "fetched_at": "2026-09-25T05:08:52+00:00",
       "data": {
         "title": "Great God Grove",
         "game_id": 17653,
@@ -3502,7 +3490,7 @@
     "grid legends": {
       "title": "GRID™ Legends",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:44:58+00:00",
+      "fetched_at": "2026-09-25T05:08:53+00:00",
       "data": {
         "title": "GRID Legends",
         "game_id": 12803,
@@ -3520,7 +3508,7 @@
     "grim fandango remastered": {
       "title": "Grim Fandango Remastered",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:45:00+00:00",
+      "fetched_at": "2026-09-25T05:08:54+00:00",
       "data": {
         "title": "Grim Fandango Remastered",
         "game_id": 124,
@@ -3538,7 +3526,7 @@
     "grounded": {
       "title": "Grounded",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:45:02+00:00",
+      "fetched_at": "2026-09-25T05:08:56+00:00",
       "data": {
         "title": "Grounded",
         "game_id": 13730,
@@ -3556,16 +3544,16 @@
     "grounded 2": {
       "title": "Grounded 2",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:45:04+00:00",
+      "fetched_at": "2026-09-25T05:08:57+00:00",
       "data": {
         "title": "Grounded 2",
         "game_id": 18998,
         "url": "https://opencritic.com/game/18998/grounded-2",
         "top_critic_score": 78.6,
-        "percent_recommended": 83.3,
+        "percent_recommended": 84.6,
         "tier": "Strong",
         "median_score": 80,
-        "review_count": 13,
+        "review_count": 14,
         "release_year": 2025,
         "match_type": "exact",
         "match_score": 147
@@ -3574,7 +3562,7 @@
     "hades": {
       "title": "Hades",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:45:06+00:00",
+      "fetched_at": "2026-09-25T05:08:58+00:00",
       "data": {
         "title": "Hades",
         "game_id": 10181,
@@ -3592,7 +3580,7 @@
     "hades ii": {
       "title": "Hades II",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:45:08+00:00",
+      "fetched_at": "2026-09-25T05:08:59+00:00",
       "data": {
         "title": "Hades II",
         "game_id": 16683,
@@ -3601,7 +3589,7 @@
         "percent_recommended": 98.6,
         "tier": "Mighty",
         "median_score": 95,
-        "review_count": 145,
+        "review_count": 146,
         "release_year": 2025,
         "match_type": "exact",
         "match_score": 148
@@ -3610,7 +3598,7 @@
     "halls of torment": {
       "title": "Halls of Torment",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:45:09+00:00",
+      "fetched_at": "2026-09-25T05:09:00+00:00",
       "data": {
         "title": "Halls of Torment",
         "game_id": 17345,
@@ -3628,16 +3616,16 @@
     "halo campaign evolved": {
       "title": "Halo: Campaign Evolved",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:45:11+00:00",
+      "fetched_at": "2026-09-25T05:09:02+00:00",
       "data": {
         "title": "Halo: Campaign Evolved",
         "game_id": 20799,
         "url": "https://opencritic.com/game/20799/halo-campaign-evolved",
-        "top_critic_score": 81.0,
-        "percent_recommended": 84.3,
+        "top_critic_score": 81.2,
+        "percent_recommended": 83.8,
         "tier": "Strong",
         "median_score": 80,
-        "review_count": 127,
+        "review_count": 136,
         "release_year": 2026,
         "match_type": "exact",
         "match_score": 153
@@ -3646,7 +3634,7 @@
     "halo infinite": {
       "title": "Halo Infinite",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:45:13+00:00",
+      "fetched_at": "2026-09-25T05:09:03+00:00",
       "data": {
         "title": "Halo Infinite",
         "game_id": 12088,
@@ -3664,7 +3652,7 @@
     "halo spartan assault": {
       "title": "Halo: Spartan Assault",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:45:15+00:00",
+      "fetched_at": "2026-09-25T05:09:04+00:00",
       "data": {
         "title": "Halo: Spartan Assault",
         "game_id": 862,
@@ -3688,7 +3676,7 @@
     "halo the master chief collection": {
       "title": "Halo: The Master Chief Collection",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:45:19+00:00",
+      "fetched_at": "2026-09-25T05:09:06+00:00",
       "data": {
         "title": "Halo: The Master Chief Collection",
         "game_id": 838,
@@ -3706,7 +3694,7 @@
     "halo wars 2 standard edition": {
       "title": "Halo Wars 2: Standard Edition",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:45:21+00:00",
+      "fetched_at": "2026-09-25T05:09:07+00:00",
       "data": {
         "title": "Halo Wars 2",
         "game_id": 2841,
@@ -3724,7 +3712,7 @@
     "halo wars definitive edition pc": {
       "title": "Halo Wars: Definitive Edition (PC)",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:45:23+00:00",
+      "fetched_at": "2026-09-25T05:09:07+00:00",
       "data": {
         "title": "Halo Wars: Definitive Edition",
         "game_id": 3746,
@@ -3742,16 +3730,16 @@
     "hell is us": {
       "title": "Hell is Us",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:45:24+00:00",
+      "fetched_at": "2026-09-25T05:09:08+00:00",
       "data": {
         "title": "Hell Is Us",
         "game_id": 18115,
         "url": "https://opencritic.com/game/18115/hell-is-us",
-        "top_critic_score": 77.9,
-        "percent_recommended": 79.2,
+        "top_critic_score": 78.1,
+        "percent_recommended": 77.6,
         "tier": "Strong",
         "median_score": 80,
-        "review_count": 130,
+        "review_count": 134,
         "release_year": 2025,
         "match_type": "exact",
         "match_score": 153
@@ -3760,16 +3748,16 @@
     "hellblade senua s sacrifice": {
       "title": "Hellblade: Senua's Sacrifice",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:45:26+00:00",
+      "fetched_at": "2026-09-25T05:09:10+00:00",
       "data": {
         "title": "Hellblade: Senua's Sacrifice",
         "game_id": 4516,
         "url": "https://opencritic.com/game/4516/hellblade-senuas-sacrifice",
         "top_critic_score": 83.5,
-        "percent_recommended": 80.8,
+        "percent_recommended": 80.9,
         "tier": "Mighty",
         "median_score": 85,
-        "review_count": 156,
+        "review_count": 157,
         "release_year": 2017,
         "match_type": "exact",
         "match_score": 148
@@ -3778,7 +3766,7 @@
     "herdling": {
       "title": "Herdling",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:45:29+00:00",
+      "fetched_at": "2026-09-25T05:09:11+00:00",
       "data": {
         "title": "Herdling",
         "game_id": 19096,
@@ -3796,7 +3784,7 @@
     "heretic hexen": {
       "title": "Heretic + Hexen",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:45:31+00:00",
+      "fetched_at": "2026-09-25T05:09:12+00:00",
       "data": {
         "title": "Heretic + Hexen",
         "game_id": 19079,
@@ -3826,7 +3814,7 @@
     "heroes of might and magic olden era": {
       "title": "Heroes of Might and Magic: Olden Era",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:45:36+00:00",
+      "fetched_at": "2026-09-25T05:09:14+00:00",
       "data": {
         "title": "Heroes of Might and Magic: Olden Era",
         "game_id": 20464,
@@ -3844,7 +3832,7 @@
     "heroes of the storm": {
       "title": "Heroes of the Storm",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:45:38+00:00",
+      "fetched_at": "2026-09-25T05:09:15+00:00",
       "data": {
         "title": "Heroes of the Storm",
         "game_id": 884,
@@ -3862,16 +3850,16 @@
     "hi fi rush": {
       "title": "Hi-Fi RUSH",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:45:39+00:00",
+      "fetched_at": "2026-09-25T05:09:16+00:00",
       "data": {
         "title": "Hi-Fi Rush",
         "game_id": 14227,
         "url": "https://opencritic.com/game/14227/hi-fi-rush",
         "top_critic_score": 88.7,
-        "percent_recommended": 94.0,
+        "percent_recommended": 94.1,
         "tier": "Mighty",
         "median_score": 90,
-        "review_count": 141,
+        "review_count": 142,
         "release_year": 2023,
         "match_type": "exact",
         "match_score": 154
@@ -3880,7 +3868,7 @@
     "high on life": {
       "title": "High On Life",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:45:41+00:00",
+      "fetched_at": "2026-09-25T05:09:18+00:00",
       "data": {
         "title": "High on Life",
         "game_id": 13964,
@@ -3898,16 +3886,16 @@
     "high on life 2": {
       "title": "High On Life 2",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:45:44+00:00",
+      "fetched_at": "2026-09-25T05:09:19+00:00",
       "data": {
         "title": "High on Life 2",
         "game_id": 19191,
         "url": "https://opencritic.com/game/19191/high-on-life-2",
         "top_critic_score": 72.5,
-        "percent_recommended": 57.5,
+        "percent_recommended": 57.3,
         "tier": "Fair",
         "median_score": 78,
-        "review_count": 87,
+        "review_count": 89,
         "release_year": 2026,
         "match_type": "exact",
         "match_score": 151
@@ -3916,16 +3904,16 @@
     "hogwarts legacy": {
       "title": "Hogwarts Legacy",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:45:45+00:00",
+      "fetched_at": "2026-09-25T05:09:20+00:00",
       "data": {
         "title": "Hogwarts Legacy",
         "game_id": 13898,
         "url": "https://opencritic.com/game/13898/hogwarts-legacy",
         "top_critic_score": 83.8,
-        "percent_recommended": 88.0,
+        "percent_recommended": 87.5,
         "tier": "Mighty",
         "median_score": 85,
-        "review_count": 180,
+        "review_count": 181,
         "release_year": 2023,
         "match_type": "exact",
         "match_score": 156
@@ -3934,7 +3922,7 @@
     "hollow knight": {
       "title": "Hollow Knight",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:45:48+00:00",
+      "fetched_at": "2026-09-25T05:09:21+00:00",
       "data": {
         "title": "Hollow Knight",
         "game_id": 4002,
@@ -3952,16 +3940,16 @@
     "hollow knight silksong": {
       "title": "Hollow Knight: Silksong",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:45:50+00:00",
+      "fetched_at": "2026-09-25T05:09:22+00:00",
       "data": {
         "title": "Hollow Knight: Silksong",
         "game_id": 7425,
         "url": "https://opencritic.com/game/7425/hollow-knight-silksong",
         "top_critic_score": 91.1,
-        "percent_recommended": 96.0,
+        "percent_recommended": 96.1,
         "tier": "Mighty",
         "median_score": 90,
-        "review_count": 125,
+        "review_count": 127,
         "release_year": 2025,
         "match_type": "exact",
         "match_score": 153
@@ -3970,7 +3958,7 @@
     "house flipper": {
       "title": "House Flipper",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:45:51+00:00",
+      "fetched_at": "2026-09-25T05:09:23+00:00",
       "data": {
         "title": "House Flipper",
         "game_id": 6206,
@@ -3988,7 +3976,7 @@
     "human fall flat": {
       "title": "Human: Fall Flat",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:45:53+00:00",
+      "fetched_at": "2026-09-25T05:09:24+00:00",
       "data": {
         "title": "Human: Fall Flat",
         "game_id": 2906,
@@ -4006,7 +3994,7 @@
     "immortals fenyx rising": {
       "title": "Immortals Fenyx Rising™",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:45:55+00:00",
+      "fetched_at": "2026-09-25T05:09:25+00:00",
       "data": {
         "title": "Immortals Fenyx Rising",
         "game_id": 10257,
@@ -4024,7 +4012,7 @@
     "immortals of aveum": {
       "title": "Immortals of Aveum™",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:45:59+00:00",
+      "fetched_at": "2026-09-25T05:09:26+00:00",
       "data": {
         "title": "Immortals of Aveum",
         "game_id": 14987,
@@ -4042,16 +4030,16 @@
     "indiana jones and the great circle": {
       "title": "Indiana Jones™ and the Great Circle™",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:46:01+00:00",
+      "fetched_at": "2026-09-25T05:09:27+00:00",
       "data": {
         "title": "Indiana Jones and the Great Circle",
         "game_id": 17732,
         "url": "https://opencritic.com/game/17732/indiana-jones-and-the-great-circle",
         "top_critic_score": 85.8,
-        "percent_recommended": 92.3,
+        "percent_recommended": 92.4,
         "tier": "Mighty",
         "median_score": 90,
-        "review_count": 238,
+        "review_count": 240,
         "release_year": 2024,
         "match_type": "exact",
         "match_score": 157
@@ -4060,16 +4048,16 @@
     "indika": {
       "title": "INDIKA",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:46:03+00:00",
+      "fetched_at": "2026-09-25T05:09:28+00:00",
       "data": {
         "title": "Indika",
         "game_id": 16627,
         "url": "https://opencritic.com/game/16627/indika",
         "top_critic_score": 78.6,
-        "percent_recommended": 74.2,
+        "percent_recommended": 73.4,
         "tier": "Strong",
         "median_score": 80,
-        "review_count": 93,
+        "review_count": 94,
         "release_year": 2024,
         "match_type": "exact",
         "match_score": 151
@@ -4078,7 +4066,7 @@
     "inkonbini one store many stories": {
       "title": "inKONBINI: One Store. Many Stories",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:46:06+00:00",
+      "fetched_at": "2026-09-25T05:09:30+00:00",
       "data": {
         "title": "inKONBINI: One Store. Many Stories",
         "game_id": 20512,
@@ -4096,7 +4084,7 @@
     "inscryption": {
       "title": "Inscryption",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:46:08+00:00",
+      "fetched_at": "2026-09-25T05:09:31+00:00",
       "data": {
         "title": "Inscryption",
         "game_id": 12163,
@@ -4114,7 +4102,7 @@
     "inside": {
       "title": "INSIDE",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:46:10+00:00",
+      "fetched_at": "2026-09-25T05:09:33+00:00",
       "data": {
         "title": "Inside",
         "game_id": 2848,
@@ -4123,7 +4111,7 @@
         "percent_recommended": 93.9,
         "tier": "Mighty",
         "median_score": 90,
-        "review_count": 169,
+        "review_count": 170,
         "release_year": 2016,
         "match_type": "exact",
         "match_score": 155
@@ -4132,16 +4120,16 @@
     "it takes two": {
       "title": "It Takes Two",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:46:12+00:00",
+      "fetched_at": "2026-09-25T05:09:34+00:00",
       "data": {
         "title": "It Takes Two",
         "game_id": 10974,
         "url": "https://opencritic.com/game/10974/it-takes-two",
         "top_critic_score": 87.6,
-        "percent_recommended": 92.6,
+        "percent_recommended": 92.7,
         "tier": "Mighty",
         "median_score": 90,
-        "review_count": 152,
+        "review_count": 153,
         "release_year": 2021,
         "match_type": "exact",
         "match_score": 154
@@ -4156,7 +4144,7 @@
     "junkster": {
       "title": "Junkster",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:46:16+00:00",
+      "fetched_at": "2026-09-25T05:09:35+00:00",
       "data": {
         "title": "Junkster",
         "game_id": 20777,
@@ -4174,16 +4162,16 @@
     "jurassic world evolution 3": {
       "title": "Jurassic World Evolution 3",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:46:18+00:00",
+      "fetched_at": "2026-09-25T05:09:37+00:00",
       "data": {
         "title": "Jurassic World Evolution 3",
         "game_id": 18717,
         "url": "https://opencritic.com/game/18717/jurassic-world-evolution-3",
         "top_critic_score": 84.0,
-        "percent_recommended": 90.2,
+        "percent_recommended": 90.4,
         "tier": "Mighty",
         "median_score": 85,
-        "review_count": 51,
+        "review_count": 52,
         "release_year": 2025,
         "match_type": "exact",
         "match_score": 149
@@ -4192,16 +4180,16 @@
     "keeper": {
       "title": "Keeper",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:46:21+00:00",
+      "fetched_at": "2026-09-25T05:09:38+00:00",
       "data": {
         "title": "Keeper",
         "game_id": 19381,
         "url": "https://opencritic.com/game/19381/keeper",
         "top_critic_score": 81.1,
-        "percent_recommended": 75.9,
+        "percent_recommended": 75.2,
         "tier": "Strong",
         "median_score": 80,
-        "review_count": 112,
+        "review_count": 113,
         "release_year": 2025,
         "match_type": "exact",
         "match_score": 152
@@ -4210,7 +4198,7 @@
     "kill it with fire 2": {
       "title": "Kill It With Fire 2",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:46:21+00:00",
+      "fetched_at": "2026-09-25T05:09:39+00:00",
       "data": {
         "title": "Kill It With Fire! 2",
         "game_id": 19743,
@@ -4228,7 +4216,7 @@
     "killer instinct anniversary edition": {
       "title": "Killer Instinct: Anniversary Edition",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:46:24+00:00",
+      "fetched_at": "2026-09-25T05:09:40+00:00",
       "data": {
         "title": "Killer Instinct",
         "game_id": 843,
@@ -4246,16 +4234,16 @@
     "kiln": {
       "title": "Kiln",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:46:25+00:00",
+      "fetched_at": "2026-09-25T05:09:41+00:00",
       "data": {
         "title": "Kiln",
         "game_id": 20438,
         "url": "https://opencritic.com/game/20438/kiln",
         "top_critic_score": 67.8,
-        "percent_recommended": 40.0,
+        "percent_recommended": 40.4,
         "tier": "Fair",
         "median_score": 70,
-        "review_count": 45,
+        "review_count": 47,
         "release_year": 2026,
         "match_type": "exact",
         "match_score": 149
@@ -4264,7 +4252,7 @@
     "kingdom come deliverance": {
       "title": "Kingdom Come: Deliverance",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:46:27+00:00",
+      "fetched_at": "2026-09-25T05:09:42+00:00",
       "data": {
         "title": "Kingdom Come: Deliverance",
         "game_id": 1561,
@@ -4282,7 +4270,7 @@
     "kingdom come deliverance ii": {
       "title": "Kingdom Come: Deliverance II",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:46:29+00:00",
+      "fetched_at": "2026-09-25T05:09:44+00:00",
       "data": {
         "title": "Kingdom Come: Deliverance II",
         "game_id": 17486,
@@ -4291,7 +4279,7 @@
         "percent_recommended": 95.4,
         "tier": "Mighty",
         "median_score": 90,
-        "review_count": 174,
+        "review_count": 175,
         "release_year": 2025,
         "match_type": "exact",
         "match_score": 155
@@ -4300,7 +4288,7 @@
     "kingdom two crowns": {
       "title": "Kingdom Two Crowns",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:46:30+00:00",
+      "fetched_at": "2026-09-25T05:09:44+00:00",
       "data": {
         "title": "Kingdom Two Crowns",
         "game_id": 7022,
@@ -4324,7 +4312,7 @@
     "lara croft and the temple of osiris": {
       "title": "LARA CROFT AND THE TEMPLE OF OSIRIS™",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:46:35+00:00",
+      "fetched_at": "2026-09-25T05:09:46+00:00",
       "data": {
         "title": "Lara Croft and the Temple of Osiris",
         "game_id": 141,
@@ -4342,7 +4330,7 @@
     "league of legends": {
       "title": "League of Legends",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:46:38+00:00",
+      "fetched_at": "2026-09-25T05:09:48+00:00",
       "data": {
         "title": "League of Legends",
         "game_id": 9751,
@@ -4360,7 +4348,7 @@
     "legends of runeterra": {
       "title": "Legends of Runeterra",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:46:40+00:00",
+      "fetched_at": "2026-09-25T05:09:49+00:00",
       "data": {
         "title": "Legends of Runeterra",
         "game_id": 9263,
@@ -4378,7 +4366,7 @@
     "lego star wars the skywalker saga": {
       "title": "LEGO® Star Wars™: The Skywalker Saga",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:46:41+00:00",
+      "fetched_at": "2026-09-25T05:09:50+00:00",
       "data": {
         "title": "Lego Star Wars: The Skywalker Saga",
         "game_id": 9901,
@@ -4396,7 +4384,7 @@
     "like a dragon infinite wealth": {
       "title": "Like a Dragon: Infinite Wealth",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:46:43+00:00",
+      "fetched_at": "2026-09-25T05:09:51+00:00",
       "data": {
         "title": "Like A Dragon: Infinite Wealth",
         "game_id": 15906,
@@ -4414,7 +4402,7 @@
     "limbo": {
       "title": "LIMBO",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:46:45+00:00",
+      "fetched_at": "2026-09-25T05:09:52+00:00",
       "data": {
         "title": "LIMBO",
         "game_id": 19474,
@@ -4423,7 +4411,7 @@
         "percent_recommended": null,
         "tier": null,
         "median_score": null,
-        "review_count": 1,
+        "review_count": 2,
         "release_year": 2011,
         "match_type": "exact",
         "match_score": 135
@@ -4432,7 +4420,7 @@
     "little kitty big city": {
       "title": "Little Kitty, Big City",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:46:47+00:00",
+      "fetched_at": "2026-09-25T05:09:54+00:00",
       "data": {
         "title": "Little Kitty, Big City",
         "game_id": 16635,
@@ -4450,7 +4438,7 @@
     "little nightmares enhanced edition": {
       "title": "Little Nightmares Enhanced Edition",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:46:49+00:00",
+      "fetched_at": "2026-09-25T05:09:55+00:00",
       "data": {
         "title": "Little Nightmares",
         "game_id": 4206,
@@ -4468,7 +4456,7 @@
     "little nightmares ii": {
       "title": "Little Nightmares II",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:46:51+00:00",
+      "fetched_at": "2026-09-25T05:10:02+00:00",
       "data": {
         "title": "Little Nightmares II",
         "game_id": 10644,
@@ -4486,7 +4474,7 @@
     "little rocket lab": {
       "title": "Little Rocket Lab",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:46:53+00:00",
+      "fetched_at": "2026-09-25T05:10:03+00:00",
       "data": {
         "title": "Little Rocket Lab",
         "game_id": 19440,
@@ -4504,7 +4492,7 @@
     "lost in random": {
       "title": "Lost in Random™",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:46:55+00:00",
+      "fetched_at": "2026-09-25T05:10:04+00:00",
       "data": {
         "title": "Lost in Random",
         "game_id": 11918,
@@ -4522,7 +4510,7 @@
     "lost records bloom rage": {
       "title": "Lost Records: Bloom & Rage",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:46:57+00:00",
+      "fetched_at": "2026-09-25T05:10:05+00:00",
       "data": {
         "title": "Lost Records: Bloom & Rage",
         "game_id": 18568,
@@ -4540,16 +4528,16 @@
     "luna abyss": {
       "title": "Luna Abyss",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:46:59+00:00",
+      "fetched_at": "2026-09-25T05:10:06+00:00",
       "data": {
         "title": "Luna Abyss",
         "game_id": 20556,
         "url": "https://opencritic.com/game/20556/luna-abyss",
         "top_critic_score": 80.8,
-        "percent_recommended": 83.7,
+        "percent_recommended": 81.8,
         "tier": "Strong",
         "median_score": 80,
-        "review_count": 43,
+        "review_count": 44,
         "release_year": 2026,
         "match_type": "exact",
         "match_score": 149
@@ -4558,7 +4546,7 @@
     "madden nfl 25": {
       "title": "Madden NFL 25",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:47:01+00:00",
+      "fetched_at": "2026-09-25T05:10:08+00:00",
       "data": {
         "title": "Madden NFL 25",
         "game_id": 17056,
@@ -4582,7 +4570,7 @@
     "manor lords": {
       "title": "Manor Lords",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:47:05+00:00",
+      "fetched_at": "2026-09-25T05:10:09+00:00",
       "data": {
         "title": "Manor Lords",
         "game_id": 16697,
@@ -4600,7 +4588,7 @@
     "marvel cosmic invasion": {
       "title": "MARVEL Cosmic Invasion",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:47:07+00:00",
+      "fetched_at": "2026-09-25T05:10:11+00:00",
       "data": {
         "title": "MARVEL Cosmic Invasion",
         "game_id": 19574,
@@ -4618,7 +4606,7 @@
     "mass effect": {
       "title": "Mass Effect™",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:47:09+00:00",
+      "fetched_at": "2026-09-25T05:10:12+00:00",
       "data": {
         "title": "Mass Effect Andromeda",
         "game_id": 1547,
@@ -4648,7 +4636,7 @@
     "mass effect andromeda deluxe edition": {
       "title": "Mass Effect™: Andromeda Deluxe Edition",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:47:14+00:00",
+      "fetched_at": "2026-09-25T05:10:13+00:00",
       "data": {
         "title": "Mass Effect Andromeda",
         "game_id": 1547,
@@ -4666,7 +4654,7 @@
     "mass effect legendary edition": {
       "title": "Mass Effect™ Legendary Edition",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:47:15+00:00",
+      "fetched_at": "2026-09-25T05:10:13+00:00",
       "data": {
         "title": "Mass Effect Legendary Edition",
         "game_id": 11290,
@@ -4684,7 +4672,7 @@
     "mavrix by matt jones": {
       "title": "MAVRIX by Matt Jones",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:47:17+00:00",
+      "fetched_at": "2026-09-25T05:10:14+00:00",
       "data": {
         "title": "MAVRIX By Matt Jones",
         "game_id": 21068,
@@ -4702,7 +4690,7 @@
     "mechwarrior 5 clans": {
       "title": "MechWarrior 5: Clans",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:47:19+00:00",
+      "fetched_at": "2026-09-25T05:10:16+00:00",
       "data": {
         "title": "MechWarrior 5: Clans",
         "game_id": 17465,
@@ -4720,7 +4708,7 @@
     "mechwarrior 5 mercenaries": {
       "title": "Mechwarrior 5: Mercenaries",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:47:21+00:00",
+      "fetched_at": "2026-09-25T05:10:17+00:00",
       "data": {
         "title": "MechWarrior 5: Mercenaries",
         "game_id": 7412,
@@ -4744,7 +4732,7 @@
     "medieval dynasty": {
       "title": "Medieval Dynasty",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:47:25+00:00",
+      "fetched_at": "2026-09-25T05:10:18+00:00",
       "data": {
         "title": "Medieval Dynasty",
         "game_id": 12026,
@@ -4762,7 +4750,7 @@
     "microsoft flight simulator 2020 standard 40th anniversary edition": {
       "title": "Microsoft Flight Simulator (2020) Standard 40th Anniversary Edition",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:47:27+00:00",
+      "fetched_at": "2026-09-25T05:10:19+00:00",
       "data": {
         "title": "Microsoft Flight Simulator",
         "game_id": 9793,
@@ -4780,7 +4768,7 @@
     "microsoft flight simulator 2024": {
       "title": "Microsoft Flight Simulator 2024",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:47:29+00:00",
+      "fetched_at": "2026-09-25T05:10:20+00:00",
       "data": {
         "title": "Microsoft Flight Simulator 2024",
         "game_id": 17697,
@@ -4798,16 +4786,16 @@
     "minecraft dungeons for windows launcher": {
       "title": "Minecraft Dungeons for Windows + Launcher",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:47:30+00:00",
+      "fetched_at": "2026-09-25T05:10:20+00:00",
       "data": {
         "title": "Minecraft Dungeons",
         "game_id": 9258,
         "url": "https://opencritic.com/game/9258/minecraft-dungeons",
         "top_critic_score": 74.3,
-        "percent_recommended": 47.9,
+        "percent_recommended": 47.5,
         "tier": "Fair",
-        "median_score": null,
-        "review_count": 123,
+        "median_score": 75,
+        "review_count": 124,
         "release_year": 2020,
         "match_type": "partial",
         "match_score": 111
@@ -4816,16 +4804,16 @@
     "minishoot adventures": {
       "title": "Minishoot' Adventures",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:47:32+00:00",
+      "fetched_at": "2026-09-25T05:10:22+00:00",
       "data": {
         "title": "Minishoot' Adventures",
         "game_id": 16527,
         "url": "https://opencritic.com/game/16527/minishoot-adventures",
-        "top_critic_score": 85.7,
-        "percent_recommended": 93.2,
+        "top_critic_score": 86.2,
+        "percent_recommended": 93.3,
         "tier": "Mighty",
         "median_score": 85,
-        "review_count": 45,
+        "review_count": 46,
         "release_year": 2024,
         "match_type": "exact",
         "match_score": 137
@@ -4834,16 +4822,16 @@
     "mio memories in orbit": {
       "title": "MIO: Memories in Orbit",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:47:33+00:00",
+      "fetched_at": "2026-09-25T05:10:23+00:00",
       "data": {
         "title": "MIO: Memories in Orbit",
         "game_id": 19840,
         "url": "https://opencritic.com/game/19840/mio-memories-in-orbit",
         "top_critic_score": 82.8,
-        "percent_recommended": 83.0,
+        "percent_recommended": 83.3,
         "tier": "Strong",
-        "median_score": 81,
-        "review_count": 112,
+        "median_score": 80,
+        "review_count": 114,
         "release_year": 2026,
         "match_type": "exact",
         "match_score": 152
@@ -4852,7 +4840,7 @@
     "mirror s edge catalyst": {
       "title": "Mirror's Edge™ Catalyst",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:47:35+00:00",
+      "fetched_at": "2026-09-25T05:10:24+00:00",
       "data": {
         "title": "Mirror's Edge Catalyst",
         "game_id": 1549,
@@ -4870,16 +4858,16 @@
     "mistfall hunter": {
       "title": "Mistfall Hunter",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:47:37+00:00",
+      "fetched_at": "2026-09-25T05:10:25+00:00",
       "data": {
         "title": "Mistfall Hunter",
         "game_id": 20798,
         "url": "https://opencritic.com/game/20798/mistfall-hunter",
         "top_critic_score": 72.1,
-        "percent_recommended": 44.0,
+        "percent_recommended": 41.4,
         "tier": "Fair",
         "median_score": null,
-        "review_count": 25,
+        "review_count": 29,
         "release_year": 2026,
         "match_type": "exact",
         "match_score": 148
@@ -4888,16 +4876,16 @@
     "mixtape": {
       "title": "Mixtape",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:47:40+00:00",
+      "fetched_at": "2026-09-25T05:10:26+00:00",
       "data": {
         "title": "Mixtape",
         "game_id": 20188,
         "url": "https://opencritic.com/game/20188/mixtape",
-        "top_critic_score": 84.9,
-        "percent_recommended": 85.2,
+        "top_critic_score": 84.7,
+        "percent_recommended": 84.8,
         "tier": "Mighty",
         "median_score": 90,
-        "review_count": 122,
+        "review_count": 125,
         "release_year": 2026,
         "match_type": "exact",
         "match_score": 153
@@ -4906,7 +4894,7 @@
     "monster sanctuary": {
       "title": "Monster Sanctuary",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:47:42+00:00",
+      "fetched_at": "2026-09-25T05:10:28+00:00",
       "data": {
         "title": "Monster Sanctuary",
         "game_id": 10647,
@@ -4924,7 +4912,7 @@
     "monster train 2": {
       "title": "Monster Train 2",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:47:44+00:00",
+      "fetched_at": "2026-09-25T05:10:29+00:00",
       "data": {
         "title": "Monster Train 2",
         "game_id": 18503,
@@ -4942,7 +4930,7 @@
     "monsters are coming rock road": {
       "title": "Monsters are Coming! Rock & Road",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:47:45+00:00",
+      "fetched_at": "2026-09-25T05:10:30+00:00",
       "data": {
         "title": "Monsters Are Coming! Rock and Road",
         "game_id": 19705,
@@ -4960,7 +4948,7 @@
     "moonlighter": {
       "title": "Moonlighter",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:47:48+00:00",
+      "fetched_at": "2026-09-25T05:10:32+00:00",
       "data": {
         "title": "Moonlighter",
         "game_id": 6087,
@@ -4978,34 +4966,34 @@
     "moonlighter 2 the endless vault": {
       "title": "Moonlighter 2: The Endless Vault",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:47:50+00:00",
+      "fetched_at": "2026-09-25T05:10:33+00:00",
       "data": {
         "title": "Moonlighter 2: The Endless Vault",
         "game_id": 19234,
         "url": "https://opencritic.com/game/19234/moonlighter-2-the-endless-vault",
-        "top_critic_score": null,
-        "percent_recommended": 82.4,
-        "tier": null,
+        "top_critic_score": 83.2,
+        "percent_recommended": 81.2,
+        "tier": "Strong",
         "median_score": 85,
-        "review_count": 17,
+        "review_count": 48,
         "release_year": 2025,
         "match_type": "exact",
-        "match_score": 147
+        "match_score": 143
       }
     },
     "mortal kombat 1": {
       "title": "Mortal Kombat™ 1",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:47:52+00:00",
+      "fetched_at": "2026-09-25T05:10:34+00:00",
       "data": {
         "title": "Mortal Kombat 1",
         "game_id": 15004,
         "url": "https://opencritic.com/game/15004/mortal-kombat-1",
         "top_critic_score": 83.6,
-        "percent_recommended": 86.8,
+        "percent_recommended": 86.2,
         "tier": "Mighty",
         "median_score": 85,
-        "review_count": 149,
+        "review_count": 150,
         "release_year": 2023,
         "match_type": "exact",
         "match_score": 154
@@ -5014,7 +5002,7 @@
     "motorslice": {
       "title": "MOTORSLICE",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:47:54+00:00",
+      "fetched_at": "2026-09-25T05:10:35+00:00",
       "data": {
         "title": "Motorslice",
         "game_id": 20536,
@@ -5032,7 +5020,7 @@
     "moving out 2": {
       "title": "Moving Out 2",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:47:55+00:00",
+      "fetched_at": "2026-09-25T05:10:36+00:00",
       "data": {
         "title": "Moving Out 2",
         "game_id": 15346,
@@ -5062,7 +5050,7 @@
     "naraka bladepoint": {
       "title": "NARAKA: BLADEPOINT",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:48:01+00:00",
+      "fetched_at": "2026-09-25T05:10:37+00:00",
       "data": {
         "title": "Naraka: Bladepoint",
         "game_id": 11827,
@@ -5086,7 +5074,7 @@
     "need for speed heat": {
       "title": "Need for Speed™ Heat",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:48:06+00:00",
+      "fetched_at": "2026-09-25T05:10:38+00:00",
       "data": {
         "title": "Need for Speed Heat",
         "game_id": 8182,
@@ -5104,7 +5092,7 @@
     "need for speed most wanted": {
       "title": "Need for Speed™ Most Wanted",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:48:08+00:00",
+      "fetched_at": "2026-09-25T05:10:39+00:00",
       "data": {
         "title": "Need for Speed",
         "game_id": 1533,
@@ -5122,7 +5110,7 @@
     "need for speed payback deluxe edition": {
       "title": "Need for Speed™ Payback - Deluxe Edition",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:48:09+00:00",
+      "fetched_at": "2026-09-25T05:10:39+00:00",
       "data": {
         "title": "Need for Speed Payback",
         "game_id": 4506,
@@ -5158,7 +5146,7 @@
     "new super lucky s tale": {
       "title": "New Super Lucky's Tale",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:48:11+00:00",
+      "fetched_at": "2026-09-25T05:10:40+00:00",
       "data": {
         "title": "New Super Lucky's Tale",
         "game_id": 8573,
@@ -5182,7 +5170,7 @@
     "ni no kuni wrath of the white witch remastered": {
       "title": "Ni no Kuni Wrath of the White Witch™ Remastered",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:48:15+00:00",
+      "fetched_at": "2026-09-25T05:10:41+00:00",
       "data": {
         "title": "Ni no Kuni: Wrath of the White Witch Remastered",
         "game_id": 8270,
@@ -5200,7 +5188,7 @@
     "nickelodeon all star brawl 2": {
       "title": "Nickelodeon All-Star Brawl 2",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:48:16+00:00",
+      "fetched_at": "2026-09-25T05:10:42+00:00",
       "data": {
         "title": "Nickelodeon All-Star Brawl 2",
         "game_id": 15730,
@@ -5218,7 +5206,7 @@
     "nine sols": {
       "title": "Nine Sols",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:48:18+00:00",
+      "fetched_at": "2026-09-25T05:10:43+00:00",
       "data": {
         "title": "Nine Sols",
         "game_id": 16798,
@@ -5236,16 +5224,16 @@
     "ninja gaiden 2 black": {
       "title": "NINJA GAIDEN 2 Black",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:48:21+00:00",
+      "fetched_at": "2026-09-25T05:10:45+00:00",
       "data": {
         "title": "Ninja Gaiden 2 Black",
         "game_id": 18035,
         "url": "https://opencritic.com/game/18035/ninja-gaiden-2-black",
         "top_critic_score": 81.1,
-        "percent_recommended": 91.0,
+        "percent_recommended": 91.1,
         "tier": "Strong",
         "median_score": 80,
-        "review_count": 78,
+        "review_count": 79,
         "release_year": 2025,
         "match_type": "exact",
         "match_score": 150
@@ -5254,7 +5242,7 @@
     "ninja gaiden 4": {
       "title": "NINJA GAIDEN 4",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:48:22+00:00",
+      "fetched_at": "2026-09-25T05:10:46+00:00",
       "data": {
         "title": "Ninja Gaiden 4",
         "game_id": 18722,
@@ -5272,7 +5260,7 @@
     "no man s sky": {
       "title": "No Man's Sky",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:48:24+00:00",
+      "fetched_at": "2026-09-25T05:10:46+00:00",
       "data": {
         "title": "No Man's Sky",
         "game_id": 2393,
@@ -5302,16 +5290,16 @@
     "ori and the blind forest definitive edition": {
       "title": "Ori and the Blind Forest: Definitive Edition",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:48:31+00:00",
+      "fetched_at": "2026-09-25T05:10:49+00:00",
       "data": {
         "title": "Ori and the Blind Forest: Definitive Edition",
         "game_id": 1658,
         "url": "https://opencritic.com/game/1658/ori-and-the-blind-forest-definitive-edition",
         "top_critic_score": 88.4,
-        "percent_recommended": 93.3,
+        "percent_recommended": 93.5,
         "tier": "Mighty",
         "median_score": 90,
-        "review_count": 46,
+        "review_count": 47,
         "release_year": 2016,
         "match_type": "exact",
         "match_score": 149
@@ -5320,7 +5308,7 @@
     "ori and the will of the wisps": {
       "title": "Ori and the Will of the Wisps",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:48:33+00:00",
+      "fetched_at": "2026-09-25T05:10:50+00:00",
       "data": {
         "title": "Ori and the Will of the Wisps",
         "game_id": 7403,
@@ -5338,16 +5326,16 @@
     "outbound": {
       "title": "Outbound",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:48:34+00:00",
+      "fetched_at": "2026-09-25T05:10:51+00:00",
       "data": {
         "title": "Outbound",
         "game_id": 20234,
         "url": "https://opencritic.com/game/20234/outbound",
         "top_critic_score": 62.7,
-        "percent_recommended": 28.6,
+        "percent_recommended": 27.9,
         "tier": "Weak",
         "median_score": 70,
-        "review_count": 42,
+        "review_count": 43,
         "release_year": 2026,
         "match_type": "exact",
         "match_score": 149
@@ -5356,7 +5344,7 @@
     "overcooked 2": {
       "title": "Overcooked! 2",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:48:36+00:00",
+      "fetched_at": "2026-09-25T05:10:54+00:00",
       "data": {
         "title": "Overcooked 2",
         "game_id": 6225,
@@ -5380,7 +5368,7 @@
     "overwatch": {
       "title": "Overwatch®",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:48:41+00:00",
+      "fetched_at": "2026-09-25T05:10:55+00:00",
       "data": {
         "title": "Overwatch",
         "game_id": 1673,
@@ -5398,16 +5386,16 @@
     "pacific drive": {
       "title": "Pacific Drive",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:48:43+00:00",
+      "fetched_at": "2026-09-25T05:10:56+00:00",
       "data": {
         "title": "Pacific Drive",
         "game_id": 16317,
         "url": "https://opencritic.com/game/16317/pacific-drive",
         "top_critic_score": 79.8,
-        "percent_recommended": 75.7,
+        "percent_recommended": 74.7,
         "tier": "Strong",
         "median_score": 80,
-        "review_count": 77,
+        "review_count": 78,
         "release_year": 2024,
         "match_type": "exact",
         "match_score": 144
@@ -5416,16 +5404,16 @@
     "palworld": {
       "title": "Palworld",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:48:45+00:00",
+      "fetched_at": "2026-09-25T05:10:58+00:00",
       "data": {
         "title": "Palworld",
         "game_id": 16166,
         "url": "https://opencritic.com/game/16166/palworld",
-        "top_critic_score": 76.6,
-        "percent_recommended": 73.9,
+        "top_critic_score": 76.9,
+        "percent_recommended": 72.0,
         "tier": "Strong",
         "median_score": null,
-        "review_count": 32,
+        "review_count": 34,
         "release_year": 2024,
         "match_type": "exact",
         "match_score": 148
@@ -5440,7 +5428,7 @@
     "pba pro bowling 2026": {
       "title": "PBA Pro Bowling 2026",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:48:48+00:00",
+      "fetched_at": "2026-09-25T05:10:59+00:00",
       "data": {
         "title": "PBA Pro Bowling",
         "game_id": 8494,
@@ -5470,7 +5458,7 @@
     "pentiment": {
       "title": "Pentiment",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:48:55+00:00",
+      "fetched_at": "2026-09-25T05:11:01+00:00",
       "data": {
         "title": "Pentiment",
         "game_id": 13960,
@@ -5488,7 +5476,7 @@
     "persona 5 royal": {
       "title": "Persona 5 Royal",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:48:57+00:00",
+      "fetched_at": "2026-09-25T05:11:02+00:00",
       "data": {
         "title": "Persona 5 Royal",
         "game_id": 8785,
@@ -5506,7 +5494,7 @@
     "phoenix point": {
       "title": "Phoenix Point",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:48:59+00:00",
+      "fetched_at": "2026-09-25T05:11:04+00:00",
       "data": {
         "title": "Phoenix Point",
         "game_id": 8539,
@@ -5524,7 +5512,7 @@
     "pigeon simulator": {
       "title": "Pigeon Simulator",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:49:03+00:00",
+      "fetched_at": "2026-09-25T05:11:05+00:00",
       "data": {
         "title": "Pigeon Simulator",
         "game_id": 19654,
@@ -5542,7 +5530,7 @@
     "pillars of eternity": {
       "title": "Pillars of Eternity",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:49:05+00:00",
+      "fetched_at": "2026-09-25T05:11:06+00:00",
       "data": {
         "title": "Pillars of Eternity",
         "game_id": 496,
@@ -5560,16 +5548,16 @@
     "pirates": {
       "title": "Pirates",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:49:07+00:00",
+      "fetched_at": "2026-09-25T05:11:08+00:00",
       "data": {
         "title": "Like a Dragon: Pirate Yakuza in Hawaii",
         "game_id": 17748,
         "url": "https://opencritic.com/game/17748/like-a-dragon-pirate-yakuza-in-hawaii",
         "top_critic_score": 81.4,
-        "percent_recommended": 84.2,
+        "percent_recommended": 84.3,
         "tier": "Strong",
         "median_score": 80,
-        "review_count": 167,
+        "review_count": 168,
         "release_year": 2025,
         "match_type": "exact",
         "match_score": 155
@@ -5578,7 +5566,7 @@
     "planet coaster 2": {
       "title": "Planet Coaster 2",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:49:10+00:00",
+      "fetched_at": "2026-09-25T05:11:10+00:00",
       "data": {
         "title": "Planet Coaster 2",
         "game_id": 17583,
@@ -5596,7 +5584,7 @@
     "planet of lana ii": {
       "title": "Planet of Lana II",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:49:12+00:00",
+      "fetched_at": "2026-09-25T05:11:11+00:00",
       "data": {
         "title": "Planet of Lana II: Children of the Leaf",
         "game_id": 20146,
@@ -5614,7 +5602,7 @@
     "plants vs zombies game of the year edition": {
       "title": "Plants vs. Zombies™ Game of the Year Edition",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:49:14+00:00",
+      "fetched_at": "2026-09-25T05:11:12+00:00",
       "data": {
         "title": "Plants vs. Zombies",
         "game_id": 20535,
@@ -5632,7 +5620,7 @@
     "plants vs zombies garden warfare 2": {
       "title": "Plants Vs. Zombies™ Garden Warfare 2",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:49:16+00:00",
+      "fetched_at": "2026-09-25T05:11:12+00:00",
       "data": {
         "title": "Plants vs. Zombies: Garden Warfare 2",
         "game_id": 1653,
@@ -5650,7 +5638,7 @@
     "plateup": {
       "title": "PlateUp!",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:49:18+00:00",
+      "fetched_at": "2026-09-25T05:11:14+00:00",
       "data": {
         "title": "PlateUp!",
         "game_id": 13554,
@@ -5668,7 +5656,7 @@
     "police simulator patrol officers": {
       "title": "Police Simulator: Patrol Officers",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:49:21+00:00",
+      "fetched_at": "2026-09-25T05:11:15+00:00",
       "data": {
         "title": "Police Simulator: Patrol Officers",
         "game_id": 13965,
@@ -5704,25 +5692,25 @@
     "powerwash simulator 2": {
       "title": "PowerWash Simulator 2",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:49:28+00:00",
+      "fetched_at": "2026-09-25T05:11:16+00:00",
       "data": {
         "title": "PowerWash Simulator 2",
         "game_id": 19461,
         "url": "https://opencritic.com/game/19461/powerwash-simulator-2",
         "top_critic_score": 83.6,
-        "percent_recommended": 89.8,
+        "percent_recommended": 90.0,
         "tier": "Mighty",
         "median_score": 80,
-        "review_count": 59,
+        "review_count": 60,
         "release_year": 2025,
         "match_type": "exact",
-        "match_score": 149
+        "match_score": 150
       }
     },
     "prey": {
       "title": "Prey®",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:49:31+00:00",
+      "fetched_at": "2026-09-25T05:11:18+00:00",
       "data": {
         "title": "Prey",
         "game_id": 3589,
@@ -5740,7 +5728,7 @@
     "psychonauts": {
       "title": "Psychonauts™",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:49:34+00:00",
+      "fetched_at": "2026-09-25T05:11:19+00:00",
       "data": {
         "title": "Psychonauts",
         "game_id": 11382,
@@ -5758,7 +5746,7 @@
     "psychonauts 2": {
       "title": "Psychonauts 2",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:49:37+00:00",
+      "fetched_at": "2026-09-25T05:11:21+00:00",
       "data": {
         "title": "Psychonauts 2",
         "game_id": 7404,
@@ -5776,7 +5764,7 @@
     "quake": {
       "title": "Quake®",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:49:39+00:00",
+      "fetched_at": "2026-09-25T05:11:22+00:00",
       "data": {
         "title": "Quake",
         "game_id": 11847,
@@ -5794,7 +5782,7 @@
     "quake ii": {
       "title": "Quake II",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:49:41+00:00",
+      "fetched_at": "2026-09-25T05:11:24+00:00",
       "data": {
         "title": "Quake II",
         "game_id": 15352,
@@ -5812,7 +5800,7 @@
     "quantum break": {
       "title": "Quantum Break",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:49:42+00:00",
+      "fetched_at": "2026-09-25T05:11:25+00:00",
       "data": {
         "title": "Quantum Break",
         "game_id": 1519,
@@ -5830,7 +5818,7 @@
     "quarantine zone the last check": {
       "title": "Quarantine Zone: The Last Check",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:49:44+00:00",
+      "fetched_at": "2026-09-25T05:11:26+00:00",
       "data": {
         "title": "Quarantine Zone: The Last Check",
         "game_id": 18582,
@@ -5848,7 +5836,7 @@
     "raft": {
       "title": "Raft",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:49:47+00:00",
+      "fetched_at": "2026-09-25T05:11:28+00:00",
       "data": {
         "title": "Raft",
         "game_id": 13320,
@@ -5866,7 +5854,7 @@
     "rage 2": {
       "title": "RAGE 2",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:49:49+00:00",
+      "fetched_at": "2026-09-25T05:11:29+00:00",
       "data": {
         "title": "Rage 2",
         "game_id": 7123,
@@ -5884,7 +5872,7 @@
     "recore": {
       "title": "ReCore",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:49:51+00:00",
+      "fetched_at": "2026-09-25T05:11:31+00:00",
       "data": {
         "title": "ReCore",
         "game_id": 1651,
@@ -5902,7 +5890,7 @@
     "redfall": {
       "title": "Redfall",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:49:53+00:00",
+      "fetched_at": "2026-09-25T05:11:32+00:00",
       "data": {
         "title": "Redfall",
         "game_id": 14768,
@@ -5926,7 +5914,7 @@
     "rematch": {
       "title": "REMATCH",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:49:57+00:00",
+      "fetched_at": "2026-09-25T05:11:34+00:00",
       "data": {
         "title": "Rematch",
         "game_id": 18755,
@@ -5950,34 +5938,34 @@
     "remnant ii": {
       "title": "Remnant™ II",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:50:03+00:00",
+      "fetched_at": "2026-09-25T05:11:35+00:00",
       "data": {
         "title": "Remnant II",
         "game_id": 15194,
         "url": "https://opencritic.com/game/15194/remnant-ii",
         "top_critic_score": 81.8,
-        "percent_recommended": 85.1,
+        "percent_recommended": 84.3,
         "tier": "Strong",
-        "median_score": 84,
-        "review_count": 119,
+        "median_score": null,
+        "review_count": 120,
         "release_year": 2023,
         "match_type": "exact",
-        "match_score": 152
+        "match_score": 153
       }
     },
     "replaced": {
       "title": "REPLACED",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:50:05+00:00",
+      "fetched_at": "2026-09-25T05:11:36+00:00",
       "data": {
         "title": "Replaced",
         "game_id": 20225,
         "url": "https://opencritic.com/game/20225/replaced",
         "top_critic_score": 76.9,
-        "percent_recommended": 78.6,
+        "percent_recommended": 78.9,
         "tier": "Strong",
         "median_score": 80,
-        "review_count": 112,
+        "review_count": 114,
         "release_year": 2026,
         "match_type": "exact",
         "match_score": 152
@@ -5986,7 +5974,7 @@
     "resident evil 2": {
       "title": "Resident Evil 2",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:50:07+00:00",
+      "fetched_at": "2026-09-25T05:11:38+00:00",
       "data": {
         "title": "Resident Evil 2",
         "game_id": 6848,
@@ -6004,7 +5992,7 @@
     "resident evil 3": {
       "title": "RESIDENT EVIL 3",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:50:09+00:00",
+      "fetched_at": "2026-09-25T05:11:39+00:00",
       "data": {
         "title": "Resident Evil 3",
         "game_id": 8746,
@@ -6022,7 +6010,7 @@
     "resident evil 7 biohazard": {
       "title": "Resident Evil 7: Biohazard",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:50:10+00:00",
+      "fetched_at": "2026-09-25T05:11:40+00:00",
       "data": {
         "title": "Resident Evil 7 Biohazard",
         "game_id": 2886,
@@ -6040,7 +6028,7 @@
     "resident evil village": {
       "title": "Resident Evil™ Village",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:50:13+00:00",
+      "fetched_at": "2026-09-25T05:11:42+00:00",
       "data": {
         "title": "Resident Evil Village",
         "game_id": 10995,
@@ -6064,7 +6052,7 @@
     "return to castle wolfenstein": {
       "title": "Return to Castle Wolfenstein",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:50:16+00:00",
+      "fetched_at": "2026-09-25T05:11:43+00:00",
       "data": {
         "title": "Return to Castle Wolfenstein",
         "game_id": 12324,
@@ -6082,7 +6070,7 @@
     "riders republic": {
       "title": "Riders Republic™",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:50:19+00:00",
+      "fetched_at": "2026-09-25T05:11:44+00:00",
       "data": {
         "title": "Riders Republic",
         "game_id": 12221,
@@ -6106,7 +6094,7 @@
     "roadcraft": {
       "title": "RoadCraft",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:50:23+00:00",
+      "fetched_at": "2026-09-25T05:11:46+00:00",
       "data": {
         "title": "RoadCraft",
         "game_id": 18563,
@@ -6142,7 +6130,7 @@
     "robocop rogue city": {
       "title": "RoboCop: Rogue City",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:50:27+00:00",
+      "fetched_at": "2026-09-25T05:11:47+00:00",
       "data": {
         "title": "RoboCop: Rogue City",
         "game_id": 15763,
@@ -6160,7 +6148,7 @@
     "roboquest": {
       "title": "Roboquest",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:50:29+00:00",
+      "fetched_at": "2026-09-25T05:11:48+00:00",
       "data": {
         "title": "Roboquest",
         "game_id": 15801,
@@ -6178,16 +6166,16 @@
     "routine": {
       "title": "ROUTINE",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:50:31+00:00",
+      "fetched_at": "2026-09-25T05:11:49+00:00",
       "data": {
         "title": "Routine",
         "game_id": 19658,
         "url": "https://opencritic.com/game/19658/routine",
         "top_critic_score": 78.7,
-        "percent_recommended": 75.0,
+        "percent_recommended": 74.1,
         "tier": "Strong",
         "median_score": 80,
-        "review_count": 52,
+        "review_count": 54,
         "release_year": 2025,
         "match_type": "exact",
         "match_score": 149
@@ -6202,7 +6190,7 @@
     "rv there yet": {
       "title": "RV There Yet?",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:50:34+00:00",
+      "fetched_at": "2026-09-25T05:11:51+00:00",
       "data": {
         "title": "RV There Yet?",
         "game_id": 19586,
@@ -6220,7 +6208,7 @@
     "sandustry": {
       "title": "Sandustry",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:50:37+00:00",
+      "fetched_at": "2026-09-25T05:11:52+00:00",
       "data": {
         "title": "Sandustry",
         "game_id": 21185,
@@ -6238,7 +6226,7 @@
     "sea of solitude": {
       "title": "Sea of Solitude",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:50:38+00:00",
+      "fetched_at": "2026-09-25T05:11:53+00:00",
       "data": {
         "title": "Sea of Solitude",
         "game_id": 7838,
@@ -6256,7 +6244,7 @@
     "sea of thieves 2025 edition": {
       "title": "Sea of Thieves: 2025 Edition",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:50:41+00:00",
+      "fetched_at": "2026-09-25T05:11:54+00:00",
       "data": {
         "title": "Sea of Thieves",
         "game_id": 5412,
@@ -6274,7 +6262,7 @@
     "senua s saga hellblade ii": {
       "title": "Senua’s Saga: Hellblade II",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:50:44+00:00",
+      "fetched_at": "2026-09-25T05:11:56+00:00",
       "data": {
         "title": "Senua's Saga: Hellblade II",
         "game_id": 16475,
@@ -6292,7 +6280,7 @@
     "shadowrun dragonfall director s cut": {
       "title": "Shadowrun: Dragonfall - Director’s Cut",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:50:46+00:00",
+      "fetched_at": "2026-09-25T05:11:57+00:00",
       "data": {
         "title": "Shadowrun: Dragonfall - Director's Cut",
         "game_id": 515,
@@ -6310,7 +6298,7 @@
     "shadowrun hong kong extended edition": {
       "title": "Shadowrun: Hong Kong - Extended Edition",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:50:48+00:00",
+      "fetched_at": "2026-09-25T05:11:58+00:00",
       "data": {
         "title": "Shadowrun: Hong Kong",
         "game_id": 1845,
@@ -6328,7 +6316,7 @@
     "shadowrun returns": {
       "title": "Shadowrun Returns",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:50:49+00:00",
+      "fetched_at": "2026-09-25T05:11:59+00:00",
       "data": {
         "title": "Shadowrun Returns",
         "game_id": 10558,
@@ -6346,7 +6334,7 @@
     "shift at midnight": {
       "title": "Shift At Midnight",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:50:51+00:00",
+      "fetched_at": "2026-09-25T05:12:00+00:00",
       "data": {
         "title": "Shift at Midnight",
         "game_id": 21026,
@@ -6370,7 +6358,7 @@
     "sifu": {
       "title": "Sifu",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:50:55+00:00",
+      "fetched_at": "2026-09-25T05:12:02+00:00",
       "data": {
         "title": "Sifu",
         "game_id": 12705,
@@ -6418,16 +6406,16 @@
     "snowrunner": {
       "title": "SnowRunner",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:51:05+00:00",
+      "fetched_at": "2026-09-25T05:12:04+00:00",
       "data": {
         "title": "SnowRunner",
         "game_id": 9011,
         "url": "https://opencritic.com/game/9011/snowrunner",
         "top_critic_score": 79.7,
-        "percent_recommended": 79.4,
+        "percent_recommended": 76.6,
         "tier": "Strong",
         "median_score": 80,
-        "review_count": 67,
+        "review_count": 68,
         "release_year": 2020,
         "match_type": "exact",
         "match_score": 144
@@ -6436,7 +6424,7 @@
     "solarpunk": {
       "title": "Solarpunk",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:51:07+00:00",
+      "fetched_at": "2026-09-25T05:12:06+00:00",
       "data": {
         "title": "Solarpunk",
         "game_id": 20792,
@@ -6460,7 +6448,7 @@
     "sopa tale of the stolen potato": {
       "title": "SOPA - Tale of the Stolen Potato",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:51:13+00:00",
+      "fetched_at": "2026-09-25T05:12:07+00:00",
       "data": {
         "title": "SOPA - Tale of the Stolen Potato",
         "game_id": 19428,
@@ -6478,16 +6466,16 @@
     "south of midnight": {
       "title": "South of Midnight",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:51:14+00:00",
+      "fetched_at": "2026-09-25T05:12:09+00:00",
       "data": {
         "title": "South of Midnight",
         "game_id": 18309,
         "url": "https://opencritic.com/game/18309/south-of-midnight",
         "top_critic_score": 76.4,
-        "percent_recommended": 69.6,
+        "percent_recommended": 69.8,
         "tier": "Strong",
         "median_score": 80,
-        "review_count": 183,
+        "review_count": 184,
         "release_year": 2025,
         "match_type": "exact",
         "match_score": 156
@@ -6496,7 +6484,7 @@
     "south park the fractured but whole": {
       "title": "South Park™: The Fractured But Whole™",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:51:17+00:00",
+      "fetched_at": "2026-09-25T05:12:09+00:00",
       "data": {
         "title": "South Park: The Fractured But Whole",
         "game_id": 2845,
@@ -6514,7 +6502,7 @@
     "space robinson hardcore roguelike action": {
       "title": "Space Robinson: Hardcore Roguelike Action",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:51:20+00:00",
+      "fetched_at": "2026-09-25T05:12:11+00:00",
       "data": {
         "title": "Ascend to Zero",
         "game_id": 20963,
@@ -6550,7 +6538,7 @@
     "spongebob squarepants battle for bikini bottom rehydrated": {
       "title": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:51:25+00:00",
+      "fetched_at": "2026-09-25T05:12:13+00:00",
       "data": {
         "title": "SpongeBob SquarePants: Battle For Bikini Bottom - Rehydrated",
         "game_id": 9387,
@@ -6574,7 +6562,7 @@
     "spyro reignited trilogy": {
       "title": "Spyro™ Reignited Trilogy",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:51:29+00:00",
+      "fetched_at": "2026-09-25T05:12:14+00:00",
       "data": {
         "title": "Spyro Reignited Trilogy",
         "game_id": 6016,
@@ -6592,7 +6580,7 @@
     "star trucker": {
       "title": "Star Trucker",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:51:30+00:00",
+      "fetched_at": "2026-09-25T05:12:15+00:00",
       "data": {
         "title": "Star Trucker",
         "game_id": 17232,
@@ -6610,7 +6598,7 @@
     "star wars battlefront ii": {
       "title": "STAR WARS™ Battlefront™ II",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:51:33+00:00",
+      "fetched_at": "2026-09-25T05:12:16+00:00",
       "data": {
         "title": "Star Wars Battlefront",
         "game_id": 1511,
@@ -6628,7 +6616,7 @@
     "star wars battlefront ultimate edition": {
       "title": "STAR WARS™ Battlefront™ Ultimate Edition",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:51:35+00:00",
+      "fetched_at": "2026-09-25T05:12:17+00:00",
       "data": {
         "title": "Star Wars Battlefront",
         "game_id": 1511,
@@ -6646,16 +6634,16 @@
     "star wars jedi fallen order": {
       "title": "STAR WARS Jedi: Fallen Order™",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:51:36+00:00",
+      "fetched_at": "2026-09-25T05:12:17+00:00",
       "data": {
         "title": "Star Wars Jedi: Fallen Order",
         "game_id": 7407,
         "url": "https://opencritic.com/game/7407/star-wars-jedi-fallen-order",
         "top_critic_score": 82.4,
-        "percent_recommended": 82.9,
+        "percent_recommended": 83.0,
         "tier": "Strong",
         "median_score": 82,
-        "review_count": 177,
+        "review_count": 178,
         "release_year": 2019,
         "match_type": "exact",
         "match_score": 155
@@ -6664,7 +6652,7 @@
     "star wars jedi survivor": {
       "title": "STAR WARS Jedi: Survivor™",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:51:38+00:00",
+      "fetched_at": "2026-09-25T05:12:18+00:00",
       "data": {
         "title": "Star Wars Jedi: Survivor",
         "game_id": 14199,
@@ -6682,16 +6670,16 @@
     "star wars outlaws": {
       "title": "Star Wars™ Outlaws",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:51:40+00:00",
+      "fetched_at": "2026-09-25T05:12:19+00:00",
       "data": {
         "title": "Star Wars Outlaws",
         "game_id": 16790,
         "url": "https://opencritic.com/game/16790/star-wars-outlaws",
         "top_critic_score": 74.8,
-        "percent_recommended": 68.2,
+        "percent_recommended": 67.8,
         "tier": "Strong",
         "median_score": 80,
-        "review_count": 203,
+        "review_count": 204,
         "release_year": 2024,
         "match_type": "exact",
         "match_score": 145
@@ -6700,7 +6688,7 @@
     "star wars squadrons": {
       "title": "STAR WARS™: Squadrons",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:51:41+00:00",
+      "fetched_at": "2026-09-25T05:12:20+00:00",
       "data": {
         "title": "Star Wars: Squadrons",
         "game_id": 9642,
@@ -6718,7 +6706,7 @@
     "starcraft": {
       "title": "StarCraft®",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:51:43+00:00",
+      "fetched_at": "2026-09-25T05:12:20+00:00",
       "data": {
         "title": "StarCraft Remastered",
         "game_id": 4617,
@@ -6736,7 +6724,7 @@
     "starcraft ii": {
       "title": "StarCraft II®",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:51:45+00:00",
+      "fetched_at": "2026-09-25T05:12:21+00:00",
       "data": {
         "title": "StarCraft II: Legacy of the Void",
         "game_id": 1828,
@@ -6754,7 +6742,7 @@
     "stardew valley": {
       "title": "Stardew Valley",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:51:47+00:00",
+      "fetched_at": "2026-09-25T05:12:22+00:00",
       "data": {
         "title": "Stardew Valley",
         "game_id": 2242,
@@ -6772,16 +6760,16 @@
     "starfield": {
       "title": "Starfield™",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:51:50+00:00",
+      "fetched_at": "2026-09-25T05:12:24+00:00",
       "data": {
         "title": "Starfield",
         "game_id": 14907,
         "url": "https://opencritic.com/game/14907/starfield",
         "top_critic_score": 84.1,
-        "percent_recommended": 78.7,
+        "percent_recommended": 78.5,
         "tier": "Mighty",
         "median_score": 85,
-        "review_count": 232,
+        "review_count": 235,
         "release_year": 2023,
         "match_type": "exact",
         "match_score": 157
@@ -6790,34 +6778,34 @@
     "starsand island": {
       "title": "Starsand Island",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:51:51+00:00",
+      "fetched_at": "2026-09-25T05:12:25+00:00",
       "data": {
         "title": "Starsand Island",
         "game_id": 19485,
         "url": "https://opencritic.com/game/19485/starsand-island",
         "top_critic_score": 72.5,
-        "percent_recommended": 53.8,
+        "percent_recommended": 47.8,
         "tier": "Fair",
         "median_score": 70,
-        "review_count": 13,
+        "review_count": 23,
         "release_year": 2026,
         "match_type": "exact",
-        "match_score": 147
+        "match_score": 148
       }
     },
     "starseeker astroneer expeditions": {
       "title": "STARSEEKER: Astroneer Expeditions",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:51:53+00:00",
+      "fetched_at": "2026-09-25T05:12:26+00:00",
       "data": {
         "title": "STARSEEKER: Astroneer Expeditions",
         "game_id": 20662,
         "url": "https://opencritic.com/game/20662/starseeker-astroneer-expeditions",
         "top_critic_score": null,
-        "percent_recommended": null,
+        "percent_recommended": 60.0,
         "tier": null,
-        "median_score": null,
-        "review_count": 4,
+        "median_score": 75,
+        "review_count": 5,
         "release_year": null,
         "match_type": "exact",
         "match_score": 135
@@ -6826,7 +6814,7 @@
     "state of decay 2 juggernaut edition": {
       "title": "State of Decay 2: Juggernaut Edition",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:51:55+00:00",
+      "fetched_at": "2026-09-25T05:12:27+00:00",
       "data": {
         "title": "State of Decay 2",
         "game_id": 5803,
@@ -6844,7 +6832,7 @@
     "subnautica 2": {
       "title": "Subnautica 2",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:51:57+00:00",
+      "fetched_at": "2026-09-25T05:12:28+00:00",
       "data": {
         "title": "Subnautica 2",
         "game_id": 20500,
@@ -6862,7 +6850,7 @@
     "sunset overdrive": {
       "title": "Sunset Overdrive",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:51:58+00:00",
+      "fetched_at": "2026-09-25T05:12:30+00:00",
       "data": {
         "title": "Sunset Overdrive",
         "game_id": 840,
@@ -6880,7 +6868,7 @@
     "super lucky s tale": {
       "title": "Super Lucky's Tale",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:52:00+00:00",
+      "fetched_at": "2026-09-25T05:12:31+00:00",
       "data": {
         "title": "Super Lucky's Tale",
         "game_id": 5032,
@@ -6898,7 +6886,7 @@
     "super meat boy 3d": {
       "title": "Super Meat Boy 3D",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:52:01+00:00",
+      "fetched_at": "2026-09-25T05:12:33+00:00",
       "data": {
         "title": "Super Meat Boy 3D",
         "game_id": 20262,
@@ -6916,7 +6904,7 @@
     "super mega baseball 3": {
       "title": "Super Mega Baseball 3",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:52:03+00:00",
+      "fetched_at": "2026-09-25T05:12:34+00:00",
       "data": {
         "title": "Super Mega Baseball 3",
         "game_id": 9282,
@@ -6934,7 +6922,7 @@
     "super mega baseball 4": {
       "title": "Super Mega Baseball™ 4",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:52:05+00:00",
+      "fetched_at": "2026-09-25T05:12:35+00:00",
       "data": {
         "title": "Super Mega Baseball 4",
         "game_id": 15030,
@@ -6958,7 +6946,7 @@
     "superhot mind control delete": {
       "title": "SUPERHOT: MIND CONTROL DELETE",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:52:08+00:00",
+      "fetched_at": "2026-09-25T05:12:36+00:00",
       "data": {
         "title": "SUPERHOT: MIND CONTROL DELETE",
         "game_id": 9761,
@@ -6994,7 +6982,7 @@
     "supermarket simulator": {
       "title": "Supermarket Simulator",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:52:11+00:00",
+      "fetched_at": "2026-09-25T05:12:37+00:00",
       "data": {
         "title": "Supermarket Simulator",
         "game_id": 18883,
@@ -7012,7 +7000,7 @@
     "sworn": {
       "title": "SWORN",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:52:13+00:00",
+      "fetched_at": "2026-09-25T05:12:39+00:00",
       "data": {
         "title": "Sworn",
         "game_id": 18165,
@@ -7030,7 +7018,7 @@
     "symphonia": {
       "title": "Symphonia",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:52:15+00:00",
+      "fetched_at": "2026-09-25T05:12:40+00:00",
       "data": {
         "title": "Symphonia",
         "game_id": 11810,
@@ -7048,7 +7036,7 @@
     "tales of kenzera zau": {
       "title": "Tales of Kenzera™: ZAU",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:52:17+00:00",
+      "fetched_at": "2026-09-25T05:12:41+00:00",
       "data": {
         "title": "Tales of Kenzera: Zau",
         "game_id": 16584,
@@ -7066,7 +7054,7 @@
     "tamashika": {
       "title": "Tamashika",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:52:19+00:00",
+      "fetched_at": "2026-09-25T05:12:42+00:00",
       "data": {
         "title": "TAMASHIKA",
         "game_id": 20412,
@@ -7114,16 +7102,16 @@
     "tell me why": {
       "title": "Tell Me Why",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:52:27+00:00",
+      "fetched_at": "2026-09-25T05:12:44+00:00",
       "data": {
         "title": "Tell Me Why",
         "game_id": 10048,
         "url": "https://opencritic.com/game/10048/tell-me-why",
         "top_critic_score": 80.5,
-        "percent_recommended": 77.2,
+        "percent_recommended": 77.4,
         "tier": "Strong",
         "median_score": 80,
-        "review_count": 94,
+        "review_count": 95,
         "release_year": 2020,
         "match_type": "exact",
         "match_score": 151
@@ -7132,7 +7120,7 @@
     "tempopo": {
       "title": "Tempopo",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:52:29+00:00",
+      "fetched_at": "2026-09-25T05:12:49+00:00",
       "data": {
         "title": "Tempopo",
         "game_id": 18417,
@@ -7156,7 +7144,7 @@
     "terratech legion": {
       "title": "TerraTech Legion",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:52:34+00:00",
+      "fetched_at": "2026-09-25T05:12:50+00:00",
       "data": {
         "title": "TerraTech Legion",
         "game_id": 20486,
@@ -7174,7 +7162,7 @@
     "the alters": {
       "title": "The Alters",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:52:36+00:00",
+      "fetched_at": "2026-09-25T05:12:51+00:00",
       "data": {
         "title": "The Alters",
         "game_id": 18397,
@@ -7183,7 +7171,7 @@
         "percent_recommended": 95.2,
         "tier": "Mighty",
         "median_score": 90,
-        "review_count": 124,
+        "review_count": 125,
         "release_year": 2025,
         "match_type": "exact",
         "match_score": 153
@@ -7198,7 +7186,7 @@
     "the bard s tale iv director s cut": {
       "title": "The Bard's Tale IV: Director's Cut",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:52:40+00:00",
+      "fetched_at": "2026-09-25T05:12:53+00:00",
       "data": {
         "title": "The Bard's Tale IV: Director's Cut",
         "game_id": 8271,
@@ -7216,7 +7204,7 @@
     "the bard s tale trilogy": {
       "title": "The Bard's Tale Trilogy",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:52:41+00:00",
+      "fetched_at": "2026-09-25T05:12:54+00:00",
       "data": {
         "title": "The Bard's Tale Trilogy",
         "game_id": 8073,
@@ -7234,7 +7222,7 @@
     "the casting of frank stone": {
       "title": "The Casting of Frank Stone™",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:52:43+00:00",
+      "fetched_at": "2026-09-25T05:12:55+00:00",
       "data": {
         "title": "The Casting of Frank Stone",
         "game_id": 17237,
@@ -7252,16 +7240,16 @@
     "the crew motorfest": {
       "title": "The Crew™ Motorfest",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:52:46+00:00",
+      "fetched_at": "2026-09-25T05:12:56+00:00",
       "data": {
         "title": "The Crew Motorfest",
         "game_id": 15493,
         "url": "https://opencritic.com/game/15493/the-crew-motorfest",
         "top_critic_score": 76.6,
-        "percent_recommended": 64.9,
+        "percent_recommended": 64.2,
         "tier": "Strong",
         "median_score": 80,
-        "review_count": 94,
+        "review_count": 95,
         "release_year": 2023,
         "match_type": "exact",
         "match_score": 139
@@ -7288,16 +7276,16 @@
     "the elder scrolls iv oblivion remastered": {
       "title": "The Elder Scrolls IV: Oblivion™ Remastered",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:52:54+00:00",
+      "fetched_at": "2026-09-25T05:12:59+00:00",
       "data": {
         "title": "The Elder Scrolls IV: Oblivion Remastered",
         "game_id": 18437,
         "url": "https://opencritic.com/game/18437/the-elder-scrolls-iv-oblivion-remastered",
         "top_critic_score": 81.5,
-        "percent_recommended": 85.4,
+        "percent_recommended": 84.8,
         "tier": "Strong",
         "median_score": 85,
-        "review_count": 130,
+        "review_count": 132,
         "release_year": 2025,
         "match_type": "exact",
         "match_score": 153
@@ -7306,7 +7294,7 @@
     "the elder scrolls online": {
       "title": "The Elder Scrolls® Online",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:52:57+00:00",
+      "fetched_at": "2026-09-25T05:12:59+00:00",
       "data": {
         "title": "The Elder Scrolls Online",
         "game_id": 2212,
@@ -7324,7 +7312,7 @@
     "the elder scrolls v skyrim special edition": {
       "title": "The Elder Scrolls V: Skyrim Special Edition",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:52:58+00:00",
+      "fetched_at": "2026-09-25T05:13:01+00:00",
       "data": {
         "title": "The Elder Scrolls V: Skyrim - Special Edition",
         "game_id": 2851,
@@ -7342,7 +7330,7 @@
     "the evil within 2": {
       "title": "The Evil Within® 2",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:53:00+00:00",
+      "fetched_at": "2026-09-25T05:13:01+00:00",
       "data": {
         "title": "The Evil Within 2",
         "game_id": 4502,
@@ -7360,7 +7348,7 @@
     "the finals": {
       "title": "THE FINALS",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:53:02+00:00",
+      "fetched_at": "2026-09-25T05:13:03+00:00",
       "data": {
         "title": "The Finals",
         "game_id": 15962,
@@ -7378,7 +7366,7 @@
     "the first descendant": {
       "title": "The First Descendant",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:53:05+00:00",
+      "fetched_at": "2026-09-25T05:13:05+00:00",
       "data": {
         "title": "The First Descendant",
         "game_id": 16964,
@@ -7396,7 +7384,7 @@
     "the gunk": {
       "title": "The Gunk",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:53:07+00:00",
+      "fetched_at": "2026-09-25T05:13:06+00:00",
       "data": {
         "title": "The Gunk",
         "game_id": 12486,
@@ -7414,16 +7402,16 @@
     "the long dark": {
       "title": "The Long Dark®",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:53:09+00:00",
+      "fetched_at": "2026-09-25T05:13:08+00:00",
       "data": {
         "title": "The Long Dark",
         "game_id": 4403,
         "url": "https://opencritic.com/game/4403/the-long-dark",
         "top_critic_score": 77.1,
-        "percent_recommended": 70.6,
+        "percent_recommended": 69.2,
         "tier": "Strong",
         "median_score": 80,
-        "review_count": 53,
+        "review_count": 54,
         "release_year": 2017,
         "match_type": "exact",
         "match_score": 149
@@ -7432,16 +7420,16 @@
     "the outer worlds 2": {
       "title": "The Outer Worlds 2",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:53:11+00:00",
+      "fetched_at": "2026-09-25T05:13:09+00:00",
       "data": {
         "title": "The Outer Worlds 2",
         "game_id": 18723,
         "url": "https://opencritic.com/game/18723/the-outer-worlds-2",
         "top_critic_score": 82.6,
-        "percent_recommended": 88.1,
+        "percent_recommended": 88.2,
         "tier": "Strong",
         "median_score": 85,
-        "review_count": 151,
+        "review_count": 152,
         "release_year": 2025,
         "match_type": "exact",
         "match_score": 154
@@ -7450,7 +7438,7 @@
     "the outer worlds spacer s choice edition": {
       "title": "The Outer Worlds: Spacer's Choice Edition",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:53:13+00:00",
+      "fetched_at": "2026-09-25T05:13:10+00:00",
       "data": {
         "title": "The Outer Worlds: Spacer's Choice Edition",
         "game_id": 14404,
@@ -7468,25 +7456,25 @@
     "the planet crafter": {
       "title": "The Planet Crafter",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:53:15+00:00",
+      "fetched_at": "2026-09-25T05:13:11+00:00",
       "data": {
         "title": "The Planet Crafter",
         "game_id": 16555,
         "url": "https://opencritic.com/game/16555/the-planet-crafter",
         "top_critic_score": 78.3,
-        "percent_recommended": 78.9,
+        "percent_recommended": 75.0,
         "tier": "Strong",
         "median_score": 80,
-        "review_count": 19,
+        "review_count": 20,
         "release_year": 2024,
         "match_type": "exact",
-        "match_score": 135
+        "match_score": 136
       }
     },
     "the rogue prince of persia": {
       "title": "The Rogue Prince of Persia",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:53:16+00:00",
+      "fetched_at": "2026-09-25T05:13:12+00:00",
       "data": {
         "title": "The Rogue Prince of Persia",
         "game_id": 16774,
@@ -7516,7 +7504,7 @@
     "the sims 3 starter pack": {
       "title": "The Sims™ 3 Starter Pack",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:53:21+00:00",
+      "fetched_at": "2026-09-25T05:13:13+00:00",
       "data": {
         "title": "The Sims 3",
         "game_id": 20587,
@@ -7534,7 +7522,7 @@
     "the sims 4 ea play edition": {
       "title": "The Sims™ 4 EA Play Edition",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:53:23+00:00",
+      "fetched_at": "2026-09-25T05:13:14+00:00",
       "data": {
         "title": "The Sims 4",
         "game_id": 572,
@@ -7552,7 +7540,7 @@
     "the sims legacy collection": {
       "title": "The Sims™ Legacy Collection",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:53:25+00:00",
+      "fetched_at": "2026-09-25T05:13:14+00:00",
       "data": {
         "title": "The Sims: Legacy Collection",
         "game_id": 18102,
@@ -7570,7 +7558,7 @@
     "the talos principle 2": {
       "title": "The Talos Principle 2",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:53:26+00:00",
+      "fetched_at": "2026-09-25T05:13:15+00:00",
       "data": {
         "title": "The Talos Principle 2",
         "game_id": 15695,
@@ -7588,16 +7576,16 @@
     "the thaumaturge": {
       "title": "The Thaumaturge",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:53:28+00:00",
+      "fetched_at": "2026-09-25T05:13:17+00:00",
       "data": {
         "title": "The Thaumaturge",
         "game_id": 16393,
         "url": "https://opencritic.com/game/16393/the-thaumaturge",
         "top_critic_score": 75.8,
-        "percent_recommended": 71.1,
+        "percent_recommended": 70.2,
         "tier": "Strong",
         "median_score": 80,
-        "review_count": 85,
+        "review_count": 86,
         "release_year": 2024,
         "match_type": "exact",
         "match_score": 151
@@ -7606,7 +7594,7 @@
     "the witcher adventure game": {
       "title": "The Witcher® Adventure Game",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:53:30+00:00",
+      "fetched_at": "2026-09-25T05:13:18+00:00",
       "data": {
         "title": "The Witcher Adventure Game",
         "game_id": 618,
@@ -7624,7 +7612,7 @@
     "thehunter call of the wild": {
       "title": "theHunter: Call of the Wild™",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:53:34+00:00",
+      "fetched_at": "2026-09-25T05:13:19+00:00",
       "data": {
         "title": "theHunter: Call of the Wild",
         "game_id": 3974,
@@ -7642,16 +7630,16 @@
     "tiny bookshop": {
       "title": "Tiny Bookshop",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:53:35+00:00",
+      "fetched_at": "2026-09-25T05:13:21+00:00",
       "data": {
         "title": "Tiny Bookshop",
         "game_id": 19054,
         "url": "https://opencritic.com/game/19054/tiny-bookshop",
         "top_critic_score": 82.0,
-        "percent_recommended": 81.8,
+        "percent_recommended": 82.1,
         "tier": "Strong",
         "median_score": 80,
-        "review_count": 55,
+        "review_count": 56,
         "release_year": 2025,
         "match_type": "exact",
         "match_score": 143
@@ -7660,16 +7648,16 @@
     "to a t": {
       "title": "to a T",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:53:37+00:00",
+      "fetched_at": "2026-09-25T05:13:23+00:00",
       "data": {
         "title": "to a T",
         "game_id": 18617,
         "url": "https://opencritic.com/game/18617/to-a-t",
         "top_critic_score": 68.3,
-        "percent_recommended": 47.4,
+        "percent_recommended": 46.2,
         "tier": "Fair",
         "median_score": 70,
-        "review_count": 38,
+        "review_count": 39,
         "release_year": 2025,
         "match_type": "exact",
         "match_score": 148
@@ -7678,7 +7666,7 @@
     "tom clancy s ghost recon wildlands": {
       "title": "Tom Clancy's Ghost Recon® Wildlands",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:53:40+00:00",
+      "fetched_at": "2026-09-25T05:13:23+00:00",
       "data": {
         "title": "Tom Clancy's Ghost Recon: Wildlands",
         "game_id": 2870,
@@ -7696,7 +7684,7 @@
     "tom clancy s rainbow six siege elite edition": {
       "title": "Tom Clancy's Rainbow Six® Siege - Elite Edition",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:53:42+00:00",
+      "fetched_at": "2026-09-25T05:13:24+00:00",
       "data": {
         "title": "Tom Clancy's Rainbow Six Siege",
         "game_id": 1526,
@@ -7714,7 +7702,7 @@
     "tom clancy s the division 2": {
       "title": "Tom Clancy’s The Division® 2",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:53:44+00:00",
+      "fetched_at": "2026-09-25T05:13:25+00:00",
       "data": {
         "title": "Tom Clancy's The Division 2",
         "game_id": 7089,
@@ -7732,16 +7720,16 @@
     "tony hawk s pro skater 3 4": {
       "title": "Tony Hawk's™ Pro Skater™ 3 + 4",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:53:46+00:00",
+      "fetched_at": "2026-09-25T05:13:25+00:00",
       "data": {
         "title": "Tony Hawk's Pro Skater 3 + 4",
         "game_id": 18209,
         "url": "https://opencritic.com/game/18209/tony-hawks-pro-skater-3-4",
         "top_critic_score": 82.8,
-        "percent_recommended": 87.1,
+        "percent_recommended": 87.2,
         "tier": "Strong",
         "median_score": 80,
-        "review_count": 134,
+        "review_count": 135,
         "release_year": 2025,
         "match_type": "exact",
         "match_score": 153
@@ -7750,7 +7738,7 @@
     "torment tides of numenera": {
       "title": "Torment: Tides of Numenera",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:53:49+00:00",
+      "fetched_at": "2026-09-25T05:13:27+00:00",
       "data": {
         "title": "Torment: Tides of Numenera",
         "game_id": 3728,
@@ -7768,7 +7756,7 @@
     "total chaos": {
       "title": "Total Chaos",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:53:50+00:00",
+      "fetched_at": "2026-09-25T05:13:27+00:00",
       "data": {
         "title": "Total Chaos",
         "game_id": 19729,
@@ -7786,7 +7774,7 @@
     "totally accurate battle simulator": {
       "title": "Totally Accurate Battle Simulator",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:53:52+00:00",
+      "fetched_at": "2026-09-25T05:13:29+00:00",
       "data": {
         "title": "Totally Accurate Battle Simulator",
         "game_id": 14619,
@@ -7804,7 +7792,7 @@
     "totally reliable delivery service": {
       "title": "Totally Reliable Delivery Service",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:53:54+00:00",
+      "fetched_at": "2026-09-25T05:13:30+00:00",
       "data": {
         "title": "Totally Reliable Delivery Service",
         "game_id": 9215,
@@ -7822,7 +7810,7 @@
     "towerborne": {
       "title": "Towerborne",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:53:56+00:00",
+      "fetched_at": "2026-09-25T05:13:31+00:00",
       "data": {
         "title": "Towerborne",
         "game_id": 17270,
@@ -7840,7 +7828,7 @@
     "trailmakers": {
       "title": "Trailmakers",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:53:58+00:00",
+      "fetched_at": "2026-09-25T05:13:32+00:00",
       "data": {
         "title": "Trailmakers",
         "game_id": 8579,
@@ -7876,7 +7864,7 @@
     "trepang2": {
       "title": "Trepang2",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:54:02+00:00",
+      "fetched_at": "2026-09-25T05:13:34+00:00",
       "data": {
         "title": "Trepang2",
         "game_id": 15097,
@@ -7894,7 +7882,7 @@
     "trials of mana": {
       "title": "TRIALS of MANA",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:54:04+00:00",
+      "fetched_at": "2026-09-25T05:13:35+00:00",
       "data": {
         "title": "Trials of Mana",
         "game_id": 9264,
@@ -7912,7 +7900,7 @@
     "tunic": {
       "title": "TUNIC",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:54:06+00:00",
+      "fetched_at": "2026-09-25T05:13:36+00:00",
       "data": {
         "title": "Tunic",
         "game_id": 12888,
@@ -7930,7 +7918,7 @@
     "ultimate chicken horse": {
       "title": "Ultimate Chicken Horse",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:54:09+00:00",
+      "fetched_at": "2026-09-25T05:13:38+00:00",
       "data": {
         "title": "Ultimate Chicken Horse",
         "game_id": 2422,
@@ -7948,7 +7936,7 @@
     "undisputed": {
       "title": "Undisputed",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:54:11+00:00",
+      "fetched_at": "2026-09-25T05:13:39+00:00",
       "data": {
         "title": "Undisputed",
         "game_id": 17418,
@@ -7966,7 +7954,7 @@
     "unravel": {
       "title": "Unravel",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:54:13+00:00",
+      "fetched_at": "2026-09-25T05:13:40+00:00",
       "data": {
         "title": "Unravel",
         "game_id": 2071,
@@ -7984,7 +7972,7 @@
     "unravel two": {
       "title": "Unravel™ Two",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:54:15+00:00",
+      "fetched_at": "2026-09-25T05:13:42+00:00",
       "data": {
         "title": "Unravel Two",
         "game_id": 6194,
@@ -8002,7 +7990,7 @@
     "valorant pc": {
       "title": "VALORANT PC",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:54:16+00:00",
+      "fetched_at": "2026-09-25T05:13:42+00:00",
       "data": {
         "title": "Valorant",
         "game_id": 9573,
@@ -8020,7 +8008,7 @@
     "vampire crawlers the turbo wildcard from vampire survivors": {
       "title": "Vampire Crawlers: The Turbo Wildcard from Vampire Survivors",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:54:18+00:00",
+      "fetched_at": "2026-09-25T05:13:44+00:00",
       "data": {
         "title": "Vampire Crawlers: The Turbo Wildcard from Vampire Survivors",
         "game_id": 20437,
@@ -8038,7 +8026,7 @@
     "vampire survivors": {
       "title": "Vampire Survivors",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:54:20+00:00",
+      "fetched_at": "2026-09-25T05:13:45+00:00",
       "data": {
         "title": "Vampire Survivors",
         "game_id": 12685,
@@ -8062,7 +8050,7 @@
     "visions of mana": {
       "title": "Visions of Mana",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:54:23+00:00",
+      "fetched_at": "2026-09-25T05:13:46+00:00",
       "data": {
         "title": "Visions of Mana",
         "game_id": 17200,
@@ -8086,7 +8074,7 @@
     "voidtrain": {
       "title": "Voidtrain",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:54:27+00:00",
+      "fetched_at": "2026-09-25T05:13:48+00:00",
       "data": {
         "title": "Voidtrain",
         "game_id": 14930,
@@ -8104,7 +8092,7 @@
     "war thunder": {
       "title": "War Thunder",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:54:29+00:00",
+      "fetched_at": "2026-09-25T05:13:49+00:00",
       "data": {
         "title": "War Thunder",
         "game_id": 249,
@@ -8122,7 +8110,7 @@
     "warcraft i remastered": {
       "title": "Warcraft® I: Remastered",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:54:31+00:00",
+      "fetched_at": "2026-09-25T05:13:50+00:00",
       "data": {
         "title": "Warcraft I: Remastered",
         "game_id": 17700,
@@ -8140,7 +8128,7 @@
     "warcraft ii remastered": {
       "title": "Warcraft® II: Remastered",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:54:33+00:00",
+      "fetched_at": "2026-09-25T05:13:51+00:00",
       "data": {
         "title": "Warcraft II: Remastered",
         "game_id": 17699,
@@ -8158,7 +8146,7 @@
     "warcraft iii reforged": {
       "title": "Warcraft® III: Reforged",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:54:33+00:00",
+      "fetched_at": "2026-09-25T05:13:51+00:00",
       "data": {
         "title": "Warcraft III: Reforged",
         "game_id": 8780,
@@ -8176,7 +8164,7 @@
     "warhammer 40 000 darktide": {
       "title": "Warhammer 40,000: Darktide",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:54:35+00:00",
+      "fetched_at": "2026-09-25T05:13:52+00:00",
       "data": {
         "title": "Warhammer 40,000: Darktide",
         "game_id": 13376,
@@ -8194,16 +8182,16 @@
     "warhammer 40 000 rogue trader": {
       "title": "Warhammer 40,000: Rogue Trader",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:54:37+00:00",
+      "fetched_at": "2026-09-25T05:13:53+00:00",
       "data": {
         "title": "Warhammer 40,000: Rogue Trader",
         "game_id": 15945,
         "url": "https://opencritic.com/game/15945/warhammer-40-000-rogue-trader",
         "top_critic_score": 75.3,
-        "percent_recommended": 72.6,
+        "percent_recommended": 71.4,
         "tier": "Strong",
         "median_score": 80,
-        "review_count": 63,
+        "review_count": 64,
         "release_year": 2023,
         "match_type": "exact",
         "match_score": 150
@@ -8212,7 +8200,7 @@
     "warhammer 40 000 space marine 2": {
       "title": "Warhammer 40,000: Space Marine 2",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:54:39+00:00",
+      "fetched_at": "2026-09-25T05:13:54+00:00",
       "data": {
         "title": "Warhammer 40,000: Space Marine 2",
         "game_id": 17120,
@@ -8230,7 +8218,7 @@
     "wartales": {
       "title": "Wartales",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:54:40+00:00",
+      "fetched_at": "2026-09-25T05:13:55+00:00",
       "data": {
         "title": "Wartales",
         "game_id": 12419,
@@ -8248,7 +8236,7 @@
     "wasteland 2 director s cut": {
       "title": "Wasteland 2: Director's Cut",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:54:42+00:00",
+      "fetched_at": "2026-09-25T05:13:57+00:00",
       "data": {
         "title": "Wasteland 2: Director's Cut",
         "game_id": 1553,
@@ -8266,7 +8254,7 @@
     "wasteland 3 pc": {
       "title": "Wasteland 3 (PC)",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:54:43+00:00",
+      "fetched_at": "2026-09-25T05:13:57+00:00",
       "data": {
         "title": "Wasteland 3",
         "game_id": 9140,
@@ -8284,7 +8272,7 @@
     "wasteland remastered": {
       "title": "Wasteland Remastered",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:54:44+00:00",
+      "fetched_at": "2026-09-25T05:13:58+00:00",
       "data": {
         "title": "Wasteland Remastered",
         "game_id": 9076,
@@ -8302,16 +8290,16 @@
     "watch dogs 2": {
       "title": "Watch Dogs®2",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:54:45+00:00",
+      "fetched_at": "2026-09-25T05:13:58+00:00",
       "data": {
         "title": "Watch Dogs 2",
         "game_id": 2846,
         "url": "https://opencritic.com/game/2846/watch-dogs-2",
         "top_critic_score": 82.2,
-        "percent_recommended": 82.4,
+        "percent_recommended": 82.6,
         "tier": "Strong",
         "median_score": 80,
-        "review_count": 136,
+        "review_count": 137,
         "release_year": 2016,
         "match_type": "exact",
         "match_score": 141
@@ -8320,7 +8308,7 @@
     "watch dogs legion": {
       "title": "Watch Dogs®: Legion",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:54:47+00:00",
+      "fetched_at": "2026-09-25T05:13:58+00:00",
       "data": {
         "title": "Watch Dogs: Legion",
         "game_id": 7405,
@@ -8338,7 +8326,7 @@
     "we happy few": {
       "title": "We Happy Few",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:54:48+00:00",
+      "fetched_at": "2026-09-25T05:13:59+00:00",
       "data": {
         "title": "We Happy Few",
         "game_id": 1546,
@@ -8356,7 +8344,7 @@
     "wheel world": {
       "title": "Wheel World",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:54:50+00:00",
+      "fetched_at": "2026-09-25T05:14:00+00:00",
       "data": {
         "title": "Wheel World",
         "game_id": 18726,
@@ -8374,16 +8362,16 @@
     "where winds meet": {
       "title": "Where Winds Meet",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:54:52+00:00",
+      "fetched_at": "2026-09-25T05:14:02+00:00",
       "data": {
         "title": "Where Winds Meet",
         "game_id": 19677,
         "url": "https://opencritic.com/game/19677/where-winds-meet",
         "top_critic_score": 72.8,
-        "percent_recommended": 51.6,
+        "percent_recommended": 53.1,
         "tier": "Fair",
         "median_score": 75,
-        "review_count": 31,
+        "review_count": 32,
         "release_year": 2025,
         "match_type": "exact",
         "match_score": 142
@@ -8392,7 +8380,7 @@
     "wild hearts": {
       "title": "WILD HEARTS™",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:54:54+00:00",
+      "fetched_at": "2026-09-25T05:14:03+00:00",
       "data": {
         "title": "Wild Hearts",
         "game_id": 13899,
@@ -8410,7 +8398,7 @@
     "wildgate": {
       "title": "Wildgate",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:54:56+00:00",
+      "fetched_at": "2026-09-25T05:14:04+00:00",
       "data": {
         "title": "Wildgate",
         "game_id": 18999,
@@ -8428,7 +8416,7 @@
     "winds of arcana ruination": {
       "title": "Winds of Arcana: Ruination",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:54:58+00:00",
+      "fetched_at": "2026-09-25T05:14:05+00:00",
       "data": {
         "title": "Winds of Arcana: Ruination",
         "game_id": 20949,
@@ -8446,16 +8434,16 @@
     "wo long fallen dynasty": {
       "title": "Wo Long: Fallen Dynasty",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:55:00+00:00",
+      "fetched_at": "2026-09-25T05:14:06+00:00",
       "data": {
         "title": "Wo Long: Fallen Dynasty",
         "game_id": 14367,
         "url": "https://opencritic.com/game/14367/wo-long-fallen-dynasty",
-        "top_critic_score": 80.9,
-        "percent_recommended": 77.2,
+        "top_critic_score": 80.5,
+        "percent_recommended": 76.3,
         "tier": "Strong",
         "median_score": 80,
-        "review_count": 154,
+        "review_count": 157,
         "release_year": 2023,
         "match_type": "exact",
         "match_score": 154
@@ -8464,7 +8452,7 @@
     "wobbly life": {
       "title": "Wobbly Life",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:55:02+00:00",
+      "fetched_at": "2026-09-25T05:14:07+00:00",
       "data": {
         "title": "Wobbly Life",
         "game_id": 18648,
@@ -8494,16 +8482,16 @@
     "wolfenstein the new order": {
       "title": "Wolfenstein®: The New Order™",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:55:07+00:00",
+      "fetched_at": "2026-09-25T05:14:09+00:00",
       "data": {
         "title": "Wolfenstein: The New Order",
         "game_id": 255,
         "url": "https://opencritic.com/game/255/wolfenstein-the-new-order",
         "top_critic_score": 81.5,
-        "percent_recommended": 81.2,
+        "percent_recommended": 81.4,
         "tier": "Strong",
         "median_score": 80,
-        "review_count": 101,
+        "review_count": 102,
         "release_year": 2014,
         "match_type": "exact",
         "match_score": 140
@@ -8512,7 +8500,7 @@
     "wolfenstein the old blood": {
       "title": "Wolfenstein®: The Old Blood™",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:55:09+00:00",
+      "fetched_at": "2026-09-25T05:14:09+00:00",
       "data": {
         "title": "Wolfenstein: The Old Blood",
         "game_id": 26,
@@ -8530,7 +8518,7 @@
     "wolfenstein youngblood": {
       "title": "Wolfenstein®: Youngblood™",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:55:11+00:00",
+      "fetched_at": "2026-09-25T05:14:10+00:00",
       "data": {
         "title": "Wolfenstein: Youngblood",
         "game_id": 7837,
@@ -8548,7 +8536,7 @@
     "world of tanks heat": {
       "title": "World of Tanks: HEAT",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:55:12+00:00",
+      "fetched_at": "2026-09-25T05:14:10+00:00",
       "data": {
         "title": "World of Tanks: HEAT",
         "game_id": 20538,
@@ -8566,7 +8554,7 @@
     "world of warships": {
       "title": "World of Warships",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:55:15+00:00",
+      "fetched_at": "2026-09-25T05:14:12+00:00",
       "data": {
         "title": "World of Warships",
         "game_id": 1892,
@@ -8584,7 +8572,7 @@
     "world of warships legends": {
       "title": "World of Warships: Legends",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:55:16+00:00",
+      "fetched_at": "2026-09-25T05:14:12+00:00",
       "data": {
         "title": "World of Warships Legends",
         "game_id": 7694,
@@ -8602,7 +8590,7 @@
     "world war z": {
       "title": "World War Z",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:55:17+00:00",
+      "fetched_at": "2026-09-25T05:14:13+00:00",
       "data": {
         "title": "World War Z",
         "game_id": 7513,
@@ -8620,7 +8608,7 @@
     "wreckfest": {
       "title": "Wreckfest",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:55:19+00:00",
+      "fetched_at": "2026-09-25T05:14:14+00:00",
       "data": {
         "title": "Wreckfest",
         "game_id": 6229,
@@ -8638,16 +8626,16 @@
     "wuchang fallen feathers": {
       "title": "WUCHANG: Fallen Feathers",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:55:21+00:00",
+      "fetched_at": "2026-09-25T05:14:16+00:00",
       "data": {
         "title": "Wuchang: Fallen Feathers",
         "game_id": 18943,
         "url": "https://opencritic.com/game/18943/wuchang-fallen-feathers",
         "top_critic_score": 75.9,
-        "percent_recommended": 69.8,
+        "percent_recommended": 69.5,
         "tier": "Strong",
         "median_score": 80,
-        "review_count": 149,
+        "review_count": 151,
         "release_year": 2025,
         "match_type": "exact",
         "match_score": 154
@@ -8656,7 +8644,7 @@
     "wuthering waves": {
       "title": "Wuthering Waves",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:55:23+00:00",
+      "fetched_at": "2026-09-25T05:14:17+00:00",
       "data": {
         "title": "Wuthering Waves",
         "game_id": 16896,
@@ -8680,7 +8668,7 @@
     "zenless zone zero": {
       "title": "Zenless Zone Zero",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:55:26+00:00",
+      "fetched_at": "2026-09-25T05:14:18+00:00",
       "data": {
         "title": "Zenless Zone Zero",
         "game_id": 16965,
@@ -8698,7 +8686,7 @@
     "zombie army 4": {
       "title": "Zombie Army 4",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:55:28+00:00",
+      "fetched_at": "2026-09-25T05:14:19+00:00",
       "data": {
         "title": "Zombie Army 4: Dead War",
         "game_id": 8540,
@@ -8716,7 +8704,7 @@
     "zoo tycoon ultimate animal collection": {
       "title": "Zoo Tycoon: Ultimate Animal Collection",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:55:31+00:00",
+      "fetched_at": "2026-09-25T05:14:20+00:00",
       "data": {
         "title": "Zoo Tycoon: Ultimate Animal Collection",
         "game_id": 5102,
@@ -8734,7 +8722,7 @@
     "once human": {
       "title": "Once Human",
       "status": "matched",
-      "fetched_at": "2026-08-26T02:02:15+00:00",
+      "fetched_at": "2026-09-25T05:10:48+00:00",
       "data": {
         "title": "Once Human",
         "game_id": 16998,
