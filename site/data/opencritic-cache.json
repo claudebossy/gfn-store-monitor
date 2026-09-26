@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T11:33:23+00:00",
+  "updated_at": "2026-09-26T16:30:24+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -9041,6 +9041,42 @@
         "release_year": 2026,
         "match_type": "exact",
         "match_score": 128
+      }
+    },
+    "for the king": {
+      "title": "For The King",
+      "status": "matched",
+      "fetched_at": "2026-09-26T16:30:22+00:00",
+      "data": {
+        "title": "For the King",
+        "game_id": 5927,
+        "url": "https://opencritic.com/game/5927/for-the-king",
+        "top_critic_score": 75.4,
+        "percent_recommended": 59.1,
+        "tier": "Strong",
+        "median_score": 76,
+        "review_count": 22,
+        "release_year": 2018,
+        "match_type": "exact",
+        "match_score": 136
+      }
+    },
+    "squad": {
+      "title": "Squad",
+      "status": "matched",
+      "fetched_at": "2026-09-26T16:30:24+00:00",
+      "data": {
+        "title": "Squad",
+        "game_id": 10343,
+        "url": "https://opencritic.com/game/10343/squad",
+        "top_critic_score": null,
+        "percent_recommended": null,
+        "tier": null,
+        "median_score": null,
+        "review_count": 3,
+        "release_year": 2020,
+        "match_type": "exact",
+        "match_score": 135
       }
     }
   }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T11:33:11+00:00",
+  "generated_at": "2026-09-26T16:30:10+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,16 +13,16 @@
     }
   },
   "counts": {
-    "gfn_titles": 6030,
+    "gfn_titles": 5996,
     "xbox_pc_titles": 563,
-    "catalog_titles": 536,
-    "intersection_titles": 345,
-    "xbox_only_titles": 191
+    "catalog_titles": 535,
+    "intersection_titles": 342,
+    "xbox_only_titles": 193
   },
   "summary": {
     "store_counts": {
-      "STEAM": 320,
-      "XBOX": 202,
+      "STEAM": 317,
+      "XBOX": 201,
       "EPIC": 74,
       "UPLAY": 30,
       "BATTLENET": 21,
@@ -59,12 +59,12 @@
         "count": 10
       },
       {
-        "name": "Focus Entertainment",
+        "name": "Activision Publishing Inc.",
         "count": 9
       },
       {
-        "name": "Activision Publishing Inc.",
-        "count": 9
+        "name": "Focus Entertainment",
+        "count": 8
       },
       {
         "name": "SQUARE ENIX",
@@ -83,14 +83,14 @@
         "count": 6
       }
     ],
-    "gfn_xbox_store_matches": 202,
-    "intersection_titles": 345,
-    "xbox_only_titles": 191,
-    "hltb_matches": 388,
-    "opencritic_matches": 460,
-    "short_game_score_matches": 299,
-    "exact_matches": 321,
-    "partial_matches": 24
+    "gfn_xbox_store_matches": 201,
+    "intersection_titles": 342,
+    "xbox_only_titles": 193,
+    "hltb_matches": 387,
+    "opencritic_matches": 459,
+    "short_game_score_matches": 298,
+    "exact_matches": 316,
+    "partial_matches": 26
   },
   "games": [
     {
@@ -883,61 +883,6 @@
       "howlongtobeat": null,
       "opencritic": null,
       "short_game_score": null
-    },
-    {
-      "catalog_group": "intersection",
-      "is_on_gfn": true,
-      "title": "Aliens: Dark Descent",
-      "normalized_title": "aliens dark descent",
-      "gfn_stores": [
-        "EPIC",
-        "STEAM",
-        "XBOX"
-      ],
-      "gfn_has_xbox_store": true,
-      "xbox_title": "Aliens: Dark Descent (Windows)",
-      "xbox_product_id": "9N1M64W9XZQ7",
-      "xbox_url": "https://www.microsoft.com/store/productId/9N1M64W9XZQ7",
-      "publisher": "Focus Entertainment",
-      "developer": "Tindalos Interactive",
-      "release_date": "2024-11-27T00:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.52207.13898888461912760.834aa9dd-7399-4287-8be9-57be8cd1e516.de7deb43-0a06-4856-942f-523a1a4b72f7",
-      "description": "Drop into the gripping journey of Aliens: Dark Descent, a squad-based, single-player action game in the iconic Alien franchise. Lead your soldiers in real-time to stop a new and terrifying kind of Xenomorph outbreak on Moon Lethe.",
-      "match_type": "exact-title",
-      "match_score": 120,
-      "howlongtobeat": {
-        "title": "Aliens: Dark Descent",
-        "game_id": 110158,
-        "url": "https://howlongtobeat.com/game/110158",
-        "image_url": "https://howlongtobeat.com/games/110158_Aliens_Dark_Descent.jpg",
-        "main_story_seconds": 90308,
-        "review_score": 76,
-        "completion_count": 321,
-        "release_year": 2023,
-        "profile_platform": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
-        "match_type": "exact",
-        "match_score": 136
-      },
-      "opencritic": {
-        "title": "Aliens: Dark Descent",
-        "game_id": 15096,
-        "url": "https://opencritic.com/game/15096/aliens-dark-descent",
-        "top_critic_score": 75.1,
-        "percent_recommended": 61.9,
-        "tier": "Strong",
-        "median_score": 80,
-        "review_count": 100,
-        "release_year": 2023,
-        "match_type": "exact",
-        "match_score": 146
-      },
-      "short_game_score": {
-        "score": 72.0,
-        "critic_score": 75.1,
-        "duration_fit_score": 64.8,
-        "main_story_hours": 25.1,
-        "target_hours": 15.0
-      }
     },
     {
       "catalog_group": "intersection",
@@ -4106,13 +4051,11 @@
       "short_game_score": null
     },
     {
-      "catalog_group": "intersection",
-      "is_on_gfn": true,
+      "catalog_group": "xbox-only",
+      "is_on_gfn": false,
       "title": "Construction Simulator",
       "normalized_title": "construction simulator",
-      "gfn_stores": [
-        "STEAM"
-      ],
+      "gfn_stores": [],
       "gfn_has_xbox_store": false,
       "xbox_title": "Construction Simulator",
       "xbox_product_id": "9NLFZVMSQ7CC",
@@ -4122,8 +4065,8 @@
       "release_date": "2022-09-20T08:00:00.0000000Z",
       "image_url": "https://store-images.s-microsoft.com/image/apps.59831.13712624405302534.e55738fd-2c3b-455f-a5a8-9e7ddcadb7c8.85085ada-16e8-4b26-a684-e6e82b33c603",
       "description": "Construction Simulator has returned – larger and more impressive than ever! Fulfil your ambition to become a successful construction entrepreneur by establishing your business from scratch, assisted by your mentor Hape.",
-      "match_type": "exact-title",
-      "match_score": 120,
+      "match_type": "xbox-only",
+      "match_score": 0,
       "howlongtobeat": {
         "title": "Construction Simulator",
         "game_id": 114615,
@@ -8229,54 +8172,6 @@
     {
       "catalog_group": "intersection",
       "is_on_gfn": true,
-      "title": "Firefighting Simulator - The Squad",
-      "normalized_title": "firefighting simulator the squad",
-      "gfn_stores": [
-        "STEAM",
-        "XBOX"
-      ],
-      "gfn_has_xbox_store": true,
-      "xbox_title": "Firefighting Simulator - The Squad",
-      "xbox_product_id": "9NBZ7Z3JRXQ8",
-      "xbox_url": "https://www.microsoft.com/store/productId/9NBZ7Z3JRXQ8",
-      "publisher": "astragon Entertainment",
-      "developer": "Chronos Unterhaltungssoftware UG",
-      "release_date": "2022-12-06T08:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.36834.13574093128038227.7f017f9d-a7e7-46d3-ac09-ad5cece1a687.e9f79767-126c-43b3-8f1b-8f1a1a8f91f4",
-      "description": "Fire alert incoming! With Firefighting Simulator-The Squad, you can become part of a major US city's firefighting team and experience how it feels to fight fires.",
-      "match_type": "exact-title",
-      "match_score": 120,
-      "howlongtobeat": {
-        "title": "Firefighting Simulator - The Squad",
-        "game_id": 85410,
-        "url": "https://howlongtobeat.com/game/85410",
-        "image_url": "https://howlongtobeat.com/games/85410_Firefighting_Simulator_-_The_Squad.jpg",
-        "main_story_seconds": 43938,
-        "review_score": 58,
-        "completion_count": 30,
-        "release_year": 2020,
-        "profile_platform": "Nintendo Switch, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
-        "match_type": "exact",
-        "match_score": 127
-      },
-      "opencritic": {
-        "title": "Firefighting Simulator - The Squad",
-        "game_id": 14209,
-        "url": "https://opencritic.com/game/14209/firefighting-simulator-the-squad",
-        "top_critic_score": null,
-        "percent_recommended": 50.0,
-        "tier": null,
-        "median_score": 59,
-        "review_count": 6,
-        "release_year": 2020,
-        "match_type": "exact",
-        "match_score": 135
-      },
-      "short_game_score": null
-    },
-    {
-      "catalog_group": "intersection",
-      "is_on_gfn": true,
       "title": "FixForce",
       "normalized_title": "fixforce",
       "gfn_stores": [
@@ -8492,12 +8387,14 @@
     {
       "catalog_group": "intersection",
       "is_on_gfn": true,
-      "title": "For The King II",
-      "normalized_title": "for the king ii",
+      "title": "For The King",
+      "normalized_title": "for the king",
       "gfn_stores": [
-        "STEAM"
+        "EPIC",
+        "STEAM",
+        "XBOX"
       ],
-      "gfn_has_xbox_store": false,
+      "gfn_has_xbox_store": true,
       "xbox_title": "For The King II",
       "xbox_product_id": "9NVC9KWJVLT0",
       "xbox_url": "https://www.microsoft.com/store/productId/9NVC9KWJVLT0",
@@ -8506,8 +8403,8 @@
       "release_date": "2024-12-12T18:00:00.0000000Z",
       "image_url": "https://store-images.s-microsoft.com/image/apps.14890.14401580739712929.1516cf95-6368-4bda-ba63-aea64b42d32f.47232528-8957-4bd1-b81b-ab3fa4286f1e",
       "description": "Battle against Fahrul's tyrannical Queen alone or as a party of four players in the sequel to For The King, the massively popular turn-based roguelite tabletop RPG. Will you unravel the once beloved Queen's terrible secret?",
-      "match_type": "exact-title",
-      "match_score": 120,
+      "match_type": "partial",
+      "match_score": 95,
       "howlongtobeat": {
         "title": "For The King II",
         "game_id": 128032,
@@ -8531,8 +8428,8 @@
         "median_score": 76,
         "review_count": 22,
         "release_year": 2018,
-        "match_type": "partial",
-        "match_score": 105
+        "match_type": "exact",
+        "match_score": 136
       },
       "short_game_score": {
         "score": 52.8,
@@ -13413,13 +13310,11 @@
       "short_game_score": null
     },
     {
-      "catalog_group": "intersection",
-      "is_on_gfn": true,
+      "catalog_group": "xbox-only",
+      "is_on_gfn": false,
       "title": "Mixtape",
       "normalized_title": "mixtape",
-      "gfn_stores": [
-        "STEAM"
-      ],
+      "gfn_stores": [],
       "gfn_has_xbox_store": false,
       "xbox_title": "Mixtape",
       "xbox_product_id": "9NH0MSG29X6L",
@@ -13429,8 +13324,8 @@
       "release_date": "2026-05-07T13:00:00.0000000Z",
       "image_url": "https://store-images.s-microsoft.com/image/apps.46062.13635458213452841.45b8e856-b2dd-47ac-944a-1447830e0663.a6d58058-3d50-47e1-98b1-8958a69ef3b3",
       "description": "Mixtape - Nothing but the hits. \nOn their last night together, three friends embark on one final adventure. Play through a mixtape of memories, set to the soundtrack of a generation.",
-      "match_type": "exact-title",
-      "match_score": 120,
+      "match_type": "xbox-only",
+      "match_score": 0,
       "howlongtobeat": {
         "title": "Mixtape",
         "game_id": 152041,
@@ -18453,6 +18348,53 @@
         "release_year": 2018,
         "match_type": "exact",
         "match_score": 142
+      },
+      "short_game_score": null
+    },
+    {
+      "catalog_group": "intersection",
+      "is_on_gfn": true,
+      "title": "Squad",
+      "normalized_title": "squad",
+      "gfn_stores": [
+        "STEAM"
+      ],
+      "gfn_has_xbox_store": false,
+      "xbox_title": "Firefighting Simulator - The Squad",
+      "xbox_product_id": "9NBZ7Z3JRXQ8",
+      "xbox_url": "https://www.microsoft.com/store/productId/9NBZ7Z3JRXQ8",
+      "publisher": "astragon Entertainment",
+      "developer": "Chronos Unterhaltungssoftware UG",
+      "release_date": "2022-12-06T08:00:00.0000000Z",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.36834.13574093128038227.7f017f9d-a7e7-46d3-ac09-ad5cece1a687.e9f79767-126c-43b3-8f1b-8f1a1a8f91f4",
+      "description": "Fire alert incoming! With Firefighting Simulator-The Squad, you can become part of a major US city's firefighting team and experience how it feels to fight fires.",
+      "match_type": "partial",
+      "match_score": 95,
+      "howlongtobeat": {
+        "title": "Squad",
+        "game_id": 33215,
+        "url": "https://howlongtobeat.com/game/33215",
+        "image_url": "https://howlongtobeat.com/games/Squad_header.jpg",
+        "main_story_seconds": 70823,
+        "review_score": 78,
+        "completion_count": 156,
+        "release_year": 2015,
+        "profile_platform": "PC",
+        "match_type": "exact",
+        "match_score": 130
+      },
+      "opencritic": {
+        "title": "Squad",
+        "game_id": 10343,
+        "url": "https://opencritic.com/game/10343/squad",
+        "top_critic_score": null,
+        "percent_recommended": null,
+        "tier": null,
+        "median_score": null,
+        "review_count": 3,
+        "release_year": 2020,
+        "match_type": "exact",
+        "match_score": 135
       },
       "short_game_score": null
     },
