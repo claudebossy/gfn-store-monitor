@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T21:16:56+00:00",
+  "updated_at": "2026-09-27T05:25:52+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -8740,19 +8740,19 @@
     "resonance a plague tale legacy": {
       "title": "Resonance: A Plague Tale Legacy",
       "status": "matched",
-      "fetched_at": "2026-08-27T22:25:10+00:00",
+      "fetched_at": "2026-09-27T05:25:50+00:00",
       "data": {
         "title": "Resonance: A Plague Tale Legacy",
         "game_id": 20803,
         "url": "https://opencritic.com/game/20803/resonance-a-plague-tale-legacy",
-        "top_critic_score": 83.0,
-        "percent_recommended": 86.6,
+        "top_critic_score": 81.3,
+        "percent_recommended": 82.4,
         "tier": "Strong",
-        "median_score": 85,
-        "review_count": 82,
+        "median_score": 80,
+        "review_count": 153,
         "release_year": 2026,
         "match_type": "exact",
-        "match_score": 151
+        "match_score": 154
       }
     },
     "young suns": {

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T21:16:45+00:00",
+  "generated_at": "2026-09-27T05:25:37+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -16761,9 +16761,9 @@
         "game_id": 169336,
         "url": "https://howlongtobeat.com/game/169336",
         "image_url": "https://howlongtobeat.com/games/169336_Resonance_A_Plague_Tale_Legacy.jpg",
-        "main_story_seconds": 34496,
-        "review_score": 79,
-        "completion_count": 17,
+        "main_story_seconds": 41823,
+        "review_score": 82,
+        "completion_count": 565,
         "release_year": 2026,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
@@ -16773,20 +16773,20 @@
         "title": "Resonance: A Plague Tale Legacy",
         "game_id": 20803,
         "url": "https://opencritic.com/game/20803/resonance-a-plague-tale-legacy",
-        "top_critic_score": 83.0,
-        "percent_recommended": 86.6,
+        "top_critic_score": 81.3,
+        "percent_recommended": 82.4,
         "tier": "Strong",
-        "median_score": 85,
-        "review_count": 82,
+        "median_score": 80,
+        "review_count": 153,
         "release_year": 2026,
         "match_type": "exact",
-        "match_score": 151
+        "match_score": 154
       },
       "short_game_score": {
-        "score": 88.1,
-        "critic_score": 83.0,
+        "score": 86.9,
+        "critic_score": 81.3,
         "duration_fit_score": 100.0,
-        "main_story_hours": 9.6,
+        "main_story_hours": 11.6,
         "target_hours": 15.0
       }
     },
