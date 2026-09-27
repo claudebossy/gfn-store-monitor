@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T05:16:38+00:00",
+  "generated_at": "2026-09-27T11:59:51+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -2491,6 +2491,399 @@
       "new_game_count": 0,
       "new_store_count": 0,
       "new_games": [],
+      "new_stores": []
+    },
+    {
+      "timestamp": "2026-09-27T11:59:51+00:00",
+      "baseline": false,
+      "catalog_game_count": 6030,
+      "new_game_count": 61,
+      "new_store_count": 0,
+      "new_games": [
+        {
+          "name": "9 Years of Shadows",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Achilles: Survivor",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Aquatic Store Simulator Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Aragami",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Armello",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "BitCraft Online",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Bomb Rush Cyberfunk",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Chants of Sennaar",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Darksiders III",
+          "stores": [
+            "STEAM",
+            "XBOX"
+          ]
+        },
+        {
+          "name": "Dead Island: Riptide Definitive Edition",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Deep the Game",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Deliver Us Mars",
+          "stores": [
+            "EPIC",
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Disciples: Liberation",
+          "stores": [
+            "EPIC",
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Dwarf Fortress",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Enter the Gungeon",
+          "stores": [
+            "EPIC",
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Escape from Naraka",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "F1® Manager 2022",
+          "stores": [
+            "EPIC",
+            "STEAM"
+          ]
+        },
+        {
+          "name": "FAITH: The Unholy Trinity",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "FINAL FANTASY™ XVI DEMO",
+          "stores": [
+            "EPIC",
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Ghost Trick: Phantom Detective Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "GODBREAKERS",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "GUILTY GEAR Xrd REV 2",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Hakuoki: Kyoto Winds",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Have a Nice Death",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Hobo: Tough Life",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Hydroneer",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Hyperdimension Neptunia Re;Birth1",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "I Am Jesus Christ",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Killing Floor 3",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Legacy of Kain™ Soul Reaver 1&2 Remastered",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "LEGO® Bricktales",
+          "stores": [
+            "EPIC",
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Life is Strange",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Lost Records: Bloom & Rage",
+          "stores": [
+            "STEAM",
+            "XBOX"
+          ]
+        },
+        {
+          "name": "Main Assembly",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Monster Hunter Stories 2: Wings of Ruin",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Monster Hunter Stories 3: Twisted Reflection Trial Version",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Mount & Blade: Warband",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "OutWave Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Overcooked",
+          "stores": [
+            "EPIC",
+            "STEAM"
+          ]
+        },
+        {
+          "name": "PAC-MAN MUSEUM+",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Phantom Abyss",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Professional Fishing 2",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "rFactor 2",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "RIPOUT",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Roboquest",
+          "stores": [
+            "EPIC",
+            "STEAM",
+            "XBOX"
+          ]
+        },
+        {
+          "name": "Skeleton Crew",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Spellcasters Chronicles",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Star Trek: Voyager - Across the Unknown",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Tales & Tactics",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "The Ascent",
+          "stores": [
+            "STEAM",
+            "XBOX"
+          ]
+        },
+        {
+          "name": "The Bradwell Conspiracy",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "The Colonists",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "The Darkest Tales",
+          "stores": [
+            "EPIC",
+            "STEAM"
+          ]
+        },
+        {
+          "name": "The Legend of Heroes: Trails of Cold Steel II",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "The Surge 2",
+          "stores": [
+            "STEAM",
+            "XBOX"
+          ]
+        },
+        {
+          "name": "Tomb Raider I",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Tram Simulator Urban Transit",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "TUNIC",
+          "stores": [
+            "EPIC",
+            "STEAM",
+            "XBOX"
+          ]
+        },
+        {
+          "name": "Will You Wheel?",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "WRC 10 FIA World Rally Championship",
+          "stores": [
+            "EPIC",
+            "STEAM"
+          ]
+        },
+        {
+          "name": "ΔV: Rings of Saturn Demo",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
       "new_stores": []
     }
   ]
