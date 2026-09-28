@@ -644,6 +644,7 @@
   "active matter": {
     "name": "Active Matter",
     "stores": [
+      "GAIJIN",
       "STEAM"
     ]
   },
@@ -2252,12 +2253,6 @@
     "name": "Assassin’s Creed®: Syndicate",
     "stores": [
       "STEAM",
-      "UPLAY"
-    ]
-  },
-  "assassin s creed syndicate gold edition": {
-    "name": "Assassin’s Creed®: Syndicate Gold Edition",
-    "stores": [
       "UPLAY"
     ]
   },
@@ -4475,14 +4470,6 @@
       "STEAM"
     ]
   },
-  "bus simulator 21 next stop": {
-    "name": "Bus Simulator 21 Next Stop",
-    "stores": [
-      "EPIC",
-      "STEAM",
-      "XBOX"
-    ]
-  },
   "bus simulator 27": {
     "name": "Bus Simulator 27",
     "stores": [
@@ -6509,12 +6496,6 @@
     "stores": [
       "STEAM",
       "XBOX"
-    ]
-  },
-  "cricket 26 the official game of the ashes": {
-    "name": "Cricket 26 - The Official Game of the Ashes",
-    "stores": [
-      "STEAM"
     ]
   },
   "cricket through the ages": {
@@ -9050,13 +9031,6 @@
       "STEAM"
     ]
   },
-  "dune spice wars": {
-    "name": "Dune: Spice Wars",
-    "stores": [
-      "STEAM",
-      "XBOX"
-    ]
-  },
   "dunebound tactics": {
     "name": "Dunebound Tactics",
     "stores": [
@@ -9919,12 +9893,6 @@
   },
   "endless voyage 无尽航线": {
     "name": "Endless Voyage / 无尽航线",
-    "stores": [
-      "STEAM"
-    ]
-  },
-  "endless world idle rpg": {
-    "name": "Endless World Idle RPG",
     "stores": [
       "STEAM"
     ]
@@ -11170,12 +11138,6 @@
       "STEAM"
     ]
   },
-  "find 101 doomers": {
-    "name": "Find 101 Doomers",
-    "stores": [
-      "STEAM"
-    ]
-  },
   "finding teddy": {
     "name": "Finding Teddy",
     "stores": [
@@ -11724,12 +11686,6 @@
   },
   "foundation demo": {
     "name": "Foundation Demo",
-    "stores": [
-      "STEAM"
-    ]
-  },
-  "foundry": {
-    "name": "FOUNDRY",
     "stores": [
       "STEAM"
     ]
@@ -15173,12 +15129,6 @@
       "STEAM"
     ]
   },
-  "inspector schmidt the ebbing prolog": {
-    "name": "Inspector Schmidt - The Ebbing - Prolog",
-    "stores": [
-      "STEAM"
-    ]
-  },
   "insurgency": {
     "name": "Insurgency",
     "stores": [
@@ -15926,12 +15876,6 @@
     "name": "Killing Floor 2",
     "stores": [
       "EPIC",
-      "STEAM"
-    ]
-  },
-  "killing floor 3": {
-    "name": "Killing Floor 3",
-    "stores": [
       "STEAM"
     ]
   },
@@ -17013,12 +16957,6 @@
   },
   "little big adventure 2": {
     "name": "Little Big Adventure 2",
-    "stores": [
-      "STEAM"
-    ]
-  },
-  "little big adventure twinsen s quest": {
-    "name": "Little Big Adventure – Twinsen’s Quest",
     "stores": [
       "STEAM"
     ]
@@ -21139,13 +21077,6 @@
       "STEAM"
     ]
   },
-  "outriders": {
-    "name": "OUTRIDERS",
-    "stores": [
-      "EPIC",
-      "STEAM"
-    ]
-  },
   "outriders demo": {
     "name": "OUTRIDERS Demo",
     "stores": [
@@ -21433,13 +21364,6 @@
   "panzer ball": {
     "name": "PANZER BALL",
     "stores": [
-      "STEAM"
-    ]
-  },
-  "panzer corps 2": {
-    "name": "Panzer Corps 2",
-    "stores": [
-      "EPIC",
       "STEAM"
     ]
   },
@@ -22064,12 +21988,6 @@
   },
   "pirates": {
     "name": "Pirates",
-    "stores": [
-      "STEAM"
-    ]
-  },
-  "pix the cat": {
-    "name": "Pix the Cat",
     "stores": [
       "STEAM"
     ]
@@ -25979,12 +25897,6 @@
   },
   "sheltered 2": {
     "name": "Sheltered 2",
-    "stores": [
-      "STEAM"
-    ]
-  },
-  "shelves and sorcery tidy up the enchanted shop": {
-    "name": "Shelves and Sorcery: Tidy Up the Enchanted Shop",
     "stores": [
       "STEAM"
     ]
@@ -34714,12 +34626,6 @@
   },
   "victoria i complete": {
     "name": "Victoria I Complete",
-    "stores": [
-      "STEAM"
-    ]
-  },
-  "victoria ii": {
-    "name": "Victoria II",
     "stores": [
       "STEAM"
     ]
