@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T13:03:53+00:00",
+  "generated_at": "2026-09-29T22:22:59+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,7 +13,7 @@
     }
   },
   "counts": {
-    "gfn_titles": 6030,
+    "gfn_titles": 6029,
     "xbox_pc_titles": 564,
     "catalog_titles": 537,
     "intersection_titles": 345,
@@ -13232,12 +13232,12 @@
       "gfn_stores": [],
       "gfn_has_xbox_store": false,
       "xbox_title": "Minecraft Dungeons II",
-      "xbox_product_id": "9P5786PJB9RP",
-      "xbox_url": "https://www.microsoft.com/store/productId/9P5786PJB9RP",
+      "xbox_product_id": "9PM3J18QM4Q3",
+      "xbox_url": "https://www.microsoft.com/store/productId/9PM3J18QM4Q3",
       "publisher": "Xbox Game Studios",
       "developer": "Mojang Studios / ‪Double Eleven Limited",
-      "release_date": "2026-09-29T00:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.55764.14578966298260124.ac5059d8-7ee1-409a-8326-c91ad228baaf.7428e9e9-7587-41f5-be10-6e0f7d0e2841",
+      "release_date": "9998-12-30T00:00:00.0000000Z",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.55764.14305479850136392.1d44bfb9-b43e-4fae-a421-d6f972529d66.0979208f-b84a-4926-8960-0358abea7f3c",
       "description": "The next chapter of Minecraft Dungeons begins in the fall of 2026! A new threat stirs, ready to descend upon the land and its inhabitants to cause unspeakable mayhem. Become a hero and take on foes unlike anything you’ve faced before, journey through long‑forgotten locations, and clash with the forces of evil once more!",
       "match_type": "xbox-only",
       "match_score": 0,
