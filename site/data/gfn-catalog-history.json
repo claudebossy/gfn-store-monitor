@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T23:15:08+00:00",
+  "generated_at": "2026-09-29T05:41:57+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -2941,6 +2941,111 @@
           ]
         }
       ]
+    },
+    {
+      "timestamp": "2026-09-29T05:41:57+00:00",
+      "baseline": false,
+      "catalog_game_count": 6030,
+      "new_game_count": 15,
+      "new_store_count": 0,
+      "new_games": [
+        {
+          "name": "Assassin’s Creed®: Syndicate Gold Edition",
+          "stores": [
+            "UPLAY"
+          ]
+        },
+        {
+          "name": "Bus Simulator 21 Next Stop",
+          "stores": [
+            "EPIC",
+            "STEAM",
+            "XBOX"
+          ]
+        },
+        {
+          "name": "Cricket 26 - The Official Game of the Ashes",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Dune: Spice Wars",
+          "stores": [
+            "STEAM",
+            "XBOX"
+          ]
+        },
+        {
+          "name": "Endless World Idle RPG",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Find 101 Doomers",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "FOUNDRY",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Inspector Schmidt - The Ebbing - Prolog",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Killing Floor 3",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Little Big Adventure – Twinsen’s Quest",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "OUTRIDERS",
+          "stores": [
+            "EPIC",
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Panzer Corps 2",
+          "stores": [
+            "EPIC",
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Pix the Cat",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Shelves and Sorcery: Tidy Up the Enchanted Shop",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Victoria II",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
+      "new_stores": []
     }
   ]
 }
