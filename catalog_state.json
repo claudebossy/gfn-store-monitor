@@ -6419,14 +6419,6 @@
       "STEAM"
     ]
   },
-  "crash bandicoot n sane trilogy": {
-    "name": "Crash Bandicoot™ N. Sane Trilogy",
-    "stores": [
-      "STEAM",
-      "UPLAY",
-      "XBOX"
-    ]
-  },
   "crash drive 3": {
     "name": "Crash Drive 3",
     "stores": [
@@ -7182,13 +7174,6 @@
       "STEAM"
     ]
   },
-  "darksiders iii": {
-    "name": "Darksiders III",
-    "stores": [
-      "STEAM",
-      "XBOX"
-    ]
-  },
   "darksiders warmastered edition": {
     "name": "Darksiders: Warmastered Edition",
     "stores": [
@@ -7548,12 +7533,6 @@
   },
   "death noodle delivery": {
     "name": "Death Noodle Delivery",
-    "stores": [
-      "STEAM"
-    ]
-  },
-  "death rally": {
-    "name": "Death Rally",
     "stores": [
       "STEAM"
     ]
@@ -8363,13 +8342,6 @@
     "stores": [
       "EPIC",
       "STEAM",
-      "XBOX"
-    ]
-  },
-  "dishonored definitive edition": {
-    "name": "Dishonored® Definitive Edition",
-    "stores": [
-      "EPIC",
       "XBOX"
     ]
   },
@@ -10150,18 +10122,6 @@
       "STEAM"
     ]
   },
-  "eternal destiny": {
-    "name": "Eternal Destiny",
-    "stores": [
-      "STEAM"
-    ]
-  },
-  "eternal destiny demo": {
-    "name": "Eternal Destiny Demo",
-    "stores": [
-      "STEAM"
-    ]
-  },
   "eternal onslaught": {
     "name": "Eternal Onslaught",
     "stores": [
@@ -11009,12 +10969,6 @@
       "STEAM"
     ]
   },
-  "fast food simulator": {
-    "name": "Fast Food Simulator",
-    "stores": [
-      "STEAM"
-    ]
-  },
   "fata deum the god sim": {
     "name": "Fata Deum - The God Sim",
     "stores": [
@@ -11023,12 +10977,6 @@
   },
   "fatal claw": {
     "name": "Fatal Claw",
-    "stores": [
-      "STEAM"
-    ]
-  },
-  "fatal fury city of the wolves": {
-    "name": "FATAL FURY: City of the Wolves",
     "stores": [
       "STEAM"
     ]
@@ -13233,12 +13181,6 @@
       "STEAM"
     ]
   },
-  "half life": {
-    "name": "Half-Life®",
-    "stores": [
-      "STEAM"
-    ]
-  },
   "half life 2": {
     "name": "Half-Life® 2",
     "stores": [
@@ -14300,12 +14242,6 @@
       "STEAM"
     ]
   },
-  "honeycomb the world beyond": {
-    "name": "Honeycomb: The World Beyond",
-    "stores": [
-      "STEAM"
-    ]
-  },
   "honeycomb the world beyond demo": {
     "name": "Honeycomb: The World Beyond Demo",
     "stores": [
@@ -15241,14 +15177,6 @@
     "name": "Iron Fisticle",
     "stores": [
       "STEAM"
-    ]
-  },
-  "iron harvest": {
-    "name": "Iron Harvest",
-    "stores": [
-      "EPIC",
-      "STEAM",
-      "XBOX"
     ]
   },
   "iron nest heavy turret simulator": {
@@ -17046,13 +16974,6 @@
   },
   "little nightmares enhanced edition": {
     "name": "Little Nightmares Enhanced Edition",
-    "stores": [
-      "STEAM",
-      "XBOX"
-    ]
-  },
-  "little nightmares ii": {
-    "name": "Little Nightmares II",
     "stores": [
       "STEAM",
       "XBOX"
@@ -20620,12 +20541,6 @@
       "STEAM"
     ]
   },
-  "omikron the nomad soul": {
-    "name": "Omikron: The Nomad Soul",
-    "stores": [
-      "STEAM"
-    ]
-  },
   "omoide ni kawaru kimi memories off": {
     "name": "Omoide Ni Kawaru Kimi Memories Off",
     "stores": [
@@ -21434,13 +21349,6 @@
   "panzer ball": {
     "name": "PANZER BALL",
     "stores": [
-      "STEAM"
-    ]
-  },
-  "panzer corps 2": {
-    "name": "Panzer Corps 2",
-    "stores": [
-      "EPIC",
       "STEAM"
     ]
   },
@@ -23606,12 +23514,6 @@
   },
   "realpolitiks 3 earth and beyond": {
     "name": "Realpolitiks 3: Earth and Beyond",
-    "stores": [
-      "STEAM"
-    ]
-  },
-  "reanimal": {
-    "name": "REANIMAL",
     "stores": [
       "STEAM"
     ]
@@ -30837,12 +30739,6 @@
       "STEAM"
     ]
   },
-  "the eternal life of goldman demo": {
-    "name": "The Eternal Life of Goldman Demo",
-    "stores": [
-      "STEAM"
-    ]
-  },
   "the evil within 2": {
     "name": "The Evil Within® 2",
     "stores": [
@@ -32842,13 +32738,6 @@
       "STEAM"
     ]
   },
-  "tom clancy s splinter cell blacklist": {
-    "name": "Tom Clancy’s Splinter Cell® Blacklist™",
-    "stores": [
-      "STEAM",
-      "UPLAY"
-    ]
-  },
   "tom clancy s splinter cell blacklist deluxe edition": {
     "name": "Tom Clancy’s Splinter Cell® Blacklist™ Deluxe Edition",
     "stores": [
@@ -33768,12 +33657,6 @@
   },
   "troubleshooter abandoned children": {
     "name": "TROUBLESHOOTER: Abandoned Children",
-    "stores": [
-      "STEAM"
-    ]
-  },
-  "trove": {
-    "name": "Trove",
     "stores": [
       "STEAM"
     ]
