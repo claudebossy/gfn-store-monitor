@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T05:51:50+00:00",
+  "updated_at": "2026-09-29T13:04:07+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -8189,6 +8189,24 @@
         "profile_platform": "PC",
         "match_type": "exact",
         "match_score": 130
+      }
+    },
+    "minecraft dungeons ii": {
+      "title": "Minecraft Dungeons II",
+      "status": "matched",
+      "fetched_at": "2026-09-29T13:04:05+00:00",
+      "data": {
+        "title": "Minecraft Dungeons II",
+        "game_id": 183502,
+        "url": "https://howlongtobeat.com/game/183502",
+        "image_url": "https://howlongtobeat.com/games/183502_Minecraft_Dungeons_II.jpg",
+        "main_story_seconds": null,
+        "review_score": null,
+        "completion_count": 1,
+        "release_year": 2026,
+        "profile_platform": "Nintendo Switch, Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
+        "match_type": "exact",
+        "match_score": 142
       }
     }
   }

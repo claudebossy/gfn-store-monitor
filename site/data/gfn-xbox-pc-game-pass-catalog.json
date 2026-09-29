@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T05:51:38+00:00",
+  "generated_at": "2026-09-29T13:03:53+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -14,10 +14,10 @@
   },
   "counts": {
     "gfn_titles": 6030,
-    "xbox_pc_titles": 563,
-    "catalog_titles": 536,
+    "xbox_pc_titles": 564,
+    "catalog_titles": 537,
     "intersection_titles": 345,
-    "xbox_only_titles": 191
+    "xbox_only_titles": 192
   },
   "summary": {
     "store_counts": {
@@ -40,7 +40,7 @@
       },
       {
         "name": "Xbox Game Studios",
-        "count": 55
+        "count": 56
       },
       {
         "name": "Bethesda Softworks",
@@ -85,9 +85,9 @@
     ],
     "gfn_xbox_store_matches": 202,
     "intersection_titles": 345,
-    "xbox_only_titles": 191,
-    "hltb_matches": 388,
-    "opencritic_matches": 460,
+    "xbox_only_titles": 192,
+    "hltb_matches": 389,
+    "opencritic_matches": 461,
     "short_game_score_matches": 299,
     "exact_matches": 321,
     "partial_matches": 24
@@ -7024,7 +7024,7 @@
       "publisher": "Gaijin Distribution Kft",
       "developer": "Darkflow Software",
       "release_date": "2021-04-08T13:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.28857.13628462776883363.4ce215b9-ddc3-4532-97df-f15c3a95e667.56594ac4-97bd-4bd5-8fac-c104d8a32431",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.43711.13628462776883363.b5671ab7-c80f-40e6-93ba-83e5efc0e1a5.ec42daf2-e2ea-4298-922b-b4d9c26e7b10",
       "description": "In Enlisted, you are not only commanding a single soldier, but an entire squad! This MMO squad based shooter recreates the key battles of the bloodiest war of the 20th century, with hundreds of soldiers, tanks and aircraft taking part in each battle.",
       "match_type": "exact-title",
       "match_score": 120,
@@ -13221,6 +13221,51 @@
         "release_year": 2020,
         "match_type": "partial",
         "match_score": 111
+      },
+      "short_game_score": null
+    },
+    {
+      "catalog_group": "xbox-only",
+      "is_on_gfn": false,
+      "title": "Minecraft Dungeons II",
+      "normalized_title": "minecraft dungeons ii",
+      "gfn_stores": [],
+      "gfn_has_xbox_store": false,
+      "xbox_title": "Minecraft Dungeons II",
+      "xbox_product_id": "9P5786PJB9RP",
+      "xbox_url": "https://www.microsoft.com/store/productId/9P5786PJB9RP",
+      "publisher": "Xbox Game Studios",
+      "developer": "Mojang Studios / ‪Double Eleven Limited",
+      "release_date": "2026-09-29T00:00:00.0000000Z",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.55764.14578966298260124.ac5059d8-7ee1-409a-8326-c91ad228baaf.7428e9e9-7587-41f5-be10-6e0f7d0e2841",
+      "description": "The next chapter of Minecraft Dungeons begins in the fall of 2026! A new threat stirs, ready to descend upon the land and its inhabitants to cause unspeakable mayhem. Become a hero and take on foes unlike anything you’ve faced before, journey through long‑forgotten locations, and clash with the forces of evil once more!",
+      "match_type": "xbox-only",
+      "match_score": 0,
+      "howlongtobeat": {
+        "title": "Minecraft Dungeons II",
+        "game_id": 183502,
+        "url": "https://howlongtobeat.com/game/183502",
+        "image_url": "https://howlongtobeat.com/games/183502_Minecraft_Dungeons_II.jpg",
+        "main_story_seconds": null,
+        "review_score": null,
+        "completion_count": 1,
+        "release_year": 2026,
+        "profile_platform": "Nintendo Switch, Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
+        "match_type": "exact",
+        "match_score": 142
+      },
+      "opencritic": {
+        "title": "Minecraft Dungeons II",
+        "game_id": 20797,
+        "url": "https://opencritic.com/game/20797/minecraft-dungeons-ii",
+        "top_critic_score": 85.0,
+        "percent_recommended": 85.0,
+        "tier": "Mighty",
+        "median_score": 80,
+        "review_count": 20,
+        "release_year": 2026,
+        "match_type": "exact",
+        "match_score": 148
       },
       "short_game_score": null
     },

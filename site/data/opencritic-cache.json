@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T05:51:50+00:00",
+  "updated_at": "2026-09-29T13:04:07+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -9077,6 +9077,24 @@
         "release_year": 2020,
         "match_type": "exact",
         "match_score": 135
+      }
+    },
+    "minecraft dungeons ii": {
+      "title": "Minecraft Dungeons II",
+      "status": "matched",
+      "fetched_at": "2026-09-29T13:04:06+00:00",
+      "data": {
+        "title": "Minecraft Dungeons II",
+        "game_id": 20797,
+        "url": "https://opencritic.com/game/20797/minecraft-dungeons-ii",
+        "top_critic_score": 85.0,
+        "percent_recommended": 85.0,
+        "tier": "Mighty",
+        "median_score": 80,
+        "review_count": 20,
+        "release_year": 2026,
+        "match_type": "exact",
+        "match_score": 148
       }
     }
   }
