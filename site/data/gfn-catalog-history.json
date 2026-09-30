@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T12:31:55+00:00",
+  "generated_at": "2026-09-30T22:13:57+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -3494,6 +3494,215 @@
       "new_game_count": 0,
       "new_store_count": 0,
       "new_games": [],
+      "new_stores": []
+    },
+    {
+      "timestamp": "2026-09-30T22:13:57+00:00",
+      "baseline": false,
+      "catalog_game_count": 6078,
+      "new_game_count": 32,
+      "new_store_count": 0,
+      "new_games": [
+        {
+          "name": "63 Days",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Anno 1701 History Edition",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Astrea: Six-Sided Oracles",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Beacon Pines",
+          "stores": [
+            "EPIC",
+            "XBOX"
+          ]
+        },
+        {
+          "name": "Commandos 3 - HD Remaster",
+          "stores": [
+            "EPIC",
+            "STEAM",
+            "XBOX"
+          ]
+        },
+        {
+          "name": "Coromon",
+          "stores": [
+            "EPIC",
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Fallen Legion Revenants",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Farewell North",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "FORSPOKEN Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Gundrobe: an Incremental Gun Builder",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Hide and Shriek™",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "MEMORIAPOLIS",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Metamorphosis",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Monster Hunter Stories 2: Wings of Ruin",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Monster Hunter Stories 3: Twisted Reflection Trial Version",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Moonbreaker",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "MotoGP™19",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Narita Boy",
+          "stores": [
+            "STEAM",
+            "XBOX"
+          ]
+        },
+        {
+          "name": "Nivalis Nights",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "POSTAL: Brain Damaged",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Power Of Seasons",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Songs of Glimmerwick",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Songs of Silence",
+          "stores": [
+            "EPIC",
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Space for Sale",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Startup Company",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Steelrising",
+          "stores": [
+            "EPIC",
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Tabletop Tavern",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "The Case of the Golden Idol",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "The Hidden Room",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "The Wonderful 101: Remastered",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "War for the Overworld",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Wild West Pioneers",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
       "new_stores": []
     }
   ]
