@@ -163,12 +163,6 @@
       "STEAM"
     ]
   },
-  "63 days": {
-    "name": "63 Days",
-    "stores": [
-      "STEAM"
-    ]
-  },
   "7 days blood moons": {
     "name": "7 Days Blood Moons",
     "stores": [
@@ -1492,12 +1486,6 @@
       "STEAM"
     ]
   },
-  "anno 1701 history edition": {
-    "name": "Anno 1701 History Edition",
-    "stores": [
-      "STEAM"
-    ]
-  },
   "anno 1800": {
     "name": "Anno 1800™",
     "stores": [
@@ -2361,12 +2349,6 @@
       "STEAM"
     ]
   },
-  "astrea six sided oracles": {
-    "name": "Astrea: Six-Sided Oracles",
-    "stores": [
-      "STEAM"
-    ]
-  },
   "astria ascending": {
     "name": "Astria Ascending",
     "stores": [
@@ -3162,13 +3144,6 @@
     "name": "Beach Invasion 1944",
     "stores": [
       "STEAM"
-    ]
-  },
-  "beacon pines": {
-    "name": "Beacon Pines",
-    "stores": [
-      "EPIC",
-      "XBOX"
     ]
   },
   "beamng drive": {
@@ -6031,14 +6006,6 @@
       "STEAM"
     ]
   },
-  "commandos 3 hd remaster": {
-    "name": "Commandos 3 - HD Remaster",
-    "stores": [
-      "EPIC",
-      "STEAM",
-      "XBOX"
-    ]
-  },
   "commandos origins": {
     "name": "Commandos: Origins",
     "stores": [
@@ -6323,13 +6290,6 @@
   "corner shop nightshift demo": {
     "name": "Corner Shop: Nightshift Demo",
     "stores": [
-      "STEAM"
-    ]
-  },
-  "coromon": {
-    "name": "Coromon",
-    "stores": [
-      "EPIC",
       "STEAM"
     ]
   },
@@ -10796,12 +10756,6 @@
       "STEAM"
     ]
   },
-  "fallen legion revenants": {
-    "name": "Fallen Legion Revenants",
-    "stores": [
-      "STEAM"
-    ]
-  },
   "fallen symphony demo": {
     "name": "Fallen Symphony Demo",
     "stores": [
@@ -11727,12 +11681,6 @@
   },
   "forsaken remastered": {
     "name": "Forsaken Remastered",
-    "stores": [
-      "STEAM"
-    ]
-  },
-  "forspoken demo": {
-    "name": "FORSPOKEN Demo",
     "stores": [
       "STEAM"
     ]
@@ -14203,12 +14151,6 @@
   },
   "hidden winter things": {
     "name": "Hidden Winter Things",
-    "stores": [
-      "STEAM"
-    ]
-  },
-  "hide and shriek": {
-    "name": "Hide and Shriek™",
     "stores": [
       "STEAM"
     ]
@@ -18382,12 +18324,6 @@
       "STEAM"
     ]
   },
-  "memoriapolis": {
-    "name": "MEMORIAPOLIS",
-    "stores": [
-      "STEAM"
-    ]
-  },
   "memories off": {
     "name": "Memories Off",
     "stores": [
@@ -18536,12 +18472,6 @@
   },
   "metamorph dungeon creatures": {
     "name": "MetaMorph: Dungeon Creatures",
-    "stores": [
-      "STEAM"
-    ]
-  },
-  "metamorphosis": {
-    "name": "Metamorphosis",
     "stores": [
       "STEAM"
     ]
@@ -19043,20 +18973,8 @@
       "STEAM"
     ]
   },
-  "monster hunter stories 2 wings of ruin": {
-    "name": "Monster Hunter Stories 2: Wings of Ruin",
-    "stores": [
-      "STEAM"
-    ]
-  },
   "monster hunter stories 3 twisted reflection": {
     "name": "Monster Hunter Stories 3: Twisted Reflection",
-    "stores": [
-      "STEAM"
-    ]
-  },
-  "monster hunter stories 3 twisted reflection trial version": {
-    "name": "Monster Hunter Stories 3: Twisted Reflection Trial Version",
     "stores": [
       "STEAM"
     ]
@@ -19150,12 +19068,6 @@
   },
   "moon watch": {
     "name": "Moon Watch",
-    "stores": [
-      "STEAM"
-    ]
-  },
-  "moonbreaker": {
-    "name": "Moonbreaker",
     "stores": [
       "STEAM"
     ]
@@ -19269,12 +19181,6 @@
   },
   "motogp 14": {
     "name": "MotoGP™14",
-    "stores": [
-      "STEAM"
-    ]
-  },
-  "motogp 19": {
-    "name": "MotoGP™19",
     "stores": [
       "STEAM"
     ]
@@ -19754,13 +19660,6 @@
     "name": "NARAKA: BLADEPOINT",
     "stores": [
       "EPIC",
-      "STEAM",
-      "XBOX"
-    ]
-  },
-  "narita boy": {
-    "name": "Narita Boy",
-    "stores": [
       "STEAM",
       "XBOX"
     ]
@@ -22632,12 +22531,6 @@
       "STEAM"
     ]
   },
-  "postal brain damaged": {
-    "name": "POSTAL: Brain Damaged",
-    "stores": [
-      "STEAM"
-    ]
-  },
   "postal redux": {
     "name": "POSTAL Redux",
     "stores": [
@@ -22659,12 +22552,6 @@
   },
   "potion permit": {
     "name": "Potion Permit",
-    "stores": [
-      "STEAM"
-    ]
-  },
-  "power of seasons": {
-    "name": "Power Of Seasons",
     "stores": [
       "STEAM"
     ]
@@ -27361,13 +27248,6 @@
       "STEAM"
     ]
   },
-  "songs of silence": {
-    "name": "Songs of Silence",
-    "stores": [
-      "EPIC",
-      "STEAM"
-    ]
-  },
   "songs of silence demo": {
     "name": "Songs of Silence Demo",
     "stores": [
@@ -27550,12 +27430,6 @@
   },
   "space engineers 2": {
     "name": "Space Engineers 2",
-    "stores": [
-      "STEAM"
-    ]
-  },
-  "space for sale": {
-    "name": "Space for Sale",
     "stores": [
       "STEAM"
     ]
@@ -28504,12 +28378,6 @@
       "STEAM"
     ]
   },
-  "startup company": {
-    "name": "Startup Company",
-    "stores": [
-      "STEAM"
-    ]
-  },
   "starvester": {
     "name": "Starvester",
     "stores": [
@@ -28655,13 +28523,6 @@
   "steel seed": {
     "name": "Steel Seed",
     "stores": [
-      "STEAM"
-    ]
-  },
-  "steelrising": {
-    "name": "Steelrising",
-    "stores": [
-      "EPIC",
       "STEAM"
     ]
   },
@@ -29996,12 +29857,6 @@
       "STEAM"
     ]
   },
-  "tabletop tavern": {
-    "name": "Tabletop Tavern",
-    "stores": [
-      "STEAM"
-    ]
-  },
   "tacape": {
     "name": "Tacape",
     "stores": [
@@ -30737,12 +30592,6 @@
       "STEAM"
     ]
   },
-  "the case of the golden idol": {
-    "name": "The Case of the Golden Idol",
-    "stores": [
-      "STEAM"
-    ]
-  },
   "the casting of frank stone": {
     "name": "The Casting of Frank Stone™",
     "stores": [
@@ -31304,12 +31153,6 @@
   },
   "the hero we need": {
     "name": "The Hero We Need",
-    "stores": [
-      "STEAM"
-    ]
-  },
-  "the hidden room": {
-    "name": "The Hidden Room",
     "stores": [
       "STEAM"
     ]
@@ -32554,12 +32397,6 @@
   },
   "the witcher enhanced edition director s cut": {
     "name": "The Witcher®: Enhanced Edition Director's Cut",
-    "stores": [
-      "STEAM"
-    ]
-  },
-  "the wonderful 101 remastered": {
-    "name": "The Wonderful 101: Remastered",
     "stores": [
       "STEAM"
     ]
@@ -35321,12 +35158,6 @@
     "name": "Wanted: Dead",
     "stores": [
       "EPIC",
-      "STEAM"
-    ]
-  },
-  "war for the overworld": {
-    "name": "War for the Overworld",
-    "stores": [
       "STEAM"
     ]
   },
