@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T22:13:34+00:00",
+  "generated_at": "2026-09-30T05:30:27+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -3064,6 +3064,428 @@
       "new_store_count": 0,
       "new_games": [],
       "new_stores": []
+    },
+    {
+      "timestamp": "2026-09-30T05:30:27+00:00",
+      "baseline": false,
+      "catalog_game_count": 6075,
+      "new_game_count": 65,
+      "new_store_count": 1,
+      "new_games": [
+        {
+          "name": "Boltz Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Breakout Garage",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Caribbean Side Quests",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Clive Barker's Hellraiser: Revival Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "CONTROL Resonant",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Crash Bandicoot™ N. Sane Trilogy",
+          "stores": [
+            "STEAM",
+            "UPLAY",
+            "XBOX"
+          ]
+        },
+        {
+          "name": "Crown Of Hispania",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Darksiders III",
+          "stores": [
+            "STEAM",
+            "XBOX"
+          ]
+        },
+        {
+          "name": "Death Rally",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Dimraeth",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Dishonored® Definitive Edition",
+          "stores": [
+            "EPIC",
+            "XBOX"
+          ]
+        },
+        {
+          "name": "Dragon Shelter",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "DrainSim",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Drone Sector",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Eternal Destiny",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Eternal Destiny Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Everything is Crab: The Animal Evolution Roguelite",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Ex Sanguis",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "False Hero",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Farming Camp",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Fast Food Simulator",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "FATAL FURY: City of the Wolves",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Fire Field",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "GHOSTED",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "GOBBLE Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Gravebound",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Graveyard Keeper 2",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Half-Life®",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Happy's Humble Burger Cult",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Honeycomb: The World Beyond",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Iron Harvest",
+          "stores": [
+            "EPIC",
+            "STEAM",
+            "XBOX"
+          ]
+        },
+        {
+          "name": "Last Will",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "LEGO® Batman™: Legacy of the Dark Knight",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Little Nightmares II",
+          "stores": [
+            "STEAM",
+            "XBOX"
+          ]
+        },
+        {
+          "name": "Minecraft Dungeons II",
+          "stores": [
+            "XBOX"
+          ]
+        },
+        {
+          "name": "Miner Shop Simulator Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "MR. RECORDS Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Nivalis",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Obscurity: Unknown Threat",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Omikron: The Nomad Soul",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Order Automatica",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Orgynizer",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Panzer Corps 2",
+          "stores": [
+            "EPIC",
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Put Your Toys Away Together! Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Qliphah in Providence's Shadow",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Quasimorph",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Quern - Undying Thoughts",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "REANIMAL",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "ReStory: Chill Electronics Repairs",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Rivage",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Roadside Research",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Roombattle",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "SiN Reloaded",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Sockpuppet Noir",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "SpiritVale",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Stick It to the Stickman",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Tattoo Shop Simulator",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Tearscape",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "The Economy Bros",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "The Eternal Life of Goldman Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "The Hollowing Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "The Witcher® 3: Wild Hunt — Remastered",
+          "stores": [
+            "EPIC",
+            "GOG",
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Thrifty Business",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Tom Clancy’s Splinter Cell® Blacklist™",
+          "stores": [
+            "STEAM",
+            "UPLAY"
+          ]
+        },
+        {
+          "name": "Voodoo Detective",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
+      "new_stores": [
+        {
+          "name": "Mechabellum",
+          "stores": [
+            "EPIC",
+            "STEAM"
+          ],
+          "new_stores": [
+            "EPIC"
+          ]
+        }
+      ]
     }
   ]
 }

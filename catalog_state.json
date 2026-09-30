@@ -3957,6 +3957,12 @@
       "STEAM"
     ]
   },
+  "boltz demo": {
+    "name": "Boltz Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "bomb rush cyberfunk": {
     "name": "Bomb Rush Cyberfunk",
     "stores": [
@@ -4162,6 +4168,12 @@
   },
   "breakneck": {
     "name": "Breakneck",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "breakout garage": {
+    "name": "Breakout Garage",
     "stores": [
       "STEAM"
     ]
@@ -4878,6 +4890,12 @@
   },
   "caribbean frontier": {
     "name": "Caribbean Frontier",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "caribbean side quests": {
+    "name": "Caribbean Side Quests",
     "stores": [
       "STEAM"
     ]
@@ -5802,6 +5820,12 @@
       "STEAM"
     ]
   },
+  "clive barker s hellraiser revival demo": {
+    "name": "Clive Barker's Hellraiser: Revival Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "close to the sun": {
     "name": "Close to the Sun",
     "stores": [
@@ -6199,6 +6223,12 @@
       "XBOX"
     ]
   },
+  "control resonant": {
+    "name": "CONTROL Resonant",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "control ultimate edition": {
     "name": "Control Ultimate Edition",
     "stores": [
@@ -6419,6 +6449,14 @@
       "STEAM"
     ]
   },
+  "crash bandicoot n sane trilogy": {
+    "name": "Crash Bandicoot™ N. Sane Trilogy",
+    "stores": [
+      "STEAM",
+      "UPLAY",
+      "XBOX"
+    ]
+  },
   "crash drive 3": {
     "name": "Crash Drive 3",
     "stores": [
@@ -6636,6 +6674,12 @@
   },
   "crow country": {
     "name": "Crow Country",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "crown of hispania": {
+    "name": "Crown Of Hispania",
     "stores": [
       "STEAM"
     ]
@@ -7174,6 +7218,13 @@
       "STEAM"
     ]
   },
+  "darksiders iii": {
+    "name": "Darksiders III",
+    "stores": [
+      "STEAM",
+      "XBOX"
+    ]
+  },
   "darksiders warmastered edition": {
     "name": "Darksiders: Warmastered Edition",
     "stores": [
@@ -7533,6 +7584,12 @@
   },
   "death noodle delivery": {
     "name": "Death Noodle Delivery",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "death rally": {
+    "name": "Death Rally",
     "stores": [
       "STEAM"
     ]
@@ -8166,6 +8223,12 @@
       "STEAM"
     ]
   },
+  "dimraeth": {
+    "name": "Dimraeth",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "dinkum": {
     "name": "Dinkum",
     "stores": [
@@ -8342,6 +8405,13 @@
     "stores": [
       "EPIC",
       "STEAM",
+      "XBOX"
+    ]
+  },
+  "dishonored definitive edition": {
+    "name": "Dishonored® Definitive Edition",
+    "stores": [
+      "EPIC",
       "XBOX"
     ]
   },
@@ -8774,6 +8844,12 @@
       "STEAM"
     ]
   },
+  "dragon shelter": {
+    "name": "Dragon Shelter",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "dragon spirits prologue": {
     "name": "Dragon Spirits : Prologue",
     "stores": [
@@ -8800,6 +8876,12 @@
   },
   "dragonsword awakening": {
     "name": "DragonSword : Awakening",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "drainsim": {
+    "name": "DrainSim",
     "stores": [
       "STEAM"
     ]
@@ -8941,6 +9023,12 @@
   },
   "drone perspective demo": {
     "name": "DRONE PERSPECTIVE Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "drone sector": {
+    "name": "Drone Sector",
     "stores": [
       "STEAM"
     ]
@@ -10122,6 +10210,18 @@
       "STEAM"
     ]
   },
+  "eternal destiny": {
+    "name": "Eternal Destiny",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "eternal destiny demo": {
+    "name": "Eternal Destiny Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "eternal onslaught": {
     "name": "Eternal Onslaught",
     "stores": [
@@ -10315,6 +10415,12 @@
       "STEAM"
     ]
   },
+  "everything is crab the animal evolution roguelite": {
+    "name": "Everything is Crab: The Animal Evolution Roguelite",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "evil dead the game": {
     "name": "Evil Dead: The Game",
     "stores": [
@@ -10380,6 +10486,12 @@
   },
   "evolings": {
     "name": "Evolings",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "ex sanguis": {
+    "name": "Ex Sanguis",
     "stores": [
       "STEAM"
     ]
@@ -10737,6 +10849,12 @@
       "STEAM"
     ]
   },
+  "false hero": {
+    "name": "False Hero",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "family man": {
     "name": "Family Man",
     "stores": [
@@ -10909,6 +11027,12 @@
       "STEAM"
     ]
   },
+  "farming camp": {
+    "name": "Farming Camp",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "farming camp demo": {
     "name": "Farming Camp Demo",
     "stores": [
@@ -10969,6 +11093,12 @@
       "STEAM"
     ]
   },
+  "fast food simulator": {
+    "name": "Fast Food Simulator",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "fata deum the god sim": {
     "name": "Fata Deum - The God Sim",
     "stores": [
@@ -10977,6 +11107,12 @@
   },
   "fatal claw": {
     "name": "Fatal Claw",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "fatal fury city of the wolves": {
+    "name": "FATAL FURY: City of the Wolves",
     "stores": [
       "STEAM"
     ]
@@ -11145,6 +11281,12 @@
   },
   "fire dogs": {
     "name": "Fire Dogs",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "fire field": {
+    "name": "Fire Field",
     "stores": [
       "STEAM"
     ]
@@ -12290,6 +12432,12 @@
       "STEAM"
     ]
   },
+  "ghosted": {
+    "name": "GHOSTED",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "ghostlore": {
     "name": "Ghostlore",
     "stores": [
@@ -12450,6 +12598,12 @@
   },
   "gobble": {
     "name": "GOBBLE",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "gobble demo": {
+    "name": "GOBBLE Demo",
     "stores": [
       "STEAM"
     ]
@@ -12785,6 +12939,12 @@
       "STEAM"
     ]
   },
+  "gravebound": {
+    "name": "Gravebound",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "gravel": {
     "name": "Gravel",
     "stores": [
@@ -12800,6 +12960,12 @@
   },
   "graveyard keeper": {
     "name": "Graveyard Keeper",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "graveyard keeper 2": {
+    "name": "Graveyard Keeper 2",
     "stores": [
       "STEAM"
     ]
@@ -13181,6 +13347,12 @@
       "STEAM"
     ]
   },
+  "half life": {
+    "name": "Half-Life®",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "half life 2": {
     "name": "Half-Life® 2",
     "stores": [
@@ -13319,6 +13491,12 @@
   },
   "hands of necromancy ii": {
     "name": "Hands of Necromancy II",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "happy s humble burger cult": {
+    "name": "Happy's Humble Burger Cult",
     "stores": [
       "STEAM"
     ]
@@ -14238,6 +14416,12 @@
   },
   "honey i joined a cult": {
     "name": "Honey, I Joined a Cult",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "honeycomb the world beyond": {
+    "name": "Honeycomb: The World Beyond",
     "stores": [
       "STEAM"
     ]
@@ -15177,6 +15361,14 @@
     "name": "Iron Fisticle",
     "stores": [
       "STEAM"
+    ]
+  },
+  "iron harvest": {
+    "name": "Iron Harvest",
+    "stores": [
+      "EPIC",
+      "STEAM",
+      "XBOX"
     ]
   },
   "iron nest heavy turret simulator": {
@@ -16498,6 +16690,12 @@
       "STEAM"
     ]
   },
+  "last will": {
+    "name": "Last Will",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "last word": {
     "name": "Last Word",
     "stores": [
@@ -16689,6 +16887,12 @@
   },
   "legionwood 2 rise of the eternal s realm director s cut": {
     "name": "Legionwood 2: Rise of the Eternal's Realm - Director's Cut",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "lego batman legacy of the dark knight": {
+    "name": "LEGO® Batman™: Legacy of the Dark Knight",
     "stores": [
       "STEAM"
     ]
@@ -16974,6 +17178,13 @@
   },
   "little nightmares enhanced edition": {
     "name": "Little Nightmares Enhanced Edition",
+    "stores": [
+      "STEAM",
+      "XBOX"
+    ]
+  },
+  "little nightmares ii": {
+    "name": "Little Nightmares II",
     "stores": [
       "STEAM",
       "XBOX"
@@ -18018,6 +18229,7 @@
   "mechabellum": {
     "name": "Mechabellum",
     "stores": [
+      "EPIC",
       "STEAM"
     ]
   },
@@ -18515,8 +18727,20 @@
       "XBOX"
     ]
   },
+  "minecraft dungeons ii": {
+    "name": "Minecraft Dungeons II",
+    "stores": [
+      "XBOX"
+    ]
+  },
   "minemogul": {
     "name": "MineMogul",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "miner shop simulator demo": {
+    "name": "Miner Shop Simulator Demo",
     "stores": [
       "STEAM"
     ]
@@ -19203,6 +19427,12 @@
   },
   "mr prepper prologue": {
     "name": "Mr. Prepper: Prologue",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "mr records demo": {
+    "name": "MR. RECORDS Demo",
     "stores": [
       "STEAM"
     ]
@@ -20042,6 +20272,12 @@
       "STEAM"
     ]
   },
+  "nivalis": {
+    "name": "Nivalis",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "no man s sky": {
     "name": "No Man's Sky",
     "stores": [
@@ -20323,6 +20559,12 @@
       "STEAM"
     ]
   },
+  "obscurity unknown threat": {
+    "name": "Obscurity: Unknown Threat",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "observation": {
     "name": "Observation",
     "stores": [
@@ -20537,6 +20779,12 @@
   },
   "omen demo": {
     "name": "Omen Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "omikron the nomad soul": {
+    "name": "Omikron: The Nomad Soul",
     "stores": [
       "STEAM"
     ]
@@ -20768,6 +21016,12 @@
       "XBOX"
     ]
   },
+  "order automatica": {
+    "name": "Order Automatica",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "order of battle world war ii": {
     "name": "Order of Battle: World War II",
     "stores": [
@@ -20782,6 +21036,12 @@
   },
   "order of war": {
     "name": "Order of War™",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "orgynizer": {
+    "name": "Orgynizer",
     "stores": [
       "STEAM"
     ]
@@ -21349,6 +21609,13 @@
   "panzer ball": {
     "name": "PANZER BALL",
     "stores": [
+      "STEAM"
+    ]
+  },
+  "panzer corps 2": {
+    "name": "Panzer Corps 2",
+    "stores": [
+      "EPIC",
       "STEAM"
     ]
   },
@@ -22940,6 +23207,12 @@
       "STEAM"
     ]
   },
+  "put your toys away together demo": {
+    "name": "Put Your Toys Away Together! Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "puzzles for clef": {
     "name": "Puzzles For Clef",
     "stores": [
@@ -22980,6 +23253,12 @@
   },
   "qanga": {
     "name": "QANGA",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "qliphah in providence s shadow": {
+    "name": "Qliphah in Providence's Shadow",
     "stores": [
       "STEAM"
     ]
@@ -23066,8 +23345,20 @@
       "STEAM"
     ]
   },
+  "quasimorph": {
+    "name": "Quasimorph",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "queen s domain demo": {
     "name": "Queen's Domain Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "quern undying thoughts": {
+    "name": "Quern - Undying Thoughts",
     "stores": [
       "STEAM"
     ]
@@ -23518,6 +23809,12 @@
       "STEAM"
     ]
   },
+  "reanimal": {
+    "name": "REANIMAL",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "reap we reap what crawls": {
     "name": "REAP: We Reap What Crawls",
     "stores": [
@@ -23961,6 +24258,12 @@
       "STEAM"
     ]
   },
+  "restory chill electronics repairs": {
+    "name": "ReStory: Chill Electronics Repairs",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "retrace": {
     "name": "Retrace",
     "stores": [
@@ -24330,6 +24633,12 @@
       "STEAM"
     ]
   },
+  "rivage": {
+    "name": "Rivage",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "rivage demo": {
     "name": "Rivage Demo",
     "stores": [
@@ -24432,6 +24741,12 @@
   },
   "roadhouse simulator prologue": {
     "name": "Roadhouse Simulator - Prologue",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "roadside research": {
+    "name": "Roadside Research",
     "stores": [
       "STEAM"
     ]
@@ -24621,6 +24936,12 @@
   },
   "rooftops alleys the parkour game": {
     "name": "Rooftops & Alleys: The Parkour Game",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "roombattle": {
+    "name": "Roombattle",
     "stores": [
       "STEAM"
     ]
@@ -26320,6 +26641,12 @@
       "STEAM"
     ]
   },
+  "sin reloaded": {
+    "name": "SiN Reloaded",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "sin reloaded demo": {
     "name": "SiN Reloaded Demo",
     "stores": [
@@ -26880,6 +27207,12 @@
     "name": "Soccer Story",
     "stores": [
       "XBOX"
+    ]
+  },
+  "sockpuppet noir": {
+    "name": "Sockpuppet Noir",
+    "stores": [
+      "STEAM"
     ]
   },
   "soda crisis": {
@@ -27564,6 +27897,12 @@
     "stores": [
       "STEAM",
       "XBOX"
+    ]
+  },
+  "spiritvale": {
+    "name": "SpiritVale",
+    "stores": [
+      "STEAM"
     ]
   },
   "spitkiss": {
@@ -28434,6 +28773,12 @@
     "name": "Stick It to The Man!",
     "stores": [
       "EPIC"
+    ]
+  },
+  "stick it to the stickman": {
+    "name": "Stick It to the Stickman",
+    "stores": [
+      "STEAM"
     ]
   },
   "sticker ball": {
@@ -29837,6 +30182,12 @@
       "STEAM"
     ]
   },
+  "tattoo shop simulator": {
+    "name": "Tattoo Shop Simulator",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "tattoo tycoon": {
     "name": "Tattoo Tycoon",
     "stores": [
@@ -29907,6 +30258,12 @@
   },
   "tears of avia": {
     "name": "Tears of Avia",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "tearscape": {
+    "name": "Tearscape",
     "stores": [
       "STEAM"
     ]
@@ -30639,6 +30996,12 @@
       "XBOX"
     ]
   },
+  "the economy bros": {
+    "name": "The Economy Bros",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "the elder scrolls iii morrowind game of the year edition": {
     "name": "The Elder Scrolls III: Morrowind® Game of the Year Edition",
     "stores": [
@@ -30736,6 +31099,12 @@
     "name": "The Eternal Cylinder",
     "stores": [
       "EPIC",
+      "STEAM"
+    ]
+  },
+  "the eternal life of goldman demo": {
+    "name": "The Eternal Life of Goldman Demo",
+    "stores": [
       "STEAM"
     ]
   },
@@ -30947,6 +31316,12 @@
   },
   "the hollow road prologue": {
     "name": "The Hollow Road: Prologue",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "the hollowing demo": {
+    "name": "The Hollowing Demo",
     "stores": [
       "STEAM"
     ]
@@ -32163,18 +32538,12 @@
       "STEAM"
     ]
   },
-  "the witcher 3 wild hunt": {
-    "name": "The Witcher® 3: Wild Hunt",
+  "the witcher 3 wild hunt remastered": {
+    "name": "The Witcher® 3: Wild Hunt — Remastered",
     "stores": [
       "EPIC",
       "GOG",
       "STEAM"
-    ]
-  },
-  "the witcher 3 wild hunt complete edition": {
-    "name": "The Witcher® 3: Wild Hunt - Complete Edition",
-    "stores": [
-      "GOG"
     ]
   },
   "the witcher adventure game": {
@@ -32354,6 +32723,12 @@
   },
   "thrice entombed demo": {
     "name": "Thrice Entombed Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "thrifty business": {
+    "name": "Thrifty Business",
     "stores": [
       "STEAM"
     ]
@@ -32736,6 +33111,13 @@
     "name": "Tom Clancy's Rainbow Six® Vegas 2",
     "stores": [
       "STEAM"
+    ]
+  },
+  "tom clancy s splinter cell blacklist": {
+    "name": "Tom Clancy’s Splinter Cell® Blacklist™",
+    "stores": [
+      "STEAM",
+      "UPLAY"
     ]
   },
   "tom clancy s splinter cell blacklist deluxe edition": {
@@ -34805,6 +35187,12 @@
   },
   "voodolls": {
     "name": "Voodolls",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "voodoo detective": {
+    "name": "Voodoo Detective",
     "stores": [
       "STEAM"
     ]
