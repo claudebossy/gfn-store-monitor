@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T22:23:14+00:00",
+  "updated_at": "2026-09-30T05:41:48+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -5560,19 +5560,19 @@
     "roadside research": {
       "title": "Roadside Research",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:50:24+00:00",
+      "fetched_at": "2026-09-30T05:41:47+00:00",
       "data": {
         "title": "Roadside Research",
         "game_id": 177568,
         "url": "https://howlongtobeat.com/game/177568",
         "image_url": "https://howlongtobeat.com/games/177568_Roadside_Research.jpg",
-        "main_story_seconds": null,
+        "main_story_seconds": 55740,
         "review_score": 58,
-        "completion_count": 7,
+        "completion_count": 11,
         "release_year": 2026,
         "profile_platform": "PC, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 127
+        "match_score": 126
       }
     },
     "robocop rogue city": {
