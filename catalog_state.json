@@ -3331,6 +3331,12 @@
       "STEAM"
     ]
   },
+  "better chaos": {
+    "name": "Better Chaos",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "better mart simulator": {
     "name": "Better Mart Simulator",
     "stores": [
@@ -4200,6 +4206,12 @@
   },
   "brewmaster beer brewing simulator": {
     "name": "Brewmaster: Beer Brewing Simulator",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "bribe the brave demo": {
+    "name": "Bribe The Brave Demo",
     "stores": [
       "STEAM"
     ]
@@ -9765,6 +9777,12 @@
       "STEAM"
     ]
   },
+  "elta defy all gods demo": {
+    "name": "Elta: Defy All Gods - Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "elypse": {
     "name": "Elypse",
     "stores": [
@@ -12287,6 +12305,12 @@
     "name": "Gears 5",
     "stores": [
       "STEAM",
+      "XBOX"
+    ]
+  },
+  "gears of war e day": {
+    "name": "Gears of War: E-Day",
+    "stores": [
       "XBOX"
     ]
   },
@@ -15735,6 +15759,12 @@
     "name": "Just Die Already",
     "stores": [
       "EPIC",
+      "STEAM"
+    ]
+  },
+  "jystice demo": {
+    "name": "JYSTICE Demo",
+    "stores": [
       "STEAM"
     ]
   },
@@ -22326,7 +22356,8 @@
     "name": "Planet Coaster 2",
     "stores": [
       "EPIC",
-      "STEAM"
+      "STEAM",
+      "XBOX"
     ]
   },
   "planet explorers": {
@@ -33715,6 +33746,12 @@
   },
   "train station renovation": {
     "name": "Train Station Renovation",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "train station tycoon": {
+    "name": "Train Station Tycoon",
     "stores": [
       "STEAM"
     ]

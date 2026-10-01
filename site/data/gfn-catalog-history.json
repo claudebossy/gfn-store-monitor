@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T13:11:11+00:00",
+  "generated_at": "2026-10-01T22:39:56+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -3729,6 +3729,64 @@
       "new_store_count": 0,
       "new_games": [],
       "new_stores": []
+    },
+    {
+      "timestamp": "2026-10-01T22:39:56+00:00",
+      "baseline": false,
+      "catalog_game_count": 6085,
+      "new_game_count": 6,
+      "new_store_count": 1,
+      "new_games": [
+        {
+          "name": "Better Chaos",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Bribe The Brave Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Elta: Defy All Gods - Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Gears of War: E-Day",
+          "stores": [
+            "XBOX"
+          ]
+        },
+        {
+          "name": "JYSTICE Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Train Station Tycoon",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
+      "new_stores": [
+        {
+          "name": "Planet Coaster 2",
+          "stores": [
+            "EPIC",
+            "STEAM",
+            "XBOX"
+          ],
+          "new_stores": [
+            "XBOX"
+          ]
+        }
+      ]
     }
   ]
 }
