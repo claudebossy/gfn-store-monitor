@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T13:30:07+00:00",
+  "updated_at": "2026-10-01T22:46:15+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -9095,6 +9095,24 @@
         "release_year": 2026,
         "match_type": "exact",
         "match_score": 148
+      }
+    },
+    "gears of war ultimate edition for windows 10": {
+      "title": "Gears of War: Ultimate Edition for Windows 10",
+      "status": "matched",
+      "fetched_at": "2026-10-01T22:46:14+00:00",
+      "data": {
+        "title": "Gears of War: Ultimate Edition",
+        "game_id": 1502,
+        "url": "https://opencritic.com/game/1502/gears-of-war-ultimate-edition",
+        "top_critic_score": 83.6,
+        "percent_recommended": 87.0,
+        "tier": "Mighty",
+        "median_score": 85,
+        "review_count": 79,
+        "release_year": 2015,
+        "match_type": "exact",
+        "match_score": 139
       }
     }
   }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T13:30:07+00:00",
+  "updated_at": "2026-10-01T22:46:15+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -7876,17 +7876,17 @@
     "shelldiver": {
       "title": "Shelldiver",
       "status": "matched",
-      "fetched_at": "2026-09-01T15:24:37+00:00",
+      "fetched_at": "2026-10-01T22:46:15+00:00",
       "data": {
         "title": "Shelldiver",
         "game_id": 177233,
         "url": "https://howlongtobeat.com/game/177233",
         "image_url": "https://howlongtobeat.com/games/177233_Shelldiver.jpg",
-        "main_story_seconds": 13055,
+        "main_story_seconds": 13026,
         "review_score": 79,
-        "completion_count": 253,
+        "completion_count": 317,
         "release_year": 2025,
-        "profile_platform": "PC",
+        "profile_platform": "PC, Xbox One, Xbox Series X/S",
         "match_type": "exact",
         "match_score": 136
       }
@@ -8208,6 +8208,12 @@
         "match_type": "exact",
         "match_score": 142
       }
+    },
+    "gears of war ultimate edition for windows 10": {
+      "title": "Gears of War: Ultimate Edition for Windows 10",
+      "status": "not_found",
+      "fetched_at": "2026-10-01T22:46:13+00:00",
+      "data": null
     }
   }
 }

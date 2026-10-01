@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T13:29:54+00:00",
+  "generated_at": "2026-10-01T22:46:00+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,16 +13,16 @@
     }
   },
   "counts": {
-    "gfn_titles": 6072,
+    "gfn_titles": 6085,
     "xbox_pc_titles": 556,
-    "catalog_titles": 529,
+    "catalog_titles": 530,
     "intersection_titles": 343,
-    "xbox_only_titles": 186
+    "xbox_only_titles": 187
   },
   "summary": {
     "store_counts": {
       "STEAM": 317,
-      "XBOX": 199,
+      "XBOX": 200,
       "EPIC": 73,
       "UPLAY": 30,
       "BATTLENET": 21,
@@ -51,12 +51,12 @@
         "count": 21
       },
       {
-        "name": "Blizzard Entertainment",
+        "name": "Microsoft Studios",
         "count": 11
       },
       {
-        "name": "Microsoft Studios",
-        "count": 10
+        "name": "Blizzard Entertainment",
+        "count": 11
       },
       {
         "name": "Focus Entertainment",
@@ -83,11 +83,11 @@
         "count": 6
       }
     ],
-    "gfn_xbox_store_matches": 199,
+    "gfn_xbox_store_matches": 200,
     "intersection_titles": 343,
-    "xbox_only_titles": 186,
+    "xbox_only_titles": 187,
     "hltb_matches": 385,
-    "opencritic_matches": 455,
+    "opencritic_matches": 456,
     "short_game_score_matches": 294,
     "exact_matches": 319,
     "partial_matches": 24
@@ -9022,6 +9022,39 @@
       }
     },
     {
+      "catalog_group": "xbox-only",
+      "is_on_gfn": false,
+      "title": "Gears of War: Ultimate Edition for Windows 10",
+      "normalized_title": "gears of war ultimate edition for windows 10",
+      "gfn_stores": [],
+      "gfn_has_xbox_store": false,
+      "xbox_title": "Gears of War: Ultimate Edition for Windows 10",
+      "xbox_product_id": "9NBLGGH3SHM5",
+      "xbox_url": "https://www.microsoft.com/store/productId/9NBLGGH3SHM5",
+      "publisher": "Microsoft Studios",
+      "developer": null,
+      "release_date": "2016-02-01T03:28:34.1909663Z",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.59505.13510798884671596.352e98f8-31aa-4a32-9db9-94782043e1b8.c448a596-e629-4138-9403-ff5019f870f2",
+      "description": "Gears of War returns, stunningly remastered and modernized for Windows 10 with up to 4K resolution and unlocked refresh rates. Gears of War: Ultimate Edition for Windows 10 is loaded with content including five campaign chapters not on the Xbox 360 version.",
+      "match_type": "xbox-only",
+      "match_score": 0,
+      "howlongtobeat": null,
+      "opencritic": {
+        "title": "Gears of War: Ultimate Edition",
+        "game_id": 1502,
+        "url": "https://opencritic.com/game/1502/gears-of-war-ultimate-edition",
+        "top_critic_score": 83.6,
+        "percent_recommended": 87.0,
+        "tier": "Mighty",
+        "median_score": 85,
+        "review_count": 79,
+        "release_year": 2015,
+        "match_type": "exact",
+        "match_score": 139
+      },
+      "short_game_score": null
+    },
+    {
       "catalog_group": "intersection",
       "is_on_gfn": true,
       "title": "Gears Tactics",
@@ -15233,9 +15266,10 @@
       "normalized_title": "planet coaster 2",
       "gfn_stores": [
         "EPIC",
-        "STEAM"
+        "STEAM",
+        "XBOX"
       ],
-      "gfn_has_xbox_store": false,
+      "gfn_has_xbox_store": true,
       "xbox_title": "Planet Coaster 2",
       "xbox_product_id": "9PK5WS0HXQKQ",
       "xbox_url": "https://www.microsoft.com/store/productId/9PK5WS0HXQKQ",
@@ -17597,11 +17631,11 @@
         "game_id": 177233,
         "url": "https://howlongtobeat.com/game/177233",
         "image_url": "https://howlongtobeat.com/games/177233_Shelldiver.jpg",
-        "main_story_seconds": 13055,
+        "main_story_seconds": 13026,
         "review_score": 79,
-        "completion_count": 253,
+        "completion_count": 317,
         "release_year": 2025,
-        "profile_platform": "PC",
+        "profile_platform": "PC, Xbox One, Xbox Series X/S",
         "match_type": "exact",
         "match_score": 136
       },
