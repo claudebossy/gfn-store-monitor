@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T22:13:57+00:00",
+  "generated_at": "2026-10-01T05:49:45+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -3698,6 +3698,22 @@
         },
         {
           "name": "Wild West Pioneers",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
+      "new_stores": []
+    },
+    {
+      "timestamp": "2026-10-01T05:49:45+00:00",
+      "baseline": false,
+      "catalog_game_count": 6079,
+      "new_game_count": 1,
+      "new_store_count": 0,
+      "new_games": [
+        {
+          "name": "Tricky Madness",
           "stores": [
             "STEAM"
           ]
