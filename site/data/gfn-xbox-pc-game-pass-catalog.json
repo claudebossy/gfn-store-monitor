@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T06:06:55+00:00",
+  "generated_at": "2026-10-01T13:29:54+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,17 +13,17 @@
     }
   },
   "counts": {
-    "gfn_titles": 6079,
-    "xbox_pc_titles": 564,
-    "catalog_titles": 537,
-    "intersection_titles": 347,
-    "xbox_only_titles": 190
+    "gfn_titles": 6072,
+    "xbox_pc_titles": 556,
+    "catalog_titles": 529,
+    "intersection_titles": 343,
+    "xbox_only_titles": 186
   },
   "summary": {
     "store_counts": {
-      "STEAM": 321,
-      "XBOX": 203,
-      "EPIC": 74,
+      "STEAM": 317,
+      "XBOX": 199,
+      "EPIC": 73,
       "UPLAY": 30,
       "BATTLENET": 21,
       "EA_APP": 16,
@@ -83,13 +83,13 @@
         "count": 6
       }
     ],
-    "gfn_xbox_store_matches": 203,
-    "intersection_titles": 347,
-    "xbox_only_titles": 190,
-    "hltb_matches": 390,
-    "opencritic_matches": 461,
-    "short_game_score_matches": 299,
-    "exact_matches": 323,
+    "gfn_xbox_store_matches": 199,
+    "intersection_titles": 343,
+    "xbox_only_titles": 186,
+    "hltb_matches": 385,
+    "opencritic_matches": 455,
+    "short_game_score_matches": 294,
+    "exact_matches": 319,
     "partial_matches": 24
   },
   "games": [
@@ -1819,60 +1819,6 @@
         "critic_score": 75.2,
         "duration_fit_score": 58.2,
         "main_story_hours": 26.7,
-        "target_hours": 15.0
-      }
-    },
-    {
-      "catalog_group": "intersection",
-      "is_on_gfn": true,
-      "title": "Atomfall",
-      "normalized_title": "atomfall",
-      "gfn_stores": [
-        "STEAM",
-        "XBOX"
-      ],
-      "gfn_has_xbox_store": true,
-      "xbox_title": "Atomfall",
-      "xbox_product_id": "9NC4WDL5KZBL",
-      "xbox_url": "https://www.microsoft.com/store/productId/9NC4WDL5KZBL",
-      "publisher": "Rebellion",
-      "developer": "Rebellion",
-      "release_date": "2025-03-27T14:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.43253.13575061151050973.cebfa75f-b2f4-4dde-99fa-c709bab904af.e292a86b-4157-4340-b5a4-9d55a11c0f3e",
-      "description": "A nuclear disaster has left an area of Britain in tatters. Atomfall, a new survival-action game, will see you explore, scavenge, craft, barter and fight your way through beautifully recreated scenery in search of answers.",
-      "match_type": "exact-title",
-      "match_score": 120,
-      "howlongtobeat": {
-        "title": "Atomfall",
-        "game_id": 152018,
-        "url": "https://howlongtobeat.com/game/152018",
-        "image_url": "https://howlongtobeat.com/games/152018_Atomfall.jpeg",
-        "main_story_seconds": 38301,
-        "review_score": 73,
-        "completion_count": 563,
-        "release_year": 2025,
-        "profile_platform": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
-        "match_type": "exact",
-        "match_score": 142
-      },
-      "opencritic": {
-        "title": "Atomfall",
-        "game_id": 17764,
-        "url": "https://opencritic.com/game/17764/atomfall",
-        "top_critic_score": 74.9,
-        "percent_recommended": 63.8,
-        "tier": "Strong",
-        "median_score": 78,
-        "review_count": 131,
-        "release_year": 2025,
-        "match_type": "exact",
-        "match_score": 153
-      },
-      "short_game_score": {
-        "score": 82.4,
-        "critic_score": 74.9,
-        "duration_fit_score": 100.0,
-        "main_story_hours": 10.6,
         "target_hours": 15.0
       }
     },
@@ -11844,27 +11790,6 @@
       }
     },
     {
-      "catalog_group": "xbox-only",
-      "is_on_gfn": false,
-      "title": "Lara Croft and the Guardian of Light (PC)",
-      "normalized_title": "lara croft and the guardian of light pc",
-      "gfn_stores": [],
-      "gfn_has_xbox_store": false,
-      "xbox_title": "Lara Croft and the Guardian of Light (PC)",
-      "xbox_product_id": "9NS37Q75LBCG",
-      "xbox_url": "https://www.microsoft.com/store/productId/9NS37Q75LBCG",
-      "publisher": "Crystal Dynamics",
-      "developer": "Crystal Dynamics",
-      "release_date": "2025-09-05T16:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.4557.14375628118106119.0b332df6-8930-4796-a54f-b6a7fba77404.0eb79a33-dbc8-4f46-bb62-e9497426d699",
-      "description": "Experience the first ever co-op action-adventure game featuring Lara Croft. Team up with a friend or go at it alone as you traverse and solve deadly traps, fight hordes of undead enemies, and collect over 60 artifacts and relics.  Lara Croft and the Guardian of Light offers fast-paced action and breathtaking visuals shown through an isometric view.",
-      "match_type": "xbox-only",
-      "match_score": 0,
-      "howlongtobeat": null,
-      "opencritic": null,
-      "short_game_score": null
-    },
-    {
       "catalog_group": "intersection",
       "is_on_gfn": true,
       "title": "LARA CROFT AND THE TEMPLE OF OSIRIS™",
@@ -12254,111 +12179,6 @@
         "critic_score": 78.6,
         "duration_fit_score": 100.0,
         "main_story_hours": 3.6,
-        "target_hours": 15.0
-      }
-    },
-    {
-      "catalog_group": "intersection",
-      "is_on_gfn": true,
-      "title": "Little Nightmares II",
-      "normalized_title": "little nightmares ii",
-      "gfn_stores": [
-        "STEAM",
-        "XBOX"
-      ],
-      "gfn_has_xbox_store": true,
-      "xbox_title": "Little Nightmares II Enhanced Edition - Windows",
-      "xbox_product_id": "9PBM67RXX3V8",
-      "xbox_url": "https://www.microsoft.com/store/productId/9PBM67RXX3V8",
-      "publisher": "Bandai Namco Entertainment Inc.",
-      "developer": "Tarsier Studios",
-      "release_date": "2025-07-01T00:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.28298.14120603671422983.276bdb7c-80c3-44c3-a0a2-c6f4510ef9af.8e0fbb26-a02b-4591-a58d-176378990e22",
-      "description": "Return to a world of charming horror in Little Nightmares II, a suspense adventure game in which you play as Mono, a young boy trapped in a world that has been distorted by the humming transmission of a distant tower.\n\nTogether with new friend Six, Mono sets out to discover the disturbing secrets of The Signal Tower, if they can make it past a gallery of new threats and enemies.",
-      "match_type": "exact-title",
-      "match_score": 120,
-      "howlongtobeat": {
-        "title": "Little Nightmares II",
-        "game_id": 69805,
-        "url": "https://howlongtobeat.com/game/69805",
-        "image_url": "https://howlongtobeat.com/games/69805_Little_Nightmares_II.jpg",
-        "main_story_seconds": 20415,
-        "review_score": 81,
-        "completion_count": 4136,
-        "release_year": 2021,
-        "profile_platform": "Google Stadia, Nintendo Switch, Nintendo Switch 2, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
-        "match_type": "exact",
-        "match_score": 130
-      },
-      "opencritic": {
-        "title": "Little Nightmares II",
-        "game_id": 10644,
-        "url": "https://opencritic.com/game/10644/little-nightmares-ii",
-        "top_critic_score": 82.5,
-        "percent_recommended": 86.7,
-        "tier": "Strong",
-        "median_score": 85,
-        "review_count": 176,
-        "release_year": 2021,
-        "match_type": "exact",
-        "match_score": 143
-      },
-      "short_game_score": {
-        "score": 87.8,
-        "critic_score": 82.5,
-        "duration_fit_score": 100.0,
-        "main_story_hours": 5.7,
-        "target_hours": 15.0
-      }
-    },
-    {
-      "catalog_group": "xbox-only",
-      "is_on_gfn": false,
-      "title": "Little Rocket Lab",
-      "normalized_title": "little rocket lab",
-      "gfn_stores": [],
-      "gfn_has_xbox_store": false,
-      "xbox_title": "Little Rocket Lab",
-      "xbox_product_id": "9N3M5D5ZSW34",
-      "xbox_url": "https://www.microsoft.com/store/productId/9N3M5D5ZSW34",
-      "publisher": "No More Robots",
-      "developer": "Teenage Astronauts",
-      "release_date": "2025-10-07T00:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.1709.14000344005974621.9729934f-27d2-4900-8aa2-53049eb44202.fb1cffa2-b0b1-4295-9b55-b3112f9fecd1",
-      "description": "Transform your childhood home as you build brilliant factories and forge lifelong friendships, then reach for the skies and finally finish your family's dream - your mother's precious rocket ship. Roll up your sleeves, it turns out that saving this town really IS rocket science!",
-      "match_type": "xbox-only",
-      "match_score": 0,
-      "howlongtobeat": {
-        "title": "Little Rocket Lab",
-        "game_id": 160525,
-        "url": "https://howlongtobeat.com/game/160525",
-        "image_url": "https://howlongtobeat.com/games/160525_Little_Rocket_Lab.jpg",
-        "main_story_seconds": 151513,
-        "review_score": 83,
-        "completion_count": 34,
-        "release_year": 2025,
-        "profile_platform": "Nintendo Switch, Nintendo Switch 2, PC, Xbox One, Xbox Series X/S",
-        "match_type": "exact",
-        "match_score": 138
-      },
-      "opencritic": {
-        "title": "Little Rocket Lab",
-        "game_id": 19440,
-        "url": "https://opencritic.com/game/19440/little-rocket-lab",
-        "top_critic_score": 83.0,
-        "percent_recommended": 100.0,
-        "tier": "Strong",
-        "median_score": 80,
-        "review_count": 8,
-        "release_year": 2025,
-        "match_type": "exact",
-        "match_score": 147
-      },
-      "short_game_score": {
-        "score": 58.1,
-        "critic_score": 83.0,
-        "duration_fit_score": 0.0,
-        "main_story_hours": 42.1,
         "target_hours": 15.0
       }
     },
@@ -17855,61 +17675,6 @@
       "short_game_score": null
     },
     {
-      "catalog_group": "intersection",
-      "is_on_gfn": true,
-      "title": "Sifu",
-      "normalized_title": "sifu",
-      "gfn_stores": [
-        "EPIC",
-        "STEAM",
-        "XBOX"
-      ],
-      "gfn_has_xbox_store": true,
-      "xbox_title": "Sifu",
-      "xbox_product_id": "9P7PF6ZP3958",
-      "xbox_url": "https://www.microsoft.com/store/productId/9P7PF6ZP3958",
-      "publisher": "Sloclap, Kepler Interactive",
-      "developer": "Sloclap",
-      "release_date": "2023-03-28T14:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.22704.14108092972231485.130f8f79-218a-4318-83ee-72f0213be0dd.6ca34cbe-4daf-4ed6-a17b-e384394e2dd5",
-      "description": "Sifu is a realistic third-person brawler with tight Kung Fu combat mechanics and cinematic martial arts action embarking you on a path for revenge.",
-      "match_type": "exact-title",
-      "match_score": 120,
-      "howlongtobeat": {
-        "title": "Sifu",
-        "game_id": 89091,
-        "url": "https://howlongtobeat.com/game/89091",
-        "image_url": "https://howlongtobeat.com/games/89091_Sifu.jpg",
-        "main_story_seconds": 27924,
-        "review_score": 80,
-        "completion_count": 3048,
-        "release_year": 2022,
-        "profile_platform": "Nintendo Switch, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
-        "match_type": "exact",
-        "match_score": 136
-      },
-      "opencritic": {
-        "title": "Sifu",
-        "game_id": 12705,
-        "url": "https://opencritic.com/game/12705/sifu",
-        "top_critic_score": 80.8,
-        "percent_recommended": 84.4,
-        "tier": "Strong",
-        "median_score": 85,
-        "review_count": 175,
-        "release_year": 2022,
-        "match_type": "exact",
-        "match_score": 149
-      },
-      "short_game_score": {
-        "score": 86.6,
-        "critic_score": 80.8,
-        "duration_fit_score": 100.0,
-        "main_story_hours": 7.8,
-        "target_hours": 15.0
-      }
-    },
-    {
       "catalog_group": "xbox-only",
       "is_on_gfn": false,
       "title": "Sim City 3000™ Unlimited",
@@ -18179,39 +17944,6 @@
         "match_score": 126
       },
       "opencritic": null,
-      "short_game_score": null
-    },
-    {
-      "catalog_group": "xbox-only",
-      "is_on_gfn": false,
-      "title": "SOPA - Tale of the Stolen Potato",
-      "normalized_title": "sopa tale of the stolen potato",
-      "gfn_stores": [],
-      "gfn_has_xbox_store": false,
-      "xbox_title": "SOPA - Tale of the Stolen Potato",
-      "xbox_product_id": "9N221ZTFGQB0",
-      "xbox_url": "https://www.microsoft.com/store/productId/9N221ZTFGQB0",
-      "publisher": "StudioBando, Inc.",
-      "developer": "StudioBando, Inc.",
-      "release_date": "2025-10-07T00:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.26696.13960509830993635.c8e589d4-58bf-48a0-94b9-7be5647c6cf2.5c0fcaf7-8b5d-4397-a90b-0fe59f78ea46",
-      "description": "Miho steps into the pantry to fetch a potato for his grandma and falls into a magical world full of wonders. Meet quirky characters, venture through the depths of South America, and learn the importance of the things we pass along in this unforgettable emotional narrative adventure.",
-      "match_type": "xbox-only",
-      "match_score": 0,
-      "howlongtobeat": null,
-      "opencritic": {
-        "title": "SOPA - Tale of the Stolen Potato",
-        "game_id": 19428,
-        "url": "https://opencritic.com/game/19428/sopa-tale-of-the-stolen-potato",
-        "top_critic_score": 74.0,
-        "percent_recommended": 14.3,
-        "tier": "Fair",
-        "median_score": null,
-        "review_count": 7,
-        "release_year": 2025,
-        "match_type": "exact",
-        "match_score": 147
-      },
       "short_game_score": null
     },
     {
@@ -19555,60 +19287,6 @@
     {
       "catalog_group": "intersection",
       "is_on_gfn": true,
-      "title": "SWORN",
-      "normalized_title": "sworn",
-      "gfn_stores": [
-        "STEAM",
-        "XBOX"
-      ],
-      "gfn_has_xbox_store": true,
-      "xbox_title": "SWORN",
-      "xbox_product_id": "9MWDJRQ1BXTC",
-      "xbox_url": "https://www.microsoft.com/store/productId/9MWDJRQ1BXTC",
-      "publisher": "Team17",
-      "developer": "Windwalk Games",
-      "release_date": "2025-09-23T00:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.63785.13511316360139765.c27c733b-7cf6-4671-a04c-5a2fcb95b0f0.6ccd7a07-4bea-4edd-9d1a-ed34083247f3",
-      "description": null,
-      "match_type": "exact-title",
-      "match_score": 120,
-      "howlongtobeat": {
-        "title": "SWORN",
-        "game_id": 147515,
-        "url": "https://howlongtobeat.com/game/147515",
-        "image_url": "https://howlongtobeat.com/games/147515_SWORN.jpg",
-        "main_story_seconds": 36472,
-        "review_score": 71,
-        "completion_count": 99,
-        "release_year": 2025,
-        "profile_platform": "Nintendo Switch, PC, PlayStation 5, Xbox Series X/S",
-        "match_type": "exact",
-        "match_score": 142
-      },
-      "opencritic": {
-        "title": "Sworn",
-        "game_id": 18165,
-        "url": "https://opencritic.com/game/18165/sworn",
-        "top_critic_score": 72.0,
-        "percent_recommended": 50.0,
-        "tier": "Fair",
-        "median_score": 74,
-        "review_count": 8,
-        "release_year": 2025,
-        "match_type": "exact",
-        "match_score": 147
-      },
-      "short_game_score": {
-        "score": 80.4,
-        "critic_score": 72.0,
-        "duration_fit_score": 100.0,
-        "main_story_hours": 10.1,
-        "target_hours": 15.0
-      }
-    },
-    {
-      "catalog_group": "intersection",
-      "is_on_gfn": true,
       "title": "Symphonia",
       "normalized_title": "symphonia",
       "gfn_stores": [
@@ -19949,27 +19627,6 @@
         "main_story_hours": 5.7,
         "target_hours": 15.0
       }
-    },
-    {
-      "catalog_group": "xbox-only",
-      "is_on_gfn": false,
-      "title": "Terminull Brigade™",
-      "normalized_title": "terminull brigade",
-      "gfn_stores": [],
-      "gfn_has_xbox_store": false,
-      "xbox_title": "Terminull Brigade™",
-      "xbox_product_id": "9MW1V43D3VZN",
-      "xbox_url": "https://www.microsoft.com/store/productId/9MW1V43D3VZN",
-      "publisher": "Level Infinite",
-      "developer": "Pew Pew Games",
-      "release_date": "2025-12-08T06:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.64064.13852618521586125.794367d4-7c0a-4882-abf5-d6a6cb1acacb.6f44d765-e86a-4770-bb44-fb8a314508b0",
-      "description": "Terminull Brigade is a PvE looter shooter with roguelike elements set in a virtual multiverse.",
-      "match_type": "xbox-only",
-      "match_score": 0,
-      "howlongtobeat": null,
-      "opencritic": null,
-      "short_game_score": null
     },
     {
       "catalog_group": "intersection",
