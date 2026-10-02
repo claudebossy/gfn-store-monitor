@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T05:49:53+00:00",
+  "generated_at": "2026-10-02T12:48:17+00:00",
   "currency": "CHF",
   "products": [
     {
@@ -11,7 +11,7 @@
       "canonical_url": "https://www.instant-gaming.com/fr/4994-acheter-xbox-game-pass-ultimate-3-mois-xbox-one-xbox-series-x-s-pc-microsoft-store/",
       "image_url": "https://gaming-cdn.com/images/products/4994/616x353/xbox-game-pass-ultimate-3-mois-xbox-one-xbox-series-x-s-pc-microsoft-store-cover.jpg?v=1776851245",
       "current": {
-        "timestamp": "2026-10-02T05:49:53+00:00",
+        "timestamp": "2026-10-02T12:48:17+00:00",
         "price": 42.36,
         "available": true,
         "discount_percent": 29,
@@ -1202,6 +1202,14 @@
           "discount_percent": 29,
           "preorder": false,
           "retail_price": 59.0
+        },
+        {
+          "timestamp": "2026-10-02T12:48:17+00:00",
+          "price": 42.36,
+          "available": true,
+          "discount_percent": 29,
+          "preorder": false,
+          "retail_price": 59.0
         }
       ]
     },
@@ -1214,7 +1222,7 @@
       "canonical_url": "https://www.instant-gaming.com/fr/4993-acheter-xbox-game-pass-ultimate-1-mois-xbox-one-xbox-series-x-s-pc-microsoft-store/",
       "image_url": "https://gaming-cdn.com/images/products/4993/616x353/xbox-game-pass-ultimate-1-mois-xbox-one-xbox-series-x-s-pc-microsoft-store-cover.jpg?v=1776843160",
       "current": {
-        "timestamp": "2026-10-02T05:49:53+00:00",
+        "timestamp": "2026-10-02T12:48:17+00:00",
         "price": 16.0,
         "available": true,
         "discount_percent": 19,
@@ -2405,6 +2413,14 @@
           "discount_percent": 19,
           "preorder": false,
           "retail_price": 20.0
+        },
+        {
+          "timestamp": "2026-10-02T12:48:17+00:00",
+          "price": 16.0,
+          "available": true,
+          "discount_percent": 19,
+          "preorder": false,
+          "retail_price": 20.0
         }
       ]
     },
@@ -2417,7 +2433,7 @@
       "canonical_url": "https://www.instant-gaming.com/fr/7613-acheter-xbox-game-pass-3-mois-pc-microsoft-store/",
       "image_url": "https://gaming-cdn.com/images/products/7613/616x353/xbox-game-pass-3-mois-pc-microsoft-store-cover.jpg?v=1786528310",
       "current": {
-        "timestamp": "2026-10-02T05:49:53+00:00",
+        "timestamp": "2026-10-02T12:48:17+00:00",
         "price": 32.01,
         "available": false,
         "discount_percent": 13,
@@ -3608,6 +3624,14 @@
           "discount_percent": 13,
           "preorder": false,
           "retail_price": 37.0
+        },
+        {
+          "timestamp": "2026-10-02T12:48:17+00:00",
+          "price": 32.01,
+          "available": false,
+          "discount_percent": 13,
+          "preorder": false,
+          "retail_price": 37.0
         }
       ]
     },
@@ -3620,7 +3644,7 @@
       "canonical_url": "https://www.instant-gaming.com/fr/15846-acheter-dragon-quest-builders-pc-jeu-steam/",
       "image_url": "https://gaming-cdn.com/images/products/15846/616x353/dragon-quest-builders-pc-jeu-steam-cover.jpg?v=1706631799",
       "current": {
-        "timestamp": "2026-10-02T05:49:53+00:00",
+        "timestamp": "2026-10-02T12:48:17+00:00",
         "price": 11.76,
         "available": true,
         "discount_percent": 56,
@@ -4563,6 +4587,14 @@
           "discount_percent": 56,
           "preorder": false,
           "retail_price": 27.0
+        },
+        {
+          "timestamp": "2026-10-02T12:48:17+00:00",
+          "price": 11.76,
+          "available": true,
+          "discount_percent": 56,
+          "preorder": false,
+          "retail_price": 27.0
         }
       ]
     },
@@ -4575,7 +4607,7 @@
       "canonical_url": "https://www.instant-gaming.com/fr/6027-acheter-dragon-quest-builders-2-pc-jeu-steam/",
       "image_url": "https://gaming-cdn.com/images/products/6027/616x353/dragon-quest-builders-2-pc-jeu-steam-cover.jpg?v=1651506855",
       "current": {
-        "timestamp": "2026-10-02T05:49:53+00:00",
+        "timestamp": "2026-10-02T12:48:17+00:00",
         "price": 21.74,
         "available": true,
         "discount_percent": 56,
@@ -5513,6 +5545,14 @@
         },
         {
           "timestamp": "2026-10-02T05:49:53+00:00",
+          "price": 21.74,
+          "available": true,
+          "discount_percent": 56,
+          "preorder": false,
+          "retail_price": 50.0
+        },
+        {
+          "timestamp": "2026-10-02T12:48:17+00:00",
           "price": 21.74,
           "available": true,
           "discount_percent": 56,
