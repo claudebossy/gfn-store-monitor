@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T22:20:07+00:00",
+  "generated_at": "2026-10-03T05:26:34+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -21,7 +21,7 @@
   },
   "summary": {
     "store_counts": {
-      "STEAM": 317,
+      "STEAM": 318,
       "XBOX": 200,
       "EPIC": 73,
       "UPLAY": 30,
@@ -13083,6 +13083,7 @@
       "title": "Minecraft Dungeons II",
       "normalized_title": "minecraft dungeons ii",
       "gfn_stores": [
+        "STEAM",
         "XBOX"
       ],
       "gfn_has_xbox_store": true,
