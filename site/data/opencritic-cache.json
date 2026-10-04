@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T12:31:20+00:00",
+  "updated_at": "2026-10-04T21:37:08+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -8824,16 +8824,16 @@
     "speedrunners 2 king of speed": {
       "title": "SpeedRunners 2: King of Speed",
       "status": "matched",
-      "fetched_at": "2026-09-04T16:28:00+00:00",
+      "fetched_at": "2026-10-04T21:37:06+00:00",
       "data": {
         "title": "Speedrunners 2: King of Speed",
         "game_id": 21312,
         "url": "https://opencritic.com/game/21312/speedrunners-2-king-of-speed",
         "top_critic_score": null,
-        "percent_recommended": null,
+        "percent_recommended": 40.0,
         "tier": null,
-        "median_score": null,
-        "review_count": 1,
+        "median_score": 65,
+        "review_count": 5,
         "release_year": 2026,
         "match_type": "exact",
         "match_score": 147
