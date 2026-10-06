@@ -2021,6 +2021,12 @@
       "STEAM"
     ]
   },
+  "artifact extract": {
+    "name": "Artifact Extract",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "artisan td": {
     "name": "Artisan TD",
     "stores": [
@@ -5879,6 +5885,12 @@
     "stores": [
       "STEAM",
       "XBOX"
+    ]
+  },
+  "clowntown demo": {
+    "name": "Clowntown Demo",
+    "stores": [
+      "STEAM"
     ]
   },
   "clustertruck": {
@@ -13039,6 +13051,12 @@
   },
   "gray zone warfare": {
     "name": "Gray Zone Warfare",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "grazed incremental arcade demo": {
+    "name": "Grazed - Incremental Arcade Demo",
     "stores": [
       "STEAM"
     ]
@@ -25732,6 +25750,12 @@
       "STEAM"
     ]
   },
+  "scream operator haunted house manager demo": {
+    "name": "Scream Operator: Haunted House Manager Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "screamer": {
     "name": "Screamer",
     "stores": [
@@ -27387,6 +27411,12 @@
       "STEAM"
     ]
   },
+  "sombras negative frames demo": {
+    "name": "SOMBRAS: negative frames Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "someday you ll return director s cut": {
     "name": "Someday You'll Return: Director's Cut",
     "stores": [
@@ -27972,12 +28002,6 @@
     "stores": [
       "STEAM",
       "XBOX"
-    ]
-  },
-  "spiritvale": {
-    "name": "SpiritVale",
-    "stores": [
-      "STEAM"
     ]
   },
   "spitkiss": {
