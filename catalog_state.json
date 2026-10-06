@@ -9807,6 +9807,12 @@
       "STEAM"
     ]
   },
+  "ember s verge": {
+    "name": "Ember's Verge",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "embers of mirrim": {
     "name": "Embers of Mirrim",
     "stores": [
@@ -18645,6 +18651,12 @@
       "STEAM"
     ]
   },
+  "microlandia": {
+    "name": "Microlandia",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "micron": {
     "name": "Micron",
     "stores": [
@@ -20543,6 +20555,12 @@
       "STEAM"
     ]
   },
+  "nuclear design bureau": {
+    "name": "Nuclear Design Bureau",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "nuclear epoch": {
     "name": "Nuclear Epoch",
     "stores": [
@@ -21078,6 +21096,12 @@
       "STEAM"
     ]
   },
+  "ore bastards": {
+    "name": "Ore Bastards",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "orgynizer": {
     "name": "Orgynizer",
     "stores": [
@@ -21173,6 +21197,12 @@
   },
   "our world is ended": {
     "name": "Our World Is Ended.",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "out and about": {
+    "name": "Out and About",
     "stores": [
       "STEAM"
     ]
@@ -32586,6 +32616,7 @@
   "the witcher 3 wild hunt remastered": {
     "name": "The Witcher® 3: Wild Hunt — Remastered",
     "stores": [
+      "BATTLENET",
       "EPIC",
       "GOG",
       "STEAM"
@@ -37251,8 +37282,8 @@
       "STEAM"
     ]
   },
-  "zero parades for dead spies": {
-    "name": "ZERO PARADES: For Dead Spies",
+  "zero parades director s cut": {
+    "name": "ZERO PARADES: Director's Cut",
     "stores": [
       "STEAM"
     ]
