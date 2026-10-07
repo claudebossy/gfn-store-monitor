@@ -939,6 +939,12 @@
       "STEAM"
     ]
   },
+  "air defender": {
+    "name": "Air Defender",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "air hares": {
     "name": "Air Hares",
     "stores": [
@@ -13690,6 +13696,12 @@
       "STEAM"
     ]
   },
+  "hazard levels demo": {
+    "name": "Hazard Levels Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "hazel sky": {
     "name": "Hazel Sky",
     "stores": [
@@ -17613,6 +17625,12 @@
       "STEAM"
     ]
   },
+  "lucifer within us": {
+    "name": "Lucifer Within Us",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "luck be a landlord": {
     "name": "Luck be a Landlord",
     "stores": [
@@ -19071,6 +19089,12 @@
   },
   "monster energy supercross the official videogame 3": {
     "name": "Monster Energy Supercross - The Official Videogame 3",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "monster energy supercross the official videogame 4": {
+    "name": "Monster Energy Supercross - The Official Videogame 4",
     "stores": [
       "STEAM"
     ]
@@ -32317,6 +32341,12 @@
       "STEAM"
     ]
   },
+  "the signifier director s cut": {
+    "name": "The Signifier Director's Cut",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "the silence after": {
     "name": "The Silence After",
     "stores": [
@@ -32789,6 +32819,12 @@
     "stores": [
       "STEAM",
       "XBOX"
+    ]
+  },
+  "thousand hells the underworld heists": {
+    "name": "Thousand Hells: The Underworld Heists",
+    "stores": [
+      "STEAM"
     ]
   },
   "thousand threads": {
