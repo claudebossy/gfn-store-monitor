@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T13:40:41+00:00",
+  "generated_at": "2026-10-08T23:26:04+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,15 +13,15 @@
     }
   },
   "counts": {
-    "gfn_titles": 6099,
-    "xbox_pc_titles": 559,
-    "catalog_titles": 533,
-    "intersection_titles": 345,
+    "gfn_titles": 6110,
+    "xbox_pc_titles": 560,
+    "catalog_titles": 534,
+    "intersection_titles": 346,
     "xbox_only_titles": 188
   },
   "summary": {
     "store_counts": {
-      "STEAM": 321,
+      "STEAM": 322,
       "XBOX": 201,
       "EPIC": 74,
       "UPLAY": 30,
@@ -84,12 +84,12 @@
       }
     ],
     "gfn_xbox_store_matches": 201,
-    "intersection_titles": 345,
+    "intersection_titles": 346,
     "xbox_only_titles": 188,
-    "hltb_matches": 388,
-    "opencritic_matches": 459,
+    "hltb_matches": 389,
+    "opencritic_matches": 460,
     "short_game_score_matches": 295,
-    "exact_matches": 320,
+    "exact_matches": 321,
     "partial_matches": 25
   },
   "games": [
@@ -3376,10 +3376,10 @@
         "game_id": 10119,
         "url": "https://opencritic.com/game/10119/call-of-duty-black-ops-cold-war",
         "top_critic_score": 75.2,
-        "percent_recommended": 61.0,
+        "percent_recommended": 61.3,
         "tier": "Strong",
         "median_score": 80,
-        "review_count": 162,
+        "review_count": 163,
         "release_year": 2020,
         "match_type": "exact",
         "match_score": 143
@@ -6878,6 +6878,51 @@
     {
       "catalog_group": "xbox-only",
       "is_on_gfn": false,
+      "title": "Echo Weaver",
+      "normalized_title": "echo weaver",
+      "gfn_stores": [],
+      "gfn_has_xbox_store": false,
+      "xbox_title": "Echo Weaver",
+      "xbox_product_id": "9N72DFC6GL91",
+      "xbox_url": "https://www.microsoft.com/store/productId/9N72DFC6GL91",
+      "publisher": "Akupara Games",
+      "developer": "Moonlight Kids",
+      "release_date": "2026-10-08T16:00:00.0000000Z",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.37591.14007070537305664.00bf98ed-c00e-4026-9697-fb45bcd66227.cb8c3742-bec2-48e9-8bec-8a46c7b8a53c",
+      "description": "Time is your greatest resource. Master a time loop Metroidvania where secrets are your only upgrades.  Explore what remains. Uncover the mystery. Perfect the loop.",
+      "match_type": "xbox-only",
+      "match_score": 0,
+      "howlongtobeat": {
+        "title": "Echo Weaver",
+        "game_id": 146731,
+        "url": "https://howlongtobeat.com/game/146731",
+        "image_url": "https://howlongtobeat.com/games/146731_Echo_Weaver.jpg",
+        "main_story_seconds": null,
+        "review_score": null,
+        "completion_count": null,
+        "release_year": 2026,
+        "profile_platform": "Mac, Nintendo Switch 2, PC, PlayStation 5, Xbox One, Xbox Series X/S",
+        "match_type": "exact",
+        "match_score": 140
+      },
+      "opencritic": {
+        "title": "Echo Weaver",
+        "game_id": 21510,
+        "url": "https://opencritic.com/game/21510/echo-weaver",
+        "top_critic_score": null,
+        "percent_recommended": null,
+        "tier": null,
+        "median_score": null,
+        "review_count": 3,
+        "release_year": 2026,
+        "match_type": "exact",
+        "match_score": 147
+      },
+      "short_game_score": null
+    },
+    {
+      "catalog_group": "xbox-only",
+      "is_on_gfn": false,
       "title": "Egging On",
       "normalized_title": "egging on",
       "gfn_stores": [],
@@ -8489,11 +8534,13 @@
       }
     },
     {
-      "catalog_group": "xbox-only",
-      "is_on_gfn": false,
+      "catalog_group": "intersection",
+      "is_on_gfn": true,
       "title": "Forever Ago",
       "normalized_title": "forever ago",
-      "gfn_stores": [],
+      "gfn_stores": [
+        "STEAM"
+      ],
       "gfn_has_xbox_store": false,
       "xbox_title": "Forever Ago",
       "xbox_product_id": "9NFB47H2SDRX",
@@ -8503,8 +8550,8 @@
       "release_date": "2026-10-08T13:00:00.0000000Z",
       "image_url": "https://store-images.s-microsoft.com/image/apps.3895.13602461240998233.6f87298c-1315-45ca-95cb-f70de3689fc6.b3386a34-17b6-4c8c-b18b-688340e3daf9",
       "description": "Following a tragic stroke of fate, Alfred embarks on a journey north in search of redemption in this single-player road trip adventure.",
-      "match_type": "xbox-only",
-      "match_score": 0,
+      "match_type": "exact-title",
+      "match_score": 120,
       "howlongtobeat": {
         "title": "Forever Ago",
         "game_id": 81842,

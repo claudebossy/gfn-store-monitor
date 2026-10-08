@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T13:41:03+00:00",
+  "updated_at": "2026-10-08T23:26:20+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -8842,16 +8842,16 @@
     "call of duty black ops cold war": {
       "title": "Call of Duty®: Black Ops Cold War",
       "status": "matched",
-      "fetched_at": "2026-09-08T16:43:26+00:00",
+      "fetched_at": "2026-10-08T23:26:16+00:00",
       "data": {
         "title": "Call of Duty: Black Ops Cold War",
         "game_id": 10119,
         "url": "https://opencritic.com/game/10119/call-of-duty-black-ops-cold-war",
         "top_critic_score": 75.2,
-        "percent_recommended": 61.0,
+        "percent_recommended": 61.3,
         "tier": "Strong",
         "median_score": 80,
-        "review_count": 162,
+        "review_count": 163,
         "release_year": 2020,
         "match_type": "exact",
         "match_score": 143
@@ -9149,6 +9149,24 @@
         "release_year": 2026,
         "match_type": "exact",
         "match_score": 148
+      }
+    },
+    "echo weaver": {
+      "title": "Echo Weaver",
+      "status": "matched",
+      "fetched_at": "2026-10-08T23:26:19+00:00",
+      "data": {
+        "title": "Echo Weaver",
+        "game_id": 21510,
+        "url": "https://opencritic.com/game/21510/echo-weaver",
+        "top_critic_score": null,
+        "percent_recommended": null,
+        "tier": null,
+        "median_score": null,
+        "review_count": 3,
+        "release_year": 2026,
+        "match_type": "exact",
+        "match_score": 147
       }
     }
   }

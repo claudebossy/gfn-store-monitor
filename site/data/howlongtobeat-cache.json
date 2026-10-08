@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T13:41:03+00:00",
+  "updated_at": "2026-10-08T23:26:20+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -8212,7 +8212,7 @@
     "gears of war ultimate edition for windows 10": {
       "title": "Gears of War: Ultimate Edition for Windows 10",
       "status": "not_found",
-      "fetched_at": "2026-10-01T22:46:13+00:00",
+      "fetched_at": "2026-10-08T23:26:20+00:00",
       "data": null
     },
     "gears of war e day": {
@@ -8247,6 +8247,24 @@
         "completion_count": null,
         "release_year": 2026,
         "profile_platform": "Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
+        "match_type": "exact",
+        "match_score": 140
+      }
+    },
+    "echo weaver": {
+      "title": "Echo Weaver",
+      "status": "matched",
+      "fetched_at": "2026-10-08T23:26:18+00:00",
+      "data": {
+        "title": "Echo Weaver",
+        "game_id": 146731,
+        "url": "https://howlongtobeat.com/game/146731",
+        "image_url": "https://howlongtobeat.com/games/146731_Echo_Weaver.jpg",
+        "main_story_seconds": null,
+        "review_score": null,
+        "completion_count": null,
+        "release_year": 2026,
+        "profile_platform": "Mac, Nintendo Switch 2, PC, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
         "match_score": 140
       }
