@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T13:26:14+00:00",
+  "generated_at": "2026-10-08T23:19:32+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -4123,6 +4123,82 @@
       "new_game_count": 0,
       "new_store_count": 0,
       "new_games": [],
+      "new_stores": []
+    },
+    {
+      "timestamp": "2026-10-08T23:19:32+00:00",
+      "baseline": false,
+      "catalog_game_count": 6084,
+      "new_game_count": 11,
+      "new_store_count": 0,
+      "new_games": [
+        {
+          "name": "Age of Barbarian Extended Cut",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "BLASTARD! Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Clive Barker's Hellraiser: Revival",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Deadzone Rogue 2 Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Forever Ago",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Hela Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Shadowstone Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Shake it Co!",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Silver Pines",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Tape to Tape",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Tyr",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
       "new_stores": []
     }
   ]
