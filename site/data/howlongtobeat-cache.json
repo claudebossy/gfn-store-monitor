@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T06:17:55+00:00",
+  "updated_at": "2026-10-08T13:41:03+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -4576,19 +4576,19 @@
     "neon abyss": {
       "title": "Neon Abyss",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:48:09+00:00",
+      "fetched_at": "2026-10-08T13:40:57+00:00",
       "data": {
-        "title": "Neon Abyss",
-        "game_id": 77366,
-        "url": "https://howlongtobeat.com/game/77366",
-        "image_url": "https://howlongtobeat.com/games/77366_Neon_Abyss.jpg",
-        "main_story_seconds": 40928,
-        "review_score": 69,
-        "completion_count": 338,
-        "release_year": 2020,
-        "profile_platform": "Nintendo Switch, PC, PlayStation 4, Xbox One",
+        "title": "Neon Abyss 2",
+        "game_id": 160559,
+        "url": "https://howlongtobeat.com/game/160559",
+        "image_url": "https://howlongtobeat.com/games/160559_Neon_Abyss_2.jpg",
+        "main_story_seconds": 14400,
+        "review_score": 70,
+        "completion_count": 7,
+        "release_year": 2025,
+        "profile_platform": "Nintendo Switch, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 132
       }
     },
     "new super lucky s tale": {
@@ -7618,19 +7618,19 @@
     "wolfenstein the new order": {
       "title": "Wolfenstein®: The New Order™",
       "status": "not_found",
-      "fetched_at": "2026-09-30T12:48:03+00:00",
+      "fetched_at": "2026-10-08T13:40:58+00:00",
       "data": null
     },
     "wolfenstein the old blood": {
       "title": "Wolfenstein®: The Old Blood™",
       "status": "not_found",
-      "fetched_at": "2026-09-30T12:48:04+00:00",
+      "fetched_at": "2026-10-08T13:40:59+00:00",
       "data": null
     },
     "wolfenstein youngblood": {
       "title": "Wolfenstein®: Youngblood™",
       "status": "not_found",
-      "fetched_at": "2026-09-30T12:48:05+00:00",
+      "fetched_at": "2026-10-08T13:41:02+00:00",
       "data": null
     },
     "world of tanks heat": {
@@ -8231,6 +8231,24 @@
         "profile_platform": "PC, Xbox Series X/S",
         "match_type": "exact",
         "match_score": 142
+      }
+    },
+    "forever ago": {
+      "title": "Forever Ago",
+      "status": "matched",
+      "fetched_at": "2026-10-08T13:40:55+00:00",
+      "data": {
+        "title": "Forever Ago",
+        "game_id": 81842,
+        "url": "https://howlongtobeat.com/game/81842",
+        "image_url": "https://howlongtobeat.com/games/81842_Forever_Ago.jpg",
+        "main_story_seconds": null,
+        "review_score": null,
+        "completion_count": null,
+        "release_year": 2026,
+        "profile_platform": "Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
+        "match_type": "exact",
+        "match_score": 140
       }
     }
   }

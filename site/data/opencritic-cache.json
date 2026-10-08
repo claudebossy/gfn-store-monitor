@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T06:17:55+00:00",
+  "updated_at": "2026-10-08T13:41:03+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -5128,19 +5128,19 @@
     "neon abyss": {
       "title": "Neon Abyss",
       "status": "matched",
-      "fetched_at": "2026-08-25T22:48:10+00:00",
+      "fetched_at": "2026-10-08T13:40:57+00:00",
       "data": {
-        "title": "Neon Abyss",
-        "game_id": 9776,
-        "url": "https://opencritic.com/game/9776/neon-abyss",
-        "top_critic_score": 75.6,
-        "percent_recommended": 75.6,
-        "tier": "Strong",
+        "title": "Neon Abyss 2",
+        "game_id": 18930,
+        "url": "https://opencritic.com/game/18930/neon-abyss-2",
+        "top_critic_score": null,
+        "percent_recommended": 66.7,
+        "tier": null,
         "median_score": 80,
-        "review_count": 45,
-        "release_year": 2020,
+        "review_count": 9,
+        "release_year": 2025,
         "match_type": "exact",
-        "match_score": 149
+        "match_score": 139
       }
     },
     "new super lucky s tale": {
@@ -9131,6 +9131,24 @@
         "release_year": 2026,
         "match_type": "exact",
         "match_score": 150
+      }
+    },
+    "forever ago": {
+      "title": "Forever Ago",
+      "status": "matched",
+      "fetched_at": "2026-10-08T13:40:56+00:00",
+      "data": {
+        "title": "Forever Ago",
+        "game_id": 21440,
+        "url": "https://opencritic.com/game/21440/forever-ago",
+        "top_critic_score": 71.8,
+        "percent_recommended": 57.7,
+        "tier": "Fair",
+        "median_score": 75,
+        "review_count": 27,
+        "release_year": 2026,
+        "match_type": "exact",
+        "match_score": 148
       }
     }
   }
