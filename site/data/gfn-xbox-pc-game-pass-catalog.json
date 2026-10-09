@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T23:26:04+00:00",
+  "generated_at": "2026-10-09T06:19:05+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,7 +13,7 @@
     }
   },
   "counts": {
-    "gfn_titles": 6110,
+    "gfn_titles": 6111,
     "xbox_pc_titles": 560,
     "catalog_titles": 534,
     "intersection_titles": 346,
@@ -13977,7 +13977,7 @@
       "publisher": "NetEase",
       "developer": null,
       "release_date": "2023-07-13T21:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.56225.14085855469646025.41616b04-2f86-4370-acdd-c02f787b88cc.ad9bd75b-93cc-41ba-a900-b810c2a730a6",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.41994.14085855469646025.79385fad-0738-4130-a98b-b6f34ec818c6.cd5acc18-bb04-42c9-b97a-01e41d77ee49",
       "description": "Dive into the legends of the Far East in NARAKA: BLADEPOINT; team up with friends in fast-paced melee fights for a Battle Royale experience unlike any other. Find your playstyle with a varied cast of heroes with unique skills. More than 20 million players have already joined the fray, play free now!",
       "match_type": "exact-title",
       "match_score": 120,
