@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T23:19:32+00:00",
+  "generated_at": "2026-10-09T06:06:12+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -4194,6 +4194,185 @@
         },
         {
           "name": "Tyr",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
+      "new_stores": []
+    },
+    {
+      "timestamp": "2026-10-09T06:06:12+00:00",
+      "baseline": false,
+      "catalog_game_count": 6111,
+      "new_game_count": 27,
+      "new_store_count": 0,
+      "new_games": [
+        {
+          "name": "Amnesia: The Dark Descent",
+          "stores": [
+            "EPIC",
+            "STEAM"
+          ]
+        },
+        {
+          "name": "AO Tennis 2",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Black Book",
+          "stores": [
+            "EPIC",
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Blue Fire",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Bus Simulator 27",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Cafe Business Manager",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Deck of Haunts",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Dungeon Automata Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Hatred",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Kill It With Fire",
+          "stores": [
+            "STEAM",
+            "XBOX"
+          ]
+        },
+        {
+          "name": "Little Big Workshop",
+          "stores": [
+            "EPIC",
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Lugaru HD",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Mech Havoc",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Mixtape",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Mount & Blade: With Fire & Sword",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Move or Die",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Nova Drift",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Order of the Sinking Star",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "OUTRIDERS",
+          "stores": [
+            "EPIC",
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Quern - Undying Thoughts",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Recipe for Disaster",
+          "stores": [
+            "EPIC",
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Rooftops & Alleys: The Parkour Game",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "ROUTINE",
+          "stores": [
+            "STEAM",
+            "XBOX"
+          ]
+        },
+        {
+          "name": "Skydrift Infinity",
+          "stores": [
+            "EPIC"
+          ]
+        },
+        {
+          "name": "Spiderheck",
+          "stores": [
+            "XBOX"
+          ]
+        },
+        {
+          "name": "SWORD OF JUSTICE",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Ylands",
           "stores": [
             "STEAM"
           ]

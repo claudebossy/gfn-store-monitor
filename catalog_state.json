@@ -1367,6 +1367,13 @@
       "XBOX"
     ]
   },
+  "amnesia the dark descent": {
+    "name": "Amnesia: The Dark Descent",
+    "stores": [
+      "EPIC",
+      "STEAM"
+    ]
+  },
   "amok runner": {
     "name": "Amok Runner",
     "stores": [
@@ -1634,6 +1641,12 @@
   },
   "anyway": {
     "name": "!AnyWay!",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "ao tennis 2": {
+    "name": "AO Tennis 2",
     "stores": [
       "STEAM"
     ]
@@ -3519,6 +3532,13 @@
       "STEAM"
     ]
   },
+  "black book": {
+    "name": "Black Book",
+    "stores": [
+      "EPIC",
+      "STEAM"
+    ]
+  },
   "black desert": {
     "name": "Black Desert",
     "stores": [
@@ -3914,6 +3934,12 @@
   },
   "bloxitivity": {
     "name": "Bloxitivity",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "blue fire": {
+    "name": "Blue Fire",
     "stores": [
       "STEAM"
     ]
@@ -4506,6 +4532,12 @@
       "XBOX"
     ]
   },
+  "bus simulator 27": {
+    "name": "Bus Simulator 27",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "bus simulator 27 demo": {
     "name": "Bus Simulator 27 Demo",
     "stores": [
@@ -4538,6 +4570,12 @@
   },
   "bythzkel sombréa": {
     "name": "Bythzkel-Sombréa",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "cafe business manager": {
+    "name": "Cafe Business Manager",
     "stores": [
       "STEAM"
     ]
@@ -7730,6 +7768,12 @@
       "STEAM"
     ]
   },
+  "deck of haunts": {
+    "name": "Deck of Haunts",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "deep crafter": {
     "name": "Deep Crafter",
     "stores": [
@@ -9136,6 +9180,12 @@
   },
   "dungelot shattered lands": {
     "name": "Dungelot: Shattered Lands",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "dungeon automata demo": {
+    "name": "Dungeon Automata Demo",
     "stores": [
       "STEAM"
     ]
@@ -13610,6 +13660,12 @@
       "STEAM"
     ]
   },
+  "hatred": {
+    "name": "Hatred",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "hatsune miku vr": {
     "name": "Hatsune Miku VR",
     "stores": [
@@ -16027,6 +16083,13 @@
       "STEAM"
     ]
   },
+  "kill it with fire": {
+    "name": "Kill It With Fire",
+    "stores": [
+      "STEAM",
+      "XBOX"
+    ]
+  },
   "kill it with fire 2": {
     "name": "Kill It With Fire 2",
     "stores": [
@@ -17202,6 +17265,13 @@
       "STEAM"
     ]
   },
+  "little big workshop": {
+    "name": "Little Big Workshop",
+    "stores": [
+      "EPIC",
+      "STEAM"
+    ]
+  },
   "little kitty big city": {
     "name": "Little Kitty, Big City",
     "stores": [
@@ -17611,6 +17681,12 @@
   },
   "lucy dreaming": {
     "name": "Lucy Dreaming",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "lugaru hd": {
+    "name": "Lugaru HD",
     "stores": [
       "STEAM"
     ]
@@ -18237,6 +18313,12 @@
   },
   "meccha chameleon": {
     "name": "MECCHA CHAMELEON",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "mech havoc": {
+    "name": "Mech Havoc",
     "stores": [
       "STEAM"
     ]
@@ -18907,6 +18989,12 @@
       "STEAM"
     ]
   },
+  "mixtape": {
+    "name": "Mixtape",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "mlf pro catch demo": {
     "name": "MLF: Pro Catch (Demo)",
     "stores": [
@@ -19381,6 +19469,18 @@
   },
   "mount blade warband": {
     "name": "Mount & Blade: Warband",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "mount blade with fire sword": {
+    "name": "Mount & Blade: With Fire & Sword",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "move or die": {
+    "name": "Move or Die",
     "stores": [
       "STEAM"
     ]
@@ -20460,6 +20560,12 @@
       "STEAM"
     ]
   },
+  "nova drift": {
+    "name": "Nova Drift",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "nova hearts": {
     "name": "Nova Hearts",
     "stores": [
@@ -21050,6 +21156,12 @@
       "STEAM"
     ]
   },
+  "order of the sinking star": {
+    "name": "Order of the Sinking Star",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "order of the sinking star demo": {
     "name": "Order of the Sinking Star Demo",
     "stores": [
@@ -21346,6 +21458,13 @@
   "outpost zero": {
     "name": "Outpost Zero",
     "stores": [
+      "STEAM"
+    ]
+  },
+  "outriders": {
+    "name": "OUTRIDERS",
+    "stores": [
+      "EPIC",
       "STEAM"
     ]
   },
@@ -23385,6 +23504,12 @@
       "STEAM"
     ]
   },
+  "quern undying thoughts": {
+    "name": "Quern - Undying Thoughts",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "quest hunter": {
     "name": "Quest Hunter",
     "stores": [
@@ -23864,6 +23989,13 @@
   "recharge": {
     "name": "Recharge",
     "stores": [
+      "STEAM"
+    ]
+  },
+  "recipe for disaster": {
+    "name": "Recipe for Disaster",
+    "stores": [
+      "EPIC",
       "STEAM"
     ]
   },
@@ -24949,6 +25081,12 @@
       "STEAM"
     ]
   },
+  "rooftops alleys the parkour game": {
+    "name": "Rooftops & Alleys: The Parkour Game",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "roombattle": {
     "name": "Roombattle",
     "stores": [
@@ -24977,6 +25115,13 @@
     "name": "Roto Force",
     "stores": [
       "STEAM"
+    ]
+  },
+  "routine": {
+    "name": "ROUTINE",
+    "stores": [
+      "STEAM",
+      "XBOX"
     ]
   },
   "rover mechanic simulator": {
@@ -26879,6 +27024,12 @@
       "STEAM"
     ]
   },
+  "skydrift infinity": {
+    "name": "Skydrift Infinity",
+    "stores": [
+      "EPIC"
+    ]
+  },
   "skye the misty isle": {
     "name": "Skye: The Misty Isle",
     "stores": [
@@ -27836,6 +27987,12 @@
     "name": "Spider Slingers",
     "stores": [
       "STEAM"
+    ]
+  },
+  "spiderheck": {
+    "name": "Spiderheck",
+    "stores": [
+      "XBOX"
     ]
   },
   "spike volleyball": {
@@ -29852,6 +30009,12 @@
   },
   "sword legacy omen": {
     "name": "Sword Legacy: Omen",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "sword of justice": {
+    "name": "SWORD OF JUSTICE",
     "stores": [
       "STEAM"
     ]
@@ -37006,6 +37169,12 @@
   },
   "yetifree": {
     "name": "YetiFree",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "ylands": {
+    "name": "Ylands",
     "stores": [
       "STEAM"
     ]
