@@ -1861,6 +1861,12 @@
       "STEAM"
     ]
   },
+  "arena an age of barbarians story": {
+    "name": "ARENA an Age of Barbarians story",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "arena renovation": {
     "name": "Arena Renovation",
     "stores": [
@@ -2451,6 +2457,12 @@
       "STEAM"
     ]
   },
+  "atom rpg 2 demo": {
+    "name": "ATOM RPG 2 Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "atom rpg trudograd": {
     "name": "ATOM RPG Trudograd",
     "stores": [
@@ -2682,6 +2694,12 @@
   },
   "a列車で行こう8": {
     "name": "A列車で行こう8",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "b a d battle armor division": {
+    "name": "B.A.D Battle Armor Division",
     "stores": [
       "STEAM"
     ]
@@ -3708,6 +3726,12 @@
   },
   "blastard demo": {
     "name": "BLASTARD! Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "blaster": {
+    "name": "Blaster!",
     "stores": [
       "STEAM"
     ]
@@ -13396,6 +13420,12 @@
       "STEAM"
     ]
   },
+  "guys with magnets": {
+    "name": "Guys with Magnets",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "gwent the witcher card game": {
     "name": "GWENT®: The Witcher Card Game",
     "stores": [
@@ -15907,6 +15937,12 @@
       "STEAM"
     ]
   },
+  "karate master 2 knock down blow": {
+    "name": "Karate Master 2 Knock Down Blow",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "kardboard kings card shop simulator": {
     "name": "Kardboard Kings: Card Shop Simulator",
     "stores": [
@@ -18131,6 +18167,12 @@
       "STEAM"
     ]
   },
+  "mars clicker demo": {
+    "name": "Mars Clicker Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "mars first logistics": {
     "name": "Mars First Logistics",
     "stores": [
@@ -19361,12 +19403,6 @@
   },
   "mortal shell ii": {
     "name": "Mortal Shell II",
-    "stores": [
-      "STEAM"
-    ]
-  },
-  "mortal shell ii open beta": {
-    "name": "Mortal Shell II - Open Beta",
     "stores": [
       "STEAM"
     ]
@@ -22149,6 +22185,12 @@
   },
   "perish": {
     "name": "PERISH",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "permafrost": {
+    "name": "Permafrost",
     "stores": [
       "STEAM"
     ]
@@ -26764,6 +26806,12 @@
       "STEAM"
     ]
   },
+  "simhaus football": {
+    "name": "Simhaus: Football",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "simply puzzles codewords": {
     "name": "Simply Puzzles: Codewords",
     "stores": [
@@ -27442,6 +27490,12 @@
   },
   "solargene": {
     "name": "Solargene",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "solarpunk": {
+    "name": "Solarpunk™",
     "stores": [
       "STEAM"
     ]
@@ -34283,6 +34337,12 @@
   },
   "truck racer": {
     "name": "Truck Racer",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "truckful": {
+    "name": "Truckful",
     "stores": [
       "STEAM"
     ]

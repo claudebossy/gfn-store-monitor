@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T13:14:10+00:00",
+  "generated_at": "2026-10-09T22:36:45+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -4387,6 +4387,82 @@
       "new_game_count": 0,
       "new_store_count": 0,
       "new_games": [],
+      "new_stores": []
+    },
+    {
+      "timestamp": "2026-10-09T22:36:45+00:00",
+      "baseline": false,
+      "catalog_game_count": 6121,
+      "new_game_count": 11,
+      "new_store_count": 0,
+      "new_games": [
+        {
+          "name": "ARENA an Age of Barbarians story",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "ATOM RPG 2 Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "B.A.D Battle Armor Division",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Blaster!",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Guys with Magnets",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Karate Master 2 Knock Down Blow",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Mars Clicker Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Permafrost",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Simhaus: Football",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Solarpunk™",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Truckful",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
       "new_stores": []
     }
   ]
