@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T13:26:46+00:00",
+  "generated_at": "2026-10-09T22:43:50+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,15 +13,15 @@
     }
   },
   "counts": {
-    "gfn_titles": 6111,
+    "gfn_titles": 6121,
     "xbox_pc_titles": 560,
     "catalog_titles": 534,
-    "intersection_titles": 346,
-    "xbox_only_titles": 188
+    "intersection_titles": 347,
+    "xbox_only_titles": 187
   },
   "summary": {
     "store_counts": {
-      "STEAM": 322,
+      "STEAM": 323,
       "XBOX": 201,
       "EPIC": 74,
       "UPLAY": 30,
@@ -84,12 +84,12 @@
       }
     ],
     "gfn_xbox_store_matches": 201,
-    "intersection_titles": 346,
-    "xbox_only_titles": 188,
+    "intersection_titles": 347,
+    "xbox_only_titles": 187,
     "hltb_matches": 389,
     "opencritic_matches": 460,
     "short_game_score_matches": 295,
-    "exact_matches": 321,
+    "exact_matches": 322,
     "partial_matches": 25
   },
   "games": [
@@ -18091,11 +18091,13 @@
       }
     },
     {
-      "catalog_group": "xbox-only",
-      "is_on_gfn": false,
-      "title": "Solarpunk",
+      "catalog_group": "intersection",
+      "is_on_gfn": true,
+      "title": "Solarpunk™",
       "normalized_title": "solarpunk",
-      "gfn_stores": [],
+      "gfn_stores": [
+        "STEAM"
+      ],
       "gfn_has_xbox_store": false,
       "xbox_title": "Solarpunk",
       "xbox_product_id": "9N8BRH7PGJMJ",
@@ -18105,8 +18107,8 @@
       "release_date": "2026-06-08T13:00:00.0000000Z",
       "image_url": "https://store-images.s-microsoft.com/image/apps.32246.14048175656271533.921e1817-53b5-470d-9f55-c1e8e8e03e8b.a0c76f69-677d-495b-b7e0-5b256e230554",
       "description": "Solarpunk is a survival game in a technically advanced world of floating islands. Alone or together with your friends, you can construct buildings, grow food, craft gadgets and hop on your airship to explore distant islands in the sky.",
-      "match_type": "xbox-only",
-      "match_score": 0,
+      "match_type": "exact-title",
+      "match_score": 120,
       "howlongtobeat": {
         "title": "Solarpunk",
         "game_id": 128897,
@@ -23797,7 +23799,7 @@
       "publisher": "Wargaming Group Limited",
       "developer": "Wargaming Group Limited",
       "release_date": "2017-11-03T18:08:36.1008660Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.54721.13660342589962425.2996ae9a-7a25-4f2c-b39b-82e0ebf11032.4eb3d27e-b400-42fd-891a-5c2d596373ba",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.55678.13660342589962425.6455870f-14f6-40c6-8297-921ec3889341.7a8d87fc-a637-4cd9-8541-bbfc90238344",
       "description": null,
       "match_type": "exact-title",
       "match_score": 120,
