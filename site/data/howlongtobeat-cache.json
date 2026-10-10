@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T22:44:04+00:00",
+  "updated_at": "2026-10-10T06:01:43+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -7972,37 +7972,37 @@
     "the royal writ": {
       "title": "The Royal Writ",
       "status": "matched",
-      "fetched_at": "2026-09-10T04:52:50+00:00",
+      "fetched_at": "2026-10-10T06:01:40+00:00",
       "data": {
         "title": "The Royal Writ",
         "game_id": 170289,
         "url": "https://howlongtobeat.com/game/170289",
         "image_url": "https://howlongtobeat.com/games/170289_The_Royal_Writ.jpg",
-        "main_story_seconds": 18000,
-        "review_score": 74,
-        "completion_count": 5,
+        "main_story_seconds": 13469,
+        "review_score": 68,
+        "completion_count": 10,
         "release_year": 2025,
-        "profile_platform": "PC",
+        "profile_platform": "PC, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 133
+        "match_score": 135
       }
     },
     "virtua fighter 5 r e v o world stage": {
       "title": "Virtua Fighter 5 R.E.V.O. World Stage",
       "status": "matched",
-      "fetched_at": "2026-09-10T04:52:52+00:00",
+      "fetched_at": "2026-10-10T06:01:42+00:00",
       "data": {
         "title": "Virtua Fighter 5 R.E.V.O. World Stage",
         "game_id": 159606,
         "url": "https://howlongtobeat.com/game/159606",
         "image_url": "https://howlongtobeat.com/games/159606_Virtua_Fighter_5_R.E.V.O..jpg",
-        "main_story_seconds": 1613,
-        "review_score": 77,
-        "completion_count": 30,
+        "main_story_seconds": 1905,
+        "review_score": 73,
+        "completion_count": 38,
         "release_year": 2025,
         "profile_platform": "Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 139
+        "match_score": 142
       }
     },
     "final fantasy xvi": {
