@@ -513,6 +513,16 @@
           card.className = "summary-card";
 
           const current = product.current;
+          const bestLowPrice = (product.history || []).reduce(
+            (lowest, entry) =>
+              Number.isFinite(entry.price)
+                ? Math.min(lowest, entry.price)
+                : lowest,
+            Number.isFinite(current.price) ? current.price : Infinity
+          );
+          const bestLowText = Number.isFinite(bestLowPrice)
+            ? `Best low: ${formatMoney(bestLowPrice, trackerData.currency)}`
+            : "Best low unavailable";
           const statusClass = current.available
             ? "in-stock"
             : "out-of-stock";
@@ -540,6 +550,7 @@
               trackerData.currency
             )}</div>
             <div class="status ${statusClass}">${statusLabel}</div>
+            <p class="meta">${bestLowText}</p>
             <p class="meta">${retailText}</p>
             <p class="meta">${discountText}</p>
             <p class="meta">Sampled: ${formatTimestamp(

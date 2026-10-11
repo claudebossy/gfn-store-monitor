@@ -194,6 +194,9 @@ The generated history file is stored in:
 
     site/data/instant-gaming-price-history.json
 
+Each product card shows the current price, availability, and best low
+price recorded in its snapshot history (including the current price).
+
 The repository also builds a second static catalog page showing the
 overlap between the GeForce NOW catalog and Xbox PC Game Pass, along
 with cached HowLongToBeat main-story durations and OpenCritic scores
