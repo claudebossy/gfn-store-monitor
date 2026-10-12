@@ -9897,6 +9897,12 @@
       "STEAM"
     ]
   },
+  "embracelet": {
+    "name": "Embracelet",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "emergency call the firefighting simulation 3": {
     "name": "Emergency Call - The Firefighting Simulation 3",
     "stores": [
@@ -18853,6 +18859,12 @@
       "UPLAY"
     ]
   },
+  "milkmaid of the milky way": {
+    "name": "Milkmaid of the Milky Way",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "millennia": {
     "name": "Millennia",
     "stores": [
@@ -21027,6 +21039,12 @@
       "STEAM"
     ]
   },
+  "one night in kawami": {
+    "name": "One Night in Kawami",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "one troll army": {
     "name": "One Troll Army",
     "stores": [
@@ -23111,6 +23129,12 @@
   },
   "pro fishing simulator": {
     "name": "PRO FISHING SIMULATOR",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "pro football": {
+    "name": "Pro Football",
     "stores": [
       "STEAM"
     ]
@@ -33748,6 +33772,12 @@
       "STEAM"
     ]
   },
+  "tower networking inc": {
+    "name": "Tower Networking Inc.",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "tower of fantasy": {
     "name": "Tower of Fantasy",
     "stores": [
@@ -36615,6 +36645,12 @@
   },
   "woodle tree adventures": {
     "name": "Woodle Tree Adventures",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "woodo": {
+    "name": "Woodo",
     "stores": [
       "STEAM"
     ]
