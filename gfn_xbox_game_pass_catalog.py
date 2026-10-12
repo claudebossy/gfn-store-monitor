@@ -22,7 +22,7 @@ from gfn_monitor import (
 OUTPUT_FILE = (
     Path("site")
     / "data"
-    / "gfn-xbox-pc-game-pass-catalog.json"
+    / "gfn-xbox-game-pass-ultimate-catalog.json"
 )
 HLTB_CACHE_FILE = (
     Path("site")
@@ -43,16 +43,17 @@ XBOX_LANGUAGE = os.getenv(
     "XBOX_LANGUAGE",
     os.getenv("GFN_LANGUAGE", "en_US"),
 ).strip().replace("_", "-").lower()
-XBOX_PLATFORM_CONTEXT = "pc"
-XBOX_SUBSCRIPTION_CONTEXT = "cfq7ttc0kgq8"
-XBOX_PC_SIGL_ID = "609d944c-d395-4c0a-9ea4-e9f39b52c1ad"
+XBOX_ULTIMATE_SIGL_IDS = (
+    "f6f1f99f-9b49-4ccd-b3bf-4d9767a77f5e",
+    "fdd9e2a7-0fee-49f6-ad69-4354098401ff",
+    "609d944c-d395-4c0a-9ea4-e9f39b52c1ad",
+    "29a81209-df6f-41fd-a528-2ae6b91f719c",
+)
 XBOX_SIGL_URL = (
-    "https://catalog.gamepass.com/sigls/v3"
+    "https://catalog.gamepass.com/sigls/v2"
     "?id={sigl_id}"
     "&language={language}"
     "&market={market}"
-    "&platformContext={platform_context}"
-    "&subscriptionContext={subscription_context}"
 )
 XBOX_PRODUCTS_URL = (
     "https://displaycatalog.mp.microsoft.com/v7.0/products"
@@ -660,32 +661,30 @@ def find_product_match(
     return None
 
 
-def fetch_xbox_pc_product_ids() -> list[str]:
-    url = XBOX_SIGL_URL.format(
-        sigl_id=XBOX_PC_SIGL_ID,
-        language=XBOX_LANGUAGE,
-        market=XBOX_MARKET,
-        platform_context=XBOX_PLATFORM_CONTEXT,
-        subscription_context=XBOX_SUBSCRIPTION_CONTEXT,
-    )
-    payload = request_json(url)
-
-    if not isinstance(payload, list):
-        raise RuntimeError("Xbox SIGL response was not a list")
-
+def fetch_xbox_ultimate_product_ids() -> list[str]:
     product_ids = []
 
-    for item in payload:
-        if not isinstance(item, dict):
-            continue
+    for sigl_id in XBOX_ULTIMATE_SIGL_IDS:
+        url = XBOX_SIGL_URL.format(
+            sigl_id=sigl_id,
+            language=XBOX_LANGUAGE,
+            market=XBOX_MARKET,
+        )
+        payload = request_json(url)
 
-        product_id = item.get("id")
+        if not isinstance(payload, list):
+            raise RuntimeError("Xbox SIGL response was not a list")
 
-        if isinstance(product_id, str) and product_id.strip():
-            product_ids.append(product_id.strip())
+        for item in payload:
+            if not isinstance(item, dict):
+                continue
+
+            product_id = item.get("id")
+
+            if isinstance(product_id, str) and product_id.strip():
+                product_ids.append(product_id.strip())
 
     return list(dict.fromkeys(product_ids))
-
 
 def fetch_xbox_products(product_ids: list[str]) -> list[dict]:
     products = []
@@ -1758,13 +1757,13 @@ def main() -> None:
     hltb_client = HltbClient()
     opencritic_client = OpenCriticClient()
 
-    print("Fetching Xbox PC Game Pass catalog...")
-    xbox_product_ids = fetch_xbox_pc_product_ids()
+    print("Fetching Xbox Game Pass Ultimate catalog...")
+    xbox_product_ids = fetch_xbox_ultimate_product_ids()
     xbox_products = fetch_xbox_products(xbox_product_ids)
 
     print(
         f"Loaded {len(gfn_catalog)} GFN titles and "
-        f"{len(xbox_products)} Xbox PC Game Pass products."
+        f"{len(xbox_products)} Xbox Game Pass Ultimate products."
     )
 
     matches_by_gfn_key = {}
@@ -1854,7 +1853,7 @@ def main() -> None:
         },
         "counts": {
             "gfn_titles": len(gfn_catalog),
-            "xbox_pc_titles": len(xbox_products),
+            "xbox_game_pass_titles": len(xbox_products),
             "catalog_titles": len(matches),
             "intersection_titles": len(matches_by_gfn_key),
             "xbox_only_titles": len(xbox_only_by_title),

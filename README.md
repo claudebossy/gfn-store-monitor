@@ -195,7 +195,7 @@ The generated history file is stored in:
     site/data/instant-gaming-price-history.json
 
 The repository also builds a second static catalog page showing the
-overlap between the GeForce NOW catalog and Xbox PC Game Pass, along
+overlap between the GeForce NOW catalog and Xbox Game Pass Ultimate, along
 with cached HowLongToBeat main-story durations and OpenCritic scores
 when matches are available. It also derives a short-game score that
 blends 70% OpenCritic score with 30% main-story length fit, giving full
@@ -204,7 +204,7 @@ toward 40 hours. The page can switch between the overlap and the Xbox PC
 Game Pass titles that are still missing from GeForce NOW. The
 generated dataset is stored in:
 
-    site/data/gfn-xbox-pc-game-pass-catalog.json
+    site/data/gfn-xbox-game-pass-ultimate-catalog.json
 
 The generator also stores a HowLongToBeat lookup cache so scheduled
 GitHub Actions runs can refresh playtime data without starting from
@@ -237,5 +237,5 @@ GitHub Pages is deployed by:
 
 That deployment runs after the data-update workflows complete
 successfully. The existing Instant Gaming tracker remains at the site
-root and links to both the GFN x PC Game Pass catalog page and the
+root and links to both the GFN x Xbox Game Pass Ultimate catalog page and the
 monitor history page.

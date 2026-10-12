@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T15:42:16+00:00",
+  "updated_at": "2026-10-12T21:36:20+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -8267,6 +8267,2070 @@
         "profile_platform": "Mac, Nintendo Switch 2, PC, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
         "match_score": 140
+      }
+    },
+    "assassin s creed 2": {
+      "title": "Assassin's Creed 2",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:30:38+00:00",
+      "data": {
+        "title": "Assassin's Creed II",
+        "game_id": 651,
+        "url": "https://howlongtobeat.com/game/651",
+        "image_url": "https://howlongtobeat.com/games/Assassins_Creed_2_Box_Art.JPG",
+        "main_story_seconds": 69426,
+        "review_score": 84,
+        "completion_count": 19990,
+        "release_year": 2009,
+        "profile_platform": "Nintendo Switch, PC, PlayStation 3, PlayStation 4, Xbox 360, Xbox One",
+        "match_type": "exact",
+        "match_score": 136
+      }
+    },
+    "assassin s creed brotherhood": {
+      "title": "Assassin's Creed Brotherhood",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:30:43+00:00",
+      "data": {
+        "title": "Assassin's Creed: Brotherhood",
+        "game_id": 661,
+        "url": "https://howlongtobeat.com/game/661",
+        "image_url": "https://howlongtobeat.com/games/Assassins_Creed_brotherhood_cover.jpg",
+        "main_story_seconds": 55047,
+        "review_score": 81,
+        "completion_count": 14194,
+        "release_year": 2010,
+        "profile_platform": "Nintendo Switch, OnLive, PC, PlayStation 3, PlayStation 4, Xbox 360, Xbox One",
+        "match_type": "exact",
+        "match_score": 136
+      }
+    },
+    "assassin s creed chronicles china": {
+      "title": "Assassin’s Creed® Chronicles: China",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:30:44+00:00",
+      "data": null
+    },
+    "assassin s creed chronicles india": {
+      "title": "Assassin’s Creed® Chronicles: India",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:30:47+00:00",
+      "data": null
+    },
+    "assassin s creed chronicles russia": {
+      "title": "Assassin’s Creed® Chronicles: Russia",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:30:48+00:00",
+      "data": null
+    },
+    "assassin s creed chronicles trilogy": {
+      "title": "Assassin's Creed Chronicles – Trilogy",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:30:51+00:00",
+      "data": null
+    },
+    "assassin s creed director s cut edition": {
+      "title": "Assassin's Creed™: Director's Cut Edition",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:30:52+00:00",
+      "data": null
+    },
+    "assassin s creed freedom cry": {
+      "title": "Assassin's Creed Freedom Cry",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:30:54+00:00",
+      "data": {
+        "title": "Assassin's Creed: Freedom Cry",
+        "game_id": 15441,
+        "url": "https://howlongtobeat.com/game/15441",
+        "image_url": "https://howlongtobeat.com/games/15441_Assassins_Creed_Freedom_Cry.png",
+        "main_story_seconds": 15035,
+        "review_score": 66,
+        "completion_count": 2345,
+        "release_year": 2013,
+        "profile_platform": "Nintendo Switch, PC, PlayStation 3, PlayStation 4, Xbox 360, Xbox One",
+        "match_type": "exact",
+        "match_score": 142
+      }
+    },
+    "assassin s creed iii remastered": {
+      "title": "Assassin’s Creed® III Remastered",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:30:55+00:00",
+      "data": null
+    },
+    "assassin s creed iv black flag": {
+      "title": "Assassin’s Creed® IV Black Flag™",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:30:58+00:00",
+      "data": {
+        "title": "Assassin's Creed IV: Black Flag",
+        "game_id": 12707,
+        "url": "https://howlongtobeat.com/game/12707",
+        "image_url": "https://howlongtobeat.com/games/Assassins_Creed_IV_-_Black_Flag_cover.jpg",
+        "main_story_seconds": 84319,
+        "review_score": 82,
+        "completion_count": 14356,
+        "release_year": 2013,
+        "profile_platform": "Google Stadia, Nintendo Switch, PC, PlayStation 3, PlayStation 4, Wii U, Xbox 360, Xbox One",
+        "match_type": "exact",
+        "match_score": 136
+      }
+    },
+    "assassin s creed iv black flag gold edition": {
+      "title": "Assassin’s Creed® IV Black Flag™ - Gold Edition",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:31:01+00:00",
+      "data": null
+    },
+    "assassin s creed revelations": {
+      "title": "Assassin’s Creed® Revelations",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:31:04+00:00",
+      "data": {
+        "title": "Assassin's Creed: Revelations",
+        "game_id": 664,
+        "url": "https://howlongtobeat.com/game/664",
+        "image_url": "https://howlongtobeat.com/games/664_Assassins_Creed_Revelations.jpg",
+        "main_story_seconds": 44833,
+        "review_score": 76,
+        "completion_count": 11573,
+        "release_year": 2011,
+        "profile_platform": "Nintendo Switch, PC, PlayStation 3, PlayStation 4, Xbox 360, Xbox One",
+        "match_type": "exact",
+        "match_score": 142
+      }
+    },
+    "assassin s creed rogue": {
+      "title": "Assassin’s Creed® Rogue",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:31:08+00:00",
+      "data": {
+        "title": "Assassin's Creed: Rogue",
+        "game_id": 21246,
+        "url": "https://howlongtobeat.com/game/21246",
+        "image_url": "https://howlongtobeat.com/games/Assassins_Creed_Rogue.jpg",
+        "main_story_seconds": 38956,
+        "review_score": 72,
+        "completion_count": 5857,
+        "release_year": 2014,
+        "profile_platform": "Nintendo Switch, PC, PlayStation 3, PlayStation 4, Xbox 360, Xbox One",
+        "match_type": "exact",
+        "match_score": 136
+      }
+    },
+    "assassin s creed syndicate": {
+      "title": "Assassin’s Creed®: Syndicate",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:31:10+00:00",
+      "data": {
+        "title": "Assassin's Creed: Syndicate",
+        "game_id": 26706,
+        "url": "https://howlongtobeat.com/game/26706",
+        "image_url": "https://howlongtobeat.com/games/AassCreedSyndicate.jpg",
+        "main_story_seconds": 68489,
+        "review_score": 73,
+        "completion_count": 7155,
+        "release_year": 2015,
+        "profile_platform": "Google Stadia, PC, PlayStation 4, Xbox One",
+        "match_type": "exact",
+        "match_score": 142
+      }
+    },
+    "assassin s creed unity": {
+      "title": "Assassin's Creed® Unity",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:31:13+00:00",
+      "data": {
+        "title": "Assassin's Creed: Unity",
+        "game_id": 21269,
+        "url": "https://howlongtobeat.com/game/21269",
+        "image_url": "https://howlongtobeat.com/games/Assassinscreedunity.jpg",
+        "main_story_seconds": 61980,
+        "review_score": 71,
+        "completion_count": 8094,
+        "release_year": 2014,
+        "profile_platform": "Google Stadia, PC, PlayStation 4, Xbox One",
+        "match_type": "exact",
+        "match_score": 142
+      }
+    },
+    "atlas": {
+      "title": "ATLAS",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:31:15+00:00",
+      "data": {
+        "title": "Atlas",
+        "game_id": 41327,
+        "url": "https://howlongtobeat.com/game/41327",
+        "image_url": "https://howlongtobeat.com/games/41327_Atlas_(2018).jpg",
+        "main_story_seconds": 64800,
+        "review_score": 48,
+        "completion_count": 29,
+        "release_year": 2018,
+        "profile_platform": "PC",
+        "match_type": "exact",
+        "match_score": 140
+      }
+    },
+    "banjo kazooie": {
+      "title": "Banjo-Kazooie",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:31:18+00:00",
+      "data": {
+        "title": "Banjo-Kazooie",
+        "game_id": 834,
+        "url": "https://howlongtobeat.com/game/834",
+        "image_url": "https://howlongtobeat.com/games/250px-BanjoKazooieCover500px.jpg",
+        "main_story_seconds": 42382,
+        "review_score": 85,
+        "completion_count": 2665,
+        "release_year": 1998,
+        "profile_platform": "Nintendo 64, Xbox 360",
+        "match_type": "exact",
+        "match_score": 125
+      }
+    },
+    "banjo kazooie n n b": {
+      "title": "Banjo Kazooie: N n B",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:31:20+00:00",
+      "data": null
+    },
+    "banjo tooie": {
+      "title": "Banjo-Tooie",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:31:22+00:00",
+      "data": {
+        "title": "Banjo-Tooie",
+        "game_id": 837,
+        "url": "https://howlongtobeat.com/game/837",
+        "image_url": "https://howlongtobeat.com/games/250px-Banjo-Tooie_Coverart.png",
+        "main_story_seconds": 62222,
+        "review_score": 82,
+        "completion_count": 945,
+        "release_year": 2000,
+        "profile_platform": "Nintendo 64, Xbox 360",
+        "match_type": "exact",
+        "match_score": 125
+      }
+    },
+    "battlefield 3": {
+      "title": "Battlefield 3™",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:31:24+00:00",
+      "data": null
+    },
+    "battlefield hardline": {
+      "title": "Battlefield™ Hardline",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:31:26+00:00",
+      "data": null
+    },
+    "bejeweled 2": {
+      "title": "Bejeweled 2",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:31:28+00:00",
+      "data": {
+        "title": "Bejeweled 2",
+        "game_id": 1000,
+        "url": "https://howlongtobeat.com/game/1000",
+        "image_url": "https://howlongtobeat.com/games/1000_Bejeweled_2.png",
+        "main_story_seconds": 6484,
+        "review_score": 69,
+        "completion_count": 93,
+        "release_year": 2004,
+        "profile_platform": "PC, PlayStation 3, PlayStation Portable, Xbox 360, Xbox One",
+        "match_type": "exact",
+        "match_score": 133
+      }
+    },
+    "bejeweled 3": {
+      "title": "Bejeweled 3",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:31:30+00:00",
+      "data": {
+        "title": "Bejeweled 3",
+        "game_id": 1001,
+        "url": "https://howlongtobeat.com/game/1001",
+        "image_url": "https://howlongtobeat.com/games/256px-Bejeweled_3.png",
+        "main_story_seconds": 16185,
+        "review_score": 72,
+        "completion_count": 576,
+        "release_year": 2010,
+        "profile_platform": "Mobile, PC, PlayStation 3, Xbox 360, Xbox One",
+        "match_type": "exact",
+        "match_score": 136
+      }
+    },
+    "black": {
+      "title": "BLACK™",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:31:32+00:00",
+      "data": null
+    },
+    "brütal legend": {
+      "title": "Brütal Legend",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:31:34+00:00",
+      "data": {
+        "title": "Brütal Legend",
+        "game_id": 1345,
+        "url": "https://howlongtobeat.com/game/1345",
+        "image_url": "https://howlongtobeat.com/games/256px-BrutalLegendCover.jpg",
+        "main_story_seconds": 33343,
+        "review_score": 71,
+        "completion_count": 3793,
+        "release_year": 2009,
+        "profile_platform": "Linux, Mac, PC, PlayStation 3, Xbox 360, Xbox One",
+        "match_type": "exact",
+        "match_score": 130
+      }
+    },
+    "call of duty black ops 6 cross gen bundle": {
+      "title": "Call of Duty®: Black Ops 6 - Cross-Gen Bundle",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:31:36+00:00",
+      "data": null
+    },
+    "call of duty black ops cold war cross gen bundle": {
+      "title": "Call of Duty®: Black Ops Cold War - Cross-Gen Bundle",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:31:38+00:00",
+      "data": null
+    },
+    "child of light": {
+      "title": "Child of Light™",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:31:39+00:00",
+      "data": {
+        "title": "Child of Light",
+        "game_id": 17012,
+        "url": "https://howlongtobeat.com/game/17012",
+        "image_url": "https://howlongtobeat.com/games/240px-Child_of_Light_art.jpg",
+        "main_story_seconds": 40266,
+        "review_score": 78,
+        "completion_count": 3834,
+        "release_year": 2014,
+        "profile_platform": "Google Stadia, Nintendo Switch, PC, PlayStation 3, PlayStation 4, PlayStation Vita, Wii U, Xbox 360, Xbox One",
+        "match_type": "exact",
+        "match_score": 142
+      }
+    },
+    "colony ship a post earth role playing game": {
+      "title": "Colony Ship: A Post-Earth Role Playing Game",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:31:42+00:00",
+      "data": {
+        "title": "Colony Ship: A Post-Earth Role Playing Game",
+        "game_id": 90797,
+        "url": "https://howlongtobeat.com/game/90797",
+        "image_url": "https://howlongtobeat.com/games/90797_Colony_Ship_A_Post-Earth_Role_Playing_Game.jpg",
+        "main_story_seconds": 62861,
+        "review_score": 69,
+        "completion_count": 52,
+        "release_year": 2023,
+        "profile_platform": "PC",
+        "match_type": "exact",
+        "match_score": 127
+      }
+    },
+    "contrast": {
+      "title": "Contrast",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:31:44+00:00",
+      "data": {
+        "title": "Contrast",
+        "game_id": 14349,
+        "url": "https://howlongtobeat.com/game/14349",
+        "image_url": "https://howlongtobeat.com/games/Contrast_game_logo.jpg",
+        "main_story_seconds": 11660,
+        "review_score": 67,
+        "completion_count": 1933,
+        "release_year": 2013,
+        "profile_platform": "Mobile, PC, PlayStation 3, PlayStation 4, Xbox 360, Xbox One",
+        "match_type": "exact",
+        "match_score": 136
+      }
+    },
+    "control": {
+      "title": "Control",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:31:47+00:00",
+      "data": {
+        "title": "Control",
+        "game_id": 57507,
+        "url": "https://howlongtobeat.com/game/57507",
+        "image_url": "https://howlongtobeat.com/games/57507_Control.jpg",
+        "main_story_seconds": 42098,
+        "review_score": 80,
+        "completion_count": 6953,
+        "release_year": 2019,
+        "profile_platform": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
+        "match_type": "exact",
+        "match_score": 142
+      }
+    },
+    "control ultimate edition xbox series x s": {
+      "title": "Control Ultimate Edition - Xbox Series X|S",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:31:49+00:00",
+      "data": null
+    },
+    "costume quest 2": {
+      "title": "Costume Quest 2",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:31:51+00:00",
+      "data": {
+        "title": "Costume Quest 2",
+        "game_id": 21537,
+        "url": "https://howlongtobeat.com/game/21537",
+        "image_url": "https://howlongtobeat.com/games/CostumeQuest2header.jpg",
+        "main_story_seconds": 24205,
+        "review_score": 71,
+        "completion_count": 955,
+        "release_year": 2014,
+        "profile_platform": "PC, PlayStation 3, PlayStation 4, Wii U, Xbox 360, Xbox One",
+        "match_type": "exact",
+        "match_score": 142
+      }
+    },
+    "crash team racing nitro fueled": {
+      "title": "Crash™ Team Racing Nitro-Fueled",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:31:53+00:00",
+      "data": null
+    },
+    "crysis 2": {
+      "title": "Crysis 2",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:31:55+00:00",
+      "data": {
+        "title": "Crysis 2",
+        "game_id": 2069,
+        "url": "https://howlongtobeat.com/game/2069",
+        "image_url": "https://howlongtobeat.com/games/Crysis_2_cover.png",
+        "main_story_seconds": 32550,
+        "review_score": 74,
+        "completion_count": 5709,
+        "release_year": 2011,
+        "profile_platform": "Nintendo Switch, PC, PlayStation 3, PlayStation 4, Xbox 360, Xbox One",
+        "match_type": "exact",
+        "match_score": 136
+      }
+    },
+    "dante s inferno": {
+      "title": "Dante's Inferno™",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:31:58+00:00",
+      "data": null
+    },
+    "dead space ignition": {
+      "title": "Dead Space™ Ignition",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:32:00+00:00",
+      "data": null
+    },
+    "dirt rally 2 0": {
+      "title": "DiRT Rally 2.0",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:32:02+00:00",
+      "data": {
+        "title": "Dirt Rally 2.0",
+        "game_id": 65104,
+        "url": "https://howlongtobeat.com/game/65104",
+        "image_url": "https://howlongtobeat.com/games/65104_Dirt_Rally_20.jpeg",
+        "main_story_seconds": 47083,
+        "review_score": 78,
+        "completion_count": 385,
+        "release_year": 2019,
+        "profile_platform": "PC, PlayStation 4, Xbox One",
+        "match_type": "exact",
+        "match_score": 142
+      }
+    },
+    "doom": {
+      "title": "DOOM",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:32:05+00:00",
+      "data": {
+        "title": "Doom",
+        "game_id": 2708,
+        "url": "https://howlongtobeat.com/game/2708",
+        "image_url": "https://howlongtobeat.com/games/doom_2016.jpg",
+        "main_story_seconds": 41638,
+        "review_score": 84,
+        "completion_count": 21688,
+        "release_year": 2016,
+        "profile_platform": "Google Stadia, Nintendo Switch, PC, PlayStation 4, Xbox One",
+        "match_type": "exact",
+        "match_score": 142
+      }
+    },
+    "doom eternal standard edition": {
+      "title": "DOOM Eternal Standard Edition",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:32:07+00:00",
+      "data": null
+    },
+    "dragon age 2": {
+      "title": "Dragon Age™ 2",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:32:09+00:00",
+      "data": null
+    },
+    "dragon age origins": {
+      "title": "Dragon Age: Origins",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:32:12+00:00",
+      "data": {
+        "title": "Dragon Age: Origins - Ultimate Edition",
+        "game_id": 2767,
+        "url": "https://howlongtobeat.com/game/2767",
+        "image_url": "https://howlongtobeat.com/games/dragonage_ultimate__09421_zoom.jpg",
+        "main_story_seconds": 177522,
+        "review_score": 88,
+        "completion_count": 4527,
+        "release_year": 2010,
+        "profile_platform": "PC, PlayStation 3, Xbox 360",
+        "match_type": "exact",
+        "match_score": 142
+      }
+    },
+    "ea sports college football 25": {
+      "title": "EA SPORTS™ College Football 25",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:32:13+00:00",
+      "data": null
+    },
+    "ea sports college football 26": {
+      "title": "EA SPORTS™ College Football 26",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:32:15+00:00",
+      "data": null
+    },
+    "ea sports fc 25 xbox one": {
+      "title": "EA SPORTS FC™ 25 Xbox One",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:32:18+00:00",
+      "data": null
+    },
+    "ea sports fc 25 xbox series x s": {
+      "title": "EA SPORTS FC™ 25 Xbox Series X|S",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:32:20+00:00",
+      "data": null
+    },
+    "ea sports fc 26 xbox one": {
+      "title": "EA SPORTS FC™ 26 Xbox One",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:32:21+00:00",
+      "data": null
+    },
+    "ea sports fc 26 xbox series x s": {
+      "title": "EA SPORTS FC™ 26 Xbox Series X|S",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:32:22+00:00",
+      "data": null
+    },
+    "elite dangerous": {
+      "title": "Elite Dangerous",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:32:23+00:00",
+      "data": {
+        "title": "Elite: Dangerous",
+        "game_id": 3088,
+        "url": "https://howlongtobeat.com/game/3088",
+        "image_url": "https://howlongtobeat.com/games/EliteDangerous.jpg",
+        "main_story_seconds": 404745,
+        "review_score": 74,
+        "completion_count": 475,
+        "release_year": 2014,
+        "profile_platform": "PC, PlayStation 4, Xbox One",
+        "match_type": "exact",
+        "match_score": 130
+      }
+    },
+    "fable anniversary": {
+      "title": "Fable Anniversary",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:32:26+00:00",
+      "data": {
+        "title": "Fable Anniversary",
+        "game_id": 16586,
+        "url": "https://howlongtobeat.com/game/16586",
+        "image_url": "https://howlongtobeat.com/games/16586_Fable_Anniversary.jpg",
+        "main_story_seconds": 47633,
+        "review_score": 77,
+        "completion_count": 2339,
+        "release_year": 2014,
+        "profile_platform": "PC, Xbox 360, Xbox One",
+        "match_type": "exact",
+        "match_score": 142
+      }
+    },
+    "fable ii": {
+      "title": "Fable II",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:32:30+00:00",
+      "data": {
+        "title": "Fable II",
+        "game_id": 3314,
+        "url": "https://howlongtobeat.com/game/3314",
+        "image_url": "https://howlongtobeat.com/games/3314_Fable_II.jpg",
+        "main_story_seconds": 47644,
+        "review_score": 77,
+        "completion_count": 2012,
+        "release_year": 2008,
+        "profile_platform": "Xbox 360",
+        "match_type": "exact",
+        "match_score": 125
+      }
+    },
+    "fable iii": {
+      "title": "Fable III",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:32:32+00:00",
+      "data": {
+        "title": "Fable III",
+        "game_id": 3316,
+        "url": "https://howlongtobeat.com/game/3316",
+        "image_url": "https://howlongtobeat.com/games/3316_Fable_III.jpg",
+        "main_story_seconds": 48580,
+        "review_score": 69,
+        "completion_count": 2481,
+        "release_year": 2010,
+        "profile_platform": "PC, Xbox 360",
+        "match_type": "exact",
+        "match_score": 142
+      }
+    },
+    "fallout 3": {
+      "title": "Fallout 3",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:32:33+00:00",
+      "data": {
+        "title": "Fallout 3: Game of the Year Edition",
+        "game_id": 3342,
+        "url": "https://howlongtobeat.com/game/3342",
+        "image_url": "https://howlongtobeat.com/games/Fallout_3__Game_of_the_Year_Edition_PC_Box_Art.jpg",
+        "main_story_seconds": 93737,
+        "review_score": 81,
+        "completion_count": 7585,
+        "release_year": 2009,
+        "profile_platform": "Amazon Luna, PC, PlayStation 3, Xbox 360",
+        "match_type": "exact",
+        "match_score": 136
+      }
+    },
+    "far cry 3": {
+      "title": "FAR CRY 3",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:32:36+00:00",
+      "data": {
+        "title": "Far Cry 3",
+        "game_id": 3378,
+        "url": "https://howlongtobeat.com/game/3378",
+        "image_url": "https://howlongtobeat.com/games/250px-Far-cry-3-box-art-xbox-360.jpg",
+        "main_story_seconds": 57380,
+        "review_score": 82,
+        "completion_count": 17676,
+        "release_year": 2012,
+        "profile_platform": "Nintendo Switch 2, PC, PlayStation 3, PlayStation 4, Xbox 360, Xbox One",
+        "match_type": "exact",
+        "match_score": 130
+      }
+    },
+    "far cry 3 blood dragon": {
+      "title": "Far Cry® 3: Blood Dragon",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:32:38+00:00",
+      "data": {
+        "title": "Far Cry 3: Blood Dragon",
+        "game_id": 3379,
+        "url": "https://howlongtobeat.com/game/3379",
+        "image_url": "https://howlongtobeat.com/games/FC3_Blood_Dragon_Cover.jpg",
+        "main_story_seconds": 16009,
+        "review_score": 77,
+        "completion_count": 6374,
+        "release_year": 2013,
+        "profile_platform": "Google Stadia, Nintendo Switch 2, PC, PlayStation 3, PlayStation 4, PlayStation 5, Xbox 360, Xbox One",
+        "match_type": "exact",
+        "match_score": 130
+      }
+    },
+    "far cry 3 classic edition": {
+      "title": "Far Cry 3 Classic Edition",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:32:40+00:00",
+      "data": null
+    },
+    "far cry primal": {
+      "title": "Far Cry® Primal",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:32:42+00:00",
+      "data": {
+        "title": "Far Cry Primal",
+        "game_id": 31054,
+        "url": "https://howlongtobeat.com/game/31054",
+        "image_url": "https://howlongtobeat.com/games/Far_Cry_Primal_cover_art.jpg",
+        "main_story_seconds": 54057,
+        "review_score": 72,
+        "completion_count": 3646,
+        "release_year": 2016,
+        "profile_platform": "PC, PlayStation 4, Xbox One",
+        "match_type": "exact",
+        "match_score": 142
+      }
+    },
+    "farcry 6": {
+      "title": "FARCRY 6",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:32:44+00:00",
+      "data": null
+    },
+    "feeding frenzy": {
+      "title": "Feeding Frenzy",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:32:46+00:00",
+      "data": {
+        "title": "Feeding Frenzy",
+        "game_id": 3425,
+        "url": "https://howlongtobeat.com/game/3425",
+        "image_url": "https://howlongtobeat.com/games/1331205-feedingfrenzy_box_large.png",
+        "main_story_seconds": 6761,
+        "review_score": 65,
+        "completion_count": 220,
+        "release_year": 2004,
+        "profile_platform": "PC, Xbox, Xbox 360, Xbox One",
+        "match_type": "exact",
+        "match_score": 126
+      }
+    },
+    "feeding frenzy 2": {
+      "title": "Feeding Frenzy 2",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:32:48+00:00",
+      "data": {
+        "title": "Feeding Frenzy 2: Shipwreck Showdown",
+        "game_id": 3426,
+        "url": "https://howlongtobeat.com/game/3426",
+        "image_url": "https://howlongtobeat.com/games/Feedingfrenzy2cover.jpg",
+        "main_story_seconds": 9200,
+        "review_score": 70,
+        "completion_count": 252,
+        "release_year": 2006,
+        "profile_platform": "PC, PlayStation 3, Xbox 360, Xbox One",
+        "match_type": "partial",
+        "match_score": 102
+      }
+    },
+    "fight night champion": {
+      "title": "FIGHT NIGHT CHAMPION",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:32:49+00:00",
+      "data": {
+        "title": "Fight Night Champion",
+        "game_id": 3463,
+        "url": "https://howlongtobeat.com/game/3463",
+        "image_url": "https://howlongtobeat.com/games/Fight_Night_Champion.jpg",
+        "main_story_seconds": 16516,
+        "review_score": 77,
+        "completion_count": 260,
+        "release_year": 2011,
+        "profile_platform": "PlayStation 3, Xbox 360, Xbox One",
+        "match_type": "exact",
+        "match_score": 132
+      }
+    },
+    "fortnite": {
+      "title": "Fortnite®",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:32:51+00:00",
+      "data": {
+        "title": "Fortnite",
+        "game_id": 3657,
+        "url": "https://howlongtobeat.com/game/3657",
+        "image_url": "https://howlongtobeat.com/games/3657_Fortnite.jpg",
+        "main_story_seconds": 237964,
+        "review_score": 70,
+        "completion_count": 1275,
+        "release_year": 2017,
+        "profile_platform": "Mobile, Nintendo Switch, Nintendo Switch 2, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
+        "match_type": "exact",
+        "match_score": 142
+      }
+    },
+    "gears of war": {
+      "title": "Gears of War",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:32:54+00:00",
+      "data": {
+        "title": "Gears of War",
+        "game_id": 3862,
+        "url": "https://howlongtobeat.com/game/3862",
+        "image_url": "https://howlongtobeat.com/games/3862_Gears_of_War.jpg",
+        "main_story_seconds": 32549,
+        "review_score": 78,
+        "completion_count": 3868,
+        "release_year": 2006,
+        "profile_platform": "PC, Xbox 360",
+        "match_type": "exact",
+        "match_score": 130
+      }
+    },
+    "gears of war 2": {
+      "title": "Gears of War 2",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:32:56+00:00",
+      "data": {
+        "title": "Gears of War 2",
+        "game_id": 3863,
+        "url": "https://howlongtobeat.com/game/3863",
+        "image_url": "https://howlongtobeat.com/games/3863_Gears_of_War_2.png",
+        "main_story_seconds": 36039,
+        "review_score": 82,
+        "completion_count": 3900,
+        "release_year": 2008,
+        "profile_platform": "Xbox 360",
+        "match_type": "exact",
+        "match_score": 125
+      }
+    },
+    "gears of war 3": {
+      "title": "Gears of War 3",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:32:58+00:00",
+      "data": {
+        "title": "Gears of War 3",
+        "game_id": 3865,
+        "url": "https://howlongtobeat.com/game/3865",
+        "image_url": "https://howlongtobeat.com/games/3865_Gears_of_War_3.png",
+        "main_story_seconds": 35045,
+        "review_score": 82,
+        "completion_count": 3310,
+        "release_year": 2011,
+        "profile_platform": "Xbox 360",
+        "match_type": "exact",
+        "match_score": 131
+      }
+    },
+    "gears of war judgment": {
+      "title": "Gears of War: Judgment",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:32:59+00:00",
+      "data": {
+        "title": "Gears of War: Judgment",
+        "game_id": 3867,
+        "url": "https://howlongtobeat.com/game/3867",
+        "image_url": "https://howlongtobeat.com/games/Gears_of_War-_Judgment_cover.jpg",
+        "main_story_seconds": 25453,
+        "review_score": 68,
+        "completion_count": 1488,
+        "release_year": 2013,
+        "profile_platform": "Xbox 360, Xbox One",
+        "match_type": "exact",
+        "match_score": 137
+      }
+    },
+    "gears of war ultimate edition": {
+      "title": "Gears of War: Ultimate Edition",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:33:00+00:00",
+      "data": {
+        "title": "Gears of War: Ultimate Edition",
+        "game_id": 26794,
+        "url": "https://howlongtobeat.com/game/26794",
+        "image_url": "https://howlongtobeat.com/games/26794_Gears_of_War_Ultimate_Edition.png",
+        "main_story_seconds": 32375,
+        "review_score": 77,
+        "completion_count": 2057,
+        "release_year": 2015,
+        "profile_platform": "PC, Xbox One",
+        "match_type": "exact",
+        "match_score": 142
+      }
+    },
+    "genshin impact": {
+      "title": "Genshin Impact",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:33:01+00:00",
+      "data": {
+        "title": "Genshin Impact",
+        "game_id": 68133,
+        "url": "https://howlongtobeat.com/game/68133",
+        "image_url": "https://howlongtobeat.com/games/68133_Genshin_Impact.jpg",
+        "main_story_seconds": 267061,
+        "review_score": 71,
+        "completion_count": 719,
+        "release_year": 2020,
+        "profile_platform": "Mobile, PC, PlayStation 4, PlayStation 5, Xbox Series X/S",
+        "match_type": "exact",
+        "match_score": 130
+      }
+    },
+    "goldeneye 007": {
+      "title": "GoldenEye 007",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:33:03+00:00",
+      "data": {
+        "title": "GoldenEye 007",
+        "game_id": 4003,
+        "url": "https://howlongtobeat.com/game/4003",
+        "image_url": "https://howlongtobeat.com/games/4003_GoldenEye_007.jfif",
+        "main_story_seconds": 28191,
+        "review_score": 82,
+        "completion_count": 1779,
+        "release_year": 1997,
+        "profile_platform": "Nintendo 64, Nintendo Switch, Xbox One, Xbox Series X/S",
+        "match_type": "exact",
+        "match_score": 125
+      }
+    },
+    "halo 5 guardians": {
+      "title": "Halo 5: Guardians",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:33:05+00:00",
+      "data": {
+        "title": "Halo 5: Guardians",
+        "game_id": 19267,
+        "url": "https://howlongtobeat.com/game/19267",
+        "image_url": "https://howlongtobeat.com/games/19267_Halo_5_Guardians.jpg",
+        "main_story_seconds": 28988,
+        "review_score": 68,
+        "completion_count": 2702,
+        "release_year": 2015,
+        "profile_platform": "Xbox One",
+        "match_type": "exact",
+        "match_score": 137
+      }
+    },
+    "halo wars definitive edition": {
+      "title": "Halo Wars: Definitive Edition",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:33:07+00:00",
+      "data": {
+        "title": "Halo Wars",
+        "game_id": 4267,
+        "url": "https://howlongtobeat.com/game/4267",
+        "image_url": "https://howlongtobeat.com/games/4267_Halo_Wars.jpg",
+        "main_story_seconds": 32330,
+        "review_score": 71,
+        "completion_count": 1418,
+        "release_year": 2009,
+        "profile_platform": "PC, Xbox 360, Xbox One",
+        "match_type": "exact",
+        "match_score": 130
+      }
+    },
+    "heavy weapon": {
+      "title": "Heavy Weapon",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:33:10+00:00",
+      "data": {
+        "title": "Heavy Weapon",
+        "game_id": 4381,
+        "url": "https://howlongtobeat.com/game/4381",
+        "image_url": "https://howlongtobeat.com/games/4381_Heavy_Weapon.png",
+        "main_story_seconds": 8738,
+        "review_score": 68,
+        "completion_count": 65,
+        "release_year": 2005,
+        "profile_platform": "PC, PlayStation 3, Xbox 360",
+        "match_type": "exact",
+        "match_score": 125
+      }
+    },
+    "hungry shark world": {
+      "title": "Hungry Shark World",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:33:12+00:00",
+      "data": {
+        "title": "Hungry Shark World",
+        "game_id": 67206,
+        "url": "https://howlongtobeat.com/game/67206",
+        "image_url": "https://howlongtobeat.com/games/67206_Hungry_Shark_World.jpg",
+        "main_story_seconds": 28800,
+        "review_score": 59,
+        "completion_count": 27,
+        "release_year": 2018,
+        "profile_platform": "Mobile, Nintendo Switch, PC, PlayStation 4, Xbox One",
+        "match_type": "exact",
+        "match_score": 137
+      }
+    },
+    "iron brigade": {
+      "title": "Iron Brigade",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:33:14+00:00",
+      "data": {
+        "title": "Iron Brigade",
+        "game_id": 10637,
+        "url": "https://howlongtobeat.com/game/10637",
+        "image_url": "https://howlongtobeat.com/games/250px-Trenched_cover.jpg",
+        "main_story_seconds": 23182,
+        "review_score": 69,
+        "completion_count": 203,
+        "release_year": 2011,
+        "profile_platform": "PC, Xbox 360, Xbox One",
+        "match_type": "exact",
+        "match_score": 134
+      }
+    },
+    "jetpac refuelled": {
+      "title": "Jetpac Refuelled",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:33:17+00:00",
+      "data": {
+        "title": "Jetpac Refuelled",
+        "game_id": 21825,
+        "url": "https://howlongtobeat.com/game/21825",
+        "image_url": "https://howlongtobeat.com/games/21825_Jetpac_Refuelled.jpg",
+        "main_story_seconds": 15146,
+        "review_score": 53,
+        "completion_count": 20,
+        "release_year": 2007,
+        "profile_platform": "Xbox 360",
+        "match_type": "exact",
+        "match_score": 127
+      }
+    },
+    "kameo": {
+      "title": "Kameo",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:33:19+00:00",
+      "data": null
+    },
+    "killer instinct 2 classic": {
+      "title": "Killer Instinct 2 Classic",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:33:21+00:00",
+      "data": {
+        "title": "Killer Instinct 2",
+        "game_id": 43032,
+        "url": "https://howlongtobeat.com/game/43032",
+        "image_url": "https://howlongtobeat.com/games/43032_Killer_Instinct_2_Classic.jpg",
+        "main_story_seconds": 2878,
+        "review_score": 64,
+        "completion_count": 46,
+        "release_year": 2014,
+        "profile_platform": "Arcade, Xbox One",
+        "match_type": "exact",
+        "match_score": 133
+      }
+    },
+    "madden nfl 25 xbox one": {
+      "title": "Madden NFL 25 Xbox One",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:33:23+00:00",
+      "data": null
+    },
+    "madden nfl 25 xbox series x s": {
+      "title": "Madden NFL 25 Xbox Series X|S",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:33:25+00:00",
+      "data": null
+    },
+    "mass effect 2": {
+      "title": "Mass Effect 2",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:33:26+00:00",
+      "data": {
+        "title": "Mass Effect 2",
+        "game_id": 5699,
+        "url": "https://howlongtobeat.com/game/5699",
+        "image_url": "https://howlongtobeat.com/games/MassEffect2_cover.PNG",
+        "main_story_seconds": 88666,
+        "review_score": 90,
+        "completion_count": 13072,
+        "release_year": 2010,
+        "profile_platform": "PC, PlayStation 3, Xbox 360",
+        "match_type": "exact",
+        "match_score": 142
+      }
+    },
+    "mass effect 3": {
+      "title": "Mass Effect™ 3",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:33:28+00:00",
+      "data": null
+    },
+    "mass effect andromeda": {
+      "title": "Mass Effect™: Andromeda",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:33:29+00:00",
+      "data": null
+    },
+    "massive chalice": {
+      "title": "MASSIVE CHALICE",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:33:30+00:00",
+      "data": {
+        "title": "Massive Chalice",
+        "game_id": 21704,
+        "url": "https://howlongtobeat.com/game/21704",
+        "image_url": "https://howlongtobeat.com/games/Massive_chalice.png",
+        "main_story_seconds": 58077,
+        "review_score": 68,
+        "completion_count": 281,
+        "release_year": 2015,
+        "profile_platform": "PC, Xbox One",
+        "match_type": "exact",
+        "match_score": 142
+      }
+    },
+    "max the curse of brotherhood": {
+      "title": "Max: The Curse of Brotherhood",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:33:32+00:00",
+      "data": {
+        "title": "Max: The Curse of Brotherhood",
+        "game_id": 15464,
+        "url": "https://howlongtobeat.com/game/15464",
+        "image_url": "https://howlongtobeat.com/games/250px-Max,_The_Curse_of_Brotherhood_box_art.jpg",
+        "main_story_seconds": 22522,
+        "review_score": 73,
+        "completion_count": 581,
+        "release_year": 2013,
+        "profile_platform": "Nintendo Switch, PC, PlayStation 4, Xbox 360, Xbox One",
+        "match_type": "exact",
+        "match_score": 134
+      }
+    },
+    "minecraft": {
+      "title": "Minecraft",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:33:34+00:00",
+      "data": {
+        "title": "Minecraft",
+        "game_id": 6064,
+        "url": "https://howlongtobeat.com/game/6064",
+        "image_url": "https://howlongtobeat.com/games/6064_Minecraft.jpg",
+        "main_story_seconds": 234995,
+        "review_score": 89,
+        "completion_count": 7804,
+        "release_year": 2011,
+        "profile_platform": "Linux, Mac, Mobile, Nintendo 3DS, Nintendo Switch, Nintendo Switch 2, PC, PlayStation 3, PlayStation 4, PlayStation 5, PlayStation Vita, Wii U, Xbox 360, Xbox One, Xbox Series X/S",
+        "match_type": "exact",
+        "match_score": 130
+      }
+    },
+    "minecraft dungeons": {
+      "title": "Minecraft Dungeons",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:33:37+00:00",
+      "data": {
+        "title": "Minecraft Dungeons",
+        "game_id": 68149,
+        "url": "https://howlongtobeat.com/game/68149",
+        "image_url": "https://howlongtobeat.com/games/68149_Minecraft_Dungeons.jpg",
+        "main_story_seconds": 20304,
+        "review_score": 68,
+        "completion_count": 1690,
+        "release_year": 2020,
+        "profile_platform": "Nintendo Switch, PC, PlayStation 4, Xbox One, Xbox Series X/S",
+        "match_type": "exact",
+        "match_score": 142
+      }
+    },
+    "monopoly madness": {
+      "title": "Monopoly Madness",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:33:39+00:00",
+      "data": {
+        "title": "Monopoly Madness",
+        "game_id": 101422,
+        "url": "https://howlongtobeat.com/game/101422",
+        "image_url": "https://howlongtobeat.com/games/101422_Monopoly_Madness.jpg",
+        "main_story_seconds": 20964,
+        "review_score": 50,
+        "completion_count": 22,
+        "release_year": 2021,
+        "profile_platform": "Nintendo Switch, PC, PlayStation 4, Xbox One",
+        "match_type": "exact",
+        "match_score": 138
+      }
+    },
+    "need for speed payback": {
+      "title": "Need for Speed™ Payback",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:33:41+00:00",
+      "data": null
+    },
+    "new monopoly": {
+      "title": "NEW MONOPOLY®",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:33:43+00:00",
+      "data": null
+    },
+    "nhl 25 xbox series x s": {
+      "title": "NHL® 25 Xbox Series X|S",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:33:46+00:00",
+      "data": null
+    },
+    "nhl 26 xbox series x s": {
+      "title": "NHL® 26 Xbox Series X|S",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:33:48+00:00",
+      "data": null
+    },
+    "nhl 94 rewind": {
+      "title": "NHL® 94 REWIND",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:33:49+00:00",
+      "data": null
+    },
+    "oddballers": {
+      "title": "OddBallers™",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:33:52+00:00",
+      "data": null
+    },
+    "peggle 2": {
+      "title": "Peggle 2",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:33:54+00:00",
+      "data": {
+        "title": "Peggle 2",
+        "game_id": 15272,
+        "url": "https://howlongtobeat.com/game/15272",
+        "image_url": "https://howlongtobeat.com/games/15272_Peggle_2.jpg",
+        "main_story_seconds": 18897,
+        "review_score": 74,
+        "completion_count": 411,
+        "release_year": 2013,
+        "profile_platform": "PlayStation 4, Xbox 360, Xbox One",
+        "match_type": "exact",
+        "match_score": 127
+      }
+    },
+    "perfect dark": {
+      "title": "Perfect Dark",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:33:56+00:00",
+      "data": {
+        "title": "Perfect Dark",
+        "game_id": 6966,
+        "url": "https://howlongtobeat.com/game/6966",
+        "image_url": "https://howlongtobeat.com/games/6966_Perfect_Dark.png",
+        "main_story_seconds": 28812,
+        "review_score": 80,
+        "completion_count": 848,
+        "release_year": 2000,
+        "profile_platform": "Game Boy Color, Nintendo 64, Xbox 360",
+        "match_type": "exact",
+        "match_score": 125
+      }
+    },
+    "perfect dark zero": {
+      "title": "Perfect Dark Zero",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:33:58+00:00",
+      "data": {
+        "title": "Perfect Dark Zero",
+        "game_id": 6967,
+        "url": "https://howlongtobeat.com/game/6967",
+        "image_url": "https://howlongtobeat.com/games/6967_Perfect_Dark_Zero.png",
+        "main_story_seconds": 27556,
+        "review_score": 54,
+        "completion_count": 308,
+        "release_year": 2005,
+        "profile_platform": "Xbox 360",
+        "match_type": "exact",
+        "match_score": 122
+      }
+    },
+    "prince of persia the lost crown": {
+      "title": "Prince of Persia: The Lost Crown",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:33:59+00:00",
+      "data": {
+        "title": "Prince of Persia: The Lost Crown",
+        "game_id": 129785,
+        "url": "https://howlongtobeat.com/game/129785",
+        "image_url": "https://howlongtobeat.com/games/129785_Prince_of_Persia_The_Lost_Crown.jpg",
+        "main_story_seconds": 60098,
+        "review_score": 83,
+        "completion_count": 2654,
+        "release_year": 2024,
+        "profile_platform": "Amazon Luna, Mobile, Nintendo Switch, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
+        "match_type": "exact",
+        "match_score": 142
+      }
+    },
+    "rabbids invasion the interactive tv show": {
+      "title": "Rabbids Invasion : The Interactive TV Show",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:34:05+00:00",
+      "data": null
+    },
+    "rabbids party of legends": {
+      "title": "Rabbids®: Party of Legends",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:34:07+00:00",
+      "data": null
+    },
+    "rage": {
+      "title": "Rage",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:34:09+00:00",
+      "data": {
+        "title": "Rage",
+        "game_id": 7526,
+        "url": "https://howlongtobeat.com/game/7526",
+        "image_url": "https://howlongtobeat.com/games/7526_Rage.jpg",
+        "main_story_seconds": 40155,
+        "review_score": 69,
+        "completion_count": 3501,
+        "release_year": 2011,
+        "profile_platform": "PC, PlayStation 3, Xbox 360",
+        "match_type": "exact",
+        "match_score": 142
+      }
+    },
+    "rare replay": {
+      "title": "Rare Replay",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:34:12+00:00",
+      "data": {
+        "title": "Rare Replay",
+        "game_id": 26800,
+        "url": "https://howlongtobeat.com/game/26800",
+        "image_url": "https://howlongtobeat.com/games/26800_Rare_Replay.jpg",
+        "main_story_seconds": 110370,
+        "review_score": 80,
+        "completion_count": 39,
+        "release_year": 2015,
+        "profile_platform": "Xbox One",
+        "match_type": "exact",
+        "match_score": 134
+      }
+    },
+    "rayman legends": {
+      "title": "Rayman® Legends",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:34:14+00:00",
+      "data": {
+        "title": "Rayman Legends",
+        "game_id": 12655,
+        "url": "https://howlongtobeat.com/game/12655",
+        "image_url": "https://howlongtobeat.com/games/12655_Rayman_Legends.png",
+        "main_story_seconds": 36148,
+        "review_score": 84,
+        "completion_count": 4832,
+        "release_year": 2013,
+        "profile_platform": "Google Stadia, Nintendo Switch, PC, PlayStation 3, PlayStation 4, PlayStation Vita, Wii U, Xbox 360, Xbox One",
+        "match_type": "exact",
+        "match_score": 136
+      }
+    },
+    "risk urban assault": {
+      "title": "Risk: Urban Assault",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:34:17+00:00",
+      "data": {
+        "title": "Risk: Urban Assault",
+        "game_id": 68867,
+        "url": "https://howlongtobeat.com/game/68867",
+        "image_url": "https://howlongtobeat.com/games/68867_Risk_Urban_Assault.jpg",
+        "main_story_seconds": 14400,
+        "review_score": 80,
+        "completion_count": 4,
+        "release_year": 2016,
+        "profile_platform": "PlayStation 3, PlayStation 4, Xbox 360, Xbox One",
+        "match_type": "exact",
+        "match_score": 132
+      }
+    },
+    "rocket league": {
+      "title": "Rocket League®",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:34:19+00:00",
+      "data": null
+    },
+    "ryse legendary edition": {
+      "title": "Ryse: Legendary Edition",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:34:22+00:00",
+      "data": {
+        "title": "Ryse: Son of Rome",
+        "game_id": 14345,
+        "url": "https://howlongtobeat.com/game/14345",
+        "image_url": "https://howlongtobeat.com/games/Ryse_box_art.jpg",
+        "main_story_seconds": 22992,
+        "review_score": 70,
+        "completion_count": 5653,
+        "release_year": 2013,
+        "profile_platform": "PC, Xbox One",
+        "match_type": "exact",
+        "match_score": 136
+      }
+    },
+    "screamride": {
+      "title": "ScreamRide",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:34:24+00:00",
+      "data": {
+        "title": "Screamride",
+        "game_id": 21715,
+        "url": "https://howlongtobeat.com/game/21715",
+        "image_url": "https://howlongtobeat.com/games/Screamride_cover_art.jpg",
+        "main_story_seconds": 31635,
+        "review_score": 59,
+        "completion_count": 11,
+        "release_year": 2015,
+        "profile_platform": "Xbox 360, Xbox One",
+        "match_type": "exact",
+        "match_score": 132
+      }
+    },
+    "skate 2007": {
+      "title": "skate. (2007)",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:34:26+00:00",
+      "data": null
+    },
+    "skate 3": {
+      "title": "Skate 3",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:34:28+00:00",
+      "data": {
+        "title": "Skate 3",
+        "game_id": 8599,
+        "url": "https://howlongtobeat.com/game/8599",
+        "image_url": "https://howlongtobeat.com/games/8599_Skate_3.png",
+        "main_story_seconds": 36178,
+        "review_score": 84,
+        "completion_count": 762,
+        "release_year": 2010,
+        "profile_platform": "PlayStation 3, Xbox 360",
+        "match_type": "exact",
+        "match_score": 124
+      }
+    },
+    "skull and bones": {
+      "title": "SKULL AND BONES™",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:34:29+00:00",
+      "data": {
+        "title": "Skull and Bones",
+        "game_id": 57531,
+        "url": "https://howlongtobeat.com/game/57531",
+        "image_url": "https://howlongtobeat.com/games/57531_Skull_And_Bones.jpg",
+        "main_story_seconds": 98709,
+        "review_score": 50,
+        "completion_count": 42,
+        "release_year": 2024,
+        "profile_platform": "Amazon Luna, PC, PlayStation 5, Xbox Series X/S",
+        "match_type": "exact",
+        "match_score": 139
+      }
+    },
+    "south park the stick of truth": {
+      "title": "South Park™: The Stick of Truth™",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:34:32+00:00",
+      "data": {
+        "title": "South Park: The Stick of Truth",
+        "game_id": 8833,
+        "url": "https://howlongtobeat.com/game/8833",
+        "image_url": "https://howlongtobeat.com/games/SouthParkTheStickOfTruth.jpg",
+        "main_story_seconds": 40977,
+        "review_score": 83,
+        "completion_count": 13064,
+        "release_year": 2014,
+        "profile_platform": "PC, Nintendo Switch, PlayStation 3, PlayStation 4, Xbox 360, Xbox One",
+        "match_type": "exact",
+        "match_score": 142
+      }
+    },
+    "ssx": {
+      "title": "SSX",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:34:35+00:00",
+      "data": {
+        "title": "SSX",
+        "game_id": 9017,
+        "url": "https://howlongtobeat.com/game/9017",
+        "image_url": "https://howlongtobeat.com/games/9017_SSX.png",
+        "main_story_seconds": 28904,
+        "review_score": 73,
+        "completion_count": 240,
+        "release_year": 2012,
+        "profile_platform": "PlayStation 3, Xbox 360",
+        "match_type": "exact",
+        "match_score": 134
+      }
+    },
+    "stacking": {
+      "title": "Stacking",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:34:38+00:00",
+      "data": {
+        "title": "Stacking",
+        "game_id": 9024,
+        "url": "https://howlongtobeat.com/game/9024",
+        "image_url": "https://howlongtobeat.com/games/256px-Stacking-logo.jpg",
+        "main_story_seconds": 14307,
+        "review_score": 73,
+        "completion_count": 1381,
+        "release_year": 2011,
+        "profile_platform": "PC, PlayStation 3, Xbox 360, Xbox One",
+        "match_type": "exact",
+        "match_score": 142
+      }
+    },
+    "star wars battlefront": {
+      "title": "STAR WARS™ Battlefront™",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:34:40+00:00",
+      "data": null
+    },
+    "star wars jedi survivor xbox one": {
+      "title": "STAR WARS Jedi: Survivor™ Xbox One",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:34:42+00:00",
+      "data": null
+    },
+    "state of decay year one survival edition": {
+      "title": "State of Decay: Year One Survival Edition",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:34:44+00:00",
+      "data": {
+        "title": "State of Decay: Year-One",
+        "game_id": 28182,
+        "url": "https://howlongtobeat.com/game/28182",
+        "image_url": "https://howlongtobeat.com/games/State_of_Decay_Year-One_header.jpg",
+        "main_story_seconds": 61990,
+        "review_score": 72,
+        "completion_count": 613,
+        "release_year": 2015,
+        "profile_platform": "PC, Xbox One",
+        "match_type": "exact",
+        "match_score": 142
+      }
+    },
+    "steep": {
+      "title": "Steep™",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:34:47+00:00",
+      "data": {
+        "title": "Steep",
+        "game_id": 38010,
+        "url": "https://howlongtobeat.com/game/38010",
+        "image_url": "https://howlongtobeat.com/games/38010_Steep.jpg",
+        "main_story_seconds": 42936,
+        "review_score": 70,
+        "completion_count": 483,
+        "release_year": 2016,
+        "profile_platform": "PC, PlayStation 4, Xbox One",
+        "match_type": "exact",
+        "match_score": 142
+      }
+    },
+    "terraria": {
+      "title": "Terraria",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:34:50+00:00",
+      "data": {
+        "title": "Terraria",
+        "game_id": 9705,
+        "url": "https://howlongtobeat.com/game/9705",
+        "image_url": "https://howlongtobeat.com/games/9705_Terraria.jpg",
+        "main_story_seconds": 186345,
+        "review_score": 87,
+        "completion_count": 10326,
+        "release_year": 2011,
+        "profile_platform": "Linux, Mac, Mobile, Nintendo 3DS, Nintendo Switch, PC, PlayStation 3, PlayStation 4, PlayStation Vita, Wii U, Xbox 360, Xbox One",
+        "match_type": "exact",
+        "match_score": 130
+      }
+    },
+    "the cave": {
+      "title": "The Cave",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:34:52+00:00",
+      "data": {
+        "title": "The Cave",
+        "game_id": 9803,
+        "url": "https://howlongtobeat.com/game/9803",
+        "image_url": "https://howlongtobeat.com/games/9803_The_Cave.jpg",
+        "main_story_seconds": 16681,
+        "review_score": 71,
+        "completion_count": 1264,
+        "release_year": 2013,
+        "profile_platform": "Mobile, PC, PlayStation 3, Wii U, Xbox 360, Xbox One",
+        "match_type": "exact",
+        "match_score": 142
+      }
+    },
+    "the crew 2": {
+      "title": "The Crew® 2",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:34:54+00:00",
+      "data": null
+    },
+    "the elder scrolls iv oblivion": {
+      "title": "The Elder Scrolls IV: Oblivion",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:34:56+00:00",
+      "data": {
+        "title": "The Elder Scrolls IV: Oblivion",
+        "game_id": 9854,
+        "url": "https://howlongtobeat.com/game/9854",
+        "image_url": "https://howlongtobeat.com/games/9854_The_Elder_Scrolls_IV_Oblivion.jpg",
+        "main_story_seconds": 99377,
+        "review_score": 83,
+        "completion_count": 3719,
+        "release_year": 2006,
+        "profile_platform": "PC, PlayStation 3, Xbox 360",
+        "match_type": "exact",
+        "match_score": 130
+      }
+    },
+    "the settlers new allies": {
+      "title": "The Settlers®: New Allies",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:34:59+00:00",
+      "data": {
+        "title": "The Settlers: New Allies",
+        "game_id": 102978,
+        "url": "https://howlongtobeat.com/game/102978",
+        "image_url": "https://howlongtobeat.com/games/102978_The_Settlers.jpg",
+        "main_story_seconds": 134656,
+        "review_score": 61,
+        "completion_count": 16,
+        "release_year": 2023,
+        "profile_platform": "Nintendo Switch, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
+        "match_type": "exact",
+        "match_score": 138
+      }
+    },
+    "the walking dead a new frontier": {
+      "title": "The Walking Dead: A New Frontier",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:35:01+00:00",
+      "data": {
+        "title": "The Walking Dead: A New Frontier",
+        "game_id": 41484,
+        "url": "https://howlongtobeat.com/game/41484",
+        "image_url": "https://howlongtobeat.com/games/41484_The_Walking_Dead_A_New_Frontier.jpg",
+        "main_story_seconds": 27253,
+        "review_score": 71,
+        "completion_count": 3675,
+        "release_year": 2016,
+        "profile_platform": "Mobile, Nintendo Switch, PC, PlayStation 3, PlayStation 4, Xbox One",
+        "match_type": "exact",
+        "match_score": 142
+      }
+    },
+    "the walking dead michonne a telltale miniseries": {
+      "title": "The Walking Dead: Michonne - A Telltale Miniseries",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:35:04+00:00",
+      "data": null
+    },
+    "the walking dead season two": {
+      "title": "The Walking Dead: Season Two",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:35:08+00:00",
+      "data": null
+    },
+    "the walking dead the complete first season": {
+      "title": "The Walking Dead: The Complete First Season",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:35:09+00:00",
+      "data": {
+        "title": "The Walking Dead - A Telltale Games Series",
+        "game_id": 10250,
+        "url": "https://howlongtobeat.com/game/10250",
+        "image_url": "https://howlongtobeat.com/games/The_Walking_Dead-game-cover.jpg",
+        "main_story_seconds": 44934,
+        "review_score": 87,
+        "completion_count": 16539,
+        "release_year": 2012,
+        "profile_platform": "Mac, Mobile, Nintendo Switch, Ouya, PC, PlayStation 3, PlayStation 4, PlayStation Vita, Xbox 360, Xbox One",
+        "match_type": "exact",
+        "match_score": 130
+      }
+    },
+    "the walking dead the final season the complete season": {
+      "title": "The Walking Dead: The Final Season - The Complete Season",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:35:10+00:00",
+      "data": null
+    },
+    "titanfall 2": {
+      "title": "Titanfall® 2",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:35:12+00:00",
+      "data": null
+    },
+    "tom clancy s ghost recon breakpoint": {
+      "title": "Tom Clancy's Ghost Recon® Breakpoint",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:35:14+00:00",
+      "data": {
+        "title": "Tom Clancy's Ghost Recon Breakpoint",
+        "game_id": 67987,
+        "url": "https://howlongtobeat.com/game/67987",
+        "image_url": "https://howlongtobeat.com/games/67987_Tom_Clancys_Ghost_Recon_Breakpoint.jpg",
+        "main_story_seconds": 84319,
+        "review_score": 65,
+        "completion_count": 759,
+        "release_year": 2019,
+        "profile_platform": "Google Stadia, PC, PlayStation 4, Xbox One",
+        "match_type": "exact",
+        "match_score": 142
+      }
+    },
+    "tom clancy s rainbow six extraction": {
+      "title": "Tom Clancy’s Rainbow Six® Extraction",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:35:17+00:00",
+      "data": null
+    },
+    "tom clancy s the division": {
+      "title": "Tom Clancy's The Division™",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:35:19+00:00",
+      "data": null
+    },
+    "trackmania turbo": {
+      "title": "Trackmania® Turbo",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:35:21+00:00",
+      "data": {
+        "title": "TrackMania Turbo",
+        "game_id": 35764,
+        "url": "https://howlongtobeat.com/game/35764",
+        "image_url": "https://howlongtobeat.com/games/35764_TrackMania_Turbo.jpg",
+        "main_story_seconds": 50578,
+        "review_score": 72,
+        "completion_count": 165,
+        "release_year": 2016,
+        "profile_platform": "PC, PlayStation 4, Xbox One",
+        "match_type": "exact",
+        "match_score": 138
+      }
+    },
+    "transference": {
+      "title": "Transference",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:35:24+00:00",
+      "data": {
+        "title": "Transference",
+        "game_id": 57677,
+        "url": "https://howlongtobeat.com/game/57677",
+        "image_url": "https://howlongtobeat.com/games/57677_Transference.png",
+        "main_story_seconds": 5389,
+        "review_score": 61,
+        "completion_count": 215,
+        "release_year": 2018,
+        "profile_platform": "Meta Quest, PC, PlayStation 4, PlayStation VR, Xbox One",
+        "match_type": "exact",
+        "match_score": 139
+      }
+    },
+    "trials fusion": {
+      "title": "Trials Fusion™",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:35:26+00:00",
+      "data": {
+        "title": "Trials Fusion",
+        "game_id": 17507,
+        "url": "https://howlongtobeat.com/game/17507",
+        "image_url": "https://howlongtobeat.com/games/Trials_Fusion_cover_art.jpg",
+        "main_story_seconds": 24491,
+        "review_score": 72,
+        "completion_count": 604,
+        "release_year": 2014,
+        "profile_platform": "PC, PlayStation 4, Xbox 360, Xbox One",
+        "match_type": "exact",
+        "match_score": 142
+      }
+    },
+    "trials of the blood dragon": {
+      "title": "TRIALS OF THE BLOOD DRAGON",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:35:28+00:00",
+      "data": {
+        "title": "Trials of the Blood Dragon",
+        "game_id": 37972,
+        "url": "https://howlongtobeat.com/game/37972",
+        "image_url": "https://howlongtobeat.com/games/37972_Trials_of_the_Blood_Dragon.png",
+        "main_story_seconds": 11506,
+        "review_score": 65,
+        "completion_count": 195,
+        "release_year": 2016,
+        "profile_platform": "PC, PlayStation 4, Xbox One",
+        "match_type": "exact",
+        "match_score": 138
+      }
+    },
+    "trials rising": {
+      "title": "Trials® Rising",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:35:30+00:00",
+      "data": {
+        "title": "Trials Rising",
+        "game_id": 65078,
+        "url": "https://howlongtobeat.com/game/65078",
+        "image_url": "https://howlongtobeat.com/games/65078_Trials_Rising.jpg",
+        "main_story_seconds": 63434,
+        "review_score": 72,
+        "completion_count": 181,
+        "release_year": 2019,
+        "profile_platform": "Google Stadia, Nintendo Switch, PC, PlayStation 4, Xbox One",
+        "match_type": "exact",
+        "match_score": 141
+      }
+    },
+    "ufc 4": {
+      "title": "UFC® 4",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:35:33+00:00",
+      "data": null
+    },
+    "ufc 5": {
+      "title": "UFC® 5",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:35:34+00:00",
+      "data": null
+    },
+    "uno": {
+      "title": "UNO",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:35:35+00:00",
+      "data": {
+        "title": "Uno",
+        "game_id": 70239,
+        "url": "https://howlongtobeat.com/game/70239",
+        "image_url": "https://howlongtobeat.com/games/70239_Uno_(2016).jpg",
+        "main_story_seconds": 16717,
+        "review_score": 69,
+        "completion_count": 417,
+        "release_year": 2017,
+        "profile_platform": "Google Stadia, Mobile, Nintendo Switch, PC, PlayStation 4, Xbox One",
+        "match_type": "exact",
+        "match_score": 136
+      }
+    },
+    "urbo": {
+      "title": "URBO",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:35:38+00:00",
+      "data": {
+        "title": "URBO",
+        "game_id": 143324,
+        "url": "https://howlongtobeat.com/game/143324",
+        "image_url": "https://howlongtobeat.com/games/143324_URBO.jpg",
+        "main_story_seconds": 3698,
+        "review_score": 78,
+        "completion_count": 25,
+        "release_year": 2023,
+        "profile_platform": "PC",
+        "match_type": "exact",
+        "match_score": 127
+      }
+    },
+    "valiant hearts the great war": {
+      "title": "Valiant Hearts: The Great War™",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:35:40+00:00",
+      "data": {
+        "title": "Valiant Hearts: The Great War",
+        "game_id": 19503,
+        "url": "https://howlongtobeat.com/game/19503",
+        "image_url": "https://howlongtobeat.com/games/ValiantHeartsTheGreatWar292x136.jpg",
+        "main_story_seconds": 23737,
+        "review_score": 81,
+        "completion_count": 4327,
+        "release_year": 2014,
+        "profile_platform": "Mobile, Nintendo Switch, PC, PlayStation 3, PlayStation 4, Xbox 360, Xbox One",
+        "match_type": "exact",
+        "match_score": 142
+      }
+    },
+    "valorant": {
+      "title": "VALORANT",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:35:43+00:00",
+      "data": {
+        "title": "Valorant",
+        "game_id": 76906,
+        "url": "https://howlongtobeat.com/game/76906",
+        "image_url": "https://howlongtobeat.com/games/76906_Valorant.jpg",
+        "main_story_seconds": 395655,
+        "review_score": 67,
+        "completion_count": 385,
+        "release_year": 2020,
+        "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
+        "match_type": "exact",
+        "match_score": 130
+      }
+    },
+    "viva piñata": {
+      "title": "Viva Piñata",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:35:45+00:00",
+      "data": {
+        "title": "Viva Piñata",
+        "game_id": 10976,
+        "url": "https://howlongtobeat.com/game/10976",
+        "image_url": "https://howlongtobeat.com/games/10976_Viva_Piata.png",
+        "main_story_seconds": 68548,
+        "review_score": 75,
+        "completion_count": 248,
+        "release_year": 2006,
+        "profile_platform": "PC, Xbox 360, Xbox One",
+        "match_type": "exact",
+        "match_score": 127
+      }
+    },
+    "viva piñata tip": {
+      "title": "Viva Piñata: TIP",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:35:47+00:00",
+      "data": null
+    },
+    "warhammer vermintide 2": {
+      "title": "Warhammer: Vermintide 2",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:35:48+00:00",
+      "data": {
+        "title": "Warhammer: Vermintide 2",
+        "game_id": 51768,
+        "url": "https://howlongtobeat.com/game/51768",
+        "image_url": "https://howlongtobeat.com/games/51768_Warhammer_Vermintide_2.jpg",
+        "main_story_seconds": 38927,
+        "review_score": 72,
+        "completion_count": 1768,
+        "release_year": 2018,
+        "profile_platform": "PC, PlayStation 4, Xbox One",
+        "match_type": "exact",
+        "match_score": 142
+      }
+    },
+    "wasteland 3": {
+      "title": "Wasteland 3",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:35:50+00:00",
+      "data": {
+        "title": "Wasteland 3",
+        "game_id": 42532,
+        "url": "https://howlongtobeat.com/game/42532",
+        "image_url": "https://howlongtobeat.com/games/42532_Wasteland_3.jpg",
+        "main_story_seconds": 128954,
+        "review_score": 80,
+        "completion_count": 963,
+        "release_year": 2020,
+        "profile_platform": "PC, PlayStation 4, Xbox One",
+        "match_type": "exact",
+        "match_score": 142
+      }
+    },
+    "watch_dogs": {
+      "title": "Watch_Dogs™",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:35:52+00:00",
+      "data": {
+        "title": "Watch Dogs 2",
+        "game_id": 37861,
+        "url": "https://howlongtobeat.com/game/37861",
+        "image_url": "https://howlongtobeat.com/games/37861_Watch_Dogs_2.jpg",
+        "main_story_seconds": 70025,
+        "review_score": 75,
+        "completion_count": 6300,
+        "release_year": 2016,
+        "profile_platform": "Google Stadia, PC, PlayStation 4, Xbox One",
+        "match_type": "partial",
+        "match_score": 102
+      }
+    },
+    "wild hearts standard edition": {
+      "title": "WILD HEARTS™ Standard Edition",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:35:55+00:00",
+      "data": null
+    },
+    "wolfenstein ii the new colossus": {
+      "title": "Wolfenstein® II: The New Colossus™",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:35:58+00:00",
+      "data": null
+    },
+    "world of tanks": {
+      "title": "World of Tanks",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:36:00+00:00",
+      "data": {
+        "title": "World of Tanks",
+        "game_id": 11285,
+        "url": "https://howlongtobeat.com/game/11285",
+        "image_url": "https://howlongtobeat.com/games/World_of_Tanks.jpg",
+        "main_story_seconds": 1562950,
+        "review_score": 68,
+        "completion_count": 149,
+        "release_year": 2011,
+        "profile_platform": "PC, PlayStation 4, PlayStation 5, Xbox 360, Xbox One, Xbox Series X/S",
+        "match_type": "exact",
+        "match_score": 126
+      }
+    },
+    "zombi": {
+      "title": "ZOMBI",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:36:02+00:00",
+      "data": {
+        "title": "Zombi",
+        "game_id": 11583,
+        "url": "https://howlongtobeat.com/game/11583",
+        "image_url": "https://howlongtobeat.com/games/11583_Zombi.jpg",
+        "main_story_seconds": 42167,
+        "review_score": 67,
+        "completion_count": 572,
+        "release_year": 2012,
+        "profile_platform": "PC, PlayStation 4, Wii U, Xbox One",
+        "match_type": "exact",
+        "match_score": 130
+      }
+    },
+    "zuma": {
+      "title": "Zuma",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:36:04+00:00",
+      "data": {
+        "title": "Zuma",
+        "game_id": 11609,
+        "url": "https://howlongtobeat.com/game/11609",
+        "image_url": "https://howlongtobeat.com/games/Zumacover.jpg",
+        "main_story_seconds": 15107,
+        "review_score": 68,
+        "completion_count": 90,
+        "release_year": 2003,
+        "profile_platform": "Mobile, PC, PlayStation 3, Xbox 360",
+        "match_type": "exact",
+        "match_score": 125
+      }
+    },
+    "zuma s revenge": {
+      "title": "Zuma's Revenge!",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:36:06+00:00",
+      "data": {
+        "title": "Zuma's Revenge!",
+        "game_id": 11611,
+        "url": "https://howlongtobeat.com/game/11611",
+        "image_url": "https://howlongtobeat.com/games/11611_Zumas_Revenge.jpg",
+        "main_story_seconds": 16956,
+        "review_score": 75,
+        "completion_count": 417,
+        "release_year": 2009,
+        "profile_platform": "Mobile, Nintendo DS, PC, PlayStation 3, Xbox 360, Xbox One",
+        "match_type": "exact",
+        "match_score": 130
       }
     }
   }

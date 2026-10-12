@@ -37,7 +37,7 @@ jobs:
         run: |
           python instant_gaming_monitor.py
 
-      - name: Build GFN x PC Game Pass catalog
+      - name: Build GFN x Xbox Game Pass Ultimate catalog
         run: |
           python gfn_xbox_game_pass_catalog.py
 
@@ -47,7 +47,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add site/data/instant-gaming-price-history.json
-          git add site/data/gfn-xbox-pc-game-pass-catalog.json
+          git add site/data/gfn-xbox-game-pass-ultimate-catalog.json
           git add site/data/howlongtobeat-cache.json
           git add site/data/opencritic-cache.json
 
