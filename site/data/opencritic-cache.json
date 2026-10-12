@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T15:42:16+00:00",
+  "updated_at": "2026-10-12T21:36:20+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -9168,6 +9168,2142 @@
         "match_type": "exact",
         "match_score": 147
       }
+    },
+    "assassin s creed 2": {
+      "title": "Assassin's Creed 2",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:30:39+00:00",
+      "data": null
+    },
+    "assassin s creed brotherhood": {
+      "title": "Assassin's Creed Brotherhood",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:30:44+00:00",
+      "data": null
+    },
+    "assassin s creed chronicles china": {
+      "title": "Assassin’s Creed® Chronicles: China",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:30:46+00:00",
+      "data": {
+        "title": "Assassin's Creed Chronicles: China",
+        "game_id": 32,
+        "url": "https://opencritic.com/game/32/assassins-creed-chronicles-china",
+        "top_critic_score": 67.3,
+        "percent_recommended": 23.1,
+        "tier": "Fair",
+        "median_score": 68,
+        "review_count": 53,
+        "release_year": 2015,
+        "match_type": "exact",
+        "match_score": 149
+      }
+    },
+    "assassin s creed chronicles india": {
+      "title": "Assassin’s Creed® Chronicles: India",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:30:48+00:00",
+      "data": {
+        "title": "Assassin's Creed Chronicles: India",
+        "game_id": 1613,
+        "url": "https://opencritic.com/game/1613/assassins-creed-chronicles-india",
+        "top_critic_score": 62.7,
+        "percent_recommended": 10.6,
+        "tier": "Weak",
+        "median_score": 60,
+        "review_count": 48,
+        "release_year": 2016,
+        "match_type": "exact",
+        "match_score": 149
+      }
+    },
+    "assassin s creed chronicles russia": {
+      "title": "Assassin’s Creed® Chronicles: Russia",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:30:50+00:00",
+      "data": {
+        "title": "Assassin's Creed Chronicles: Russia",
+        "game_id": 1696,
+        "url": "https://opencritic.com/game/1696/assassins-creed-chronicles-russia",
+        "top_critic_score": 58.8,
+        "percent_recommended": 3.0,
+        "tier": "Weak",
+        "median_score": 60,
+        "review_count": 33,
+        "release_year": 2016,
+        "match_type": "exact",
+        "match_score": 148
+      }
+    },
+    "assassin s creed chronicles trilogy": {
+      "title": "Assassin's Creed Chronicles – Trilogy",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:30:52+00:00",
+      "data": {
+        "title": "Assassin’s Creed Chronicles - Trilogy Pack",
+        "game_id": 2137,
+        "url": "https://opencritic.com/game/2137/assassin-s-creed-chronicles-trilogy-pack",
+        "top_critic_score": null,
+        "percent_recommended": null,
+        "tier": null,
+        "median_score": null,
+        "review_count": 1,
+        "release_year": 2016,
+        "match_type": "partial",
+        "match_score": 117
+      }
+    },
+    "assassin s creed director s cut edition": {
+      "title": "Assassin's Creed™: Director's Cut Edition",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:30:54+00:00",
+      "data": {
+        "title": "Assassin's Creed: The Ezio Collection",
+        "game_id": 3406,
+        "url": "https://opencritic.com/game/3406/assassins-creed-the-ezio-collection",
+        "top_critic_score": 73.7,
+        "percent_recommended": 42.2,
+        "tier": "Fair",
+        "median_score": 75,
+        "review_count": 64,
+        "release_year": 2016,
+        "match_type": "exact",
+        "match_score": 141
+      }
+    },
+    "assassin s creed freedom cry": {
+      "title": "Assassin's Creed Freedom Cry",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:30:55+00:00",
+      "data": {
+        "title": "Assassin's Creed: Freedom Cry",
+        "game_id": 294,
+        "url": "https://opencritic.com/game/294/assassins-creed-freedom-cry",
+        "top_critic_score": 74.5,
+        "percent_recommended": 57.9,
+        "tier": "Fair",
+        "median_score": 80,
+        "review_count": 19,
+        "release_year": 2013,
+        "match_type": "exact",
+        "match_score": 147
+      }
+    },
+    "assassin s creed iii remastered": {
+      "title": "Assassin’s Creed® III Remastered",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:30:57+00:00",
+      "data": {
+        "title": "Assassin's Creed III Remastered",
+        "game_id": 7397,
+        "url": "https://opencritic.com/game/7397/assassins-creed-iii-remastered",
+        "top_critic_score": 68.8,
+        "percent_recommended": 36.2,
+        "tier": "Fair",
+        "median_score": 70,
+        "review_count": 47,
+        "release_year": 2019,
+        "match_type": "exact",
+        "match_score": 149
+      }
+    },
+    "assassin s creed iv black flag": {
+      "title": "Assassin’s Creed® IV Black Flag™",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:31:01+00:00",
+      "data": {
+        "title": "Assassin's Creed IV: Black Flag",
+        "game_id": 316,
+        "url": "https://opencritic.com/game/316/assassins-creed-iv-black-flag",
+        "top_critic_score": 85.2,
+        "percent_recommended": 91.7,
+        "tier": "Mighty",
+        "median_score": 88,
+        "review_count": 51,
+        "release_year": 2013,
+        "match_type": "exact",
+        "match_score": 143
+      }
+    },
+    "assassin s creed iv black flag gold edition": {
+      "title": "Assassin’s Creed® IV Black Flag™ - Gold Edition",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:31:03+00:00",
+      "data": {
+        "title": "Assassin's Creed IV: Black Flag",
+        "game_id": 316,
+        "url": "https://opencritic.com/game/316/assassins-creed-iv-black-flag",
+        "top_critic_score": 85.2,
+        "percent_recommended": 91.7,
+        "tier": "Mighty",
+        "median_score": 88,
+        "review_count": 51,
+        "release_year": 2013,
+        "match_type": "partial",
+        "match_score": 104
+      }
+    },
+    "assassin s creed revelations": {
+      "title": "Assassin’s Creed® Revelations",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:31:07+00:00",
+      "data": null
+    },
+    "assassin s creed rogue": {
+      "title": "Assassin’s Creed® Rogue",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:31:10+00:00",
+      "data": {
+        "title": "Assassin's Creed Rogue",
+        "game_id": 1396,
+        "url": "https://opencritic.com/game/1396/assassins-creed-rogue",
+        "top_critic_score": 70.4,
+        "percent_recommended": 31.0,
+        "tier": "Fair",
+        "median_score": 70,
+        "review_count": 31,
+        "release_year": 2014,
+        "match_type": "exact",
+        "match_score": 142
+      }
+    },
+    "assassin s creed syndicate": {
+      "title": "Assassin’s Creed®: Syndicate",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:31:13+00:00",
+      "data": {
+        "title": "Assassin's Creed Syndicate",
+        "game_id": 1660,
+        "url": "https://opencritic.com/game/1660/assassins-creed-syndicate",
+        "top_critic_score": 76.5,
+        "percent_recommended": 61.8,
+        "tier": "Strong",
+        "median_score": 80,
+        "review_count": 106,
+        "release_year": 2015,
+        "match_type": "exact",
+        "match_score": 152
+      }
+    },
+    "assassin s creed unity": {
+      "title": "Assassin's Creed® Unity",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:31:15+00:00",
+      "data": {
+        "title": "Assassin's Creed Unity",
+        "game_id": 165,
+        "url": "https://opencritic.com/game/165/assassins-creed-unity",
+        "top_critic_score": 70.9,
+        "percent_recommended": 36.8,
+        "tier": "Fair",
+        "median_score": 70,
+        "review_count": 92,
+        "release_year": 2014,
+        "match_type": "exact",
+        "match_score": 151
+      }
+    },
+    "atlas": {
+      "title": "ATLAS",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:31:17+00:00",
+      "data": {
+        "title": "Starlink: Battle for Atlas",
+        "game_id": 6579,
+        "url": "https://opencritic.com/game/6579/starlink-battle-for-atlas",
+        "top_critic_score": 75.8,
+        "percent_recommended": 55.6,
+        "tier": "Strong",
+        "median_score": 78,
+        "review_count": 103,
+        "release_year": 2018,
+        "match_type": "exact",
+        "match_score": 140
+      }
+    },
+    "banjo kazooie": {
+      "title": "Banjo-Kazooie",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:31:19+00:00",
+      "data": {
+        "title": "Banjo-Kazooie",
+        "game_id": 20888,
+        "url": "https://opencritic.com/game/20888/banjo-kazooie",
+        "top_critic_score": null,
+        "percent_recommended": null,
+        "tier": null,
+        "median_score": null,
+        "review_count": 1,
+        "release_year": 1998,
+        "match_type": "exact",
+        "match_score": 135
+      }
+    },
+    "banjo kazooie n n b": {
+      "title": "Banjo Kazooie: N n B",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:31:22+00:00",
+      "data": {
+        "title": "Banjo-Kazooie",
+        "game_id": 20888,
+        "url": "https://opencritic.com/game/20888/banjo-kazooie",
+        "top_critic_score": null,
+        "percent_recommended": null,
+        "tier": null,
+        "median_score": null,
+        "review_count": 1,
+        "release_year": 1998,
+        "match_type": "partial",
+        "match_score": 104
+      }
+    },
+    "banjo tooie": {
+      "title": "Banjo-Tooie",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:31:23+00:00",
+      "data": {
+        "title": "Banjo-Tooie",
+        "game_id": 20889,
+        "url": "https://opencritic.com/game/20889/banjo-tooie",
+        "top_critic_score": null,
+        "percent_recommended": null,
+        "tier": null,
+        "median_score": null,
+        "review_count": 1,
+        "release_year": 2001,
+        "match_type": "exact",
+        "match_score": 135
+      }
+    },
+    "battlefield 3": {
+      "title": "Battlefield 3™",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:31:25+00:00",
+      "data": null
+    },
+    "battlefield hardline": {
+      "title": "Battlefield™ Hardline",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:31:27+00:00",
+      "data": {
+        "title": "Battlefield Hardline",
+        "game_id": 81,
+        "url": "https://opencritic.com/game/81/battlefield-hardline",
+        "top_critic_score": 71.8,
+        "percent_recommended": 37.2,
+        "tier": "Fair",
+        "median_score": 70,
+        "review_count": 84,
+        "release_year": 2015,
+        "match_type": "exact",
+        "match_score": 151
+      }
+    },
+    "bejeweled 2": {
+      "title": "Bejeweled 2",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:31:29+00:00",
+      "data": null
+    },
+    "bejeweled 3": {
+      "title": "Bejeweled 3",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:31:31+00:00",
+      "data": null
+    },
+    "black": {
+      "title": "BLACK™",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:31:33+00:00",
+      "data": null
+    },
+    "brütal legend": {
+      "title": "Brütal Legend",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:31:35+00:00",
+      "data": null
+    },
+    "call of duty black ops 6 cross gen bundle": {
+      "title": "Call of Duty®: Black Ops 6 - Cross-Gen Bundle",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:31:37+00:00",
+      "data": {
+        "title": "Call of Duty: Black Ops 6",
+        "game_id": 17124,
+        "url": "https://opencritic.com/game/17124/call-of-duty-black-ops-6",
+        "top_critic_score": 83.3,
+        "percent_recommended": 91.0,
+        "tier": "Strong",
+        "median_score": 85,
+        "review_count": 159,
+        "release_year": 2024,
+        "match_type": "partial",
+        "match_score": 108
+      }
+    },
+    "call of duty black ops cold war cross gen bundle": {
+      "title": "Call of Duty®: Black Ops Cold War - Cross-Gen Bundle",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:31:39+00:00",
+      "data": {
+        "title": "Call of Duty: Black Ops Cold War",
+        "game_id": 10119,
+        "url": "https://opencritic.com/game/10119/call-of-duty-black-ops-cold-war",
+        "top_critic_score": 75.2,
+        "percent_recommended": 61.3,
+        "tier": "Strong",
+        "median_score": 80,
+        "review_count": 163,
+        "release_year": 2020,
+        "match_type": "partial",
+        "match_score": 122
+      }
+    },
+    "child of light": {
+      "title": "Child of Light™",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:31:41+00:00",
+      "data": {
+        "title": "Child of Light",
+        "game_id": 264,
+        "url": "https://opencritic.com/game/264/child-of-light",
+        "top_critic_score": 82.8,
+        "percent_recommended": 80.2,
+        "tier": "Strong",
+        "median_score": 85,
+        "review_count": 88,
+        "release_year": 2014,
+        "match_type": "exact",
+        "match_score": 151
+      }
+    },
+    "colony ship a post earth role playing game": {
+      "title": "Colony Ship: A Post-Earth Role Playing Game",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:31:43+00:00",
+      "data": {
+        "title": "Colony Ship: A Post-Earth Role Playing Game",
+        "game_id": 16019,
+        "url": "https://opencritic.com/game/16019/colony-ship-a-post-earth-role-playing-game",
+        "top_critic_score": null,
+        "percent_recommended": null,
+        "tier": null,
+        "median_score": null,
+        "review_count": 2,
+        "release_year": 2023,
+        "match_type": "exact",
+        "match_score": 135
+      }
+    },
+    "contrast": {
+      "title": "Contrast",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:31:45+00:00",
+      "data": {
+        "title": "Contrast",
+        "game_id": 309,
+        "url": "https://opencritic.com/game/309/contrast",
+        "top_critic_score": 59.8,
+        "percent_recommended": 10.9,
+        "tier": "Weak",
+        "median_score": 60,
+        "review_count": 47,
+        "release_year": 2013,
+        "match_type": "exact",
+        "match_score": 143
+      }
+    },
+    "control": {
+      "title": "Control",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:31:48+00:00",
+      "data": {
+        "title": "Control",
+        "game_id": 7858,
+        "url": "https://opencritic.com/game/7858/control",
+        "top_critic_score": 83.5,
+        "percent_recommended": 89.5,
+        "tier": "Mighty",
+        "median_score": 85,
+        "review_count": 185,
+        "release_year": 2019,
+        "match_type": "exact",
+        "match_score": 156
+      }
+    },
+    "control ultimate edition xbox series x s": {
+      "title": "Control Ultimate Edition - Xbox Series X|S",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:31:50+00:00",
+      "data": {
+        "title": "Control: Ultimate Edition",
+        "game_id": 10096,
+        "url": "https://opencritic.com/game/10096/control-ultimate-edition",
+        "top_critic_score": 84.9,
+        "percent_recommended": 97.3,
+        "tier": "Mighty",
+        "median_score": 86,
+        "review_count": 39,
+        "release_year": 2020,
+        "match_type": "exact",
+        "match_score": 137
+      }
+    },
+    "costume quest 2": {
+      "title": "Costume Quest 2",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:31:52+00:00",
+      "data": {
+        "title": "Costume Quest 2",
+        "game_id": 176,
+        "url": "https://opencritic.com/game/176/costume-quest-2",
+        "top_critic_score": 71.2,
+        "percent_recommended": 27.3,
+        "tier": "Fair",
+        "median_score": 70,
+        "review_count": 34,
+        "release_year": 2014,
+        "match_type": "exact",
+        "match_score": 148
+      }
+    },
+    "crash team racing nitro fueled": {
+      "title": "Crash™ Team Racing Nitro-Fueled",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:31:54+00:00",
+      "data": {
+        "title": "Crash Team Racing: Nitro-Fueled",
+        "game_id": 7709,
+        "url": "https://opencritic.com/game/7709/crash-team-racing-nitro-fueled",
+        "top_critic_score": 83.3,
+        "percent_recommended": 89.3,
+        "tier": "Strong",
+        "median_score": null,
+        "review_count": 124,
+        "release_year": 2019,
+        "match_type": "exact",
+        "match_score": 153
+      }
+    },
+    "crysis 2": {
+      "title": "Crysis 2",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:31:56+00:00",
+      "data": null
+    },
+    "dante s inferno": {
+      "title": "Dante's Inferno™",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:31:59+00:00",
+      "data": null
+    },
+    "dead space ignition": {
+      "title": "Dead Space™ Ignition",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:32:01+00:00",
+      "data": {
+        "title": "Dead Space (2023)",
+        "game_id": 13897,
+        "url": "https://opencritic.com/game/13897/dead-space-2023-",
+        "top_critic_score": 88.9,
+        "percent_recommended": 96.6,
+        "tier": "Mighty",
+        "median_score": 90,
+        "review_count": 183,
+        "release_year": 2023,
+        "match_type": "partial",
+        "match_score": 108
+      }
+    },
+    "dirt rally 2 0": {
+      "title": "DiRT Rally 2.0",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:32:03+00:00",
+      "data": {
+        "title": "Dirt Rally 2.0",
+        "game_id": 7087,
+        "url": "https://opencritic.com/game/7087/dirt-rally-2-0",
+        "top_critic_score": 83.0,
+        "percent_recommended": 90.2,
+        "tier": "Strong",
+        "median_score": 85,
+        "review_count": 84,
+        "release_year": 2019,
+        "match_type": "exact",
+        "match_score": 151
+      }
+    },
+    "doom": {
+      "title": "DOOM",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:32:06+00:00",
+      "data": {
+        "title": "Doom (2016)",
+        "game_id": 1572,
+        "url": "https://opencritic.com/game/1572/doom-2016-",
+        "top_critic_score": 85.8,
+        "percent_recommended": 92.4,
+        "tier": "Mighty",
+        "median_score": 90,
+        "review_count": 152,
+        "release_year": 2016,
+        "match_type": "exact",
+        "match_score": 147
+      }
+    },
+    "doom eternal standard edition": {
+      "title": "DOOM Eternal Standard Edition",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:32:08+00:00",
+      "data": {
+        "title": "Doom Eternal",
+        "game_id": 7410,
+        "url": "https://opencritic.com/game/7410/doom-eternal",
+        "top_critic_score": 89.1,
+        "percent_recommended": 95.1,
+        "tier": "Mighty",
+        "median_score": 90,
+        "review_count": 211,
+        "release_year": 2020,
+        "match_type": "partial",
+        "match_score": 121
+      }
+    },
+    "dragon age 2": {
+      "title": "Dragon Age™ 2",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:32:10+00:00",
+      "data": null
+    },
+    "dragon age origins": {
+      "title": "Dragon Age: Origins",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:32:12+00:00",
+      "data": null
+    },
+    "ea sports college football 25": {
+      "title": "EA SPORTS™ College Football 25",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:32:14+00:00",
+      "data": {
+        "title": "EA Sports College Football 25",
+        "game_id": 17015,
+        "url": "https://opencritic.com/game/17015/ea-sports-college-football-25",
+        "top_critic_score": 81.4,
+        "percent_recommended": 84.1,
+        "tier": "Strong",
+        "median_score": 80,
+        "review_count": 46,
+        "release_year": 2024,
+        "match_type": "exact",
+        "match_score": 149
+      }
+    },
+    "ea sports college football 26": {
+      "title": "EA SPORTS™ College Football 26",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:32:18+00:00",
+      "data": {
+        "title": "EA Sports College Football 26",
+        "game_id": 18613,
+        "url": "https://opencritic.com/game/18613/ea-sports-college-football-26",
+        "top_critic_score": 83.6,
+        "percent_recommended": 92.7,
+        "tier": "Mighty",
+        "median_score": 80,
+        "review_count": 41,
+        "release_year": 2025,
+        "match_type": "exact",
+        "match_score": 149
+      }
+    },
+    "ea sports fc 25 xbox one": {
+      "title": "EA SPORTS FC™ 25 Xbox One",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:32:19+00:00",
+      "data": {
+        "title": "EA Sports FC 25",
+        "game_id": 17121,
+        "url": "https://opencritic.com/game/17121/ea-sports-fc-25",
+        "top_critic_score": 76.1,
+        "percent_recommended": 62.6,
+        "tier": "Strong",
+        "median_score": 80,
+        "review_count": 93,
+        "release_year": 2024,
+        "match_type": "partial",
+        "match_score": 106
+      }
+    },
+    "ea sports fc 25 xbox series x s": {
+      "title": "EA SPORTS FC™ 25 Xbox Series X|S",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:32:21+00:00",
+      "data": {
+        "title": "EA Sports FC 25",
+        "game_id": 17121,
+        "url": "https://opencritic.com/game/17121/ea-sports-fc-25",
+        "top_critic_score": 76.1,
+        "percent_recommended": 62.6,
+        "tier": "Strong",
+        "median_score": 80,
+        "review_count": 93,
+        "release_year": 2024,
+        "match_type": "partial",
+        "match_score": 104
+      }
+    },
+    "ea sports fc 26 xbox one": {
+      "title": "EA SPORTS FC™ 26 Xbox One",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:32:22+00:00",
+      "data": {
+        "title": "EA Sports FC 26",
+        "game_id": 18960,
+        "url": "https://opencritic.com/game/18960/ea-sports-fc-26",
+        "top_critic_score": 79.9,
+        "percent_recommended": 80.4,
+        "tier": "Strong",
+        "median_score": 80,
+        "review_count": 112,
+        "release_year": 2025,
+        "match_type": "partial",
+        "match_score": 107
+      }
+    },
+    "ea sports fc 26 xbox series x s": {
+      "title": "EA SPORTS FC™ 26 Xbox Series X|S",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:32:23+00:00",
+      "data": {
+        "title": "EA Sports FC 26",
+        "game_id": 18960,
+        "url": "https://opencritic.com/game/18960/ea-sports-fc-26",
+        "top_critic_score": 79.9,
+        "percent_recommended": 80.4,
+        "tier": "Strong",
+        "median_score": 80,
+        "review_count": 112,
+        "release_year": 2025,
+        "match_type": "partial",
+        "match_score": 105
+      }
+    },
+    "elite dangerous": {
+      "title": "Elite Dangerous",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:32:24+00:00",
+      "data": {
+        "title": "Elite Dangerous (VR)",
+        "game_id": 2492,
+        "url": "https://opencritic.com/game/2492/elite-dangerous-vr-",
+        "top_critic_score": null,
+        "percent_recommended": null,
+        "tier": null,
+        "median_score": null,
+        "review_count": 1,
+        "release_year": 2016,
+        "match_type": "exact",
+        "match_score": 145
+      }
+    },
+    "fable anniversary": {
+      "title": "Fable Anniversary",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:32:29+00:00",
+      "data": null
+    },
+    "fable ii": {
+      "title": "Fable II",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:32:31+00:00",
+      "data": null
+    },
+    "fable iii": {
+      "title": "Fable III",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:32:33+00:00",
+      "data": null
+    },
+    "fallout 3": {
+      "title": "Fallout 3",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:32:35+00:00",
+      "data": null
+    },
+    "far cry 3": {
+      "title": "FAR CRY 3",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:32:37+00:00",
+      "data": null
+    },
+    "far cry 3 blood dragon": {
+      "title": "Far Cry® 3: Blood Dragon",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:32:40+00:00",
+      "data": {
+        "title": "Far Cry 3: Blood Dragon Classic Edition",
+        "game_id": 21386,
+        "url": "https://opencritic.com/game/21386/far-cry-3-blood-dragon-classic-edition",
+        "top_critic_score": null,
+        "percent_recommended": null,
+        "tier": null,
+        "median_score": null,
+        "review_count": null,
+        "release_year": null,
+        "match_type": "partial",
+        "match_score": 101
+      }
+    },
+    "far cry 3 classic edition": {
+      "title": "Far Cry 3 Classic Edition",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:32:41+00:00",
+      "data": {
+        "title": "Far Cry 3 Classic Edition",
+        "game_id": 6166,
+        "url": "https://opencritic.com/game/6166/far-cry-3-classic-edition",
+        "top_critic_score": 75.4,
+        "percent_recommended": 66.7,
+        "tier": "Strong",
+        "median_score": 78,
+        "review_count": 10,
+        "release_year": 2018,
+        "match_type": "exact",
+        "match_score": 147
+      }
+    },
+    "far cry primal": {
+      "title": "Far Cry® Primal",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:32:44+00:00",
+      "data": {
+        "title": "Far Cry Primal",
+        "game_id": 1944,
+        "url": "https://opencritic.com/game/1944/far-cry-primal",
+        "top_critic_score": 76.6,
+        "percent_recommended": 60.2,
+        "tier": "Strong",
+        "median_score": 80,
+        "review_count": 115,
+        "release_year": 2016,
+        "match_type": "exact",
+        "match_score": 152
+      }
+    },
+    "farcry 6": {
+      "title": "FARCRY 6",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:32:45+00:00",
+      "data": null
+    },
+    "feeding frenzy": {
+      "title": "Feeding Frenzy",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:32:46+00:00",
+      "data": null
+    },
+    "feeding frenzy 2": {
+      "title": "Feeding Frenzy 2",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:32:48+00:00",
+      "data": null
+    },
+    "fight night champion": {
+      "title": "FIGHT NIGHT CHAMPION",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:32:50+00:00",
+      "data": null
+    },
+    "fortnite": {
+      "title": "Fortnite®",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:32:52+00:00",
+      "data": null
+    },
+    "gears of war": {
+      "title": "Gears of War",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:32:55+00:00",
+      "data": {
+        "title": "Gears of War: Ultimate Edition",
+        "game_id": 1502,
+        "url": "https://opencritic.com/game/1502/gears-of-war-ultimate-edition",
+        "top_critic_score": 83.6,
+        "percent_recommended": 87.0,
+        "tier": "Mighty",
+        "median_score": 85,
+        "review_count": 79,
+        "release_year": 2015,
+        "match_type": "exact",
+        "match_score": 130
+      }
+    },
+    "gears of war 2": {
+      "title": "Gears of War 2",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:32:57+00:00",
+      "data": {
+        "title": "Gears of War: Ultimate Edition",
+        "game_id": 1502,
+        "url": "https://opencritic.com/game/1502/gears-of-war-ultimate-edition",
+        "top_critic_score": 83.6,
+        "percent_recommended": 87.0,
+        "tier": "Mighty",
+        "median_score": 85,
+        "review_count": 79,
+        "release_year": 2015,
+        "match_type": "partial",
+        "match_score": 101
+      }
+    },
+    "gears of war 3": {
+      "title": "Gears of War 3",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:32:59+00:00",
+      "data": {
+        "title": "Gears of War: Ultimate Edition",
+        "game_id": 1502,
+        "url": "https://opencritic.com/game/1502/gears-of-war-ultimate-edition",
+        "top_critic_score": 83.6,
+        "percent_recommended": 87.0,
+        "tier": "Mighty",
+        "median_score": 85,
+        "review_count": 79,
+        "release_year": 2015,
+        "match_type": "partial",
+        "match_score": 101
+      }
+    },
+    "gears of war judgment": {
+      "title": "Gears of War: Judgment",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:33:00+00:00",
+      "data": {
+        "title": "Gears of War: Ultimate Edition",
+        "game_id": 1502,
+        "url": "https://opencritic.com/game/1502/gears-of-war-ultimate-edition",
+        "top_critic_score": 83.6,
+        "percent_recommended": 87.0,
+        "tier": "Mighty",
+        "median_score": 85,
+        "review_count": 79,
+        "release_year": 2015,
+        "match_type": "partial",
+        "match_score": 100
+      }
+    },
+    "gears of war ultimate edition": {
+      "title": "Gears of War: Ultimate Edition",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:33:01+00:00",
+      "data": {
+        "title": "Gears of War: Ultimate Edition",
+        "game_id": 1502,
+        "url": "https://opencritic.com/game/1502/gears-of-war-ultimate-edition",
+        "top_critic_score": 83.6,
+        "percent_recommended": 87.0,
+        "tier": "Mighty",
+        "median_score": 85,
+        "review_count": 79,
+        "release_year": 2015,
+        "match_type": "exact",
+        "match_score": 150
+      }
+    },
+    "genshin impact": {
+      "title": "Genshin Impact",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:33:02+00:00",
+      "data": {
+        "title": "Genshin Impact",
+        "game_id": 10217,
+        "url": "https://opencritic.com/game/10217/genshin-impact",
+        "top_critic_score": 81.4,
+        "percent_recommended": 87.2,
+        "tier": "Strong",
+        "median_score": 80,
+        "review_count": 42,
+        "release_year": 2020,
+        "match_type": "exact",
+        "match_score": 137
+      }
+    },
+    "goldeneye 007": {
+      "title": "GoldenEye 007",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:33:04+00:00",
+      "data": {
+        "title": "GoldenEye 007",
+        "game_id": 14240,
+        "url": "https://opencritic.com/game/14240/goldeneye-007",
+        "top_critic_score": 83.0,
+        "percent_recommended": 83.3,
+        "tier": "Strong",
+        "median_score": 80,
+        "review_count": 7,
+        "release_year": 2010,
+        "match_type": "exact",
+        "match_score": 135
+      }
+    },
+    "halo 5 guardians": {
+      "title": "Halo 5: Guardians",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:33:06+00:00",
+      "data": {
+        "title": "Halo 5: Guardians",
+        "game_id": 1513,
+        "url": "https://opencritic.com/game/1513/halo-5-guardians",
+        "top_critic_score": 84.4,
+        "percent_recommended": 84.3,
+        "tier": "Mighty",
+        "median_score": 88,
+        "review_count": 123,
+        "release_year": 2015,
+        "match_type": "exact",
+        "match_score": 153
+      }
+    },
+    "halo wars definitive edition": {
+      "title": "Halo Wars: Definitive Edition",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:33:08+00:00",
+      "data": {
+        "title": "Halo Wars: Definitive Edition",
+        "game_id": 3746,
+        "url": "https://opencritic.com/game/3746/halo-wars-definitive-edition",
+        "top_critic_score": 78.5,
+        "percent_recommended": 75.0,
+        "tier": "Strong",
+        "median_score": 80,
+        "review_count": 12,
+        "release_year": 2016,
+        "match_type": "exact",
+        "match_score": 147
+      }
+    },
+    "heavy weapon": {
+      "title": "Heavy Weapon",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:33:11+00:00",
+      "data": null
+    },
+    "hungry shark world": {
+      "title": "Hungry Shark World",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:33:13+00:00",
+      "data": {
+        "title": "Hungry Shark World",
+        "game_id": 6436,
+        "url": "https://opencritic.com/game/6436/hungry-shark-world",
+        "top_critic_score": 59.5,
+        "percent_recommended": 0.0,
+        "tier": "Weak",
+        "median_score": 55,
+        "review_count": 6,
+        "release_year": 2018,
+        "match_type": "exact",
+        "match_score": 147
+      }
+    },
+    "iron brigade": {
+      "title": "Iron Brigade",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:33:15+00:00",
+      "data": null
+    },
+    "jetpac refuelled": {
+      "title": "Jetpac Refuelled",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:33:18+00:00",
+      "data": null
+    },
+    "kameo": {
+      "title": "Kameo",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:33:19+00:00",
+      "data": null
+    },
+    "killer instinct 2 classic": {
+      "title": "Killer Instinct 2 Classic",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:33:21+00:00",
+      "data": {
+        "title": "Killer Instinct",
+        "game_id": 843,
+        "url": "https://opencritic.com/game/843/killer-instinct",
+        "top_critic_score": 76.6,
+        "percent_recommended": 51.2,
+        "tier": "Strong",
+        "median_score": 80,
+        "review_count": 42,
+        "release_year": 2014,
+        "match_type": "partial",
+        "match_score": 115
+      }
+    },
+    "madden nfl 25 xbox one": {
+      "title": "Madden NFL 25 Xbox One",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:33:23+00:00",
+      "data": {
+        "title": "Madden NFL 25",
+        "game_id": 17056,
+        "url": "https://opencritic.com/game/17056/madden-nfl-25",
+        "top_critic_score": 68.6,
+        "percent_recommended": 37.5,
+        "tier": "Fair",
+        "median_score": 75,
+        "review_count": 40,
+        "release_year": 2024,
+        "match_type": "partial",
+        "match_score": 103
+      }
+    },
+    "madden nfl 25 xbox series x s": {
+      "title": "Madden NFL 25 Xbox Series X|S",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:33:25+00:00",
+      "data": {
+        "title": "Madden NFL 25",
+        "game_id": 17056,
+        "url": "https://opencritic.com/game/17056/madden-nfl-25",
+        "top_critic_score": 68.6,
+        "percent_recommended": 37.5,
+        "tier": "Fair",
+        "median_score": 75,
+        "review_count": 40,
+        "release_year": 2024,
+        "match_type": "partial",
+        "match_score": 102
+      }
+    },
+    "mass effect 2": {
+      "title": "Mass Effect 2",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:33:26+00:00",
+      "data": null
+    },
+    "mass effect 3": {
+      "title": "Mass Effect™ 3",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:33:29+00:00",
+      "data": null
+    },
+    "mass effect andromeda": {
+      "title": "Mass Effect™: Andromeda",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:33:30+00:00",
+      "data": {
+        "title": "Mass Effect Andromeda",
+        "game_id": 1547,
+        "url": "https://opencritic.com/game/1547/mass-effect-andromeda",
+        "top_critic_score": 72.3,
+        "percent_recommended": 39.9,
+        "tier": "Fair",
+        "median_score": 75,
+        "review_count": 180,
+        "release_year": 2017,
+        "match_type": "exact",
+        "match_score": 156
+      }
+    },
+    "massive chalice": {
+      "title": "MASSIVE CHALICE",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:33:31+00:00",
+      "data": {
+        "title": "Massive Chalice",
+        "game_id": 326,
+        "url": "https://opencritic.com/game/326/massive-chalice",
+        "top_critic_score": 74.4,
+        "percent_recommended": 43.3,
+        "tier": "Fair",
+        "median_score": 75,
+        "review_count": 32,
+        "release_year": 2015,
+        "match_type": "exact",
+        "match_score": 148
+      }
+    },
+    "max the curse of brotherhood": {
+      "title": "Max: The Curse of Brotherhood",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:33:33+00:00",
+      "data": {
+        "title": "Max: The Curse of Brotherhood",
+        "game_id": 1450,
+        "url": "https://opencritic.com/game/1450/max-the-curse-of-brotherhood",
+        "top_critic_score": 69.2,
+        "percent_recommended": 41.8,
+        "tier": "Fair",
+        "median_score": 70,
+        "review_count": 67,
+        "release_year": 2013,
+        "match_type": "exact",
+        "match_score": 144
+      }
+    },
+    "minecraft": {
+      "title": "Minecraft",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:33:35+00:00",
+      "data": {
+        "title": "Minecraft",
+        "game_id": 194,
+        "url": "https://opencritic.com/game/194/minecraft",
+        "top_critic_score": 89.7,
+        "percent_recommended": 84.4,
+        "tier": "Mighty",
+        "median_score": 90,
+        "review_count": 45,
+        "release_year": 2017,
+        "match_type": "exact",
+        "match_score": 149
+      }
+    },
+    "minecraft dungeons": {
+      "title": "Minecraft Dungeons",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:33:38+00:00",
+      "data": {
+        "title": "Minecraft Dungeons",
+        "game_id": 9258,
+        "url": "https://opencritic.com/game/9258/minecraft-dungeons",
+        "top_critic_score": 74.3,
+        "percent_recommended": 47.1,
+        "tier": "Fair",
+        "median_score": null,
+        "review_count": 125,
+        "release_year": 2020,
+        "match_type": "exact",
+        "match_score": 153
+      }
+    },
+    "monopoly madness": {
+      "title": "Monopoly Madness",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:33:40+00:00",
+      "data": {
+        "title": "Monopoly Madness",
+        "game_id": 12482,
+        "url": "https://opencritic.com/game/12482/monopoly-madness",
+        "top_critic_score": null,
+        "percent_recommended": 62.5,
+        "tier": null,
+        "median_score": null,
+        "review_count": 8,
+        "release_year": 2021,
+        "match_type": "exact",
+        "match_score": 147
+      }
+    },
+    "need for speed payback": {
+      "title": "Need for Speed™ Payback",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:33:42+00:00",
+      "data": {
+        "title": "Need for Speed Payback",
+        "game_id": 4506,
+        "url": "https://opencritic.com/game/4506/need-for-speed-payback",
+        "top_critic_score": 60.1,
+        "percent_recommended": 15.7,
+        "tier": "Weak",
+        "median_score": 60,
+        "review_count": 110,
+        "release_year": 2017,
+        "match_type": "exact",
+        "match_score": 152
+      }
+    },
+    "new monopoly": {
+      "title": "NEW MONOPOLY®",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:33:45+00:00",
+      "data": null
+    },
+    "nhl 25 xbox series x s": {
+      "title": "NHL® 25 Xbox Series X|S",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:33:47+00:00",
+      "data": null
+    },
+    "nhl 26 xbox series x s": {
+      "title": "NHL® 26 Xbox Series X|S",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:33:49+00:00",
+      "data": null
+    },
+    "nhl 94 rewind": {
+      "title": "NHL® 94 REWIND",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:33:50+00:00",
+      "data": {
+        "title": "NHL 94 Rewind",
+        "game_id": 10518,
+        "url": "https://opencritic.com/game/10518/nhl-94-rewind",
+        "top_critic_score": null,
+        "percent_recommended": null,
+        "tier": null,
+        "median_score": null,
+        "review_count": 2,
+        "release_year": 2020,
+        "match_type": "exact",
+        "match_score": 141
+      }
+    },
+    "oddballers": {
+      "title": "OddBallers™",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:33:53+00:00",
+      "data": {
+        "title": "OddBallers",
+        "game_id": 14246,
+        "url": "https://opencritic.com/game/14246/oddballers",
+        "top_critic_score": 69.7,
+        "percent_recommended": 30.0,
+        "tier": "Fair",
+        "median_score": 70,
+        "review_count": 10,
+        "release_year": 2023,
+        "match_type": "exact",
+        "match_score": 147
+      }
+    },
+    "peggle 2": {
+      "title": "Peggle 2",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:33:55+00:00",
+      "data": {
+        "title": "Peggle 2",
+        "game_id": 190,
+        "url": "https://opencritic.com/game/190/peggle-2",
+        "top_critic_score": 76.1,
+        "percent_recommended": 54.8,
+        "tier": "Strong",
+        "median_score": 79,
+        "review_count": 32,
+        "release_year": 2013,
+        "match_type": "exact",
+        "match_score": 142
+      }
+    },
+    "perfect dark": {
+      "title": "Perfect Dark",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:33:57+00:00",
+      "data": null
+    },
+    "perfect dark zero": {
+      "title": "Perfect Dark Zero",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:33:59+00:00",
+      "data": null
+    },
+    "prince of persia the lost crown": {
+      "title": "Prince of Persia: The Lost Crown",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:34:03+00:00",
+      "data": {
+        "title": "Prince of Persia: The Lost Crown",
+        "game_id": 15867,
+        "url": "https://opencritic.com/game/15867/prince-of-persia-the-lost-crown",
+        "top_critic_score": 86.8,
+        "percent_recommended": 95.9,
+        "tier": "Mighty",
+        "median_score": 90,
+        "review_count": 200,
+        "release_year": 2024,
+        "match_type": "exact",
+        "match_score": 157
+      }
+    },
+    "rabbids invasion the interactive tv show": {
+      "title": "Rabbids Invasion : The Interactive TV Show",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:34:06+00:00",
+      "data": null
+    },
+    "rabbids party of legends": {
+      "title": "Rabbids®: Party of Legends",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:34:08+00:00",
+      "data": {
+        "title": "Rabbids: Party of Legends",
+        "game_id": 13340,
+        "url": "https://opencritic.com/game/13340/rabbids-party-of-legends",
+        "top_critic_score": 65.8,
+        "percent_recommended": 22.2,
+        "tier": "Fair",
+        "median_score": 70,
+        "review_count": 9,
+        "release_year": 2022,
+        "match_type": "exact",
+        "match_score": 147
+      }
+    },
+    "rage": {
+      "title": "Rage",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:34:10+00:00",
+      "data": null
+    },
+    "rare replay": {
+      "title": "Rare Replay",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:34:13+00:00",
+      "data": {
+        "title": "Rare Replay",
+        "game_id": 1843,
+        "url": "https://opencritic.com/game/1843/rare-replay",
+        "top_critic_score": 85.7,
+        "percent_recommended": 95.8,
+        "tier": "Mighty",
+        "median_score": 88,
+        "review_count": 74,
+        "release_year": 2015,
+        "match_type": "exact",
+        "match_score": 150
+      }
+    },
+    "rayman legends": {
+      "title": "Rayman® Legends",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:34:16+00:00",
+      "data": {
+        "title": "Rayman Legends",
+        "game_id": 288,
+        "url": "https://opencritic.com/game/288/rayman-legends",
+        "top_critic_score": 90.2,
+        "percent_recommended": 94.7,
+        "tier": "Mighty",
+        "median_score": 90,
+        "review_count": 76,
+        "release_year": 2013,
+        "match_type": "exact",
+        "match_score": 144
+      }
+    },
+    "risk urban assault": {
+      "title": "Risk: Urban Assault",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:34:17+00:00",
+      "data": {
+        "title": "Risk: Urban Assault",
+        "game_id": 3117,
+        "url": "https://opencritic.com/game/3117/risk-urban-assault",
+        "top_critic_score": 53.8,
+        "percent_recommended": 0.0,
+        "tier": "Weak",
+        "median_score": 60,
+        "review_count": 6,
+        "release_year": 2016,
+        "match_type": "exact",
+        "match_score": 147
+      }
+    },
+    "rocket league": {
+      "title": "Rocket League®",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:34:20+00:00",
+      "data": {
+        "title": "Rocket League",
+        "game_id": 1055,
+        "url": "https://opencritic.com/game/1055/rocket-league",
+        "top_critic_score": 86.6,
+        "percent_recommended": 94.3,
+        "tier": "Mighty",
+        "median_score": 90,
+        "review_count": 111,
+        "release_year": 2015,
+        "match_type": "exact",
+        "match_score": 146
+      }
+    },
+    "ryse legendary edition": {
+      "title": "Ryse: Legendary Edition",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:34:23+00:00",
+      "data": null
+    },
+    "screamride": {
+      "title": "ScreamRide",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:34:25+00:00",
+      "data": {
+        "title": "ScreamRide",
+        "game_id": 483,
+        "url": "https://opencritic.com/game/483/screamride",
+        "top_critic_score": 72.7,
+        "percent_recommended": 46.9,
+        "tier": "Fair",
+        "median_score": 75,
+        "review_count": 49,
+        "release_year": 2015,
+        "match_type": "exact",
+        "match_score": 149
+      }
+    },
+    "skate 2007": {
+      "title": "skate. (2007)",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:34:27+00:00",
+      "data": {
+        "title": "skate.",
+        "game_id": 19193,
+        "url": "https://opencritic.com/game/19193/skate-",
+        "top_critic_score": null,
+        "percent_recommended": 80.0,
+        "tier": null,
+        "median_score": 70,
+        "review_count": 5,
+        "release_year": 2025,
+        "match_type": "exact",
+        "match_score": 128
+      }
+    },
+    "skate 3": {
+      "title": "Skate 3",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:34:29+00:00",
+      "data": null
+    },
+    "skull and bones": {
+      "title": "SKULL AND BONES™",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:34:31+00:00",
+      "data": {
+        "title": "Skull and Bones",
+        "game_id": 16299,
+        "url": "https://opencritic.com/game/16299/skull-and-bones",
+        "top_critic_score": 60.2,
+        "percent_recommended": 11.8,
+        "tier": "Weak",
+        "median_score": 60,
+        "review_count": 107,
+        "release_year": 2024,
+        "match_type": "exact",
+        "match_score": 152
+      }
+    },
+    "south park the stick of truth": {
+      "title": "South Park™: The Stick of Truth™",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:34:34+00:00",
+      "data": {
+        "title": "South Park: The Stick of Truth",
+        "game_id": 537,
+        "url": "https://opencritic.com/game/537/south-park-the-stick-of-truth",
+        "top_critic_score": 85.0,
+        "percent_recommended": 88.2,
+        "tier": "Mighty",
+        "median_score": 85,
+        "review_count": 72,
+        "release_year": 2014,
+        "match_type": "exact",
+        "match_score": 150
+      }
+    },
+    "ssx": {
+      "title": "SSX",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:34:36+00:00",
+      "data": null
+    },
+    "stacking": {
+      "title": "Stacking",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:34:38+00:00",
+      "data": null
+    },
+    "star wars battlefront": {
+      "title": "STAR WARS™ Battlefront™",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:34:40+00:00",
+      "data": {
+        "title": "Star Wars Battlefront",
+        "game_id": 1511,
+        "url": "https://opencritic.com/game/1511/star-wars-battlefront",
+        "top_critic_score": 71.2,
+        "percent_recommended": 32.7,
+        "tier": "Fair",
+        "median_score": 70,
+        "review_count": 112,
+        "release_year": 2015,
+        "match_type": "exact",
+        "match_score": 152
+      }
+    },
+    "star wars jedi survivor xbox one": {
+      "title": "STAR WARS Jedi: Survivor™ Xbox One",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:34:42+00:00",
+      "data": {
+        "title": "Star Wars Jedi: Survivor",
+        "game_id": 14199,
+        "url": "https://opencritic.com/game/14199/star-wars-jedi-survivor",
+        "top_critic_score": 84.0,
+        "percent_recommended": 87.2,
+        "tier": "Mighty",
+        "median_score": 85,
+        "review_count": 187,
+        "release_year": 2023,
+        "match_type": "partial",
+        "match_score": 118
+      }
+    },
+    "state of decay year one survival edition": {
+      "title": "State of Decay: Year One Survival Edition",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:34:46+00:00",
+      "data": {
+        "title": "State of Decay: Year One Survival Edition",
+        "game_id": 334,
+        "url": "https://opencritic.com/game/334/state-of-decay-year-one-survival-edition",
+        "top_critic_score": 73.6,
+        "percent_recommended": 43.9,
+        "tier": "Fair",
+        "median_score": 75,
+        "review_count": 41,
+        "release_year": 2015,
+        "match_type": "exact",
+        "match_score": 149
+      }
+    },
+    "steep": {
+      "title": "Steep™",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:34:48+00:00",
+      "data": {
+        "title": "Steep",
+        "game_id": 3215,
+        "url": "https://opencritic.com/game/3215/steep",
+        "top_critic_score": 70.9,
+        "percent_recommended": 28.4,
+        "tier": "Fair",
+        "median_score": 70,
+        "review_count": 84,
+        "release_year": 2016,
+        "match_type": "exact",
+        "match_score": 151
+      }
+    },
+    "terraria": {
+      "title": "Terraria",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:34:50+00:00",
+      "data": {
+        "title": "Terraria",
+        "game_id": 148,
+        "url": "https://opencritic.com/game/148/terraria",
+        "top_critic_score": 78.9,
+        "percent_recommended": 75.8,
+        "tier": "Strong",
+        "median_score": 80,
+        "review_count": 33,
+        "release_year": 2011,
+        "match_type": "exact",
+        "match_score": 136
+      }
+    },
+    "the cave": {
+      "title": "The Cave",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:34:53+00:00",
+      "data": null
+    },
+    "the crew 2": {
+      "title": "The Crew® 2",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:34:55+00:00",
+      "data": {
+        "title": "The Crew 2",
+        "game_id": 6014,
+        "url": "https://opencritic.com/game/6014/the-crew-2",
+        "top_critic_score": 66.3,
+        "percent_recommended": 25.4,
+        "tier": "Fair",
+        "median_score": 70,
+        "review_count": 123,
+        "release_year": 2018,
+        "match_type": "exact",
+        "match_score": 153
+      }
+    },
+    "the elder scrolls iv oblivion": {
+      "title": "The Elder Scrolls IV: Oblivion",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:34:57+00:00",
+      "data": {
+        "title": "The Elder Scrolls IV: Oblivion Remastered",
+        "game_id": 18437,
+        "url": "https://opencritic.com/game/18437/the-elder-scrolls-iv-oblivion-remastered",
+        "top_critic_score": 81.5,
+        "percent_recommended": 84.4,
+        "tier": "Strong",
+        "median_score": 85,
+        "review_count": 135,
+        "release_year": 2025,
+        "match_type": "partial",
+        "match_score": 109
+      }
+    },
+    "the settlers new allies": {
+      "title": "The Settlers®: New Allies",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:35:00+00:00",
+      "data": {
+        "title": "The Settlers: New Allies",
+        "game_id": 14336,
+        "url": "https://opencritic.com/game/14336/the-settlers-new-allies",
+        "top_critic_score": 57.4,
+        "percent_recommended": 18.2,
+        "tier": "Weak",
+        "median_score": 60,
+        "review_count": 23,
+        "release_year": 2023,
+        "match_type": "exact",
+        "match_score": 148
+      }
+    },
+    "the walking dead a new frontier": {
+      "title": "The Walking Dead: A New Frontier",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:35:02+00:00",
+      "data": {
+        "title": "The Walking Dead: A New Frontier - Episodes 1 & 2 - Ties That Bind",
+        "game_id": 3637,
+        "url": "https://opencritic.com/game/3637/the-walking-dead-a-new-frontier-episodes-1-2-ties-that-bind",
+        "top_critic_score": 79.3,
+        "percent_recommended": 71.6,
+        "tier": "Strong",
+        "median_score": 80,
+        "review_count": 84,
+        "release_year": 2016,
+        "match_type": "partial",
+        "match_score": 117
+      }
+    },
+    "the walking dead michonne a telltale miniseries": {
+      "title": "The Walking Dead: Michonne - A Telltale Miniseries",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:35:06+00:00",
+      "data": null
+    },
+    "the walking dead season two": {
+      "title": "The Walking Dead: Season Two",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:35:09+00:00",
+      "data": {
+        "title": "The Walking Dead: Season Two Episode 3 - In Harm's Way",
+        "game_id": 980,
+        "url": "https://opencritic.com/game/980/the-walking-dead-season-two-episode-3-in-harms-way",
+        "top_critic_score": 81.2,
+        "percent_recommended": 80.0,
+        "tier": "Strong",
+        "median_score": 82,
+        "review_count": 38,
+        "release_year": 2014,
+        "match_type": "partial",
+        "match_score": 113
+      }
+    },
+    "the walking dead the complete first season": {
+      "title": "The Walking Dead: The Complete First Season",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:35:10+00:00",
+      "data": null
+    },
+    "the walking dead the final season the complete season": {
+      "title": "The Walking Dead: The Final Season - The Complete Season",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:35:11+00:00",
+      "data": {
+        "title": "The Walking Dead: The Final Season",
+        "game_id": 6552,
+        "url": "https://opencritic.com/game/6552/the-walking-dead-the-final-season",
+        "top_critic_score": 77.5,
+        "percent_recommended": 72.4,
+        "tier": "Strong",
+        "median_score": 80,
+        "review_count": 30,
+        "release_year": 2018,
+        "match_type": "partial",
+        "match_score": 117
+      }
+    },
+    "titanfall 2": {
+      "title": "Titanfall® 2",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:35:12+00:00",
+      "data": {
+        "title": "Titanfall 2",
+        "game_id": 2834,
+        "url": "https://opencritic.com/game/2834/titanfall-2",
+        "top_critic_score": 87.0,
+        "percent_recommended": 94.0,
+        "tier": "Mighty",
+        "median_score": 90,
+        "review_count": 140,
+        "release_year": 2016,
+        "match_type": "exact",
+        "match_score": 154
+      }
+    },
+    "tom clancy s ghost recon breakpoint": {
+      "title": "Tom Clancy's Ghost Recon® Breakpoint",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:35:15+00:00",
+      "data": {
+        "title": "Tom Clancy's Ghost Recon Breakpoint",
+        "game_id": 7884,
+        "url": "https://opencritic.com/game/7884/tom-clancys-ghost-recon-breakpoint",
+        "top_critic_score": 57.0,
+        "percent_recommended": 16.2,
+        "tier": "Weak",
+        "median_score": 60,
+        "review_count": 134,
+        "release_year": 2019,
+        "match_type": "exact",
+        "match_score": 153
+      }
+    },
+    "tom clancy s rainbow six extraction": {
+      "title": "Tom Clancy’s Rainbow Six® Extraction",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:35:18+00:00",
+      "data": {
+        "title": "Tom Clancy's Rainbow Six Extraction",
+        "game_id": 11577,
+        "url": "https://opencritic.com/game/11577/tom-clancys-rainbow-six-extraction",
+        "top_critic_score": 71.5,
+        "percent_recommended": 49.3,
+        "tier": "Fair",
+        "median_score": 75,
+        "review_count": 159,
+        "release_year": 2022,
+        "match_type": "exact",
+        "match_score": 154
+      }
+    },
+    "tom clancy s the division": {
+      "title": "Tom Clancy's The Division™",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:35:20+00:00",
+      "data": {
+        "title": "Tom Clancy's The Division",
+        "game_id": 1530,
+        "url": "https://opencritic.com/game/1530/tom-clancys-the-division",
+        "top_critic_score": 78.6,
+        "percent_recommended": 75.0,
+        "tier": "Strong",
+        "median_score": 80,
+        "review_count": 121,
+        "release_year": 2016,
+        "match_type": "exact",
+        "match_score": 153
+      }
+    },
+    "trackmania turbo": {
+      "title": "Trackmania® Turbo",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:35:22+00:00",
+      "data": {
+        "title": "TrackMania Turbo",
+        "game_id": 1743,
+        "url": "https://opencritic.com/game/1743/trackmania-turbo",
+        "top_critic_score": 77.7,
+        "percent_recommended": 67.3,
+        "tier": "Strong",
+        "median_score": 80,
+        "review_count": 50,
+        "release_year": 2016,
+        "match_type": "exact",
+        "match_score": 149
+      }
+    },
+    "transference": {
+      "title": "Transference",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:35:24+00:00",
+      "data": {
+        "title": "Transference",
+        "game_id": 6578,
+        "url": "https://opencritic.com/game/6578/transference",
+        "top_critic_score": 71.0,
+        "percent_recommended": 34.6,
+        "tier": "Fair",
+        "median_score": 70,
+        "review_count": 53,
+        "release_year": 2018,
+        "match_type": "exact",
+        "match_score": 149
+      }
+    },
+    "trials fusion": {
+      "title": "Trials Fusion™",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:35:27+00:00",
+      "data": {
+        "title": "Trials Fusion",
+        "game_id": 269,
+        "url": "https://opencritic.com/game/269/trials-fusion",
+        "top_critic_score": 78.5,
+        "percent_recommended": 66.1,
+        "tier": "Strong",
+        "median_score": 80,
+        "review_count": 62,
+        "release_year": 2014,
+        "match_type": "exact",
+        "match_score": 150
+      }
+    },
+    "trials of the blood dragon": {
+      "title": "TRIALS OF THE BLOOD DRAGON",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:35:29+00:00",
+      "data": {
+        "title": "Trials of the Blood Dragon",
+        "game_id": 2857,
+        "url": "https://opencritic.com/game/2857/trials-of-the-blood-dragon",
+        "top_critic_score": 54.2,
+        "percent_recommended": 2.7,
+        "tier": "Weak",
+        "median_score": 50,
+        "review_count": 38,
+        "release_year": 2016,
+        "match_type": "exact",
+        "match_score": 148
+      }
+    },
+    "trials rising": {
+      "title": "Trials® Rising",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:35:32+00:00",
+      "data": {
+        "title": "Trials Rising",
+        "game_id": 7093,
+        "url": "https://opencritic.com/game/7093/trials-rising",
+        "top_critic_score": 80.0,
+        "percent_recommended": 81.0,
+        "tier": "Strong",
+        "median_score": 80,
+        "review_count": 107,
+        "release_year": 2019,
+        "match_type": "exact",
+        "match_score": 152
+      }
+    },
+    "ufc 4": {
+      "title": "UFC® 4",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:35:34+00:00",
+      "data": null
+    },
+    "ufc 5": {
+      "title": "UFC® 5",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:35:35+00:00",
+      "data": null
+    },
+    "uno": {
+      "title": "UNO",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:35:37+00:00",
+      "data": {
+        "title": "Uno",
+        "game_id": 3131,
+        "url": "https://opencritic.com/game/3131/uno",
+        "top_critic_score": 64.4,
+        "percent_recommended": 33.3,
+        "tier": "Weak",
+        "median_score": 70,
+        "review_count": 24,
+        "release_year": 2016,
+        "match_type": "exact",
+        "match_score": 148
+      }
+    },
+    "urbo": {
+      "title": "URBO",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:35:39+00:00",
+      "data": {
+        "title": "Urbo",
+        "game_id": 15699,
+        "url": "https://opencritic.com/game/15699/urbo",
+        "top_critic_score": null,
+        "percent_recommended": null,
+        "tier": null,
+        "median_score": null,
+        "review_count": 1,
+        "release_year": 2023,
+        "match_type": "exact",
+        "match_score": 135
+      }
+    },
+    "valiant hearts the great war": {
+      "title": "Valiant Hearts: The Great War™",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:35:41+00:00",
+      "data": {
+        "title": "Valiant Hearts: The Great War",
+        "game_id": 242,
+        "url": "https://opencritic.com/game/242/valiant-hearts-the-great-war",
+        "top_critic_score": 79.5,
+        "percent_recommended": 68.9,
+        "tier": "Strong",
+        "median_score": 80,
+        "review_count": 78,
+        "release_year": 2014,
+        "match_type": "exact",
+        "match_score": 150
+      }
+    },
+    "valorant": {
+      "title": "VALORANT",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:35:43+00:00",
+      "data": {
+        "title": "Valorant",
+        "game_id": 9573,
+        "url": "https://opencritic.com/game/9573/valorant",
+        "top_critic_score": 80.6,
+        "percent_recommended": 86.0,
+        "tier": "Strong",
+        "median_score": 80,
+        "review_count": 52,
+        "release_year": 2020,
+        "match_type": "exact",
+        "match_score": 137
+      }
+    },
+    "viva piñata": {
+      "title": "Viva Piñata",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:35:45+00:00",
+      "data": null
+    },
+    "viva piñata tip": {
+      "title": "Viva Piñata: TIP",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:35:48+00:00",
+      "data": null
+    },
+    "warhammer vermintide 2": {
+      "title": "Warhammer: Vermintide 2",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:35:49+00:00",
+      "data": {
+        "title": "Warhammer: Vermintide 2",
+        "game_id": 5673,
+        "url": "https://opencritic.com/game/5673/warhammer-vermintide-2",
+        "top_critic_score": 83.0,
+        "percent_recommended": 92.4,
+        "tier": "Strong",
+        "median_score": 80,
+        "review_count": 69,
+        "release_year": 2018,
+        "match_type": "exact",
+        "match_score": 150
+      }
+    },
+    "wasteland 3": {
+      "title": "Wasteland 3",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:35:51+00:00",
+      "data": {
+        "title": "Wasteland 3",
+        "game_id": 9140,
+        "url": "https://opencritic.com/game/9140/wasteland-3",
+        "top_critic_score": 85.8,
+        "percent_recommended": 96.4,
+        "tier": "Mighty",
+        "median_score": 87,
+        "review_count": 114,
+        "release_year": 2020,
+        "match_type": "exact",
+        "match_score": 152
+      }
+    },
+    "watch_dogs": {
+      "title": "Watch_Dogs™",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:35:54+00:00",
+      "data": null
+    },
+    "wild hearts standard edition": {
+      "title": "WILD HEARTS™ Standard Edition",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:35:56+00:00",
+      "data": {
+        "title": "Wild Hearts",
+        "game_id": 13899,
+        "url": "https://opencritic.com/game/13899/wild-hearts",
+        "top_critic_score": 78.4,
+        "percent_recommended": 73.2,
+        "tier": "Strong",
+        "median_score": 80,
+        "review_count": 130,
+        "release_year": 2023,
+        "match_type": "partial",
+        "match_score": 116
+      }
+    },
+    "wolfenstein ii the new colossus": {
+      "title": "Wolfenstein® II: The New Colossus™",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:35:58+00:00",
+      "data": null
+    },
+    "world of tanks": {
+      "title": "World of Tanks",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:36:00+00:00",
+      "data": {
+        "title": "World of Tanks",
+        "game_id": 9754,
+        "url": "https://opencritic.com/game/9754/world-of-tanks",
+        "top_critic_score": 75.3,
+        "percent_recommended": 62.5,
+        "tier": "Strong",
+        "median_score": 80,
+        "review_count": 19,
+        "release_year": 2011,
+        "match_type": "exact",
+        "match_score": 135
+      }
+    },
+    "zombi": {
+      "title": "ZOMBI",
+      "status": "matched",
+      "fetched_at": "2026-10-12T21:36:03+00:00",
+      "data": {
+        "title": "ZOMBI",
+        "game_id": 1838,
+        "url": "https://opencritic.com/game/1838/zombi",
+        "top_critic_score": 67.0,
+        "percent_recommended": 23.7,
+        "tier": "Fair",
+        "median_score": 70,
+        "review_count": 39,
+        "release_year": 2015,
+        "match_type": "exact",
+        "match_score": 148
+      }
+    },
+    "zuma": {
+      "title": "Zuma",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:36:05+00:00",
+      "data": null
+    },
+    "zuma s revenge": {
+      "title": "Zuma's Revenge!",
+      "status": "not_found",
+      "fetched_at": "2026-10-12T21:36:07+00:00",
+      "data": null
     }
   }
 }
