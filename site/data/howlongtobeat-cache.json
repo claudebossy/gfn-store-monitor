@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T21:36:20+00:00",
+  "updated_at": "2026-10-12T22:09:20+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -16,7 +16,10 @@
         "release_year": 2024,
         "profile_platform": "Nintendo Switch, Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 136
+        "match_score": 136,
+        "genres": [
+          "Adventure"
+        ]
       }
     },
     "33 immortals": {
@@ -34,7 +37,12 @@
         "release_year": 2025,
         "profile_platform": "PC, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 133
+        "match_score": 133,
+        "genres": [
+          "Top-Down",
+          "Action",
+          "Roguelike"
+        ]
       }
     },
     "9 kings": {
@@ -52,7 +60,11 @@
         "release_year": 2025,
         "profile_platform": "Mac, PC",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Roguelike",
+          "Strategy/Tactical"
+        ]
       }
     },
     "a game about digging a hole": {
@@ -76,7 +88,13 @@
         "release_year": 2022,
         "profile_platform": "Nintendo Switch, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Third-Person",
+          "Action",
+          "Adventure",
+          "Stealth"
+        ]
       }
     },
     "a way out": {
@@ -94,7 +112,12 @@
         "release_year": 2018,
         "profile_platform": "PC, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Third-Person",
+          "Action",
+          "Adventure"
+        ]
       }
     },
     "abiotic factor": {
@@ -112,7 +135,14 @@
         "release_year": 2025,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "First-Person",
+          "Role-Playing",
+          "Shooter",
+          "Simulation",
+          "Survival"
+        ]
       }
     },
     "absolum": {
@@ -130,7 +160,11 @@
         "release_year": 2025,
         "profile_platform": "Mobile, Nintendo Switch, Nintendo Switch 2, PC, PlayStation 4, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 136
+        "match_score": 136,
+        "genres": [
+          "Beat em Up",
+          "Roguelike"
+        ]
       }
     },
     "aerial_knight s dropshot": {
@@ -148,7 +182,11 @@
         "release_year": 2026,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 138
+        "match_score": 138,
+        "genres": [
+          "First-Person",
+          "Shooter"
+        ]
       }
     },
     "age of empires definitive edition": {
@@ -166,7 +204,11 @@
         "release_year": 2018,
         "profile_platform": "PC",
         "match_type": "exact",
-        "match_score": 136
+        "match_score": 136,
+        "genres": [
+          "Real-Time",
+          "Strategy"
+        ]
       }
     },
     "age of empires ii definitive edition": {
@@ -184,7 +226,11 @@
         "release_year": 2019,
         "profile_platform": "PC, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Real-Time",
+          "Strategy/Tactical"
+        ]
       }
     },
     "age of empires iii definitive edition": {
@@ -202,7 +248,11 @@
         "release_year": 2020,
         "profile_platform": "PC",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Real-Time",
+          "Strategy/Tactical"
+        ]
       }
     },
     "age of empires iv anniversary edition": {
@@ -220,7 +270,11 @@
         "release_year": 2021,
         "profile_platform": "PC, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Real-Time",
+          "Strategy/Tactical"
+        ]
       }
     },
     "age of mythology retold": {
@@ -238,7 +292,14 @@
         "release_year": 2024,
         "profile_platform": "PC, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Top-Down",
+          "Real-Time",
+          "City-Building",
+          "Management",
+          "Strategy/Tactical"
+        ]
       }
     },
     "albion online": {
@@ -256,7 +317,11 @@
         "release_year": 2017,
         "profile_platform": "PC, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 127
+        "match_score": 127,
+        "genres": [
+          "Massively Multiplayer",
+          "Role-Playing"
+        ]
       }
     },
     "alice madness returns": {
@@ -280,7 +345,13 @@
         "release_year": 2023,
         "profile_platform": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 136
+        "match_score": 136,
+        "genres": [
+          "Real-Time",
+          "Action",
+          "Adventure",
+          "Strategy/Tactical"
+        ]
       }
     },
     "among us": {
@@ -298,7 +369,10 @@
         "release_year": 2018,
         "profile_platform": "Mobile, Nintendo Switch, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Survival"
+        ]
       }
     },
     "an elder scrolls legend battlespire": {
@@ -316,7 +390,11 @@
         "release_year": 1997,
         "profile_platform": "PC",
         "match_type": "exact",
-        "match_score": 129
+        "match_score": 129,
+        "genres": [
+          "Action",
+          "Role-Playing"
+        ]
       }
     },
     "anno 1800": {
@@ -340,7 +418,12 @@
         "release_year": 2022,
         "profile_platform": "Nintendo Switch, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 136
+        "match_score": 136,
+        "genres": [
+          "Third-Person",
+          "Action",
+          "Role-Playing"
+        ]
       }
     },
     "another crab s treasure": {
@@ -376,7 +459,11 @@
         "release_year": 2026,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 141
+        "match_score": 141,
+        "genres": [
+          "Action",
+          "Adventure"
+        ]
       }
     },
     "ara history untold anniversary edition": {
@@ -400,7 +487,10 @@
         "release_year": 2026,
         "profile_platform": "PC",
         "match_type": "exact",
-        "match_score": 137
+        "match_score": 137,
+        "genres": [
+          "Puzzle"
+        ]
       }
     },
     "ark survival ascended": {
@@ -418,7 +508,14 @@
         "release_year": 2023,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Action",
+          "Adventure",
+          "Open World",
+          "Role-Playing",
+          "Survival"
+        ]
       }
     },
     "ark ultimate survivor edition": {
@@ -442,7 +539,11 @@
         "release_year": 2018,
         "profile_platform": "PC",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Card Game",
+          "Strategy"
+        ]
       }
     },
     "arto": {
@@ -460,7 +561,11 @@
         "release_year": 2023,
         "profile_platform": "PC",
         "match_type": "exact",
-        "match_score": 126
+        "match_score": 126,
+        "genres": [
+          "Action",
+          "Role-Playing"
+        ]
       }
     },
     "arx fatalis": {
@@ -478,7 +583,8 @@
         "release_year": 2002,
         "profile_platform": "PC, Xbox",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": []
       }
     },
     "as dusk falls": {
@@ -496,7 +602,10 @@
         "release_year": 2022,
         "profile_platform": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Adventure"
+        ]
       }
     },
     "asphalt legends": {
@@ -514,7 +623,12 @@
         "release_year": 2018,
         "profile_platform": "Mobile, Nintendo Switch, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "partial",
-        "match_score": 112
+        "match_score": 112,
+        "genres": [
+          "Third-Person",
+          "Multidirectional",
+          "Racing/Driving"
+        ]
       }
     },
     "assassin s creed mirage": {
@@ -544,7 +658,12 @@
         "release_year": 2017,
         "profile_platform": "Google Stadia, PC, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Third-Person",
+          "Action",
+          "Adventure"
+        ]
       }
     },
     "assassin s creed valhalla": {
@@ -568,7 +687,11 @@
         "release_year": 2019,
         "profile_platform": "Nintendo Switch, PC, PlayStation 4, PlayStation 5, Xbox One",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Adventure",
+          "Open World"
+        ]
       }
     },
     "atomfall": {
@@ -604,7 +727,14 @@
         "release_year": 2023,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "First-Person",
+          "Action",
+          "Adventure",
+          "Open World",
+          "Shooter"
+        ]
       }
     },
     "avowed": {
@@ -622,7 +752,10 @@
         "release_year": 2025,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Role-Playing"
+        ]
       }
     },
     "balatro": {
@@ -640,7 +773,11 @@
         "release_year": 2024,
         "profile_platform": "Mac, Mobile, Nintendo Switch, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Card Game",
+          "Roguelike"
+        ]
       }
     },
     "baldur s gate and baldur s gate ii enhanced editions": {
@@ -658,7 +795,10 @@
         "release_year": 2019,
         "profile_platform": "Nintendo Switch, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 132
+        "match_score": 132,
+        "genres": [
+          "Role-Playing"
+        ]
       }
     },
     "ball x pit": {
@@ -676,7 +816,17 @@
         "release_year": 2025,
         "profile_platform": "Mac, Mobile, Nintendo Switch, Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Top-Down",
+          "Real-Time",
+          "Scrolling",
+          "Action",
+          "Arcade",
+          "Breakout",
+          "Management",
+          "Roguelike"
+        ]
       }
     },
     "banishers ghosts of new eden": {
@@ -694,7 +844,11 @@
         "release_year": 2024,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Action",
+          "Role-Playing"
+        ]
       }
     },
     "barbie horse trails": {
@@ -754,7 +908,8 @@
         "release_year": 2018,
         "profile_platform": "PC",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": []
       }
     },
     "battletoads": {
@@ -772,7 +927,12 @@
         "release_year": 2020,
         "profile_platform": "PC, Xbox One",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Side",
+          "Scrolling",
+          "Beat em Up"
+        ]
       }
     },
     "beast of reincarnation": {
@@ -790,7 +950,11 @@
         "release_year": 2026,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Action",
+          "Adventure"
+        ]
       }
     },
     "beastro": {
@@ -808,7 +972,10 @@
         "release_year": 2026,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 139
+        "match_score": 139,
+        "genres": [
+          "Adventure"
+        ]
       }
     },
     "beatdown city survivors": {
@@ -826,7 +993,10 @@
         "release_year": 2026,
         "profile_platform": "PC, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 138
+        "match_score": 138,
+        "genres": [
+          "Action"
+        ]
       }
     },
     "black jacket": {
@@ -844,7 +1014,11 @@
         "release_year": 2026,
         "profile_platform": "Nintendo Switch, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 141
+        "match_score": 141,
+        "genres": [
+          "Card Game",
+          "Roguelike"
+        ]
       }
     },
     "blasphemous": {
@@ -862,7 +1036,12 @@
         "release_year": 2019,
         "profile_platform": "Linux, Mac, Mobile, Nintendo Switch, PC, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Side",
+          "Action",
+          "Platform"
+        ]
       }
     },
     "blazblue entropy effect x": {
@@ -880,7 +1059,13 @@
         "release_year": 2024,
         "profile_platform": "Mac, Mobile, Nintendo Switch, Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Side",
+          "Scrolling",
+          "Action",
+          "Roguelike"
+        ]
       }
     },
     "bleeding edge": {
@@ -898,7 +1083,11 @@
         "release_year": 2020,
         "profile_platform": "PC, Xbox One",
         "match_type": "exact",
-        "match_score": 137
+        "match_score": 137,
+        "genres": [
+          "Action",
+          "Shooter"
+        ]
       }
     },
     "blinx the time sweeper": {
@@ -916,7 +1105,8 @@
         "release_year": 2002,
         "profile_platform": "Xbox",
         "match_type": "exact",
-        "match_score": 121
+        "match_score": 121,
+        "genres": []
       }
     },
     "blizzard arcade collection": {
@@ -940,7 +1130,11 @@
         "release_year": 2025,
         "profile_platform": "Mac, Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Adventure",
+          "Puzzle"
+        ]
       }
     },
     "bluey the videogame": {
@@ -958,7 +1152,14 @@
         "release_year": 2023,
         "profile_platform": "Nintendo Switch, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 140
+        "match_score": 140,
+        "genres": [
+          "Third-Person",
+          "Multidirectional",
+          "Action",
+          "Adventure",
+          "Party"
+        ]
       }
     },
     "bounty star": {
@@ -976,7 +1177,11 @@
         "release_year": 2025,
         "profile_platform": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 137
+        "match_score": 137,
+        "genres": [
+          "Action",
+          "Adventure"
+        ]
       }
     },
     "brawlhalla": {
@@ -994,7 +1199,11 @@
         "release_year": 2017,
         "profile_platform": "Mobile, Nintendo Switch, PC, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Action",
+          "Fighting"
+        ]
       }
     },
     "broken age": {
@@ -1012,7 +1221,11 @@
         "release_year": 2014,
         "profile_platform": "Mobile, Nintendo Switch, PC, PlayStation 4, PlayStation Vita, Xbox One",
         "match_type": "partial",
-        "match_score": 102
+        "match_score": 102,
+        "genres": [
+          "Point-and-Click",
+          "Adventure"
+        ]
       }
     },
     "brotato": {
@@ -1030,7 +1243,11 @@
         "release_year": 2023,
         "profile_platform": "Mobile, Nintendo Switch, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 136
+        "match_score": 136,
+        "genres": [
+          "Top-Down",
+          "Roguelike"
+        ]
       }
     },
     "buckshot roulette": {
@@ -1048,7 +1265,15 @@
         "release_year": 2024,
         "profile_platform": "Linux, PC, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "First-Person",
+          "Turn-Based",
+          "Board Game",
+          "Horror",
+          "Shooter",
+          "Survival"
+        ]
       }
     },
     "burnout paradise remastered": {
@@ -1102,7 +1327,11 @@
         "release_year": 2026,
         "profile_platform": "Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Adventure",
+          "Puzzle"
+        ]
       }
     },
     "call of the wild the angler": {
@@ -1126,7 +1355,8 @@
         "release_year": 2021,
         "profile_platform": "PC, PlayStation 4, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": []
       }
     },
     "chivalry 2": {
@@ -1144,7 +1374,10 @@
         "release_year": 2021,
         "profile_platform": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Action"
+        ]
       }
     },
     "cities skylines": {
@@ -1168,7 +1401,12 @@
         "release_year": 2023,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "City-Building",
+          "Management",
+          "Simulation"
+        ]
       }
     },
     "city 20": {
@@ -1186,7 +1424,10 @@
         "release_year": 1995,
         "profile_platform": "PC",
         "match_type": "exact",
-        "match_score": 138
+        "match_score": 138,
+        "genres": [
+          "City-Building"
+        ]
       }
     },
     "clair obscur expedition 33": {
@@ -1204,7 +1445,13 @@
         "release_year": 2025,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Third-Person",
+          "Turn-Based",
+          "Action",
+          "Role-Playing"
+        ]
       }
     },
     "clone drone in the danger zone": {
@@ -1222,7 +1469,10 @@
         "release_year": 2017,
         "profile_platform": "Nintendo Switch, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Action"
+        ]
       }
     },
     "cloverpit": {
@@ -1240,7 +1490,13 @@
         "release_year": 2025,
         "profile_platform": "Mobile, Nintendo Switch, Nintendo Switch 2, PC, PlayStation 4, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "First-Person",
+          "Horror",
+          "Roguelike",
+          "Strategy/Tactical"
+        ]
       }
     },
     "command conquer remastered collection": {
@@ -1282,7 +1538,14 @@
         "release_year": 2005,
         "profile_platform": "Xbox",
         "match_type": "exact",
-        "match_score": 123
+        "match_score": 123,
+        "genres": [
+          "Third-Person",
+          "Action",
+          "Adventure",
+          "Platform",
+          "Shooter"
+        ]
       }
     },
     "construction simulator": {
@@ -1300,7 +1563,8 @@
         "release_year": 2022,
         "profile_platform": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": []
       }
     },
     "control ultimate edition": {
@@ -1318,7 +1582,13 @@
         "release_year": 2020,
         "profile_platform": "Amazon Luna, Google Stadia, Mobile, Nintendo Switch, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Third-Person",
+          "Action",
+          "Adventure",
+          "Shooter"
+        ]
       }
     },
     "cooking simulator": {
@@ -1336,7 +1606,8 @@
         "release_year": 2019,
         "profile_platform": "Nintendo Switch, PC, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": []
       }
     },
     "corsair cove": {
@@ -1354,7 +1625,10 @@
         "release_year": 2026,
         "profile_platform": "PC",
         "match_type": "exact",
-        "match_score": 140
+        "match_score": 140,
+        "genres": [
+          "Strategy/Tactical"
+        ]
       }
     },
     "crackdown 3": {
@@ -1372,7 +1646,12 @@
         "release_year": 2019,
         "profile_platform": "PC, Xbox One",
         "match_type": "exact",
-        "match_score": 138
+        "match_score": 138,
+        "genres": [
+          "Third-Person",
+          "Action",
+          "Adventure"
+        ]
       }
     },
     "crash bandicoot 4 it s about time": {
@@ -1402,7 +1681,10 @@
         "release_year": 2026,
         "profile_platform": "PC, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 139
+        "match_score": 139,
+        "genres": [
+          "Action"
+        ]
       }
     },
     "crawl": {
@@ -1420,7 +1702,13 @@
         "release_year": 2024,
         "profile_platform": "PC",
         "match_type": "exact",
-        "match_score": 131
+        "match_score": 131,
+        "genres": [
+          "First-Person",
+          "Incremental",
+          "Adventure",
+          "Horror"
+        ]
       }
     },
     "cricket 24": {
@@ -1462,7 +1750,10 @@
         "release_year": 2024,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 136
+        "match_score": 136,
+        "genres": [
+          "Action"
+        ]
       }
     },
     "crimson skies high road to revenge": {
@@ -1498,7 +1789,12 @@
         "release_year": 2013,
         "profile_platform": "Nintendo Switch, PC, PlayStation 3, PlayStation 4, PlayStation 5, Xbox 360",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "First-Person",
+          "Action",
+          "Shooter"
+        ]
       }
     },
     "date everything": {
@@ -1516,7 +1812,10 @@
         "release_year": 2025,
         "profile_platform": "Nintendo Switch, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Simulation"
+        ]
       }
     },
     "day of the tentacle remastered": {
@@ -1534,7 +1833,13 @@
         "release_year": 1993,
         "profile_platform": "Linux, Mac, Mobile, PC, PlayStation 4, PlayStation Vita, Xbox One",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Side",
+          "Point-and-Click",
+          "Adventure",
+          "Puzzle"
+        ]
       }
     },
     "dayz": {
@@ -1552,7 +1857,10 @@
         "release_year": 2013,
         "profile_platform": "Nintendo Switch 2, PC, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Open World"
+        ]
       }
     },
     "dead by daylight": {
@@ -1570,7 +1878,15 @@
         "release_year": 2016,
         "profile_platform": "Google Stadia, Mobile, Nintendo Switch, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "First-Person",
+          "Third-Person",
+          "Real-Time",
+          "Horror",
+          "Stealth",
+          "Survival"
+        ]
       }
     },
     "dead cells": {
@@ -1606,7 +1922,12 @@
         "release_year": 2023,
         "profile_platform": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 136
+        "match_score": 136,
+        "genres": [
+          "First-Person",
+          "Action",
+          "Role-Playing"
+        ]
       }
     },
     "dead space": {
@@ -1624,7 +1945,13 @@
         "release_year": 2023,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Third-Person",
+          "Horror",
+          "Shooter",
+          "Survival"
+        ]
       }
     },
     "dead space 2": {
@@ -1642,7 +1969,13 @@
         "release_year": 2011,
         "profile_platform": "PC, PlayStation 3, Xbox 360",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Third-Person",
+          "Horror",
+          "Shooter",
+          "Survival"
+        ]
       }
     },
     "dead space 2008": {
@@ -1666,7 +1999,11 @@
         "release_year": 2013,
         "profile_platform": "PC, PlayStation 3, Xbox 360",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Third-Person",
+          "Shooter"
+        ]
       }
     },
     "dead static drive": {
@@ -1684,7 +2021,8 @@
         "release_year": null,
         "profile_platform": "PC",
         "match_type": "exact",
-        "match_score": 125
+        "match_score": 125,
+        "genres": []
       }
     },
     "death howl": {
@@ -1702,7 +2040,13 @@
         "release_year": 2025,
         "profile_platform": "Nintendo Switch, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 140
+        "match_score": 140,
+        "genres": [
+          "Isometric",
+          "Turn-Based",
+          "Card Game",
+          "Strategy/Tactical"
+        ]
       }
     },
     "death stranding director s cut": {
@@ -1720,7 +2064,12 @@
         "release_year": 2021,
         "profile_platform": "Amazon Luna, Mobile, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Third-Person",
+          "Action",
+          "Open World"
+        ]
       }
     },
     "deathloop": {
@@ -1738,7 +2087,12 @@
         "release_year": 2021,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 136
+        "match_score": 136,
+        "genres": [
+          "First-Person",
+          "Roguelike",
+          "Shooter"
+        ]
       }
     },
     "deep rock galactic": {
@@ -1756,7 +2110,11 @@
         "release_year": 2020,
         "profile_platform": "PC, PlayStation 4, PlayStation 5, Xbox One",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "First-Person",
+          "Action"
+        ]
       }
     },
     "deep rock galactic survivor": {
@@ -1792,7 +2150,10 @@
         "release_year": 2026,
         "profile_platform": "Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Platform"
+        ]
       }
     },
     "descenders": {
@@ -1810,7 +2171,8 @@
         "release_year": 2018,
         "profile_platform": "Nintendo Switch, PC, PlayStation 4, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 136
+        "match_score": 136,
+        "genres": []
       }
     },
     "descenders next": {
@@ -1828,7 +2190,12 @@
         "release_year": 2025,
         "profile_platform": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 126
+        "match_score": 126,
+        "genres": [
+          "Action",
+          "Racing/Driving",
+          "Sports"
+        ]
       }
     },
     "diablo": {
@@ -1870,7 +2237,10 @@
         "release_year": 2026,
         "profile_platform": "PC, PlayStation 5",
         "match_type": "exact",
-        "match_score": 138
+        "match_score": 138,
+        "genres": [
+          "Strategy/Tactical"
+        ]
       }
     },
     "disco elysium": {
@@ -1888,7 +2258,12 @@
         "release_year": 2019,
         "profile_platform": "Google Stadia, Mac, Nintendo Switch, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Isometric",
+          "Adventure",
+          "Role-Playing"
+        ]
       }
     },
     "dishonored 2": {
@@ -1906,7 +2281,14 @@
         "release_year": 2016,
         "profile_platform": "PC, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "First-Person",
+          "Action",
+          "Adventure",
+          "Sandbox",
+          "Stealth"
+        ]
       }
     },
     "dishonored death of the outsider": {
@@ -1936,7 +2318,12 @@
         "release_year": 2023,
         "profile_platform": "Nintendo Switch, Nintendo Switch 2, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 136
+        "match_score": 136,
+        "genres": [
+          "Management",
+          "Simulation",
+          "Social"
+        ]
       }
     },
     "disneyland adventures": {
@@ -1954,7 +2341,10 @@
         "release_year": 2011,
         "profile_platform": "PC, Xbox 360, Xbox One",
         "match_type": "exact",
-        "match_score": 127
+        "match_score": 127,
+        "genres": [
+          "Adventure"
+        ]
       }
     },
     "dome keeper": {
@@ -1972,7 +2362,10 @@
         "release_year": 2022,
         "profile_platform": "Linux, Mac, PC, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Tower Defense"
+        ]
       }
     },
     "donut county": {
@@ -1990,7 +2383,11 @@
         "release_year": 2018,
         "profile_platform": "Mobile, Nintendo Switch, PC, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Top-Down",
+          "Puzzle"
+        ]
       }
     },
     "doom 3": {
@@ -2008,7 +2405,11 @@
         "release_year": 2004,
         "profile_platform": "Nintendo Switch, PC, PlayStation 3, PlayStation 4, Xbox, Xbox 360, Xbox One",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "First-Person",
+          "Shooter"
+        ]
       }
     },
     "doom 64": {
@@ -2026,7 +2427,11 @@
         "release_year": 1997,
         "profile_platform": "Google Stadia, Nintendo 64, Nintendo Switch, PC, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "First-Person",
+          "Shooter"
+        ]
       }
     },
     "doom doom ii": {
@@ -2044,7 +2449,12 @@
         "release_year": 2024,
         "profile_platform": "Nintendo Switch, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "First-Person",
+          "Action",
+          "Shooter"
+        ]
       }
     },
     "doom eternal standard edition pc": {
@@ -2068,7 +2478,12 @@
         "release_year": 2025,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "First-Person",
+          "Action",
+          "Shooter"
+        ]
       }
     },
     "dragon age ii": {
@@ -2110,7 +2525,13 @@
         "release_year": 2016,
         "profile_platform": "Google Stadia, Nintendo Switch, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Third-Person",
+          "Real-Time",
+          "Action",
+          "Fighting"
+        ]
       }
     },
     "dreamworks gabby s dollhouse ready to party": {
@@ -2134,7 +2555,15 @@
         "release_year": 2023,
         "profile_platform": "Mobile, Nintendo Switch, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Real-Time",
+          "Adventure",
+          "Horror",
+          "Management",
+          "Open World",
+          "Role-Playing"
+        ]
       }
     },
     "drop duchy complete edition": {
@@ -2188,7 +2617,11 @@
         "release_year": 2025,
         "profile_platform": "Mac, Mobile, Nintendo Switch, PC, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 136
+        "match_score": 136,
+        "genres": [
+          "Racing/Driving",
+          "Simulation"
+        ]
       }
     },
     "echo generation 2": {
@@ -2206,7 +2639,11 @@
         "release_year": 2026,
         "profile_platform": "PC, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 139
+        "match_score": 139,
+        "genres": [
+          "Turn-Based",
+          "Role-Playing"
+        ]
       }
     },
     "egging on": {
@@ -2224,7 +2661,11 @@
         "release_year": 2025,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 138
+        "match_score": 138,
+        "genres": [
+          "Action",
+          "Platform"
+        ]
       }
     },
     "endless space 2 digital deluxe edition": {
@@ -2248,7 +2689,13 @@
         "release_year": 2021,
         "profile_platform": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 139
+        "match_score": 139,
+        "genres": [
+          "First-Person",
+          "Massively Multiplayer",
+          "Action",
+          "Shooter"
+        ]
       }
     },
     "escape simulator": {
@@ -2266,7 +2713,12 @@
         "release_year": 2021,
         "profile_platform": "Linux, Mac, Meta Quest, PC, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "First-Person",
+          "Virtual Reality",
+          "Puzzle"
+        ]
       }
     },
     "escape the backrooms": {
@@ -2284,7 +2736,11 @@
         "release_year": 2022,
         "profile_platform": "Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Horror",
+          "Survival"
+        ]
       }
     },
     "eternal strands": {
@@ -2302,7 +2758,12 @@
         "release_year": 2025,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Third-Person",
+          "Action",
+          "Adventure"
+        ]
       }
     },
     "evil west": {
@@ -2320,7 +2781,10 @@
         "release_year": 2022,
         "profile_platform": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Beat em Up"
+        ]
       }
     },
     "f1 24": {
@@ -2350,7 +2814,12 @@
         "release_year": 1997,
         "profile_platform": "PC",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Top-Down",
+          "Turn-Based",
+          "Role-Playing"
+        ]
       }
     },
     "fallout 2": {
@@ -2368,7 +2837,12 @@
         "release_year": 1998,
         "profile_platform": "PC",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Top-Down",
+          "Turn-Based",
+          "Role-Playing"
+        ]
       }
     },
     "fallout 3 game of the year edition": {
@@ -2386,7 +2860,15 @@
         "release_year": 2009,
         "profile_platform": "Amazon Luna, PC, PlayStation 3, Xbox 360",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "First-Person",
+          "Third-Person",
+          "Action",
+          "Open World",
+          "Role-Playing",
+          "Shooter"
+        ]
       }
     },
     "fallout 4": {
@@ -2404,7 +2886,15 @@
         "release_year": 2015,
         "profile_platform": "Nintendo Switch 2, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "First-Person",
+          "Third-Person",
+          "Action",
+          "Open World",
+          "Role-Playing",
+          "Shooter"
+        ]
       }
     },
     "fallout 76": {
@@ -2422,7 +2912,13 @@
         "release_year": 2018,
         "profile_platform": "PC, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "First-Person",
+          "Third-Person",
+          "Action",
+          "Role-Playing"
+        ]
       }
     },
     "fallout new vegas": {
@@ -2440,7 +2936,15 @@
         "release_year": 2010,
         "profile_platform": "PC, PlayStation 3, Xbox 360",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "First-Person",
+          "Third-Person",
+          "Action",
+          "Open World",
+          "Role-Playing",
+          "Shooter"
+        ]
       }
     },
     "fallout tactics": {
@@ -2458,7 +2962,8 @@
         "release_year": 2001,
         "profile_platform": "PC",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": []
       }
     },
     "far cry 4": {
@@ -2476,7 +2981,12 @@
         "release_year": 2014,
         "profile_platform": "PC, PlayStation 3, PlayStation 4, Xbox 360, Xbox One",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "First-Person",
+          "Open World",
+          "Shooter"
+        ]
       }
     },
     "far cry 5": {
@@ -2506,7 +3016,13 @@
         "release_year": 2019,
         "profile_platform": "Google Stadia, PC, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "First-Person",
+          "Action",
+          "Adventure",
+          "Open World"
+        ]
       }
     },
     "farming simulator 25": {
@@ -2524,7 +3040,10 @@
         "release_year": 2024,
         "profile_platform": "Mac, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Simulation"
+        ]
       }
     },
     "fbc firebreak": {
@@ -2542,7 +3061,11 @@
         "release_year": 2025,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 140
+        "match_score": 140,
+        "genres": [
+          "First-Person",
+          "Shooter"
+        ]
       }
     },
     "fe": {
@@ -2560,7 +3083,10 @@
         "release_year": 2018,
         "profile_platform": "Nintendo Switch, PC, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 140
+        "match_score": 140,
+        "genres": [
+          "Platform"
+        ]
       }
     },
     "final fantasy": {
@@ -2578,7 +3104,12 @@
         "release_year": 1987,
         "profile_platform": "Game Boy Advance, MSX, Mobile, NES, Nintendo 3DS, Nintendo Switch, PC, PlayStation, PlayStation 4, PlayStation Portable, WonderSwan, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Top-Down",
+          "Turn-Based",
+          "Role-Playing"
+        ]
       }
     },
     "final fantasy ii": {
@@ -2596,7 +3127,13 @@
         "release_year": 1988,
         "profile_platform": "Game Boy Advance, Mobile, NES, Nintendo 3DS, Nintendo Switch, PC, PlayStation, PlayStation 4, PlayStation Portable, WonderSwan, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Side",
+          "Top-Down",
+          "Turn-Based",
+          "Role-Playing"
+        ]
       }
     },
     "final fantasy iii": {
@@ -2614,7 +3151,13 @@
         "release_year": 1990,
         "profile_platform": "Mobile, NES, Nintendo Switch, PC, PlayStation 4, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Side",
+          "Top-Down",
+          "Turn-Based",
+          "Role-Playing"
+        ]
       }
     },
     "final fantasy iv": {
@@ -2632,7 +3175,13 @@
         "release_year": 1991,
         "profile_platform": "Game Boy Advance, Mobile, Nintendo Switch, PC, PlayStation, PlayStation 4, PlayStation Portable, Super Nintendo, WonderSwan, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Side",
+          "Top-Down",
+          "Turn-Based",
+          "Role-Playing"
+        ]
       }
     },
     "final fantasy v": {
@@ -2650,7 +3199,12 @@
         "release_year": 1992,
         "profile_platform": "Game Boy Advance, Mobile, Nintendo Switch, PC, PlayStation, PlayStation 4, PlayStation Portable, Super Nintendo, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Side",
+          "Top-Down",
+          "Role-Playing"
+        ]
       }
     },
     "final fantasy vi": {
@@ -2668,7 +3222,12 @@
         "release_year": 1994,
         "profile_platform": "Game Boy Advance, Mobile, Nintendo Switch, PC, PlayStation, PlayStation 4, Super Nintendo, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Top-Down",
+          "Turn-Based",
+          "Role-Playing"
+        ]
       }
     },
     "firefighting simulator the squad": {
@@ -2686,7 +3245,11 @@
         "release_year": 2020,
         "profile_platform": "Nintendo Switch, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 127
+        "match_score": 127,
+        "genres": [
+          "Action",
+          "Simulation"
+        ]
       }
     },
     "fixforce": {
@@ -2704,7 +3267,11 @@
         "release_year": 2026,
         "profile_platform": "PC, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 138
+        "match_score": 138,
+        "genres": [
+          "Action",
+          "Platform"
+        ]
       }
     },
     "fogpiercer": {
@@ -2722,7 +3289,11 @@
         "release_year": 2026,
         "profile_platform": "Linux, Mac, PC",
         "match_type": "exact",
-        "match_score": 138
+        "match_score": 138,
+        "genres": [
+          "Role-Playing",
+          "Strategy/Tactical"
+        ]
       }
     },
     "football manager 26": {
@@ -2740,7 +3311,11 @@
         "release_year": 2025,
         "profile_platform": "Mobile, Nintendo Switch, PC, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Simulation",
+          "Sports"
+        ]
       }
     },
     "football manager 26 console": {
@@ -2770,7 +3345,13 @@
         "release_year": 2023,
         "profile_platform": "PC, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 136
+        "match_score": 136,
+        "genres": [
+          "Adventure",
+          "Board Game",
+          "Role-Playing",
+          "Strategy/Tactical"
+        ]
       }
     },
     "forza horizon 5": {
@@ -2788,7 +3369,11 @@
         "release_year": 2021,
         "profile_platform": "PC, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Open World",
+          "Racing/Driving"
+        ]
       }
     },
     "forza horizon 6": {
@@ -2806,7 +3391,11 @@
         "release_year": 2026,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Open World",
+          "Racing/Driving"
+        ]
       }
     },
     "forza motorsport": {
@@ -2824,7 +3413,10 @@
         "release_year": 2023,
         "profile_platform": "PC, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Racing/Driving"
+        ]
       }
     },
     "fragpunk": {
@@ -2842,7 +3434,11 @@
         "release_year": 2025,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 139
+        "match_score": 139,
+        "genres": [
+          "First-Person",
+          "Shooter"
+        ]
       }
     },
     "frog sqwad": {
@@ -2860,7 +3456,11 @@
         "release_year": 2026,
         "profile_platform": "PC, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 138
+        "match_score": 138,
+        "genres": [
+          "Platform",
+          "Puzzle"
+        ]
       }
     },
     "frostpunk 2": {
@@ -2896,7 +3496,11 @@
         "release_year": 2017,
         "profile_platform": "Mobile, PC, PlayStation 4, PlayStation Vita, Xbox One",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Point-and-Click",
+          "Adventure"
+        ]
       }
     },
     "fuzion frenzy": {
@@ -2920,7 +3524,13 @@
         "release_year": 2014,
         "profile_platform": "Nintendo Switch, PC, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Third-Person",
+          "Beat em Up",
+          "Fighting",
+          "Party"
+        ]
       }
     },
     "gears 5": {
@@ -2938,7 +3548,12 @@
         "release_year": 2019,
         "profile_platform": "PC, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 136
+        "match_score": 136,
+        "genres": [
+          "Third-Person",
+          "Action",
+          "Shooter"
+        ]
       }
     },
     "gears of war 4": {
@@ -2956,7 +3571,11 @@
         "release_year": 2016,
         "profile_platform": "PC, Xbox One",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Third-Person",
+          "Shooter"
+        ]
       }
     },
     "gears of war reloaded": {
@@ -2974,7 +3593,11 @@
         "release_year": 2025,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Third-Person",
+          "Shooter"
+        ]
       }
     },
     "gears tactics": {
@@ -2992,7 +3615,12 @@
         "release_year": 2020,
         "profile_platform": "PC, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Top-Down",
+          "Turn-Based",
+          "Strategy/Tactical"
+        ]
       }
     },
     "generation zero": {
@@ -3010,7 +3638,12 @@
         "release_year": 2019,
         "profile_platform": "PC, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "First-Person",
+          "Open World",
+          "Shooter"
+        ]
       }
     },
     "genesis noir": {
@@ -3028,7 +3661,10 @@
         "release_year": 2021,
         "profile_platform": "Nintendo Switch, PC, Xbox One",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Adventure"
+        ]
       }
     },
     "ghostwire tokyo": {
@@ -3046,7 +3682,12 @@
         "release_year": 2022,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 136
+        "match_score": 136,
+        "genres": [
+          "First-Person",
+          "Action",
+          "Adventure"
+        ]
       }
     },
     "goals": {
@@ -3064,7 +3705,10 @@
         "release_year": 2026,
         "profile_platform": "PC",
         "match_type": "exact",
-        "match_score": 138
+        "match_score": 138,
+        "genres": [
+          "Sports"
+        ]
       }
     },
     "goat simulator 3": {
@@ -3082,7 +3726,12 @@
         "release_year": 2022,
         "profile_platform": "Mobile, Nintendo Switch, Nintendo Switch 2, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 136
+        "match_score": 136,
+        "genres": [
+          "Third-Person",
+          "Action",
+          "Adventure"
+        ]
       }
     },
     "great god grove": {
@@ -3100,7 +3749,10 @@
         "release_year": 2024,
         "profile_platform": "Nintendo Switch, PC, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 139
+        "match_score": 139,
+        "genres": [
+          "Adventure"
+        ]
       }
     },
     "grid legends": {
@@ -3118,7 +3770,10 @@
         "release_year": 2022,
         "profile_platform": "Nintendo Switch 2, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Racing/Driving"
+        ]
       }
     },
     "grim fandango remastered": {
@@ -3136,7 +3791,12 @@
         "release_year": 1998,
         "profile_platform": "Mobile, Nintendo Switch, PC, PlayStation 4, PlayStation Vita, Xbox One",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Point-and-Click",
+          "Adventure",
+          "Puzzle"
+        ]
       }
     },
     "grounded": {
@@ -3154,7 +3814,12 @@
         "release_year": 2022,
         "profile_platform": "Nintendo Switch, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "First-Person",
+          "Third-Person",
+          "Survival"
+        ]
       }
     },
     "grounded 2": {
@@ -3172,7 +3837,10 @@
         "release_year": 2025,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Survival"
+        ]
       }
     },
     "hades": {
@@ -3190,7 +3858,14 @@
         "release_year": 2020,
         "profile_platform": "Mac, Mobile, Nintendo Switch, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 136
+        "match_score": 136,
+        "genres": [
+          "Isometric",
+          "Action",
+          "Hack and Slash",
+          "Roguelike",
+          "Role-Playing"
+        ]
       }
     },
     "hades ii": {
@@ -3208,7 +3883,14 @@
         "release_year": 2025,
         "profile_platform": "Nintendo Switch, Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 136
+        "match_score": 136,
+        "genres": [
+          "Isometric",
+          "Action",
+          "Hack and Slash",
+          "Roguelike",
+          "Role-Playing"
+        ]
       }
     },
     "halls of torment": {
@@ -3226,7 +3908,11 @@
         "release_year": 2024,
         "profile_platform": "Linux, Mobile, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 136
+        "match_score": 136,
+        "genres": [
+          "Action",
+          "Role-Playing"
+        ]
       }
     },
     "halo campaign evolved": {
@@ -3244,7 +3930,11 @@
         "release_year": 2026,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "First-Person",
+          "Shooter"
+        ]
       }
     },
     "halo infinite": {
@@ -3262,7 +3952,12 @@
         "release_year": 2021,
         "profile_platform": "PC, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "First-Person",
+          "Open World",
+          "Shooter"
+        ]
       }
     },
     "halo spartan assault": {
@@ -3280,7 +3975,11 @@
         "release_year": 2013,
         "profile_platform": "Mobile, PC, Xbox 360, Xbox One",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Top-Down",
+          "Shooter"
+        ]
       }
     },
     "halo spartan strike": {
@@ -3298,7 +3997,11 @@
         "release_year": 2015,
         "profile_platform": "Mobile, PC",
         "match_type": "exact",
-        "match_score": 135
+        "match_score": 135,
+        "genres": [
+          "Multidirectional",
+          "Shooter"
+        ]
       }
     },
     "halo the master chief collection": {
@@ -3316,7 +4019,12 @@
         "release_year": 2014,
         "profile_platform": "PC, Xbox One",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "First-Person",
+          "Compilation",
+          "Shooter"
+        ]
       }
     },
     "halo wars 2 standard edition": {
@@ -3346,7 +4054,11 @@
         "release_year": 2025,
         "profile_platform": "Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Action",
+          "Adventure"
+        ]
       }
     },
     "hellblade senua s sacrifice": {
@@ -3364,7 +4076,11 @@
         "release_year": 2017,
         "profile_platform": "Nintendo Switch, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 136
+        "match_score": 136,
+        "genres": [
+          "Third-Person",
+          "Hack and Slash"
+        ]
       }
     },
     "herdling": {
@@ -3382,7 +4098,10 @@
         "release_year": 2025,
         "profile_platform": "Nintendo Switch, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 140
+        "match_score": 140,
+        "genres": [
+          "Adventure"
+        ]
       }
     },
     "heretic hexen": {
@@ -3400,7 +4119,12 @@
         "release_year": 2025,
         "profile_platform": "Nintendo Switch, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "First-Person",
+          "Compilation",
+          "Shooter"
+        ]
       }
     },
     "heroes of might and magic 3 complete edition": {
@@ -3430,7 +4154,10 @@
         "release_year": 2026,
         "profile_platform": "PC",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Strategy/Tactical"
+        ]
       }
     },
     "heroes of the storm": {
@@ -3448,7 +4175,10 @@
         "release_year": 2015,
         "profile_platform": "PC",
         "match_type": "exact",
-        "match_score": 139
+        "match_score": 139,
+        "genres": [
+          "Battle Arena"
+        ]
       }
     },
     "hi fi rush": {
@@ -3466,7 +4196,12 @@
         "release_year": 2023,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Third-Person",
+          "Action",
+          "Music/Rhythm"
+        ]
       }
     },
     "high on life": {
@@ -3484,7 +4219,11 @@
         "release_year": 2022,
         "profile_platform": "Nintendo Switch, Nintendo Switch 2, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "First-Person",
+          "Shooter"
+        ]
       }
     },
     "high on life 2": {
@@ -3502,7 +4241,11 @@
         "release_year": 2026,
         "profile_platform": "Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "First-Person",
+          "Shooter"
+        ]
       }
     },
     "hogwarts legacy": {
@@ -3520,7 +4263,14 @@
         "release_year": 2023,
         "profile_platform": "Nintendo Switch, Nintendo Switch 2, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Third-Person",
+          "Action",
+          "Adventure",
+          "Open World",
+          "Role-Playing"
+        ]
       }
     },
     "hollow knight": {
@@ -3538,7 +4288,14 @@
         "release_year": 2017,
         "profile_platform": "Linux, Mac, Nintendo Switch, Nintendo Switch 2, PC, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 136
+        "match_score": 136,
+        "genres": [
+          "Side",
+          "Scrolling",
+          "Action",
+          "Adventure",
+          "Platform"
+        ]
       }
     },
     "hollow knight silksong": {
@@ -3556,7 +4313,13 @@
         "release_year": 2025,
         "profile_platform": "Linux, Mac, Nintendo Switch, Nintendo Switch 2, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Side",
+          "Action",
+          "Adventure",
+          "Platform"
+        ]
       }
     },
     "house flipper": {
@@ -3574,7 +4337,12 @@
         "release_year": 2018,
         "profile_platform": "Mac, Mobile, Nintendo Switch, PC, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "First-Person",
+          "Virtual Reality",
+          "Simulation"
+        ]
       }
     },
     "human fall flat": {
@@ -3592,7 +4360,10 @@
         "release_year": 2016,
         "profile_platform": "Google Stadia, Mobile, Nintendo Switch, Nintendo Switch 2, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 136
+        "match_score": 136,
+        "genres": [
+          "Adventure"
+        ]
       }
     },
     "immortals fenyx rising": {
@@ -3622,7 +4393,12 @@
         "release_year": 2024,
         "profile_platform": "Amazon Luna, Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "First-Person",
+          "Action",
+          "Adventure"
+        ]
       }
     },
     "indika": {
@@ -3640,7 +4416,11 @@
         "release_year": 2024,
         "profile_platform": "Nintendo Switch, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Third-Person",
+          "Adventure"
+        ]
       }
     },
     "inkonbini one store many stories": {
@@ -3658,7 +4438,11 @@
         "release_year": 2026,
         "profile_platform": "Mac, Nintendo Switch, Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Adventure",
+          "Simulation"
+        ]
       }
     },
     "inscryption": {
@@ -3676,7 +4460,12 @@
         "release_year": 2021,
         "profile_platform": "Nintendo Switch, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Card Game",
+          "Horror",
+          "Roguelike"
+        ]
       }
     },
     "inside": {
@@ -3694,7 +4483,13 @@
         "release_year": 2016,
         "profile_platform": "Mobile, Nintendo Switch, PC, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Side",
+          "Scrolling",
+          "Platform",
+          "Puzzle"
+        ]
       }
     },
     "it takes two": {
@@ -3712,7 +4507,14 @@
         "release_year": 2021,
         "profile_platform": "Nintendo Switch, Nintendo Switch 2, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Third-Person",
+          "Action",
+          "Adventure",
+          "Platform",
+          "Puzzle"
+        ]
       }
     },
     "jade empire special edition": {
@@ -3736,7 +4538,11 @@
         "release_year": 2026,
         "profile_platform": "Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 138
+        "match_score": 138,
+        "genres": [
+          "Action",
+          "Platform"
+        ]
       }
     },
     "jurassic world evolution 3": {
@@ -3754,7 +4560,10 @@
         "release_year": 2025,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Simulation"
+        ]
       }
     },
     "keeper": {
@@ -3772,7 +4581,11 @@
         "release_year": 2025,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Adventure",
+          "Puzzle"
+        ]
       }
     },
     "kill it with fire 2": {
@@ -3790,7 +4603,11 @@
         "release_year": 2024,
         "profile_platform": "Nintendo Switch, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 131
+        "match_score": 131,
+        "genres": [
+          "Action",
+          "Simulation"
+        ]
       }
     },
     "killer instinct anniversary edition": {
@@ -3808,7 +4625,10 @@
         "release_year": 2013,
         "profile_platform": "PC, Xbox One",
         "match_type": "exact",
-        "match_score": 129
+        "match_score": 129,
+        "genres": [
+          "Fighting"
+        ]
       }
     },
     "kiln": {
@@ -3826,7 +4646,10 @@
         "release_year": 2026,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 138
+        "match_score": 138,
+        "genres": [
+          "Action"
+        ]
       }
     },
     "kingdom come deliverance": {
@@ -3844,7 +4667,14 @@
         "release_year": 2018,
         "profile_platform": "Nintendo Switch, PC, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 136
+        "match_score": 136,
+        "genres": [
+          "First-Person",
+          "Third-Person",
+          "Adventure",
+          "Open World",
+          "Role-Playing"
+        ]
       }
     },
     "kingdom come deliverance ii": {
@@ -3862,7 +4692,13 @@
         "release_year": 2025,
         "profile_platform": "Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "First-Person",
+          "Action",
+          "Open World",
+          "Role-Playing"
+        ]
       }
     },
     "kingdom two crowns": {
@@ -3880,7 +4716,8 @@
         "release_year": 2018,
         "profile_platform": "Mobile, Nintendo Switch, PC, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": []
       }
     },
     "lara croft and the guardian of light pc": {
@@ -3904,7 +4741,12 @@
         "release_year": 2014,
         "profile_platform": "Google Stadia, Nintendo Switch, PC, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Action",
+          "Platform",
+          "Puzzle"
+        ]
       }
     },
     "league of legends": {
@@ -3922,7 +4764,11 @@
         "release_year": 2009,
         "profile_platform": "PC",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Action",
+          "Battle Arena"
+        ]
       }
     },
     "legends of runeterra": {
@@ -3940,7 +4786,11 @@
         "release_year": 2020,
         "profile_platform": "Mobile, PC",
         "match_type": "exact",
-        "match_score": 125
+        "match_score": 125,
+        "genres": [
+          "Turn-Based",
+          "Card Game"
+        ]
       }
     },
     "lego star wars the skywalker saga": {
@@ -3964,7 +4814,11 @@
         "release_year": 2024,
         "profile_platform": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Turn-Based",
+          "Role-Playing"
+        ]
       }
     },
     "limbo": {
@@ -3982,7 +4836,13 @@
         "release_year": 2010,
         "profile_platform": "Linux, Mac, Mobile, Nintendo Switch, PC, PlayStation 3, PlayStation 4, PlayStation Vita, Xbox 360, Xbox One",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Side",
+          "Scrolling",
+          "Platform",
+          "Puzzle"
+        ]
       }
     },
     "little kitty big city": {
@@ -4000,7 +4860,12 @@
         "release_year": 2024,
         "profile_platform": "Mobile, Nintendo Switch, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Third-Person",
+          "Adventure",
+          "Open World"
+        ]
       }
     },
     "little nightmares enhanced edition": {
@@ -4018,7 +4883,12 @@
         "release_year": 2017,
         "profile_platform": "Google Stadia, Mobile, Nintendo Switch, Nintendo Switch 2, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Adventure",
+          "Platform",
+          "Puzzle"
+        ]
       }
     },
     "little nightmares ii": {
@@ -4078,7 +4948,10 @@
         "release_year": 2025,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Adventure"
+        ]
       }
     },
     "luna abyss": {
@@ -4096,7 +4969,12 @@
         "release_year": 2026,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "First-Person",
+          "Action",
+          "Adventure"
+        ]
       }
     },
     "madden nfl 25": {
@@ -4114,7 +4992,12 @@
         "release_year": 2024,
         "profile_platform": "Nintendo Switch 2, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 138
+        "match_score": 138,
+        "genres": [
+          "Simulation",
+          "Sports",
+          "Strategy/Tactical"
+        ]
       }
     },
     "mahjong": {
@@ -4132,7 +5015,10 @@
         "release_year": 2017,
         "profile_platform": "Nintendo Switch, PC, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 126
+        "match_score": 126,
+        "genres": [
+          "Board Game"
+        ]
       }
     },
     "manor lords": {
@@ -4150,7 +5036,10 @@
         "release_year": 2024,
         "profile_platform": "PC",
         "match_type": "exact",
-        "match_score": 136
+        "match_score": 136,
+        "genres": [
+          "City-Building"
+        ]
       }
     },
     "marvel cosmic invasion": {
@@ -4168,7 +5057,12 @@
         "release_year": 2025,
         "profile_platform": "Nintendo Switch, Nintendo Switch 2, PC, PlayStation 4, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Arcade",
+          "Beat em Up",
+          "Fighting"
+        ]
       }
     },
     "mass effect": {
@@ -4216,7 +5110,14 @@
         "release_year": 2026,
         "profile_platform": "PC, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 137
+        "match_score": 137,
+        "genres": [
+          "Action",
+          "Adventure",
+          "Racing/Driving",
+          "Simulation",
+          "Sports"
+        ]
       }
     },
     "mechwarrior 5 clans": {
@@ -4234,7 +5135,12 @@
         "release_year": 2024,
         "profile_platform": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 140
+        "match_score": 140,
+        "genres": [
+          "First-Person",
+          "Action",
+          "Shooter"
+        ]
       }
     },
     "mechwarrior 5 mercenaries": {
@@ -4252,7 +5158,13 @@
         "release_year": 2021,
         "profile_platform": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "First-Person",
+          "Third-Person",
+          "Action",
+          "Shooter"
+        ]
       }
     },
     "medal of honor airborne": {
@@ -4276,7 +5188,12 @@
         "release_year": 2020,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Action",
+          "Adventure",
+          "Survival"
+        ]
       }
     },
     "microsoft flight simulator 2020 standard 40th anniversary edition": {
@@ -4300,7 +5217,10 @@
         "release_year": 2024,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 141
+        "match_score": 141,
+        "genres": [
+          "Simulation"
+        ]
       }
     },
     "minecraft dungeons for windows launcher": {
@@ -4324,7 +5244,12 @@
         "release_year": 2024,
         "profile_platform": "Mac, Nintendo Switch, Nintendo Switch 2, PC, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Action",
+          "Adventure",
+          "Role-Playing"
+        ]
       }
     },
     "mio memories in orbit": {
@@ -4342,7 +5267,11 @@
         "release_year": 2026,
         "profile_platform": "Nintendo Switch, Nintendo Switch 2, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Adventure",
+          "Platform"
+        ]
       }
     },
     "mirror s edge catalyst": {
@@ -4366,7 +5295,11 @@
         "release_year": 2026,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 138
+        "match_score": 138,
+        "genres": [
+          "Action",
+          "Role-Playing"
+        ]
       }
     },
     "mixtape": {
@@ -4384,7 +5317,10 @@
         "release_year": 2026,
         "profile_platform": "Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Adventure"
+        ]
       }
     },
     "monster sanctuary": {
@@ -4402,7 +5338,12 @@
         "release_year": 2019,
         "profile_platform": "Nintendo Switch, PC, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 136
+        "match_score": 136,
+        "genres": [
+          "Side",
+          "Action",
+          "Adventure"
+        ]
       }
     },
     "monster train 2": {
@@ -4420,7 +5361,11 @@
         "release_year": 2025,
         "profile_platform": "Nintendo Switch, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Card Game",
+          "Roguelike"
+        ]
       }
     },
     "monsters are coming rock road": {
@@ -4438,7 +5383,14 @@
         "release_year": 2025,
         "profile_platform": "PC, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 141
+        "match_score": 141,
+        "genres": [
+          "Isometric",
+          "Action",
+          "Roguelike",
+          "Strategy/Tactical",
+          "Tower Defense"
+        ]
       }
     },
     "moonlighter": {
@@ -4456,7 +5408,11 @@
         "release_year": 2018,
         "profile_platform": "Google Stadia, Mobile, Nintendo Switch, PC, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Action",
+          "Role-Playing"
+        ]
       }
     },
     "moonlighter 2 the endless vault": {
@@ -4474,7 +5430,12 @@
         "release_year": 2025,
         "profile_platform": "Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 136
+        "match_score": 136,
+        "genres": [
+          "Action",
+          "Roguelike",
+          "Role-Playing"
+        ]
       }
     },
     "mortal kombat 1": {
@@ -4498,7 +5459,11 @@
         "release_year": 2026,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Action",
+          "Adventure"
+        ]
       }
     },
     "moving out 2": {
@@ -4516,7 +5481,12 @@
         "release_year": 2023,
         "profile_platform": "Nintendo Switch, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 140
+        "match_score": 140,
+        "genres": [
+          "Action",
+          "Party",
+          "Simulation"
+        ]
       }
     },
     "mysims": {
@@ -4546,7 +5516,11 @@
         "release_year": 2021,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Massively Multiplayer",
+          "Beat em Up"
+        ]
       }
     },
     "nba 2k26 standard edition windows pc": {
@@ -4588,7 +5562,13 @@
         "release_year": 2025,
         "profile_platform": "Nintendo Switch, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 132
+        "match_score": 132,
+        "genres": [
+          "Side",
+          "Scrolling",
+          "Action",
+          "Adventure"
+        ]
       }
     },
     "new super lucky s tale": {
@@ -4606,7 +5586,11 @@
         "release_year": 2019,
         "profile_platform": "Nintendo Switch, PC, PlayStation 4, PlayStation 5, Xbox One",
         "match_type": "exact",
-        "match_score": 136
+        "match_score": 136,
+        "genres": [
+          "Action",
+          "Adventure"
+        ]
       }
     },
     "ni no kuni ii revenant kingdom the prince s edition": {
@@ -4636,7 +5620,11 @@
         "release_year": 2023,
         "profile_platform": "Nintendo Switch, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 140
+        "match_score": 140,
+        "genres": [
+          "Action",
+          "Fighting"
+        ]
       }
     },
     "nine sols": {
@@ -4654,7 +5642,11 @@
         "release_year": 2024,
         "profile_platform": "Mac, Nintendo Switch, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Action",
+          "Platform"
+        ]
       }
     },
     "ninja gaiden 2 black": {
@@ -4672,7 +5664,13 @@
         "release_year": 2025,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Third-Person",
+          "Action",
+          "Adventure",
+          "Hack and Slash"
+        ]
       }
     },
     "ninja gaiden 4": {
@@ -4690,7 +5688,12 @@
         "release_year": 2025,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Third-Person",
+          "Action",
+          "Adventure"
+        ]
       }
     },
     "no man s sky": {
@@ -4708,7 +5711,12 @@
         "release_year": 2016,
         "profile_platform": "Mac, Nintendo Switch, PC, PlayStation 4, PlayStation 5, Xbox One",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Action",
+          "Adventure",
+          "Survival"
+        ]
       }
     },
     "nova roma": {
@@ -4726,7 +5734,12 @@
         "release_year": 2026,
         "profile_platform": "Linux, Mac, PC",
         "match_type": "exact",
-        "match_score": 138
+        "match_score": 138,
+        "genres": [
+          "City-Building",
+          "Simulation",
+          "Strategy/Tactical"
+        ]
       }
     },
     "one lonely outpost": {
@@ -4762,7 +5775,12 @@
         "release_year": 2016,
         "profile_platform": "Nintendo Switch, PC, Xbox One",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Side",
+          "Scrolling",
+          "Platform"
+        ]
       }
     },
     "ori and the will of the wisps": {
@@ -4780,7 +5798,14 @@
         "release_year": 2020,
         "profile_platform": "Nintendo Switch, PC, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Side",
+          "Scrolling",
+          "Action",
+          "Adventure",
+          "Platform"
+        ]
       }
     },
     "outbound": {
@@ -4798,7 +5823,11 @@
         "release_year": 2026,
         "profile_platform": "Nintendo Switch, Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 139
+        "match_score": 139,
+        "genres": [
+          "Adventure",
+          "Simulation"
+        ]
       }
     },
     "overcooked 2": {
@@ -4816,7 +5845,10 @@
         "release_year": 2018,
         "profile_platform": "Nintendo Switch, Nintendo Switch 2, PC, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Simulation"
+        ]
       }
     },
     "overthrown": {
@@ -4834,7 +5866,11 @@
         "release_year": 2024,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 126
+        "match_score": 126,
+        "genres": [
+          "City-Building",
+          "Simulation"
+        ]
       }
     },
     "overwatch": {
@@ -4858,7 +5894,11 @@
         "release_year": 2024,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 136
+        "match_score": 136,
+        "genres": [
+          "Simulation",
+          "Vehicular Combat"
+        ]
       }
     },
     "palworld": {
@@ -4876,7 +5916,11 @@
         "release_year": 2026,
         "profile_platform": "PC, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Open World",
+          "Survival"
+        ]
       }
     },
     "pax dei": {
@@ -4894,7 +5938,10 @@
         "release_year": 2024,
         "profile_platform": "PC",
         "match_type": "exact",
-        "match_score": 131
+        "match_score": 131,
+        "genres": [
+          "Role-Playing"
+        ]
       }
     },
     "pba pro bowling 2026": {
@@ -4912,7 +5959,11 @@
         "release_year": 2025,
         "profile_platform": "PC, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 138
+        "match_score": 138,
+        "genres": [
+          "Simulation",
+          "Sports"
+        ]
       }
     },
     "peggle": {
@@ -4942,7 +5993,12 @@
         "release_year": 2022,
         "profile_platform": "Nintendo Switch, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Side",
+          "Adventure",
+          "Role-Playing"
+        ]
       }
     },
     "persona 5 royal": {
@@ -4960,7 +6016,15 @@
         "release_year": 2019,
         "profile_platform": "Nintendo Switch, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Third-Person",
+          "Turn-Based",
+          "Action",
+          "Role-Playing",
+          "Simulation",
+          "Social"
+        ]
       }
     },
     "phoenix point": {
@@ -4978,7 +6042,11 @@
         "release_year": 2019,
         "profile_platform": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 138
+        "match_score": 138,
+        "genres": [
+          "Turn-Based",
+          "Strategy/Tactical"
+        ]
       }
     },
     "pigeon simulator": {
@@ -4996,7 +6064,11 @@
         "release_year": 2025,
         "profile_platform": "PC, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 137
+        "match_score": 137,
+        "genres": [
+          "Adventure",
+          "Simulation"
+        ]
       }
     },
     "pillars of eternity": {
@@ -5014,7 +6086,12 @@
         "release_year": 2015,
         "profile_platform": "Nintendo Switch, PC, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Top-Down",
+          "Real-Time",
+          "Role-Playing"
+        ]
       }
     },
     "pirates": {
@@ -5032,7 +6109,11 @@
         "release_year": 2025,
         "profile_platform": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Action",
+          "Adventure"
+        ]
       }
     },
     "planet coaster 2": {
@@ -5050,7 +6131,11 @@
         "release_year": 2024,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 140
+        "match_score": 140,
+        "genres": [
+          "Management",
+          "Simulation"
+        ]
       }
     },
     "planet of lana ii": {
@@ -5068,7 +6153,11 @@
         "release_year": 2026,
         "profile_platform": "Nintendo Switch, Nintendo Switch 2, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "partial",
-        "match_score": 114
+        "match_score": 114,
+        "genres": [
+          "Adventure",
+          "Puzzle"
+        ]
       }
     },
     "plants vs zombies game of the year edition": {
@@ -5098,7 +6187,10 @@
         "release_year": 2022,
         "profile_platform": "Nintendo Switch, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Management"
+        ]
       }
     },
     "police simulator patrol officers": {
@@ -5116,7 +6208,10 @@
         "release_year": 2021,
         "profile_platform": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 136
+        "match_score": 136,
+        "genres": [
+          "Simulation"
+        ]
       }
     },
     "populous": {
@@ -5152,7 +6247,11 @@
         "release_year": 2025,
         "profile_platform": "Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "First-Person",
+          "Simulation"
+        ]
       }
     },
     "prey": {
@@ -5170,7 +6269,14 @@
         "release_year": 2017,
         "profile_platform": "PC, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "First-Person",
+          "Action",
+          "Role-Playing",
+          "Sandbox",
+          "Shooter"
+        ]
       }
     },
     "psychonauts": {
@@ -5194,7 +6300,11 @@
         "release_year": 2021,
         "profile_platform": "Linux, Mac, PC, PlayStation 4, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Third-Person",
+          "Platform"
+        ]
       }
     },
     "quake": {
@@ -5212,7 +6322,11 @@
         "release_year": 1996,
         "profile_platform": "Amiga, Mobile, Nintendo Switch, PC, PlayStation 4, PlayStation 5, Sega Saturn, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "First-Person",
+          "Shooter"
+        ]
       }
     },
     "quake ii": {
@@ -5230,7 +6344,11 @@
         "release_year": 1997,
         "profile_platform": "Amiga, Linux, Nintendo 64, Nintendo Switch, PC, PlayStation, PlayStation 4, PlayStation 5, Xbox 360, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "First-Person",
+          "Shooter"
+        ]
       }
     },
     "quantum break": {
@@ -5248,7 +6366,13 @@
         "release_year": 2016,
         "profile_platform": "PC, Xbox One",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Third-Person",
+          "Action",
+          "Adventure",
+          "Shooter"
+        ]
       }
     },
     "quarantine zone the last check": {
@@ -5266,7 +6390,10 @@
         "release_year": 2026,
         "profile_platform": "PC, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Simulation"
+        ]
       }
     },
     "raft": {
@@ -5284,7 +6411,10 @@
         "release_year": 2022,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Survival"
+        ]
       }
     },
     "rage 2": {
@@ -5302,7 +6432,11 @@
         "release_year": 2019,
         "profile_platform": "Google Stadia, PC, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "First-Person",
+          "Shooter"
+        ]
       }
     },
     "recore": {
@@ -5320,7 +6454,12 @@
         "release_year": 2016,
         "profile_platform": "PC, Xbox One",
         "match_type": "exact",
-        "match_score": 141
+        "match_score": 141,
+        "genres": [
+          "Third-Person",
+          "Action",
+          "Adventure"
+        ]
       }
     },
     "redfall": {
@@ -5338,7 +6477,12 @@
         "release_year": 2023,
         "profile_platform": "PC, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "First-Person",
+          "Action",
+          "Shooter"
+        ]
       }
     },
     "relic hunters legend": {
@@ -5356,7 +6500,13 @@
         "release_year": 2023,
         "profile_platform": "PC, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 126
+        "match_score": 126,
+        "genres": [
+          "Scrolling",
+          "Action",
+          "Adventure",
+          "Role-Playing"
+        ]
       }
     },
     "rematch": {
@@ -5374,7 +6524,11 @@
         "release_year": 2025,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Action",
+          "Sports"
+        ]
       }
     },
     "remi": {
@@ -5404,7 +6558,11 @@
         "release_year": 2026,
         "profile_platform": "PC, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Action",
+          "Platform"
+        ]
       }
     },
     "resident evil 2": {
@@ -5422,7 +6580,13 @@
         "release_year": 2019,
         "profile_platform": "Amazon Luna, Mobile, Nintendo Switch, Nintendo Switch 2, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Third-Person",
+          "Horror",
+          "Shooter",
+          "Survival"
+        ]
       }
     },
     "resident evil 3": {
@@ -5440,7 +6604,13 @@
         "release_year": 2020,
         "profile_platform": "Amazon Luna, Mac, Mobile, Nintendo Switch, Nintendo Switch 2, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Third-Person",
+          "Horror",
+          "Shooter",
+          "Survival"
+        ]
       }
     },
     "resident evil 7 biohazard": {
@@ -5458,7 +6628,12 @@
         "release_year": 2017,
         "profile_platform": "Google Stadia, Mac, Mobile, Nintendo Switch, Nintendo Switch 2, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "First-Person",
+          "Horror",
+          "Survival"
+        ]
       }
     },
     "resident evil village": {
@@ -5476,7 +6651,13 @@
         "release_year": 2021,
         "profile_platform": "Google Stadia, Mac, Mobile, Nintendo Switch, Nintendo Switch 2, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "First-Person",
+          "Horror",
+          "Shooter",
+          "Survival"
+        ]
       }
     },
     "retro classics": {
@@ -5494,7 +6675,10 @@
         "release_year": 2025,
         "profile_platform": "PC, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 125
+        "match_score": 125,
+        "genres": [
+          "Arcade"
+        ]
       }
     },
     "return to castle wolfenstein": {
@@ -5512,7 +6696,11 @@
         "release_year": 2001,
         "profile_platform": "PC, PlayStation 2",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "First-Person",
+          "Shooter"
+        ]
       }
     },
     "riders republic": {
@@ -5536,7 +6724,13 @@
         "release_year": 2014,
         "profile_platform": "PC",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Real-Time",
+          "Turn-Based",
+          "Simulation",
+          "Strategy"
+        ]
       }
     },
     "roadcraft": {
@@ -5554,7 +6748,11 @@
         "release_year": 2025,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 141
+        "match_score": 141,
+        "genres": [
+          "Adventure",
+          "Simulation"
+        ]
       }
     },
     "roadside research": {
@@ -5572,7 +6770,10 @@
         "release_year": 2026,
         "profile_platform": "PC, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 126
+        "match_score": 126,
+        "genres": [
+          "Simulation"
+        ]
       }
     },
     "robocop rogue city": {
@@ -5590,7 +6791,11 @@
         "release_year": 2023,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Action",
+          "Adventure"
+        ]
       }
     },
     "roboquest": {
@@ -5608,7 +6813,11 @@
         "release_year": 2023,
         "profile_platform": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "First-Person",
+          "Shooter"
+        ]
       }
     },
     "routine": {
@@ -5626,7 +6835,12 @@
         "release_year": 2025,
         "profile_platform": "PC, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Action",
+          "Adventure",
+          "Survival"
+        ]
       }
     },
     "rush a disneypixar adventure": {
@@ -5650,7 +6864,10 @@
         "release_year": 2025,
         "profile_platform": "PC, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 136
+        "match_score": 136,
+        "genres": [
+          "Adventure"
+        ]
       }
     },
     "sandustry": {
@@ -5668,7 +6885,11 @@
         "release_year": 2026,
         "profile_platform": "Linux, Mac, PC",
         "match_type": "exact",
-        "match_score": 141
+        "match_score": 141,
+        "genres": [
+          "Simulation",
+          "Strategy/Tactical"
+        ]
       }
     },
     "sea of solitude": {
@@ -5686,7 +6907,10 @@
         "release_year": 2019,
         "profile_platform": "Nintendo Switch, PC, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 141
+        "match_score": 141,
+        "genres": [
+          "Adventure"
+        ]
       }
     },
     "sea of thieves 2025 edition": {
@@ -5710,7 +6934,11 @@
         "release_year": 2024,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Action",
+          "Adventure"
+        ]
       }
     },
     "shadowrun dragonfall director s cut": {
@@ -5734,7 +6962,13 @@
         "release_year": 2016,
         "profile_platform": "Linux, Mac, Nintendo Switch, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 127
+        "match_score": 127,
+        "genres": [
+          "Isometric",
+          "Turn-Based",
+          "Role-Playing",
+          "Strategy/Tactical"
+        ]
       }
     },
     "shadowrun returns": {
@@ -5752,7 +6986,13 @@
         "release_year": 2013,
         "profile_platform": "Linux, Mac, Mobile, Nintendo Switch, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Isometric",
+          "Turn-Based",
+          "Role-Playing",
+          "Strategy/Tactical"
+        ]
       }
     },
     "shift at midnight": {
@@ -5770,7 +7010,10 @@
         "release_year": 2026,
         "profile_platform": "PC, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Horror"
+        ]
       }
     },
     "sid meier s alpha centauri planetary pack": {
@@ -5830,7 +7073,10 @@
         "release_year": 2026,
         "profile_platform": "PC, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 128
+        "match_score": 128,
+        "genres": [
+          "Sports"
+        ]
       }
     },
     "smite 2": {
@@ -5848,7 +7094,13 @@
         "release_year": 2024,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 127
+        "match_score": 127,
+        "genres": [
+          "Action",
+          "Adventure",
+          "Role-Playing",
+          "Strategy/Tactical"
+        ]
       }
     },
     "snowrunner": {
@@ -5866,7 +7118,11 @@
         "release_year": 2020,
         "profile_platform": "Nintendo Switch, Nintendo Switch 2, PC, PlayStation 4, PlayStation 5, Xbox One",
         "match_type": "exact",
-        "match_score": 136
+        "match_score": 136,
+        "genres": [
+          "Racing/Driving",
+          "Simulation"
+        ]
       }
     },
     "solarpunk": {
@@ -5884,7 +7140,11 @@
         "release_year": 2026,
         "profile_platform": "Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 141
+        "match_score": 141,
+        "genres": [
+          "Adventure",
+          "Simulation"
+        ]
       }
     },
     "solitaire": {
@@ -5902,7 +7162,8 @@
         "release_year": 2017,
         "profile_platform": "PC",
         "match_type": "exact",
-        "match_score": 126
+        "match_score": 126,
+        "genres": []
       }
     },
     "sopa tale of the stolen potato": {
@@ -5926,7 +7187,14 @@
         "release_year": 2025,
         "profile_platform": "Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Third-Person",
+          "Action",
+          "Adventure",
+          "Hack and Slash",
+          "Platform"
+        ]
       }
     },
     "south park the fractured but whole": {
@@ -5950,7 +7218,12 @@
         "release_year": 2026,
         "profile_platform": "PC, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 138
+        "match_score": 138,
+        "genres": [
+          "Action",
+          "Role-Playing",
+          "Strategy/Tactical"
+        ]
       }
     },
     "spiritfarer farewell edition": {
@@ -5974,7 +7247,13 @@
         "release_year": 2020,
         "profile_platform": "Amazon Luna, Google Stadia, Mobile, Nintendo Switch, PC, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Third-Person",
+          "Action",
+          "Adventure",
+          "Platform"
+        ]
       }
     },
     "spore": {
@@ -6004,7 +7283,11 @@
         "release_year": 2024,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 141
+        "match_score": 141,
+        "genres": [
+          "Racing/Driving",
+          "Simulation"
+        ]
       }
     },
     "star wars battlefront ii": {
@@ -6046,7 +7329,11 @@
         "release_year": 2024,
         "profile_platform": "Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Action",
+          "Adventure"
+        ]
       }
     },
     "star wars squadrons": {
@@ -6082,7 +7369,12 @@
         "release_year": 2016,
         "profile_platform": "Linux, Mac, Mobile, Nintendo Switch, Nintendo Switch 2, PC, PlayStation 4, PlayStation Vita, Xbox One",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Top-Down",
+          "Role-Playing",
+          "Simulation"
+        ]
       }
     },
     "starfield": {
@@ -6100,7 +7392,15 @@
         "release_year": 2023,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "First-Person",
+          "Third-Person",
+          "Action",
+          "Adventure",
+          "Open World",
+          "Role-Playing"
+        ]
       }
     },
     "starsand island": {
@@ -6118,7 +7418,10 @@
         "release_year": 2026,
         "profile_platform": "Nintendo Switch, Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 139
+        "match_score": 139,
+        "genres": [
+          "Simulation"
+        ]
       }
     },
     "starseeker astroneer expeditions": {
@@ -6136,7 +7439,13 @@
         "release_year": 2026,
         "profile_platform": "Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 126
+        "match_score": 126,
+        "genres": [
+          "Third-Person",
+          "Adventure",
+          "Open World",
+          "Sandbox"
+        ]
       }
     },
     "state of decay 2 juggernaut edition": {
@@ -6154,7 +7463,12 @@
         "release_year": 2018,
         "profile_platform": "PC, Xbox One",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Action",
+          "Open World",
+          "Survival"
+        ]
       }
     },
     "subnautica 2": {
@@ -6172,7 +7486,12 @@
         "release_year": 2026,
         "profile_platform": "PC, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "First-Person",
+          "Adventure",
+          "Survival"
+        ]
       }
     },
     "sunset overdrive": {
@@ -6190,7 +7509,12 @@
         "release_year": 2014,
         "profile_platform": "PC, Xbox One",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Third-Person",
+          "Action",
+          "Shooter"
+        ]
       }
     },
     "super lucky s tale": {
@@ -6208,7 +7532,10 @@
         "release_year": 2017,
         "profile_platform": "PC, Xbox One",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Platform"
+        ]
       }
     },
     "super meat boy 3d": {
@@ -6226,7 +7553,10 @@
         "release_year": 2026,
         "profile_platform": "Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 141
+        "match_score": 141,
+        "genres": [
+          "Platform"
+        ]
       }
     },
     "super mega baseball 3": {
@@ -6244,7 +7574,10 @@
         "release_year": 2020,
         "profile_platform": "Nintendo Switch, PC, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 138
+        "match_score": 138,
+        "genres": [
+          "Sports"
+        ]
       }
     },
     "super mega baseball 4": {
@@ -6268,7 +7601,11 @@
         "release_year": 2025,
         "profile_platform": "PC, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 137
+        "match_score": 137,
+        "genres": [
+          "Action",
+          "Sports"
+        ]
       }
     },
     "superhot mind control delete": {
@@ -6286,7 +7623,13 @@
         "release_year": 2020,
         "profile_platform": "Google Stadia, PC, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "First-Person",
+          "Action",
+          "Roguelike",
+          "Shooter"
+        ]
       }
     },
     "superliminal": {
@@ -6322,7 +7665,10 @@
         "release_year": 2024,
         "profile_platform": "Mac, PC, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 136
+        "match_score": 136,
+        "genres": [
+          "Simulation"
+        ]
       }
     },
     "sworn": {
@@ -6358,7 +7704,13 @@
         "release_year": 2024,
         "profile_platform": "Nintendo Switch, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 141
+        "match_score": 141,
+        "genres": [
+          "Side",
+          "Scrolling",
+          "Action",
+          "Platform"
+        ]
       }
     },
     "tales of kenzera zau": {
@@ -6382,7 +7734,13 @@
         "release_year": 2026,
         "profile_platform": "Nintendo Switch, PC, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 139
+        "match_score": 139,
+        "genres": [
+          "First-Person",
+          "Action",
+          "Arcade",
+          "Shooter"
+        ]
       }
     },
     "tcg card shop simulator": {
@@ -6400,7 +7758,10 @@
         "release_year": 2024,
         "profile_platform": "Nintendo Switch, Nintendo Switch 2, PC, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Simulation"
+        ]
       }
     },
     "teamfight tactics": {
@@ -6418,7 +7779,11 @@
         "release_year": 2019,
         "profile_platform": "Mobile, PC",
         "match_type": "exact",
-        "match_score": 127
+        "match_score": 127,
+        "genres": [
+          "Battle Arena",
+          "Strategy/Tactical"
+        ]
       }
     },
     "tears of metal game preview": {
@@ -6442,7 +7807,11 @@
         "release_year": 2020,
         "profile_platform": "PC, Xbox One",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Third-Person",
+          "Adventure"
+        ]
       }
     },
     "tempopo": {
@@ -6460,7 +7829,10 @@
         "release_year": 2025,
         "profile_platform": "Nintendo Switch, PC, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 137
+        "match_score": 137,
+        "genres": [
+          "Puzzle"
+        ]
       }
     },
     "terminull brigade": {
@@ -6484,7 +7856,11 @@
         "release_year": 2026,
         "profile_platform": "PC, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 140
+        "match_score": 140,
+        "genres": [
+          "Action",
+          "Roguelike"
+        ]
       }
     },
     "the alters": {
@@ -6502,7 +7878,14 @@
         "release_year": 2025,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Third-Person",
+          "Action",
+          "Adventure",
+          "Management",
+          "Survival"
+        ]
       }
     },
     "the bard s tale arpg remastered and resnarkled": {
@@ -6520,7 +7903,8 @@
         "release_year": 2004,
         "profile_platform": "Mobile, PC, PlayStation 2, PlayStation 4, PlayStation Vita, Xbox, Xbox One",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": []
       }
     },
     "the bard s tale iv director s cut": {
@@ -6538,7 +7922,10 @@
         "release_year": 2019,
         "profile_platform": "PC, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Role-Playing"
+        ]
       }
     },
     "the bard s tale trilogy": {
@@ -6556,7 +7943,11 @@
         "release_year": 2018,
         "profile_platform": "PC, Xbox One",
         "match_type": "exact",
-        "match_score": 136
+        "match_score": 136,
+        "genres": [
+          "First-Person",
+          "Role-Playing"
+        ]
       }
     },
     "the casting of frank stone": {
@@ -6580,7 +7971,11 @@
         "release_year": 2023,
         "profile_platform": "Amazon Luna, Nintendo Switch 2, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Open World",
+          "Racing/Driving"
+        ]
       }
     },
     "the elder scrolls adventures redguard": {
@@ -6598,7 +7993,13 @@
         "release_year": 1998,
         "profile_platform": "PC",
         "match_type": "exact",
-        "match_score": 128
+        "match_score": 128,
+        "genres": [
+          "Third-Person",
+          "Action",
+          "Adventure",
+          "Role-Playing"
+        ]
       }
     },
     "the elder scrolls iii morrowind game of the year edition": {
@@ -6628,7 +8029,14 @@
         "release_year": 2025,
         "profile_platform": "Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "First-Person",
+          "Third-Person",
+          "Action",
+          "Open World",
+          "Role-Playing"
+        ]
       }
     },
     "the elder scrolls online": {
@@ -6652,7 +8060,14 @@
         "release_year": 2013,
         "profile_platform": "Nintendo Switch, PC, PlayStation 3, PlayStation 4, PlayStation 5, Xbox 360, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "First-Person",
+          "Third-Person",
+          "Action",
+          "Open World",
+          "Role-Playing"
+        ]
       }
     },
     "the evil within 2": {
@@ -6676,7 +8091,12 @@
         "release_year": 2023,
         "profile_platform": "PC, PlayStation 4, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "First-Person",
+          "Real-Time",
+          "Shooter"
+        ]
       }
     },
     "the first descendant": {
@@ -6694,7 +8114,10 @@
         "release_year": 2024,
         "profile_platform": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Shooter"
+        ]
       }
     },
     "the gunk": {
@@ -6712,7 +8135,12 @@
         "release_year": 2021,
         "profile_platform": "PC, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Third-Person",
+          "Action",
+          "Platform"
+        ]
       }
     },
     "the long dark": {
@@ -6730,7 +8158,12 @@
         "release_year": 2014,
         "profile_platform": "Linux, Mac, Nintendo Switch, PC, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "First-Person",
+          "Open World",
+          "Simulation"
+        ]
       }
     },
     "the outer worlds 2": {
@@ -6748,7 +8181,12 @@
         "release_year": 2025,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Action",
+          "Adventure",
+          "Role-Playing"
+        ]
       }
     },
     "the outer worlds spacer s choice edition": {
@@ -6766,7 +8204,12 @@
         "release_year": 2023,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Action",
+          "Adventure",
+          "Role-Playing"
+        ]
       }
     },
     "the planet crafter": {
@@ -6784,7 +8227,11 @@
         "release_year": 2024,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Open World",
+          "Survival"
+        ]
       }
     },
     "the rogue prince of persia": {
@@ -6802,7 +8249,13 @@
         "release_year": 2025,
         "profile_platform": "Nintendo Switch, Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Side",
+          "Scrolling",
+          "Action",
+          "Roguelike"
+        ]
       }
     },
     "the saboteur": {
@@ -6850,7 +8303,12 @@
         "release_year": 2023,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "First-Person",
+          "Adventure",
+          "Puzzle"
+        ]
       }
     },
     "the thaumaturge": {
@@ -6868,7 +8326,11 @@
         "release_year": 2024,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Adventure",
+          "Role-Playing"
+        ]
       }
     },
     "the witcher adventure game": {
@@ -6886,7 +8348,10 @@
         "release_year": 2021,
         "profile_platform": "Google Stadia, Nintendo Switch, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 139
+        "match_score": 139,
+        "genres": [
+          "Adventure"
+        ]
       }
     },
     "thehunter call of the wild": {
@@ -6910,7 +8375,11 @@
         "release_year": 2025,
         "profile_platform": "Nintendo Switch, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 136
+        "match_score": 136,
+        "genres": [
+          "Side",
+          "Simulation"
+        ]
       }
     },
     "to a t": {
@@ -6928,7 +8397,10 @@
         "release_year": 2025,
         "profile_platform": "Nintendo Switch 2, PC, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 138
+        "match_score": 138,
+        "genres": [
+          "Adventure"
+        ]
       }
     },
     "tom clancy s ghost recon wildlands": {
@@ -6970,7 +8442,10 @@
         "release_year": 2017,
         "profile_platform": "PC, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Role-Playing"
+        ]
       }
     },
     "total chaos": {
@@ -6988,7 +8463,14 @@
         "release_year": 2025,
         "profile_platform": "Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 141
+        "match_score": 141,
+        "genres": [
+          "First-Person",
+          "Action",
+          "Adventure",
+          "Horror",
+          "Survival"
+        ]
       }
     },
     "totally accurate battle simulator": {
@@ -7006,7 +8488,11 @@
         "release_year": 2019,
         "profile_platform": "Nintendo Switch, PC, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Sandbox",
+          "Simulation"
+        ]
       }
     },
     "totally reliable delivery service": {
@@ -7024,7 +8510,11 @@
         "release_year": 2019,
         "profile_platform": "Mobile, Nintendo Switch, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 136
+        "match_score": 136,
+        "genres": [
+          "Action",
+          "Party"
+        ]
       }
     },
     "towerborne": {
@@ -7042,7 +8532,11 @@
         "release_year": 2024,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 132
+        "match_score": 132,
+        "genres": [
+          "Action",
+          "Adventure"
+        ]
       }
     },
     "trailmakers": {
@@ -7060,7 +8554,11 @@
         "release_year": 2018,
         "profile_platform": "PC, Xbox One",
         "match_type": "exact",
-        "match_score": 136
+        "match_score": 136,
+        "genres": [
+          "Open World",
+          "Sandbox"
+        ]
       }
     },
     "train sim world 5": {
@@ -7084,7 +8582,11 @@
         "release_year": 2023,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "First-Person",
+          "Shooter"
+        ]
       }
     },
     "trials of mana": {
@@ -7102,7 +8604,11 @@
         "release_year": 2020,
         "profile_platform": "Mobile, Nintendo Switch, PC, PlayStation 4, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Action",
+          "Role-Playing"
+        ]
       }
     },
     "tunic": {
@@ -7120,7 +8626,12 @@
         "release_year": 2022,
         "profile_platform": "Nintendo Switch, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Isometric",
+          "Action",
+          "Adventure"
+        ]
       }
     },
     "ultimate chicken horse": {
@@ -7138,7 +8649,11 @@
         "release_year": 2016,
         "profile_platform": "Nintendo Switch, PC, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Party",
+          "Platform"
+        ]
       }
     },
     "undisputed": {
@@ -7156,7 +8671,12 @@
         "release_year": 2024,
         "profile_platform": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 140
+        "match_score": 140,
+        "genres": [
+          "Action",
+          "Simulation",
+          "Sports"
+        ]
       }
     },
     "unravel": {
@@ -7174,7 +8694,11 @@
         "release_year": 2016,
         "profile_platform": "PC, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Platform",
+          "Puzzle"
+        ]
       }
     },
     "unravel two": {
@@ -7192,7 +8716,11 @@
         "release_year": 2018,
         "profile_platform": "Nintendo Switch, PC, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Platform",
+          "Puzzle"
+        ]
       }
     },
     "valorant pc": {
@@ -7216,7 +8744,11 @@
         "release_year": 2026,
         "profile_platform": "Mobile, Nintendo Switch, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Card Game",
+          "Roguelike"
+        ]
       }
     },
     "vampire survivors": {
@@ -7234,7 +8766,12 @@
         "release_year": 2022,
         "profile_platform": "Mac, Mobile, Nintendo Switch, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Top-Down",
+          "Action",
+          "Roguelike"
+        ]
       }
     },
     "vapor world over the mind game preview": {
@@ -7258,7 +8795,12 @@
         "release_year": 2024,
         "profile_platform": "PC, PlayStation 4, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Third-Person",
+          "Action",
+          "Role-Playing"
+        ]
       }
     },
     "void breaker": {
@@ -7276,7 +8818,13 @@
         "release_year": 2025,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 127
+        "match_score": 127,
+        "genres": [
+          "First-Person",
+          "Action",
+          "Roguelike",
+          "Shooter"
+        ]
       }
     },
     "voidtrain": {
@@ -7294,7 +8842,11 @@
         "release_year": 2023,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "First-Person",
+          "Shooter"
+        ]
       }
     },
     "war thunder": {
@@ -7312,7 +8864,11 @@
         "release_year": 2012,
         "profile_platform": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Action",
+          "Simulation"
+        ]
       }
     },
     "warcraft i remastered": {
@@ -7348,7 +8904,11 @@
         "release_year": 2022,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 136
+        "match_score": 136,
+        "genres": [
+          "First-Person",
+          "Shooter"
+        ]
       }
     },
     "warhammer 40 000 rogue trader": {
@@ -7366,7 +8926,12 @@
         "release_year": 2023,
         "profile_platform": "Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Adventure",
+          "Role-Playing",
+          "Strategy/Tactical"
+        ]
       }
     },
     "warhammer 40 000 space marine 2": {
@@ -7384,7 +8949,11 @@
         "release_year": 2024,
         "profile_platform": "Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "partial",
-        "match_score": 114
+        "match_score": 114,
+        "genres": [
+          "Third-Person",
+          "Shooter"
+        ]
       }
     },
     "wartales": {
@@ -7402,7 +8971,11 @@
         "release_year": 2023,
         "profile_platform": "Nintendo Switch, PC, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Open World",
+          "Role-Playing"
+        ]
       }
     },
     "wasteland 2 director s cut": {
@@ -7420,7 +8993,13 @@
         "release_year": 2014,
         "profile_platform": "Nintendo Switch, PC, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 136
+        "match_score": 136,
+        "genres": [
+          "Top-Down",
+          "Turn-Based",
+          "Role-Playing",
+          "Survival"
+        ]
       }
     },
     "wasteland 3 pc": {
@@ -7444,7 +9023,10 @@
         "release_year": 2020,
         "profile_platform": "PC, Xbox One",
         "match_type": "exact",
-        "match_score": 138
+        "match_score": 138,
+        "genres": [
+          "Role-Playing"
+        ]
       }
     },
     "watch dogs 2": {
@@ -7474,7 +9056,12 @@
         "release_year": 2018,
         "profile_platform": "PC, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "First-Person",
+          "Survival",
+          "Survival Horror"
+        ]
       }
     },
     "wheel world": {
@@ -7492,7 +9079,14 @@
         "release_year": 2025,
         "profile_platform": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 141
+        "match_score": 141,
+        "genres": [
+          "Third-Person",
+          "Real-Time",
+          "Adventure",
+          "Racing/Driving",
+          "Sports"
+        ]
       }
     },
     "where winds meet": {
@@ -7510,7 +9104,11 @@
         "release_year": 2025,
         "profile_platform": "Mobile, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 136
+        "match_score": 136,
+        "genres": [
+          "Action",
+          "Open World"
+        ]
       }
     },
     "wild hearts": {
@@ -7534,7 +9132,11 @@
         "release_year": 2025,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 141
+        "match_score": 141,
+        "genres": [
+          "First-Person",
+          "Shooter"
+        ]
       }
     },
     "winds of arcana ruination": {
@@ -7552,7 +9154,12 @@
         "release_year": 2025,
         "profile_platform": "PC",
         "match_type": "exact",
-        "match_score": 131
+        "match_score": 131,
+        "genres": [
+          "Action",
+          "Adventure",
+          "Role-Playing"
+        ]
       }
     },
     "wo long fallen dynasty": {
@@ -7570,7 +9177,11 @@
         "release_year": 2023,
         "profile_platform": "Nintendo Switch 2, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Action",
+          "Role-Playing"
+        ]
       }
     },
     "wobbly life": {
@@ -7588,7 +9199,11 @@
         "release_year": 2020,
         "profile_platform": "Nintendo Switch, Nintendo Switch 2, PC, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 136
+        "match_score": 136,
+        "genres": [
+          "Open World",
+          "Sandbox"
+        ]
       }
     },
     "wolfenstein 3d": {
@@ -7606,7 +9221,11 @@
         "release_year": 1992,
         "profile_platform": "3DO, Acorn Archimedes, Atari Jaguar, Game Boy Advance, Mobile, PC, PlayStation 3, Super Nintendo, Xbox 360, Xbox One",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "First-Person",
+          "Shooter"
+        ]
       }
     },
     "wolfenstein ii standard edition": {
@@ -7648,7 +9267,11 @@
         "release_year": 2026,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 137
+        "match_score": 137,
+        "genres": [
+          "Action",
+          "Shooter"
+        ]
       }
     },
     "world of warships": {
@@ -7666,7 +9289,11 @@
         "release_year": 2015,
         "profile_platform": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 126
+        "match_score": 126,
+        "genres": [
+          "Massively Multiplayer",
+          "Action"
+        ]
       }
     },
     "world of warships legends": {
@@ -7684,7 +9311,11 @@
         "release_year": 2015,
         "profile_platform": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 126
+        "match_score": 126,
+        "genres": [
+          "Massively Multiplayer",
+          "Action"
+        ]
       }
     },
     "world war z": {
@@ -7702,7 +9333,13 @@
         "release_year": 2021,
         "profile_platform": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "First-Person",
+          "Third-Person",
+          "Shooter",
+          "Survival"
+        ]
       }
     },
     "wreckfest": {
@@ -7720,7 +9357,11 @@
         "release_year": 2018,
         "profile_platform": "Mobile, Nintendo Switch, PC, PlayStation 4, PlayStation 5, Xbox One",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Racing/Driving",
+          "Vehicular Combat"
+        ]
       }
     },
     "wuchang fallen feathers": {
@@ -7738,7 +9379,13 @@
         "release_year": 2025,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Third-Person",
+          "Action",
+          "Adventure",
+          "Role-Playing"
+        ]
       }
     },
     "wuthering waves": {
@@ -7756,7 +9403,12 @@
         "release_year": 2024,
         "profile_platform": "Mobile, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Action",
+          "Open World",
+          "Role-Playing"
+        ]
       }
     },
     "young suns game preview": {
@@ -7780,7 +9432,18 @@
         "release_year": 2024,
         "profile_platform": "Mobile, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 136
+        "match_score": 136,
+        "genres": [
+          "Text",
+          "Third-Person",
+          "Real-Time",
+          "Action",
+          "Adventure",
+          "Fighting",
+          "Hack and Slash",
+          "Roguelike",
+          "Role-Playing"
+        ]
       }
     },
     "zombie army 4": {
@@ -7798,7 +9461,11 @@
         "release_year": 2020,
         "profile_platform": "Google Stadia, Nintendo Switch, PC, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Third-Person",
+          "Shooter"
+        ]
       }
     },
     "zoo tycoon ultimate animal collection": {
@@ -7816,7 +9483,10 @@
         "release_year": 2018,
         "profile_platform": "PC, Xbox One",
         "match_type": "exact",
-        "match_score": 132
+        "match_score": 132,
+        "genres": [
+          "Simulation"
+        ]
       }
     },
     "once human": {
@@ -7834,7 +9504,16 @@
         "release_year": 2024,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Action",
+          "Adventure",
+          "Open World",
+          "Role-Playing",
+          "Shooter",
+          "Strategy/Tactical",
+          "Survival"
+        ]
       }
     },
     "resonance a plague tale legacy": {
@@ -7852,7 +9531,11 @@
         "release_year": 2026,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Action",
+          "Adventure"
+        ]
       }
     },
     "young suns": {
@@ -7870,7 +9553,12 @@
         "release_year": 2025,
         "profile_platform": "PC, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 137
+        "match_score": 137,
+        "genres": [
+          "Third-Person",
+          "Sandbox",
+          "Simulation"
+        ]
       }
     },
     "shelldiver": {
@@ -7888,7 +9576,11 @@
         "release_year": 2025,
         "profile_platform": "PC, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 136
+        "match_score": 136,
+        "genres": [
+          "Action",
+          "Adventure"
+        ]
       }
     },
     "monsters are coming": {
@@ -7960,7 +9652,14 @@
         "release_year": 2026,
         "profile_platform": "Nintendo Switch, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 140
+        "match_score": 140,
+        "genres": [
+          "Side",
+          "Scrolling",
+          "Platform",
+          "Racing/Driving",
+          "Sports"
+        ]
       }
     },
     "call of duty black ops cold war": {
@@ -7984,7 +9683,10 @@
         "release_year": 2025,
         "profile_platform": "PC, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 135
+        "match_score": 135,
+        "genres": [
+          "Strategy/Tactical"
+        ]
       }
     },
     "virtua fighter 5 r e v o world stage": {
@@ -8002,7 +9704,10 @@
         "release_year": 2025,
         "profile_platform": "Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Fighting"
+        ]
       }
     },
     "final fantasy xvi": {
@@ -8038,7 +9743,10 @@
         "release_year": 2025,
         "profile_platform": "Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 136
+        "match_score": 136,
+        "genres": [
+          "Survival"
+        ]
       }
     },
     "aniimo": {
@@ -8056,7 +9764,12 @@
         "release_year": 2026,
         "profile_platform": "Mobile, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Action",
+          "Open World",
+          "Role-Playing"
+        ]
       }
     },
     "shape of dreams": {
@@ -8074,7 +9787,12 @@
         "release_year": 2025,
         "profile_platform": "PC",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Action",
+          "Adventure",
+          "Role-Playing"
+        ]
       }
     },
     "kernel hearts": {
@@ -8092,7 +9810,12 @@
         "release_year": 2026,
         "profile_platform": "Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 138
+        "match_score": 138,
+        "genres": [
+          "Action",
+          "Roguelike",
+          "Role-Playing"
+        ]
       }
     },
     "dune awakening": {
@@ -8110,7 +9833,12 @@
         "release_year": 2025,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Action",
+          "Open World",
+          "Role-Playing"
+        ]
       }
     },
     "well dweller": {
@@ -8128,7 +9856,13 @@
         "release_year": 2026,
         "profile_platform": "Nintendo Switch, Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Side",
+          "Scrolling",
+          "Action",
+          "Adventure"
+        ]
       }
     },
     "mad king redemption": {
@@ -8146,7 +9880,12 @@
         "release_year": 2026,
         "profile_platform": "PC",
         "match_type": "exact",
-        "match_score": 137
+        "match_score": 137,
+        "genres": [
+          "Action",
+          "Adventure",
+          "Strategy/Tactical"
+        ]
       }
     },
     "roadside research game preview": {
@@ -8206,7 +9945,11 @@
         "release_year": 2026,
         "profile_platform": "Nintendo Switch, Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Action",
+          "Role-Playing"
+        ]
       }
     },
     "gears of war ultimate edition for windows 10": {
@@ -8230,7 +9973,12 @@
         "release_year": 2026,
         "profile_platform": "PC, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Third-Person",
+          "Action",
+          "Shooter"
+        ]
       }
     },
     "forever ago": {
@@ -8248,7 +9996,10 @@
         "release_year": 2026,
         "profile_platform": "Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 140
+        "match_score": 140,
+        "genres": [
+          "Adventure"
+        ]
       }
     },
     "echo weaver": {
@@ -8266,7 +10017,12 @@
         "release_year": 2026,
         "profile_platform": "Mac, Nintendo Switch 2, PC, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 140
+        "match_score": 140,
+        "genres": [
+          "Side",
+          "Scrolling",
+          "Action"
+        ]
       }
     },
     "assassin s creed 2": {
@@ -8284,7 +10040,13 @@
         "release_year": 2009,
         "profile_platform": "Nintendo Switch, PC, PlayStation 3, PlayStation 4, Xbox 360, Xbox One",
         "match_type": "exact",
-        "match_score": 136
+        "match_score": 136,
+        "genres": [
+          "Third-Person",
+          "Action",
+          "Adventure",
+          "Open World"
+        ]
       }
     },
     "assassin s creed brotherhood": {
@@ -8302,7 +10064,13 @@
         "release_year": 2010,
         "profile_platform": "Nintendo Switch, OnLive, PC, PlayStation 3, PlayStation 4, Xbox 360, Xbox One",
         "match_type": "exact",
-        "match_score": 136
+        "match_score": 136,
+        "genres": [
+          "Third-Person",
+          "Action",
+          "Adventure",
+          "Platform"
+        ]
       }
     },
     "assassin s creed chronicles china": {
@@ -8350,7 +10118,13 @@
         "release_year": 2013,
         "profile_platform": "Nintendo Switch, PC, PlayStation 3, PlayStation 4, Xbox 360, Xbox One",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Third-Person",
+          "Action",
+          "Adventure",
+          "Stealth"
+        ]
       }
     },
     "assassin s creed iii remastered": {
@@ -8374,7 +10148,13 @@
         "release_year": 2013,
         "profile_platform": "Google Stadia, Nintendo Switch, PC, PlayStation 3, PlayStation 4, Wii U, Xbox 360, Xbox One",
         "match_type": "exact",
-        "match_score": 136
+        "match_score": 136,
+        "genres": [
+          "Third-Person",
+          "Action",
+          "Open World",
+          "Stealth"
+        ]
       }
     },
     "assassin s creed iv black flag gold edition": {
@@ -8398,7 +10178,11 @@
         "release_year": 2011,
         "profile_platform": "Nintendo Switch, PC, PlayStation 3, PlayStation 4, Xbox 360, Xbox One",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Action",
+          "Open World"
+        ]
       }
     },
     "assassin s creed rogue": {
@@ -8416,7 +10200,12 @@
         "release_year": 2014,
         "profile_platform": "Nintendo Switch, PC, PlayStation 3, PlayStation 4, Xbox 360, Xbox One",
         "match_type": "exact",
-        "match_score": 136
+        "match_score": 136,
+        "genres": [
+          "Action",
+          "Adventure",
+          "Stealth"
+        ]
       }
     },
     "assassin s creed syndicate": {
@@ -8434,7 +10223,13 @@
         "release_year": 2015,
         "profile_platform": "Google Stadia, PC, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Third-Person",
+          "Action",
+          "Open World",
+          "Stealth"
+        ]
       }
     },
     "assassin s creed unity": {
@@ -8452,7 +10247,13 @@
         "release_year": 2014,
         "profile_platform": "Google Stadia, PC, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Third-Person",
+          "Action",
+          "Adventure",
+          "Stealth"
+        ]
       }
     },
     "atlas": {
@@ -8470,7 +10271,11 @@
         "release_year": 2018,
         "profile_platform": "PC",
         "match_type": "exact",
-        "match_score": 140
+        "match_score": 140,
+        "genres": [
+          "Open World",
+          "Survival"
+        ]
       }
     },
     "banjo kazooie": {
@@ -8488,7 +10293,13 @@
         "release_year": 1998,
         "profile_platform": "Nintendo 64, Xbox 360",
         "match_type": "exact",
-        "match_score": 125
+        "match_score": 125,
+        "genres": [
+          "Third-Person",
+          "Action",
+          "Adventure",
+          "Platform"
+        ]
       }
     },
     "banjo kazooie n n b": {
@@ -8512,7 +10323,12 @@
         "release_year": 2000,
         "profile_platform": "Nintendo 64, Xbox 360",
         "match_type": "exact",
-        "match_score": 125
+        "match_score": 125,
+        "genres": [
+          "Action",
+          "Adventure",
+          "Platform"
+        ]
       }
     },
     "battlefield 3": {
@@ -8542,7 +10358,10 @@
         "release_year": 2004,
         "profile_platform": "PC, PlayStation 3, PlayStation Portable, Xbox 360, Xbox One",
         "match_type": "exact",
-        "match_score": 133
+        "match_score": 133,
+        "genres": [
+          "Puzzle"
+        ]
       }
     },
     "bejeweled 3": {
@@ -8560,7 +10379,10 @@
         "release_year": 2010,
         "profile_platform": "Mobile, PC, PlayStation 3, Xbox 360, Xbox One",
         "match_type": "exact",
-        "match_score": 136
+        "match_score": 136,
+        "genres": [
+          "Puzzle"
+        ]
       }
     },
     "black": {
@@ -8584,7 +10406,13 @@
         "release_year": 2009,
         "profile_platform": "Linux, Mac, PC, PlayStation 3, Xbox 360, Xbox One",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Third-Person",
+          "Action",
+          "Adventure",
+          "Open World"
+        ]
       }
     },
     "call of duty black ops 6 cross gen bundle": {
@@ -8614,7 +10442,12 @@
         "release_year": 2014,
         "profile_platform": "Google Stadia, Nintendo Switch, PC, PlayStation 3, PlayStation 4, PlayStation Vita, Wii U, Xbox 360, Xbox One",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Side",
+          "Platform",
+          "Role-Playing"
+        ]
       }
     },
     "colony ship a post earth role playing game": {
@@ -8632,7 +10465,12 @@
         "release_year": 2023,
         "profile_platform": "PC",
         "match_type": "exact",
-        "match_score": 127
+        "match_score": 127,
+        "genres": [
+          "Isometric",
+          "Turn-Based",
+          "Role-Playing"
+        ]
       }
     },
     "contrast": {
@@ -8650,7 +10488,13 @@
         "release_year": 2013,
         "profile_platform": "Mobile, PC, PlayStation 3, PlayStation 4, Xbox 360, Xbox One",
         "match_type": "exact",
-        "match_score": 136
+        "match_score": 136,
+        "genres": [
+          "Third-Person",
+          "Real-Time",
+          "Platform",
+          "Puzzle"
+        ]
       }
     },
     "control": {
@@ -8668,7 +10512,13 @@
         "release_year": 2019,
         "profile_platform": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Third-Person",
+          "Action",
+          "Adventure",
+          "Shooter"
+        ]
       }
     },
     "control ultimate edition xbox series x s": {
@@ -8692,7 +10542,10 @@
         "release_year": 2014,
         "profile_platform": "PC, PlayStation 3, PlayStation 4, Wii U, Xbox 360, Xbox One",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Role-Playing"
+        ]
       }
     },
     "crash team racing nitro fueled": {
@@ -8716,7 +10569,11 @@
         "release_year": 2011,
         "profile_platform": "Nintendo Switch, PC, PlayStation 3, PlayStation 4, Xbox 360, Xbox One",
         "match_type": "exact",
-        "match_score": 136
+        "match_score": 136,
+        "genres": [
+          "First-Person",
+          "Shooter"
+        ]
       }
     },
     "dante s inferno": {
@@ -8746,7 +10603,11 @@
         "release_year": 2019,
         "profile_platform": "PC, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Racing/Driving",
+          "Simulation"
+        ]
       }
     },
     "doom": {
@@ -8764,7 +10625,11 @@
         "release_year": 2016,
         "profile_platform": "Google Stadia, Nintendo Switch, PC, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "First-Person",
+          "Shooter"
+        ]
       }
     },
     "doom eternal standard edition": {
@@ -8794,7 +10659,10 @@
         "release_year": 2010,
         "profile_platform": "PC, PlayStation 3, Xbox 360",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Role-Playing"
+        ]
       }
     },
     "ea sports college football 25": {
@@ -8848,7 +10716,10 @@
         "release_year": 2014,
         "profile_platform": "PC, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Adventure"
+        ]
       }
     },
     "fable anniversary": {
@@ -8866,7 +10737,11 @@
         "release_year": 2014,
         "profile_platform": "PC, Xbox 360, Xbox One",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Action",
+          "Role-Playing"
+        ]
       }
     },
     "fable ii": {
@@ -8884,7 +10759,13 @@
         "release_year": 2008,
         "profile_platform": "Xbox 360",
         "match_type": "exact",
-        "match_score": 125
+        "match_score": 125,
+        "genres": [
+          "Third-Person",
+          "Action",
+          "Role-Playing",
+          "Sandbox"
+        ]
       }
     },
     "fable iii": {
@@ -8902,7 +10783,13 @@
         "release_year": 2010,
         "profile_platform": "PC, Xbox 360",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Third-Person",
+          "Action",
+          "Role-Playing",
+          "Sandbox"
+        ]
       }
     },
     "fallout 3": {
@@ -8920,7 +10807,15 @@
         "release_year": 2009,
         "profile_platform": "Amazon Luna, PC, PlayStation 3, Xbox 360",
         "match_type": "exact",
-        "match_score": 136
+        "match_score": 136,
+        "genres": [
+          "First-Person",
+          "Third-Person",
+          "Action",
+          "Open World",
+          "Role-Playing",
+          "Shooter"
+        ]
       }
     },
     "far cry 3": {
@@ -8938,7 +10833,12 @@
         "release_year": 2012,
         "profile_platform": "Nintendo Switch 2, PC, PlayStation 3, PlayStation 4, Xbox 360, Xbox One",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "First-Person",
+          "Open World",
+          "Shooter"
+        ]
       }
     },
     "far cry 3 blood dragon": {
@@ -8956,7 +10856,14 @@
         "release_year": 2013,
         "profile_platform": "Google Stadia, Nintendo Switch 2, PC, PlayStation 3, PlayStation 4, PlayStation 5, Xbox 360, Xbox One",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "First-Person",
+          "Real-Time",
+          "Action",
+          "Open World",
+          "Shooter"
+        ]
       }
     },
     "far cry 3 classic edition": {
@@ -8980,7 +10887,12 @@
         "release_year": 2016,
         "profile_platform": "PC, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "First-Person",
+          "Action",
+          "Adventure"
+        ]
       }
     },
     "farcry 6": {
@@ -9004,7 +10916,10 @@
         "release_year": 2004,
         "profile_platform": "PC, Xbox, Xbox 360, Xbox One",
         "match_type": "exact",
-        "match_score": 126
+        "match_score": 126,
+        "genres": [
+          "Arcade"
+        ]
       }
     },
     "feeding frenzy 2": {
@@ -9022,7 +10937,10 @@
         "release_year": 2006,
         "profile_platform": "PC, PlayStation 3, Xbox 360, Xbox One",
         "match_type": "partial",
-        "match_score": 102
+        "match_score": 102,
+        "genres": [
+          "Arcade"
+        ]
       }
     },
     "fight night champion": {
@@ -9040,7 +10958,10 @@
         "release_year": 2011,
         "profile_platform": "PlayStation 3, Xbox 360, Xbox One",
         "match_type": "exact",
-        "match_score": 132
+        "match_score": 132,
+        "genres": [
+          "Sports"
+        ]
       }
     },
     "fortnite": {
@@ -9058,7 +10979,13 @@
         "release_year": 2017,
         "profile_platform": "Mobile, Nintendo Switch, Nintendo Switch 2, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Third-Person",
+          "Action",
+          "Sandbox",
+          "Shooter"
+        ]
       }
     },
     "gears of war": {
@@ -9076,7 +11003,12 @@
         "release_year": 2006,
         "profile_platform": "PC, Xbox 360",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Third-Person",
+          "Action",
+          "Shooter"
+        ]
       }
     },
     "gears of war 2": {
@@ -9094,7 +11026,12 @@
         "release_year": 2008,
         "profile_platform": "Xbox 360",
         "match_type": "exact",
-        "match_score": 125
+        "match_score": 125,
+        "genres": [
+          "Third-Person",
+          "Action",
+          "Shooter"
+        ]
       }
     },
     "gears of war 3": {
@@ -9112,7 +11049,12 @@
         "release_year": 2011,
         "profile_platform": "Xbox 360",
         "match_type": "exact",
-        "match_score": 131
+        "match_score": 131,
+        "genres": [
+          "Third-Person",
+          "Action",
+          "Shooter"
+        ]
       }
     },
     "gears of war judgment": {
@@ -9130,7 +11072,12 @@
         "release_year": 2013,
         "profile_platform": "Xbox 360, Xbox One",
         "match_type": "exact",
-        "match_score": 137
+        "match_score": 137,
+        "genres": [
+          "Third-Person",
+          "Action",
+          "Shooter"
+        ]
       }
     },
     "gears of war ultimate edition": {
@@ -9148,7 +11095,11 @@
         "release_year": 2015,
         "profile_platform": "PC, Xbox One",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Third-Person",
+          "Shooter"
+        ]
       }
     },
     "genshin impact": {
@@ -9166,7 +11117,14 @@
         "release_year": 2020,
         "profile_platform": "Mobile, PC, PlayStation 4, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Third-Person",
+          "Action",
+          "Adventure",
+          "Open World",
+          "Role-Playing"
+        ]
       }
     },
     "goldeneye 007": {
@@ -9184,7 +11142,11 @@
         "release_year": 1997,
         "profile_platform": "Nintendo 64, Nintendo Switch, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 125
+        "match_score": 125,
+        "genres": [
+          "First-Person",
+          "Shooter"
+        ]
       }
     },
     "halo 5 guardians": {
@@ -9202,7 +11164,11 @@
         "release_year": 2015,
         "profile_platform": "Xbox One",
         "match_type": "exact",
-        "match_score": 137
+        "match_score": 137,
+        "genres": [
+          "First-Person",
+          "Shooter"
+        ]
       }
     },
     "halo wars definitive edition": {
@@ -9220,7 +11186,12 @@
         "release_year": 2009,
         "profile_platform": "PC, Xbox 360, Xbox One",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Isometric",
+          "Real-Time",
+          "Strategy/Tactical"
+        ]
       }
     },
     "heavy weapon": {
@@ -9238,7 +11209,10 @@
         "release_year": 2005,
         "profile_platform": "PC, PlayStation 3, Xbox 360",
         "match_type": "exact",
-        "match_score": 125
+        "match_score": 125,
+        "genres": [
+          "Action"
+        ]
       }
     },
     "hungry shark world": {
@@ -9256,7 +11230,10 @@
         "release_year": 2018,
         "profile_platform": "Mobile, Nintendo Switch, PC, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 137
+        "match_score": 137,
+        "genres": [
+          "Action"
+        ]
       }
     },
     "iron brigade": {
@@ -9274,7 +11251,12 @@
         "release_year": 2011,
         "profile_platform": "PC, Xbox 360, Xbox One",
         "match_type": "exact",
-        "match_score": 134
+        "match_score": 134,
+        "genres": [
+          "Third-Person",
+          "Shooter",
+          "Tower Defense"
+        ]
       }
     },
     "jetpac refuelled": {
@@ -9292,7 +11274,11 @@
         "release_year": 2007,
         "profile_platform": "Xbox 360",
         "match_type": "exact",
-        "match_score": 127
+        "match_score": 127,
+        "genres": [
+          "Arcade",
+          "Shooter"
+        ]
       }
     },
     "kameo": {
@@ -9316,7 +11302,10 @@
         "release_year": 2014,
         "profile_platform": "Arcade, Xbox One",
         "match_type": "exact",
-        "match_score": 133
+        "match_score": 133,
+        "genres": [
+          "Fighting"
+        ]
       }
     },
     "madden nfl 25 xbox one": {
@@ -9346,7 +11335,13 @@
         "release_year": 2010,
         "profile_platform": "PC, PlayStation 3, Xbox 360",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Third-Person",
+          "Action",
+          "Role-Playing",
+          "Shooter"
+        ]
       }
     },
     "mass effect 3": {
@@ -9376,7 +11371,11 @@
         "release_year": 2015,
         "profile_platform": "PC, Xbox One",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Turn-Based",
+          "Strategy"
+        ]
       }
     },
     "max the curse of brotherhood": {
@@ -9394,7 +11393,11 @@
         "release_year": 2013,
         "profile_platform": "Nintendo Switch, PC, PlayStation 4, Xbox 360, Xbox One",
         "match_type": "exact",
-        "match_score": 134
+        "match_score": 134,
+        "genres": [
+          "Platform",
+          "Puzzle"
+        ]
       }
     },
     "minecraft": {
@@ -9412,7 +11415,14 @@
         "release_year": 2011,
         "profile_platform": "Linux, Mac, Mobile, Nintendo 3DS, Nintendo Switch, Nintendo Switch 2, PC, PlayStation 3, PlayStation 4, PlayStation 5, PlayStation Vita, Wii U, Xbox 360, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "First-Person",
+          "Third-Person",
+          "Open World",
+          "Sandbox",
+          "Survival"
+        ]
       }
     },
     "minecraft dungeons": {
@@ -9430,7 +11440,11 @@
         "release_year": 2020,
         "profile_platform": "Nintendo Switch, PC, PlayStation 4, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Action",
+          "Role-Playing"
+        ]
       }
     },
     "monopoly madness": {
@@ -9448,7 +11462,10 @@
         "release_year": 2021,
         "profile_platform": "Nintendo Switch, PC, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 138
+        "match_score": 138,
+        "genres": [
+          "Board Game"
+        ]
       }
     },
     "need for speed payback": {
@@ -9502,7 +11519,10 @@
         "release_year": 2013,
         "profile_platform": "PlayStation 4, Xbox 360, Xbox One",
         "match_type": "exact",
-        "match_score": 127
+        "match_score": 127,
+        "genres": [
+          "Puzzle"
+        ]
       }
     },
     "perfect dark": {
@@ -9520,7 +11540,11 @@
         "release_year": 2000,
         "profile_platform": "Game Boy Color, Nintendo 64, Xbox 360",
         "match_type": "exact",
-        "match_score": 125
+        "match_score": 125,
+        "genres": [
+          "First-Person",
+          "Shooter"
+        ]
       }
     },
     "perfect dark zero": {
@@ -9538,7 +11562,11 @@
         "release_year": 2005,
         "profile_platform": "Xbox 360",
         "match_type": "exact",
-        "match_score": 122
+        "match_score": 122,
+        "genres": [
+          "First-Person",
+          "Shooter"
+        ]
       }
     },
     "prince of persia the lost crown": {
@@ -9556,7 +11584,13 @@
         "release_year": 2024,
         "profile_platform": "Amazon Luna, Mobile, Nintendo Switch, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Side",
+          "Action",
+          "Adventure",
+          "Platform"
+        ]
       }
     },
     "rabbids invasion the interactive tv show": {
@@ -9586,7 +11620,11 @@
         "release_year": 2011,
         "profile_platform": "PC, PlayStation 3, Xbox 360",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "First-Person",
+          "Shooter"
+        ]
       }
     },
     "rare replay": {
@@ -9604,7 +11642,10 @@
         "release_year": 2015,
         "profile_platform": "Xbox One",
         "match_type": "exact",
-        "match_score": 134
+        "match_score": 134,
+        "genres": [
+          "Compilation"
+        ]
       }
     },
     "rayman legends": {
@@ -9622,7 +11663,11 @@
         "release_year": 2013,
         "profile_platform": "Google Stadia, Nintendo Switch, PC, PlayStation 3, PlayStation 4, PlayStation Vita, Wii U, Xbox 360, Xbox One",
         "match_type": "exact",
-        "match_score": 136
+        "match_score": 136,
+        "genres": [
+          "Side",
+          "Platform"
+        ]
       }
     },
     "risk urban assault": {
@@ -9640,7 +11685,10 @@
         "release_year": 2016,
         "profile_platform": "PlayStation 3, PlayStation 4, Xbox 360, Xbox One",
         "match_type": "exact",
-        "match_score": 132
+        "match_score": 132,
+        "genres": [
+          "Board Game"
+        ]
       }
     },
     "rocket league": {
@@ -9664,7 +11712,14 @@
         "release_year": 2013,
         "profile_platform": "PC, Xbox One",
         "match_type": "exact",
-        "match_score": 136
+        "match_score": 136,
+        "genres": [
+          "Third-Person",
+          "Real-Time",
+          "Action",
+          "Adventure",
+          "Hack and Slash"
+        ]
       }
     },
     "screamride": {
@@ -9682,7 +11737,15 @@
         "release_year": 2015,
         "profile_platform": "Xbox 360, Xbox One",
         "match_type": "exact",
-        "match_score": 132
+        "match_score": 132,
+        "genres": [
+          "Action",
+          "City-Building",
+          "Management",
+          "Puzzle",
+          "Racing/Driving",
+          "Simulation"
+        ]
       }
     },
     "skate 2007": {
@@ -9706,7 +11769,10 @@
         "release_year": 2010,
         "profile_platform": "PlayStation 3, Xbox 360",
         "match_type": "exact",
-        "match_score": 124
+        "match_score": 124,
+        "genres": [
+          "Sports"
+        ]
       }
     },
     "skull and bones": {
@@ -9724,7 +11790,12 @@
         "release_year": 2024,
         "profile_platform": "Amazon Luna, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 139
+        "match_score": 139,
+        "genres": [
+          "Action",
+          "Adventure",
+          "Open World"
+        ]
       }
     },
     "south park the stick of truth": {
@@ -9742,7 +11813,13 @@
         "release_year": 2014,
         "profile_platform": "PC, Nintendo Switch, PlayStation 3, PlayStation 4, Xbox 360, Xbox One",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Side",
+          "Scrolling",
+          "Turn-Based",
+          "Role-Playing"
+        ]
       }
     },
     "ssx": {
@@ -9760,7 +11837,10 @@
         "release_year": 2012,
         "profile_platform": "PlayStation 3, Xbox 360",
         "match_type": "exact",
-        "match_score": 134
+        "match_score": 134,
+        "genres": [
+          "Sports"
+        ]
       }
     },
     "stacking": {
@@ -9778,7 +11858,11 @@
         "release_year": 2011,
         "profile_platform": "PC, PlayStation 3, Xbox 360, Xbox One",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Adventure",
+          "puzzle"
+        ]
       }
     },
     "star wars battlefront": {
@@ -9808,7 +11892,11 @@
         "release_year": 2015,
         "profile_platform": "PC, Xbox One",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Action",
+          "Survival"
+        ]
       }
     },
     "steep": {
@@ -9826,7 +11914,10 @@
         "release_year": 2016,
         "profile_platform": "PC, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Sports"
+        ]
       }
     },
     "terraria": {
@@ -9844,7 +11935,15 @@
         "release_year": 2011,
         "profile_platform": "Linux, Mac, Mobile, Nintendo 3DS, Nintendo Switch, PC, PlayStation 3, PlayStation 4, PlayStation Vita, Wii U, Xbox 360, Xbox One",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Side",
+          "Action",
+          "Adventure",
+          "Open World",
+          "Role-Playing",
+          "Sandbox"
+        ]
       }
     },
     "the cave": {
@@ -9862,7 +11961,11 @@
         "release_year": 2013,
         "profile_platform": "Mobile, PC, PlayStation 3, Wii U, Xbox 360, Xbox One",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Adventure",
+          "Platform"
+        ]
       }
     },
     "the crew 2": {
@@ -9886,7 +11989,14 @@
         "release_year": 2006,
         "profile_platform": "PC, PlayStation 3, Xbox 360",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "First-Person",
+          "Action",
+          "Open World",
+          "Role-Playing",
+          "Sandbox"
+        ]
       }
     },
     "the settlers new allies": {
@@ -9904,7 +12014,10 @@
         "release_year": 2023,
         "profile_platform": "Nintendo Switch, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 138
+        "match_score": 138,
+        "genres": [
+          "Strategy/Tactical"
+        ]
       }
     },
     "the walking dead a new frontier": {
@@ -9922,7 +12035,13 @@
         "release_year": 2016,
         "profile_platform": "Mobile, Nintendo Switch, PC, PlayStation 3, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Third-Person",
+          "Point-and-Click",
+          "Adventure",
+          "Horror"
+        ]
       }
     },
     "the walking dead michonne a telltale miniseries": {
@@ -9952,7 +12071,13 @@
         "release_year": 2012,
         "profile_platform": "Mac, Mobile, Nintendo Switch, Ouya, PC, PlayStation 3, PlayStation 4, PlayStation Vita, Xbox 360, Xbox One",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Third-Person",
+          "Point-and-Click",
+          "Adventure",
+          "Horror"
+        ]
       }
     },
     "the walking dead the final season the complete season": {
@@ -9982,7 +12107,13 @@
         "release_year": 2019,
         "profile_platform": "Google Stadia, PC, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Third-Person",
+          "Action",
+          "Adventure",
+          "Shooter"
+        ]
       }
     },
     "tom clancy s rainbow six extraction": {
@@ -10012,7 +12143,10 @@
         "release_year": 2016,
         "profile_platform": "PC, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 138
+        "match_score": 138,
+        "genres": [
+          "Racing/Driving"
+        ]
       }
     },
     "transference": {
@@ -10030,7 +12164,10 @@
         "release_year": 2018,
         "profile_platform": "Meta Quest, PC, PlayStation 4, PlayStation VR, Xbox One",
         "match_type": "exact",
-        "match_score": 139
+        "match_score": 139,
+        "genres": [
+          "Adventure"
+        ]
       }
     },
     "trials fusion": {
@@ -10048,7 +12185,11 @@
         "release_year": 2014,
         "profile_platform": "PC, PlayStation 4, Xbox 360, Xbox One",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Platform",
+          "Racing/Driving"
+        ]
       }
     },
     "trials of the blood dragon": {
@@ -10066,7 +12207,14 @@
         "release_year": 2016,
         "profile_platform": "PC, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 138
+        "match_score": 138,
+        "genres": [
+          "Third-Person",
+          "Action",
+          "Arcade",
+          "Platform",
+          "Racing/Driving"
+        ]
       }
     },
     "trials rising": {
@@ -10084,7 +12232,11 @@
         "release_year": 2019,
         "profile_platform": "Google Stadia, Nintendo Switch, PC, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 141
+        "match_score": 141,
+        "genres": [
+          "Platform",
+          "Racing/Driving"
+        ]
       }
     },
     "ufc 4": {
@@ -10114,7 +12266,10 @@
         "release_year": 2017,
         "profile_platform": "Google Stadia, Mobile, Nintendo Switch, PC, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 136
+        "match_score": 136,
+        "genres": [
+          "Card Game"
+        ]
       }
     },
     "urbo": {
@@ -10132,7 +12287,11 @@
         "release_year": 2023,
         "profile_platform": "PC",
         "match_type": "exact",
-        "match_score": 127
+        "match_score": 127,
+        "genres": [
+          "City-Building",
+          "Puzzle"
+        ]
       }
     },
     "valiant hearts the great war": {
@@ -10150,7 +12309,12 @@
         "release_year": 2014,
         "profile_platform": "Mobile, Nintendo Switch, PC, PlayStation 3, PlayStation 4, Xbox 360, Xbox One",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Side",
+          "Scrolling",
+          "Adventure"
+        ]
       }
     },
     "valorant": {
@@ -10168,7 +12332,11 @@
         "release_year": 2020,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "First-Person",
+          "Shooter"
+        ]
       }
     },
     "viva piñata": {
@@ -10186,7 +12354,11 @@
         "release_year": 2006,
         "profile_platform": "PC, Xbox 360, Xbox One",
         "match_type": "exact",
-        "match_score": 127
+        "match_score": 127,
+        "genres": [
+          "Management",
+          "Simulation"
+        ]
       }
     },
     "viva piñata tip": {
@@ -10210,7 +12382,10 @@
         "release_year": 2018,
         "profile_platform": "PC, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Action"
+        ]
       }
     },
     "wasteland 3": {
@@ -10228,7 +12403,10 @@
         "release_year": 2020,
         "profile_platform": "PC, PlayStation 4, Xbox One",
         "match_type": "exact",
-        "match_score": 142
+        "match_score": 142,
+        "genres": [
+          "Role-Playing"
+        ]
       }
     },
     "watch_dogs": {
@@ -10246,7 +12424,13 @@
         "release_year": 2016,
         "profile_platform": "Google Stadia, PC, PlayStation 4, Xbox One",
         "match_type": "partial",
-        "match_score": 102
+        "match_score": 102,
+        "genres": [
+          "Third-Person",
+          "Action",
+          "Open World",
+          "Shooter"
+        ]
       }
     },
     "wild hearts standard edition": {
@@ -10276,7 +12460,15 @@
         "release_year": 2011,
         "profile_platform": "PC, PlayStation 4, PlayStation 5, Xbox 360, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 126
+        "match_score": 126,
+        "genres": [
+          "First-Person",
+          "Third-Person",
+          "Real-Time",
+          "Role-Playing",
+          "Simulation",
+          "Vehicular Combat"
+        ]
       }
     },
     "zombi": {
@@ -10294,7 +12486,13 @@
         "release_year": 2012,
         "profile_platform": "PC, PlayStation 4, Wii U, Xbox One",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "First-Person",
+          "Real-Time",
+          "Horror",
+          "Survival"
+        ]
       }
     },
     "zuma": {
@@ -10312,7 +12510,10 @@
         "release_year": 2003,
         "profile_platform": "Mobile, PC, PlayStation 3, Xbox 360",
         "match_type": "exact",
-        "match_score": 125
+        "match_score": 125,
+        "genres": [
+          "Puzzle"
+        ]
       }
     },
     "zuma s revenge": {
@@ -10330,7 +12531,10 @@
         "release_year": 2009,
         "profile_platform": "Mobile, Nintendo DS, PC, PlayStation 3, Xbox 360, Xbox One",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "Puzzle"
+        ]
       }
     }
   }
