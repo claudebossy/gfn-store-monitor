@@ -117,6 +117,7 @@ HLTB_ENDPOINT_PATTERN = re.compile(
     r"\s*,\s*{[^}]*method:\s*[\"']POST[\"']",
     re.IGNORECASE | re.DOTALL,
 )
+HLTB_GENRE_PATTERN = re.compile(r'"profile_genre"\s*:\s*"([^"]*)"')
 OPENCRITIC_CLIENT_CONFIG_PATTERN = re.compile(
     r"client\s*:\s*\{[^}]*baseUrl\s*:\s*\"([^\"]+)\""
     r"[^}]*apiKey\s*:\s*\"([^\"]+)\"",
@@ -447,6 +448,15 @@ def sanitize_hltb_data(data: object) -> dict | None:
         "match_type": data.get("match_type"),
         "match_score": data.get("match_score"),
     }
+
+    genres = data.get("genres")
+
+    if isinstance(genres, list):
+        sanitized["genres"] = [
+            genre.strip()
+            for genre in genres
+            if isinstance(genre, str) and genre.strip()
+        ]
 
     return sanitized
 
@@ -912,6 +922,24 @@ class HltbClient:
             payload[hp_key] = hp_val
 
         return payload
+
+    def get_genres(self, game_id: int) -> list[str]:
+        response = self.session.get(
+            HLTB_GAME_URL + str(game_id),
+            timeout=REQUEST_TIMEOUT,
+        )
+        response.raise_for_status()
+
+        match = HLTB_GENRE_PATTERN.search(response.text)
+
+        if not match:
+            return []
+
+        return [
+            genre.strip()
+            for genre in match.group(1).split(",")
+            if genre.strip()
+        ]
 
     def search(self, title: str) -> list[dict]:
         search_path = self.get_search_path()
@@ -1462,6 +1490,30 @@ def is_opencritic_cache_fresh(
     return now - fetched_at <= max_age
 
 
+def attach_hltb_genres(
+    client: HltbClient,
+    data: dict | None,
+) -> dict | None:
+    if data is None or "genres" in data:
+        return data
+
+    game_id = to_int(data.get("game_id"))
+
+    if game_id is None:
+        return data
+
+    try:
+        genres = client.get_genres(game_id)
+    except requests.RequestException as exc:
+        print(
+            "WARNING: failed to fetch HLTB genres for "
+            f"{data.get('title')}: {exc}"
+        )
+        return data
+
+    return {**data, "genres": genres}
+
+
 def get_hltb_data(
     client: HltbClient,
     cache_entries: dict[str, dict],
@@ -1475,7 +1527,10 @@ def get_hltb_data(
         isinstance(cached_entry, dict)
         and is_hltb_cache_fresh(cached_entry, now)
     ):
-        sanitized = sanitize_hltb_data(cached_entry.get("data"))
+        sanitized = attach_hltb_genres(
+            client,
+            sanitize_hltb_data(cached_entry.get("data")),
+        )
         cache_entries[cache_key] = {
             **cached_entry,
             "data": sanitized,
@@ -1499,6 +1554,11 @@ def get_hltb_data(
             f"Failed to fetch HowLongToBeat data for {game['title']}: {exc}"
         ) from exc
 
+    hltb_data = attach_hltb_genres(
+        client,
+        sanitize_hltb_data(hltb_data),
+    )
+
     cache_entries[cache_key] = {
         "title": game["title"],
         "status": (
@@ -1507,10 +1567,10 @@ def get_hltb_data(
             else "not_found"
         ),
         "fetched_at": now.isoformat(),
-        "data": sanitize_hltb_data(hltb_data),
+        "data": hltb_data,
     }
 
-    return sanitize_hltb_data(hltb_data)
+    return hltb_data
 
 
 def get_opencritic_data(

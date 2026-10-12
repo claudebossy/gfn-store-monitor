@@ -356,6 +356,12 @@
             </select>
           </div>
           <div class="field">
+            <label for="genre-filter">HowLongToBeat genre</label>
+            <select id="genre-filter">
+              <option value="">All genres</option>
+            </select>
+          </div>
+          <div class="field">
             <label for="sort-order">Sort</label>
             <select id="sort-order">
               <option value="short-score">Best short-game fit</option>
@@ -474,7 +480,29 @@
           .join("");
       }
 
+      function populateGenreFilter() {
+        const counts = new Map();
+
+        (catalogData.games || []).forEach((game) => {
+          (game.howlongtobeat?.genres || []).forEach((genre) => {
+            counts.set(genre, (counts.get(genre) || 0) + 1);
+          });
+        });
+
+        const select = document.getElementById("genre-filter");
+
+        [...counts.entries()]
+          .sort((left, right) => left[0].localeCompare(right[0]))
+          .forEach(([genre, count]) => {
+            const option = document.createElement("option");
+            option.value = genre;
+            option.textContent = `${genre} (${count})`;
+            select.appendChild(option);
+          });
+      }
+
       function getFilteredGames() {
+        const genreValue = document.getElementById("genre-filter").value;
         const searchValue = normalizeText(
           document.getElementById("search").value
         );
@@ -485,6 +513,12 @@
 
         let games = (catalogData.games || []).filter((game) => {
           if (catalogView === "xbox-store" && !game.gfn_has_xbox_store) {
+            return false;
+          }
+          if (
+            genreValue &&
+            !(game.howlongtobeat?.genres || []).includes(genreValue)
+          ) {
             return false;
           }
           if (!searchValue) {
@@ -623,6 +657,11 @@
                         : ""
                     }
                     ${
+                      hltb.genres?.length
+                        ? `<p>Genres: ${hltb.genres.join(", ")}</p>`
+                        : ""
+                    }
+                    ${
                       hltb.review_score
                         ? `<p>Review score: ${hltb.review_score}</p>`
                         : ""
@@ -722,11 +761,13 @@
           catalogData = await loadCatalogData();
           renderGeneratedAt();
           renderSummary();
+          populateGenreFilter();
           renderGames();
 
           [
             "search",
             "catalog-view",
+            "genre-filter",
             "sort-order",
           ].forEach((id) => {
             document
