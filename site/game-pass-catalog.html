@@ -144,6 +144,45 @@
         grid-template-columns: minmax(0, 1.7fr) repeat(2, minmax(180px, 1fr));
       }
 
+      .genre-field {
+        margin-top: 16px;
+      }
+
+      .genre-chips {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+      }
+
+      .genre-chip,
+      .genre-clear {
+        font: inherit;
+        font-size: 0.85rem;
+        padding: 6px 12px;
+        border-radius: 999px;
+        border: 1px solid var(--border, #3a3a3a);
+        background: transparent;
+        color: inherit;
+        cursor: pointer;
+      }
+
+      .genre-chip.include {
+        background: var(--accent-strong, #107c10);
+        border-color: var(--accent-strong, #107c10);
+        color: #fff;
+      }
+
+      .genre-chip.exclude {
+        background: #8a2b2b;
+        border-color: #8a2b2b;
+        color: #fff;
+        text-decoration: line-through;
+      }
+
+      .genre-clear {
+        margin-left: 8px;
+      }
+
       .panel {
         padding: 18px;
         margin-bottom: 20px;
@@ -356,12 +395,6 @@
             </select>
           </div>
           <div class="field">
-            <label for="genre-filter">HowLongToBeat genre</label>
-            <select id="genre-filter">
-              <option value="">All genres</option>
-            </select>
-          </div>
-          <div class="field">
             <label for="sort-order">Sort</label>
             <select id="sort-order">
               <option value="short-score">Best short-game fit</option>
@@ -369,6 +402,16 @@
               <option value="release">Newest release</option>
             </select>
           </div>
+        </div>
+        <div class="field genre-field">
+          <label>
+            HowLongToBeat genres — click to include (✓), again to exclude
+            (✕), again to clear. Counts reflect the current filters.
+            <button type="button" id="genre-clear" class="genre-clear" hidden>
+              Clear genres
+            </button>
+          </label>
+          <div id="genre-filter" class="genre-chips"></div>
         </div>
       </section>
 
@@ -480,62 +523,133 @@
           .join("");
       }
 
-      function populateGenreFilter() {
-        const counts = new Map();
+      const includedGenres = new Set();
+      const excludedGenres = new Set();
 
-        (catalogData.games || []).forEach((game) => {
-          (game.howlongtobeat?.genres || []).forEach((genre) => {
-            counts.set(genre, (counts.get(genre) || 0) + 1);
-          });
-        });
-
-        const select = document.getElementById("genre-filter");
-
-        [...counts.entries()]
-          .sort((left, right) => left[0].localeCompare(right[0]))
-          .forEach(([genre, count]) => {
-            const option = document.createElement("option");
-            option.value = genre;
-            option.textContent = `${genre} (${count})`;
-            select.appendChild(option);
-          });
-      }
-
-      function getFilteredGames() {
-        const genreValue = document.getElementById("genre-filter").value;
+      function matchesBaseFilters(game) {
         const searchValue = normalizeText(
           document.getElementById("search").value
         );
         const catalogView =
           document.getElementById("catalog-view").value || "all";
+
+        if (catalogView === "xbox-store" && !game.gfn_has_xbox_store) {
+          return false;
+        }
+        if (!searchValue) {
+          return true;
+        }
+
+        const haystack = [
+          game.title,
+          game.xbox_title,
+          game.publisher,
+          game.developer
+        ]
+          .filter(Boolean)
+          .join(" ");
+
+        return normalizeText(haystack).includes(searchValue);
+      }
+
+      // skipGenre: ignore that genre's own include/exclude state.
+      function matchesGenreFilters(game, skipGenre) {
+        const genres = game.howlongtobeat?.genres || [];
+
+        for (const genre of includedGenres) {
+          if (genre !== skipGenre && !genres.includes(genre)) {
+            return false;
+          }
+        }
+        for (const genre of excludedGenres) {
+          if (genre !== skipGenre && genres.includes(genre)) {
+            return false;
+          }
+        }
+        return true;
+      }
+
+      function cycleGenre(genre) {
+        if (includedGenres.has(genre)) {
+          includedGenres.delete(genre);
+          excludedGenres.add(genre);
+        } else if (excludedGenres.has(genre)) {
+          excludedGenres.delete(genre);
+        } else {
+          includedGenres.add(genre);
+        }
+        renderGames();
+      }
+
+      function renderGenreFilter() {
+        const root = document.getElementById("genre-filter");
+        const counts = new Map();
+        const allGenres = new Set([...includedGenres, ...excludedGenres]);
+
+        (catalogData.games || []).forEach((game) => {
+          (game.howlongtobeat?.genres || []).forEach((genre) =>
+            allGenres.add(genre)
+          );
+        });
+
+        allGenres.forEach((genre) => {
+          counts.set(
+            genre,
+            (catalogData.games || []).filter(
+              (game) =>
+                matchesBaseFilters(game) &&
+                matchesGenreFilters(game, genre) &&
+                (game.howlongtobeat?.genres || []).includes(genre)
+            ).length
+          );
+        });
+
+        root.innerHTML = "";
+        [...allGenres]
+          .filter(
+            (genre) =>
+              counts.get(genre) > 0 ||
+              includedGenres.has(genre) ||
+              excludedGenres.has(genre)
+          )
+          .sort((left, right) => {
+            const rank = (genre) =>
+              includedGenres.has(genre) ? 0 : excludedGenres.has(genre) ? 1 : 2;
+            return (
+              rank(left) - rank(right) ||
+              counts.get(right) - counts.get(left) ||
+              left.localeCompare(right)
+            );
+          })
+          .forEach((genre) => {
+            const state = includedGenres.has(genre)
+              ? "include"
+              : excludedGenres.has(genre)
+                ? "exclude"
+                : "";
+            const button = document.createElement("button");
+            button.type = "button";
+            button.className = "genre-chip " + state;
+            button.title =
+              "Click to include, again to exclude, again to clear";
+            button.textContent =
+              (state === "include" ? "✓ " : state === "exclude" ? "✕ " : "") +
+              `${genre} (${counts.get(genre)})`;
+            button.addEventListener("click", () => cycleGenre(genre));
+            root.appendChild(button);
+          });
+
+        const clear = document.getElementById("genre-clear");
+        clear.hidden = !includedGenres.size && !excludedGenres.size;
+      }
+
+      function getFilteredGames() {
         const sortOrder =
           document.getElementById("sort-order").value || "short-score";
 
-        let games = (catalogData.games || []).filter((game) => {
-          if (catalogView === "xbox-store" && !game.gfn_has_xbox_store) {
-            return false;
-          }
-          if (
-            genreValue &&
-            !(game.howlongtobeat?.genres || []).includes(genreValue)
-          ) {
-            return false;
-          }
-          if (!searchValue) {
-            return true;
-          }
-
-          const haystack = [
-            game.title,
-            game.xbox_title,
-            game.publisher,
-            game.developer
-          ]
-            .filter(Boolean)
-            .join(" ");
-
-          return normalizeText(haystack).includes(searchValue);
-        });
+        let games = (catalogData.games || []).filter(
+          (game) => matchesBaseFilters(game) && matchesGenreFilters(game)
+        );
 
         games.sort((left, right) => {
           if (sortOrder === "short-score") {
@@ -571,6 +685,7 @@
       }
 
       function renderGames() {
+        renderGenreFilter();
         const games = getFilteredGames();
         const gamesRoot = document.getElementById("games");
         const resultsMeta = document.getElementById("results-meta");
@@ -761,13 +876,19 @@
           catalogData = await loadCatalogData();
           renderGeneratedAt();
           renderSummary();
-          populateGenreFilter();
           renderGames();
+
+          document
+            .getElementById("genre-clear")
+            .addEventListener("click", () => {
+              includedGenres.clear();
+              excludedGenres.clear();
+              renderGames();
+            });
 
           [
             "search",
             "catalog-view",
-            "genre-filter",
             "sort-order",
           ].forEach((id) => {
             document
