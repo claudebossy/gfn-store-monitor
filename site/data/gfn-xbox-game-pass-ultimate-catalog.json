@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T14:22:06+00:00",
+  "generated_at": "2026-10-13T22:53:44+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,20 +13,20 @@
     }
   },
   "counts": {
-    "gfn_titles": 6127,
-    "xbox_game_pass_titles": 904,
-    "catalog_titles": 688,
-    "intersection_titles": 403,
+    "gfn_titles": 6132,
+    "xbox_game_pass_titles": 907,
+    "catalog_titles": 690,
+    "intersection_titles": 405,
     "xbox_only_titles": 285
   },
   "summary": {
     "store_counts": {
-      "STEAM": 362,
+      "STEAM": 364,
       "XBOX": 204,
       "EPIC": 77,
       "UPLAY": 65,
       "BATTLENET": 21,
-      "EA_APP": 16,
+      "EA_APP": 17,
       "GOG": 4,
       "NONE": 4,
       "GAIJIN": 2,
@@ -36,7 +36,7 @@
     "top_publishers": [
       {
         "name": "Electronic Arts",
-        "count": 110
+        "count": 111
       },
       {
         "name": "Xbox Game Studios",
@@ -84,12 +84,12 @@
       }
     ],
     "gfn_xbox_store_matches": 204,
-    "intersection_titles": 403,
+    "intersection_titles": 405,
     "xbox_only_titles": 285,
-    "hltb_matches": 486,
-    "opencritic_matches": 564,
+    "hltb_matches": 487,
+    "opencritic_matches": 566,
     "short_game_score_matches": 351,
-    "exact_matches": 372,
+    "exact_matches": 374,
     "partial_matches": 31
   },
   "games": [
@@ -3331,6 +3331,42 @@
         "release_year": 2013,
         "match_type": "exact",
         "match_score": 141
+      },
+      "short_game_score": null
+    },
+    {
+      "catalog_group": "intersection",
+      "is_on_gfn": true,
+      "title": "Battlefield™ 6",
+      "normalized_title": "battlefield 6",
+      "gfn_stores": [
+        "EA_APP",
+        "STEAM"
+      ],
+      "gfn_has_xbox_store": false,
+      "xbox_title": "Battlefield™ 6",
+      "xbox_product_id": "9P2FF14JZLL3",
+      "xbox_url": "https://www.microsoft.com/store/productId/9P2FF14JZLL3",
+      "publisher": "Electronic Arts",
+      "developer": "Battlefield Studios",
+      "release_date": "2025-10-10T15:00:00.0000000Z",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.8290.14559138935406168.e7f01a08-ebf9-41d8-88ba-39fb1a148711.d19697e7-b1c1-4200-9327-5f3640f65b75",
+      "description": "The Best Selling Shooter of 2025",
+      "match_type": "exact-title",
+      "match_score": 120,
+      "howlongtobeat": null,
+      "opencritic": {
+        "title": "Battlefield 6",
+        "game_id": 19051,
+        "url": "https://opencritic.com/game/19051/battlefield-6",
+        "top_critic_score": 83.3,
+        "percent_recommended": 88.8,
+        "tier": "Strong",
+        "median_score": 85,
+        "review_count": 171,
+        "release_year": 2025,
+        "match_type": "exact",
+        "match_score": 155
       },
       "short_game_score": null
     },
@@ -29863,6 +29899,58 @@
         "main_story_hours": 6.6,
         "target_hours": 15.0
       }
+    },
+    {
+      "catalog_group": "intersection",
+      "is_on_gfn": true,
+      "title": "Valor Mortis",
+      "normalized_title": "valor mortis",
+      "gfn_stores": [
+        "STEAM"
+      ],
+      "gfn_has_xbox_store": false,
+      "xbox_title": "Valor Mortis",
+      "xbox_product_id": "9P861V1542BL",
+      "xbox_url": "https://www.microsoft.com/store/productId/9P861V1542BL",
+      "publisher": "Lyrical Games",
+      "developer": "One More Level",
+      "release_date": "2026-10-13T17:00:00.0000000Z",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.2548.14098465670758705.ee77a872-5740-4661-bec6-399c86db9b2c.6264f17b-0e35-4616-9106-5f9e72ad6af7",
+      "description": "Valor Mortis is a first-person action Souls-like from the creators of Ghostrunner. Rise from death as a former soldier of Napoleon’s army. Wield supernatural powers, battle horror monsters, and unravel a conspiracy that threatens all of humanity.",
+      "match_type": "exact-title",
+      "match_score": 120,
+      "howlongtobeat": {
+        "title": "Valor Mortis",
+        "game_id": 172954,
+        "url": "https://howlongtobeat.com/game/172954",
+        "image_url": "https://howlongtobeat.com/games/172954_Valor_Mortis.jpg",
+        "main_story_seconds": null,
+        "review_score": 80,
+        "completion_count": 2,
+        "release_year": 2026,
+        "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
+        "match_type": "exact",
+        "match_score": 142,
+        "genres": [
+          "First-Person",
+          "Action",
+          "Role-Playing"
+        ]
+      },
+      "opencritic": {
+        "title": "Valor Mortis",
+        "game_id": 20805,
+        "url": "https://opencritic.com/game/20805/valor-mortis",
+        "top_critic_score": 79.6,
+        "percent_recommended": 76.9,
+        "tier": "Strong",
+        "median_score": 80,
+        "review_count": 53,
+        "release_year": 2026,
+        "match_type": "exact",
+        "match_score": 149
+      },
+      "short_game_score": null
     },
     {
       "catalog_group": "xbox-only",

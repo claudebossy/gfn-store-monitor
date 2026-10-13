@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T14:22:23+00:00",
+  "updated_at": "2026-10-13T22:54:04+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -12558,6 +12558,35 @@
           "Action",
           "Adventure",
           "Strategy/Tactical"
+        ]
+      }
+    },
+    "battlefield 6": {
+      "title": "Battlefield™ 6",
+      "status": "not_found",
+      "fetched_at": "2026-10-13T22:53:59+00:00",
+      "data": null
+    },
+    "valor mortis": {
+      "title": "Valor Mortis",
+      "status": "matched",
+      "fetched_at": "2026-10-13T22:54:02+00:00",
+      "data": {
+        "title": "Valor Mortis",
+        "game_id": 172954,
+        "url": "https://howlongtobeat.com/game/172954",
+        "image_url": "https://howlongtobeat.com/games/172954_Valor_Mortis.jpg",
+        "main_story_seconds": null,
+        "review_score": 80,
+        "completion_count": 2,
+        "release_year": 2026,
+        "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
+        "match_type": "exact",
+        "match_score": 142,
+        "genres": [
+          "First-Person",
+          "Action",
+          "Role-Playing"
         ]
       }
     }
