@@ -1037,6 +1037,12 @@
       "STEAM"
     ]
   },
+  "alabaster dawn": {
+    "name": "Alabaster Dawn",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "alaloth champions of the four kingdoms": {
     "name": "Alaloth - Champions of The Four Kingdoms",
     "stores": [
@@ -1201,6 +1207,12 @@
   },
   "all will fall": {
     "name": "ALL WILL FALL",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "allogloom": {
+    "name": "Allogloom",
     "stores": [
       "STEAM"
     ]
@@ -3419,6 +3431,12 @@
   },
   "beyond the map": {
     "name": "Beyond the Map",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "beyond words": {
+    "name": "Beyond Words",
     "stores": [
       "STEAM"
     ]
@@ -9049,6 +9067,12 @@
       "EPIC",
       "STEAM",
       "XBOX"
+    ]
+  },
+  "dressmaker": {
+    "name": "Dressmaker",
+    "stores": [
+      "STEAM"
     ]
   },
   "driftland the magic revival": {
@@ -18859,12 +18883,6 @@
       "UPLAY"
     ]
   },
-  "milkmaid of the milky way": {
-    "name": "Milkmaid of the Milky Way",
-    "stores": [
-      "STEAM"
-    ]
-  },
   "millennia": {
     "name": "Millennia",
     "stores": [
@@ -22581,6 +22599,12 @@
   },
   "planet zoo": {
     "name": "Planet Zoo",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "planet zoo 2": {
+    "name": "Planet Zoo 2",
     "stores": [
       "STEAM"
     ]
@@ -35034,6 +35058,12 @@
   },
   "valor blade demo": {
     "name": "Valor & Blade Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "valor mortis": {
+    "name": "Valor Mortis",
     "stores": [
       "STEAM"
     ]
