@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T00:49:24+00:00",
+  "updated_at": "2026-10-13T14:22:23+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -11304,6 +11304,24 @@
       "status": "not_found",
       "fetched_at": "2026-10-12T21:36:07+00:00",
       "data": null
+    },
+    "deep dish dungeon": {
+      "title": "Deep Dish Dungeon",
+      "status": "matched",
+      "fetched_at": "2026-10-13T14:22:23+00:00",
+      "data": {
+        "title": "Deep Dish Dungeon",
+        "game_id": 21522,
+        "url": "https://opencritic.com/game/21522/deep-dish-dungeon",
+        "top_critic_score": null,
+        "percent_recommended": null,
+        "tier": null,
+        "median_score": null,
+        "review_count": 3,
+        "release_year": 2026,
+        "match_type": "exact",
+        "match_score": 147
+      }
     }
   }
 }

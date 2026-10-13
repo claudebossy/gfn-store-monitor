@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T00:49:05+00:00",
+  "generated_at": "2026-10-13T14:22:06+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -14,10 +14,10 @@
   },
   "counts": {
     "gfn_titles": 6127,
-    "xbox_game_pass_titles": 903,
-    "catalog_titles": 687,
+    "xbox_game_pass_titles": 904,
+    "catalog_titles": 688,
     "intersection_titles": 403,
-    "xbox_only_titles": 284
+    "xbox_only_titles": 285
   },
   "summary": {
     "store_counts": {
@@ -85,9 +85,9 @@
     ],
     "gfn_xbox_store_matches": 204,
     "intersection_titles": 403,
-    "xbox_only_titles": 284,
-    "hltb_matches": 485,
-    "opencritic_matches": 563,
+    "xbox_only_titles": 285,
+    "hltb_matches": 486,
+    "opencritic_matches": 564,
     "short_game_score_matches": 351,
     "exact_matches": 372,
     "partial_matches": 31
@@ -7233,6 +7233,57 @@
         "main_story_hours": 16.4,
         "target_hours": 15.0
       }
+    },
+    {
+      "catalog_group": "xbox-only",
+      "is_on_gfn": false,
+      "title": "Deep Dish Dungeon",
+      "normalized_title": "deep dish dungeon",
+      "gfn_stores": [],
+      "gfn_has_xbox_store": false,
+      "xbox_title": "Deep Dish Dungeon",
+      "xbox_product_id": "9PPF72ZH6RP8",
+      "xbox_url": "https://www.microsoft.com/store/productId/9PPF72ZH6RP8",
+      "publisher": "Raw Fury AB",
+      "developer": "Behold Studios",
+      "release_date": "2026-10-13T14:00:00.0000000Z",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.50685.14326063685133853.939b1741-3671-493b-b12d-2c262722c883.540d4a4e-1a4d-4373-8608-b32a06a0f1b7",
+      "description": "A survival exploration game where you navigate through a puzzly, handcrafted dungeon, with metroidvania and crafting elements. Unravel the enigmas of the dungeon solo or online co-op multiplayer.",
+      "match_type": "xbox-only",
+      "match_score": 0,
+      "howlongtobeat": {
+        "title": "Deep Dish Dungeon",
+        "game_id": 173056,
+        "url": "https://howlongtobeat.com/game/173056",
+        "image_url": "https://howlongtobeat.com/games/173056_Deep_Dish_Dungeon.jpg",
+        "main_story_seconds": null,
+        "review_score": null,
+        "completion_count": null,
+        "release_year": 2026,
+        "profile_platform": "PC, Xbox Series X/S",
+        "match_type": "exact",
+        "match_score": 138,
+        "genres": [
+          "First-Person",
+          "Action",
+          "Adventure",
+          "Strategy/Tactical"
+        ]
+      },
+      "opencritic": {
+        "title": "Deep Dish Dungeon",
+        "game_id": 21522,
+        "url": "https://opencritic.com/game/21522/deep-dish-dungeon",
+        "top_critic_score": null,
+        "percent_recommended": null,
+        "tier": null,
+        "median_score": null,
+        "review_count": 3,
+        "release_year": 2026,
+        "match_type": "exact",
+        "match_score": 147
+      },
+      "short_game_score": null
     },
     {
       "catalog_group": "intersection",
