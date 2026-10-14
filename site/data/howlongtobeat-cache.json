@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T12:04:53+00:00",
+  "updated_at": "2026-10-14T17:21:25+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -70,7 +70,7 @@
     "a game about digging a hole": {
       "title": "A Game About Digging A Hole™",
       "status": "not_found",
-      "fetched_at": "2026-10-07T13:35:33+00:00",
+      "fetched_at": "2026-10-14T17:19:59+00:00",
       "data": null
     },
     "a plague tale requiem": {
@@ -325,10 +325,30 @@
       }
     },
     "alice madness returns": {
-      "title": "Alice: Madness Returns™",
-      "status": "not_found",
-      "fetched_at": "2026-10-07T13:35:33+00:00",
-      "data": null
+      "title": "Alice: Madness Returns",
+      "status": "matched",
+      "fetched_at": "2026-10-14T17:20:00+00:00",
+      "data": {
+        "title": "Alice: Madness Returns",
+        "game_id": 340,
+        "url": "https://howlongtobeat.com/game/340",
+        "image_url": "https://howlongtobeat.com/games/340_Alice_Madness_Returns.jpg",
+        "main_story_seconds": 50372,
+        "review_score": 76,
+        "completion_count": 3336,
+        "release_year": 2011,
+        "profile_platform": "PC, PlayStation 3, Xbox 360, Xbox One",
+        "match_type": "exact",
+        "match_score": 142,
+        "genres": [
+          "Third-Person",
+          "Action",
+          "Adventure",
+          "Hack and Slash",
+          "Horror",
+          "Platform"
+        ]
+      }
     },
     "aliens dark descent": {
       "title": "Aliens: Dark Descent",
@@ -400,7 +420,7 @@
     "anno 1800": {
       "title": "Anno 1800™",
       "status": "not_found",
-      "fetched_at": "2026-10-07T13:35:34+00:00",
+      "fetched_at": "2026-10-14T17:20:04+00:00",
       "data": null
     },
     "anno mutationem": {
@@ -469,7 +489,7 @@
     "ara history untold anniversary edition": {
       "title": "Ara History Untold: Anniversary Edition",
       "status": "not_found",
-      "fetched_at": "2026-10-07T13:35:35+00:00",
+      "fetched_at": "2026-10-14T17:20:05+00:00",
       "data": null
     },
     "arcade": {
@@ -521,7 +541,7 @@
     "ark ultimate survivor edition": {
       "title": "ARK: Ultimate Survivor Edition",
       "status": "not_found",
-      "fetched_at": "2026-10-07T13:35:36+00:00",
+      "fetched_at": "2026-10-14T17:20:05+00:00",
       "data": null
     },
     "artifact": {
@@ -634,14 +654,32 @@
     "assassin s creed mirage": {
       "title": "Assassin's Creed® Mirage",
       "status": "not_found",
-      "fetched_at": "2026-10-07T13:35:36+00:00",
+      "fetched_at": "2026-10-14T17:20:06+00:00",
       "data": null
     },
     "assassin s creed odyssey": {
       "title": "Assassin’s Creed® Odyssey",
-      "status": "not_found",
-      "fetched_at": "2026-10-07T13:35:37+00:00",
-      "data": null
+      "status": "matched",
+      "fetched_at": "2026-10-14T17:20:08+00:00",
+      "data": {
+        "title": "Assassin's Creed Odyssey",
+        "game_id": 57503,
+        "url": "https://howlongtobeat.com/game/57503",
+        "image_url": "https://howlongtobeat.com/games/57503_Assassins_Creed_Odyssey.jpg",
+        "main_story_seconds": 164394,
+        "review_score": 79,
+        "completion_count": 11558,
+        "release_year": 2018,
+        "profile_platform": "Google Stadia, Nintendo Switch, PC, PlayStation 4, Xbox One",
+        "match_type": "exact",
+        "match_score": 142,
+        "genres": [
+          "Third-Person",
+          "Action",
+          "Open World",
+          "Role-Playing"
+        ]
+      }
     },
     "assassin s creed origins": {
       "title": "Assassin’s Creed® Origins",
@@ -668,9 +706,28 @@
     },
     "assassin s creed valhalla": {
       "title": "Assassin’s Creed®: Valhalla",
-      "status": "not_found",
-      "fetched_at": "2026-10-07T13:35:39+00:00",
-      "data": null
+      "status": "matched",
+      "fetched_at": "2026-10-14T17:20:10+00:00",
+      "data": {
+        "title": "Assassin's Creed Valhalla",
+        "game_id": 77729,
+        "url": "https://howlongtobeat.com/game/77729",
+        "image_url": "https://howlongtobeat.com/games/77729_Assassins_Creed_Valhalla.jpg",
+        "main_story_seconds": 220659,
+        "review_score": 71,
+        "completion_count": 5151,
+        "release_year": 2020,
+        "profile_platform": "Google Stadia, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
+        "match_type": "exact",
+        "match_score": 142,
+        "genres": [
+          "Third-Person",
+          "Action",
+          "Adventure",
+          "Open World",
+          "Role-Playing"
+        ]
+      }
     },
     "astroneer": {
       "title": "ASTRONEER",
@@ -854,43 +911,61 @@
     "barbie horse trails": {
       "title": "Barbie™ Horse Trails",
       "status": "not_found",
-      "fetched_at": "2026-10-07T13:35:40+00:00",
+      "fetched_at": "2026-10-14T17:20:11+00:00",
       "data": null
     },
     "batman arkham knight": {
       "title": "Batman™: Arkham Knight",
       "status": "not_found",
-      "fetched_at": "2026-10-07T13:35:40+00:00",
+      "fetched_at": "2026-10-14T17:20:12+00:00",
       "data": null
     },
     "battlefield 1": {
       "title": "Battlefield™ 1",
       "status": "not_found",
-      "fetched_at": "2026-10-07T13:35:41+00:00",
+      "fetched_at": "2026-10-14T17:20:13+00:00",
       "data": null
     },
     "battlefield 2042": {
       "title": "Battlefield™ 2042",
       "status": "not_found",
-      "fetched_at": "2026-10-07T13:35:42+00:00",
+      "fetched_at": "2026-10-14T17:20:14+00:00",
       "data": null
     },
     "battlefield 4 premium edition": {
       "title": "Battlefield 4™ Premium Edition",
-      "status": "not_found",
-      "fetched_at": "2026-10-07T13:35:43+00:00",
-      "data": null
+      "status": "matched",
+      "fetched_at": "2026-10-14T17:20:14+00:00",
+      "data": {
+        "title": "Battlefield 4",
+        "game_id": 942,
+        "url": "https://howlongtobeat.com/game/942",
+        "image_url": "https://howlongtobeat.com/games/Battlefield_4.jpg",
+        "main_story_seconds": 22503,
+        "review_score": 73,
+        "completion_count": 5305,
+        "release_year": 2013,
+        "profile_platform": "PC, PlayStation 3, PlayStation 4, Xbox 360, Xbox One",
+        "match_type": "exact",
+        "match_score": 136,
+        "genres": [
+          "First-Person",
+          "Sandbox",
+          "Shooter",
+          "Vehicular Combat"
+        ]
+      }
     },
     "battlefield hardline ultimate edition": {
       "title": "Battlefield™ Hardline Ultimate Edition",
       "status": "not_found",
-      "fetched_at": "2026-10-07T13:35:43+00:00",
+      "fetched_at": "2026-10-14T17:20:16+00:00",
       "data": null
     },
     "battlefield v": {
       "title": "Battlefield™ V",
       "status": "not_found",
-      "fetched_at": "2026-10-07T13:35:44+00:00",
+      "fetched_at": "2026-10-14T17:20:16+00:00",
       "data": null
     },
     "battletech": {
@@ -1112,7 +1187,7 @@
     "blizzard arcade collection": {
       "title": "Blizzard® Arcade Collection",
       "status": "not_found",
-      "fetched_at": "2026-10-07T13:35:45+00:00",
+      "fetched_at": "2026-10-14T17:20:18+00:00",
       "data": null
     },
     "blue prince": {
@@ -1279,37 +1354,37 @@
     "burnout paradise remastered": {
       "title": "Burnout™ Paradise Remastered",
       "status": "not_found",
-      "fetched_at": "2026-10-07T13:35:46+00:00",
+      "fetched_at": "2026-10-14T17:20:19+00:00",
       "data": null
     },
     "call of duty": {
       "title": "Call of Duty®",
       "status": "not_found",
-      "fetched_at": "2026-10-07T13:35:47+00:00",
+      "fetched_at": "2026-10-14T17:20:19+00:00",
       "data": null
     },
     "call of duty black ops 6": {
       "title": "Call of Duty®: Black Ops 6",
       "status": "not_found",
-      "fetched_at": "2026-10-07T13:35:48+00:00",
+      "fetched_at": "2026-10-14T17:20:20+00:00",
       "data": null
     },
     "call of duty modern warfare ii": {
       "title": "Call of Duty®: Modern Warfare® II",
       "status": "not_found",
-      "fetched_at": "2026-10-07T13:35:49+00:00",
+      "fetched_at": "2026-10-14T17:20:22+00:00",
       "data": null
     },
     "call of duty modern warfare iii": {
       "title": "Call of Duty®: Modern Warfare® III",
       "status": "not_found",
-      "fetched_at": "2026-10-07T13:35:50+00:00",
+      "fetched_at": "2026-10-14T17:20:24+00:00",
       "data": null
     },
     "call of duty vanguard": {
       "title": "Call of Duty®: Vanguard",
       "status": "not_found",
-      "fetched_at": "2026-10-07T13:35:51+00:00",
+      "fetched_at": "2026-10-14T17:20:25+00:00",
       "data": null
     },
     "call of the elder gods": {
@@ -1337,7 +1412,7 @@
     "call of the wild the angler": {
       "title": "Call of the Wild: The Angler™",
       "status": "not_found",
-      "fetched_at": "2026-10-07T13:35:52+00:00",
+      "fetched_at": "2026-10-14T17:20:26+00:00",
       "data": null
     },
     "car mechanic simulator 2021": {
@@ -1383,7 +1458,7 @@
     "cities skylines": {
       "title": "Cities: Skylines©",
       "status": "not_found",
-      "fetched_at": "2026-10-07T13:35:53+00:00",
+      "fetched_at": "2026-10-14T17:20:27+00:00",
       "data": null
     },
     "cities skylines ii": {
@@ -1502,7 +1577,7 @@
     "command conquer remastered collection": {
       "title": "Command & Conquer™ Remastered Collection",
       "status": "not_found",
-      "fetched_at": "2026-10-07T13:35:54+00:00",
+      "fetched_at": "2026-10-14T17:20:28+00:00",
       "data": null
     },
     "commandos origins": {
@@ -1657,13 +1732,13 @@
     "crash bandicoot 4 it s about time": {
       "title": "Crash Bandicoot™ 4: It's About Time",
       "status": "not_found",
-      "fetched_at": "2026-10-07T13:35:55+00:00",
+      "fetched_at": "2026-10-14T17:20:30+00:00",
       "data": null
     },
     "crash bandicoot n sane trilogy": {
       "title": "Crash Bandicoot™ N. Sane Trilogy",
       "status": "not_found",
-      "fetched_at": "2026-10-07T13:35:56+00:00",
+      "fetched_at": "2026-10-14T17:20:31+00:00",
       "data": null
     },
     "crashout crew": {
@@ -1732,7 +1807,7 @@
     "cricket 26 the official game of the ashes": {
       "title": "Cricket 26 - The Official Game of the Ashes",
       "status": "not_found",
-      "fetched_at": "2026-10-07T13:35:56+00:00",
+      "fetched_at": "2026-10-14T17:20:31+00:00",
       "data": null
     },
     "crime scene cleaner": {
@@ -1759,19 +1834,19 @@
     "crimson skies high road to revenge": {
       "title": "Crimson Skies®: High Road to Revenge™",
       "status": "not_found",
-      "fetched_at": "2026-10-07T13:35:57+00:00",
+      "fetched_at": "2026-10-14T17:20:32+00:00",
       "data": null
     },
     "crysis": {
       "title": "Crysis®",
       "status": "not_found",
-      "fetched_at": "2026-10-07T13:35:58+00:00",
+      "fetched_at": "2026-10-14T17:20:34+00:00",
       "data": null
     },
     "crysis 2 maximum edition": {
       "title": "Crysis® 2 Maximum Edition",
       "status": "not_found",
-      "fetched_at": "2026-10-07T13:35:58+00:00",
+      "fetched_at": "2026-10-14T17:20:35+00:00",
       "data": null
     },
     "crysis 3": {
@@ -1979,9 +2054,9 @@
       }
     },
     "dead space 2008": {
-      "title": "Dead Space - 2008",
+      "title": "Dead Space (2008)",
       "status": "not_found",
-      "fetched_at": "2026-10-07T13:35:59+00:00",
+      "fetched_at": "2026-10-14T17:20:37+00:00",
       "data": null
     },
     "dead space 3": {
@@ -2201,7 +2276,7 @@
     "diablo": {
       "title": "Diablo®",
       "status": "not_found",
-      "fetched_at": "2026-10-07T13:35:59+00:00",
+      "fetched_at": "2026-10-14T17:20:38+00:00",
       "data": null
     },
     "diablo ii resurrected": {
@@ -2213,13 +2288,13 @@
     "diablo iii": {
       "title": "Diablo® III",
       "status": "not_found",
-      "fetched_at": "2026-10-07T13:36:00+00:00",
+      "fetched_at": "2026-10-14T17:20:39+00:00",
       "data": null
     },
     "diablo iv": {
       "title": "Diablo® IV",
       "status": "not_found",
-      "fetched_at": "2026-10-07T13:36:01+00:00",
+      "fetched_at": "2026-10-14T17:20:40+00:00",
       "data": null
     },
     "dice a million": {
@@ -2294,13 +2369,13 @@
     "dishonored death of the outsider": {
       "title": "Dishonored®: Death of the Outsider™",
       "status": "not_found",
-      "fetched_at": "2026-10-07T13:36:02+00:00",
+      "fetched_at": "2026-10-14T17:20:41+00:00",
       "data": null
     },
     "dishonored definitive edition": {
       "title": "Dishonored® Definitive Edition",
       "status": "not_found",
-      "fetched_at": "2026-10-07T13:36:03+00:00",
+      "fetched_at": "2026-10-14T17:20:42+00:00",
       "data": null
     },
     "disney dreamlight valley": {
@@ -2460,7 +2535,7 @@
     "doom eternal standard edition pc": {
       "title": "DOOM Eternal Standard Edition (PC)",
       "status": "not_found",
-      "fetched_at": "2026-10-07T13:36:05+00:00",
+      "fetched_at": "2026-10-14T17:20:43+00:00",
       "data": null
     },
     "doom the dark ages": {
@@ -2489,25 +2564,25 @@
     "dragon age ii": {
       "title": "Dragon Age™ II",
       "status": "not_found",
-      "fetched_at": "2026-10-07T13:36:05+00:00",
+      "fetched_at": "2026-10-14T17:20:44+00:00",
       "data": null
     },
     "dragon age inquisition game of the year edition": {
       "title": "Dragon Age™: Inquisition - Game of the Year Edition",
       "status": "not_found",
-      "fetched_at": "2026-10-07T13:36:06+00:00",
+      "fetched_at": "2026-10-14T17:20:46+00:00",
       "data": null
     },
     "dragon age origins ultimate edition": {
       "title": "Dragon Age™: Origins - Ultimate Edition",
       "status": "not_found",
-      "fetched_at": "2026-10-07T13:36:07+00:00",
+      "fetched_at": "2026-10-14T17:20:47+00:00",
       "data": null
     },
     "dragon age the veilguard": {
       "title": "Dragon Age™: The Veilguard",
       "status": "not_found",
-      "fetched_at": "2026-10-07T13:36:07+00:00",
+      "fetched_at": "2026-10-14T17:20:47+00:00",
       "data": null
     },
     "dragon ball xenoverse 2": {

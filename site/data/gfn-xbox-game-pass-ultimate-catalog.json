@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T12:04:33+00:00",
+  "generated_at": "2026-10-14T17:19:42+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,7 +13,7 @@
     }
   },
   "counts": {
-    "gfn_titles": 6134,
+    "gfn_titles": 6139,
     "xbox_game_pass_titles": 907,
     "catalog_titles": 690,
     "intersection_titles": 406,
@@ -22,7 +22,7 @@
   "summary": {
     "store_counts": {
       "STEAM": 365,
-      "XBOX": 204,
+      "XBOX": 205,
       "EPIC": 77,
       "UPLAY": 65,
       "BATTLENET": 21,
@@ -83,12 +83,12 @@
         "count": 7
       }
     ],
-    "gfn_xbox_store_matches": 204,
+    "gfn_xbox_store_matches": 205,
     "intersection_titles": 406,
     "xbox_only_titles": 284,
-    "hltb_matches": 487,
+    "hltb_matches": 491,
     "opencritic_matches": 566,
-    "short_game_score_matches": 351,
+    "short_game_score_matches": 354,
     "exact_matches": 375,
     "partial_matches": 31
   },
@@ -945,7 +945,27 @@
       "description": "Eleven years ago Alice lost her family to a horrific fire. Afterwards Alice struggled to face her demons by escaping to Wonderland. Alice now returns to Wonderland, seeking what the “real” world can’t provide. However, an evil is now descending upon what once was her refuge. Can Alice save Wonderland—and herself—from the madness that consumes them both?",
       "match_type": "xbox-only",
       "match_score": 0,
-      "howlongtobeat": null,
+      "howlongtobeat": {
+        "title": "Alice: Madness Returns",
+        "game_id": 340,
+        "url": "https://howlongtobeat.com/game/340",
+        "image_url": "https://howlongtobeat.com/games/340_Alice_Madness_Returns.jpg",
+        "main_story_seconds": 50372,
+        "review_score": 76,
+        "completion_count": 3336,
+        "release_year": 2011,
+        "profile_platform": "PC, PlayStation 3, Xbox 360, Xbox One",
+        "match_type": "exact",
+        "match_score": 142,
+        "genres": [
+          "Third-Person",
+          "Action",
+          "Adventure",
+          "Hack and Slash",
+          "Horror",
+          "Platform"
+        ]
+      },
       "opencritic": null,
       "short_game_score": null
     },
@@ -2224,7 +2244,25 @@
       "description": "In this action-adventure game, set sail for Ancient Greece to alter its fate. Fight in visceral battles on land and sea, shape your destiny from outcast to legend, and uncover secrets of your past.",
       "match_type": "exact-title",
       "match_score": 120,
-      "howlongtobeat": null,
+      "howlongtobeat": {
+        "title": "Assassin's Creed Odyssey",
+        "game_id": 57503,
+        "url": "https://howlongtobeat.com/game/57503",
+        "image_url": "https://howlongtobeat.com/games/57503_Assassins_Creed_Odyssey.jpg",
+        "main_story_seconds": 164394,
+        "review_score": 79,
+        "completion_count": 11558,
+        "release_year": 2018,
+        "profile_platform": "Google Stadia, Nintendo Switch, PC, PlayStation 4, Xbox One",
+        "match_type": "exact",
+        "match_score": 142,
+        "genres": [
+          "Third-Person",
+          "Action",
+          "Open World",
+          "Role-Playing"
+        ]
+      },
       "opencritic": {
         "title": "Assassin's Creed Odyssey",
         "game_id": 6222,
@@ -2238,7 +2276,13 @@
         "match_type": "exact",
         "match_score": 143
       },
-      "short_game_score": null
+      "short_game_score": {
+        "score": 59.0,
+        "critic_score": 84.3,
+        "duration_fit_score": 0.0,
+        "main_story_hours": 45.7,
+        "target_hours": 15.0
+      }
     },
     {
       "catalog_group": "intersection",
@@ -2538,7 +2582,26 @@
       "description": "Play as a Viking warrior in this action-adventure game set in England’s Dark Ages. Explore a dynamic open world, raid your enemies, and grow your settlement to earn your place among the gods in Valhalla...",
       "match_type": "exact-title",
       "match_score": 120,
-      "howlongtobeat": null,
+      "howlongtobeat": {
+        "title": "Assassin's Creed Valhalla",
+        "game_id": 77729,
+        "url": "https://howlongtobeat.com/game/77729",
+        "image_url": "https://howlongtobeat.com/games/77729_Assassins_Creed_Valhalla.jpg",
+        "main_story_seconds": 220659,
+        "review_score": 71,
+        "completion_count": 5151,
+        "release_year": 2020,
+        "profile_platform": "Google Stadia, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
+        "match_type": "exact",
+        "match_score": 142,
+        "genres": [
+          "Third-Person",
+          "Action",
+          "Adventure",
+          "Open World",
+          "Role-Playing"
+        ]
+      },
       "opencritic": {
         "title": "Assassin's Creed Valhalla",
         "game_id": 9439,
@@ -2552,7 +2615,13 @@
         "match_type": "exact",
         "match_score": 145
       },
-      "short_game_score": null
+      "short_game_score": {
+        "score": 58.2,
+        "critic_score": 83.1,
+        "duration_fit_score": 0.0,
+        "main_story_hours": 61.3,
+        "target_hours": 15.0
+      }
     },
     {
       "catalog_group": "intersection",
@@ -3318,7 +3387,25 @@
       "description": "Battlefield 4™ is the genre-defining action blockbuster made from moments that blur the line between game and glory - moments found only in Battlefield. With dynamic destructible environments, epic vehicular combat, and the chaos of all-out war, Battlefield 4 gives you the freedom to do more and be more for an unrivaled entertainment experience.",
       "match_type": "exact-title",
       "match_score": 120,
-      "howlongtobeat": null,
+      "howlongtobeat": {
+        "title": "Battlefield 4",
+        "game_id": 942,
+        "url": "https://howlongtobeat.com/game/942",
+        "image_url": "https://howlongtobeat.com/games/Battlefield_4.jpg",
+        "main_story_seconds": 22503,
+        "review_score": 73,
+        "completion_count": 5305,
+        "release_year": 2013,
+        "profile_platform": "PC, PlayStation 3, PlayStation 4, Xbox 360, Xbox One",
+        "match_type": "exact",
+        "match_score": 136,
+        "genres": [
+          "First-Person",
+          "Sandbox",
+          "Shooter",
+          "Vehicular Combat"
+        ]
+      },
       "opencritic": {
         "title": "Battlefield 4",
         "game_id": 317,
@@ -3332,7 +3419,13 @@
         "match_type": "exact",
         "match_score": 141
       },
-      "short_game_score": null
+      "short_game_score": {
+        "score": 85.2,
+        "critic_score": 78.9,
+        "duration_fit_score": 100.0,
+        "main_story_hours": 6.3,
+        "target_hours": 15.0
+      }
     },
     {
       "catalog_group": "intersection",
@@ -8829,9 +8922,10 @@
       "title": "Dune: Awakening",
       "normalized_title": "dune awakening",
       "gfn_stores": [
-        "STEAM"
+        "STEAM",
+        "XBOX"
       ],
-      "gfn_has_xbox_store": false,
+      "gfn_has_xbox_store": true,
       "xbox_title": "Dune: Awakening",
       "xbox_product_id": "9PJ6FV3130QZ",
       "xbox_url": "https://www.microsoft.com/store/productId/9PJ6FV3130QZ",
