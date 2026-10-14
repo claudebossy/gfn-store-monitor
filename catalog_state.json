@@ -9216,7 +9216,8 @@
   "dune awakening": {
     "name": "Dune: Awakening",
     "stores": [
-      "STEAM"
+      "STEAM",
+      "XBOX"
     ]
   },
   "dune spice wars": {
@@ -10223,6 +10224,12 @@
   },
   "eriksholm the stolen dream": {
     "name": "Eriksholm: The Stolen Dream",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "esail sailing simulator": {
+    "name": "eSail Sailing Simulator",
     "stores": [
       "STEAM"
     ]
@@ -14829,6 +14836,12 @@
   },
   "htol niq the firefly diary": {
     "name": "htoL#NiQ: The Firefly Diary",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "hubert": {
+    "name": "Hubert",
     "stores": [
       "STEAM"
     ]
@@ -24349,6 +24362,12 @@
       "STEAM"
     ]
   },
+  "remote reaper fpv combat drone simulator": {
+    "name": "Remote Reaper: FPV Combat Drone Simulator",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "renaissance kingdom wars": {
     "name": "Renaissance Kingdom Wars",
     "stores": [
@@ -33694,6 +33713,12 @@
       "STEAM"
     ]
   },
+  "total war shogun 2 complete edition": {
+    "name": "Total War: SHOGUN 2 - Complete Edition",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "total war three kingdoms": {
     "name": "Total War™: THREE KINGDOMS",
     "stores": [
@@ -35798,6 +35823,12 @@
     "stores": [
       "STEAM",
       "XBOX"
+    ]
+  },
+  "warhammer 40 000 boltgun 2": {
+    "name": "Warhammer 40,000: Boltgun 2",
+    "stores": [
+      "STEAM"
     ]
   },
   "warhammer 40 000 chaos gate daemonhunters": {

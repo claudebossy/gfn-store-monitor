@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T11:49:07+00:00",
+  "generated_at": "2026-10-14T17:08:26+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -4686,6 +4686,57 @@
       "new_store_count": 0,
       "new_games": [],
       "new_stores": []
+    },
+    {
+      "timestamp": "2026-10-14T17:08:26+00:00",
+      "baseline": false,
+      "catalog_game_count": 6138,
+      "new_game_count": 5,
+      "new_store_count": 1,
+      "new_games": [
+        {
+          "name": "eSail Sailing Simulator",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Hubert",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Remote Reaper: FPV Combat Drone Simulator",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Total War: SHOGUN 2 - Complete Edition",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Warhammer 40,000: Boltgun 2",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
+      "new_stores": [
+        {
+          "name": "Dune: Awakening",
+          "stores": [
+            "STEAM",
+            "XBOX"
+          ],
+          "new_stores": [
+            "XBOX"
+          ]
+        }
+      ]
     }
   ]
 }
