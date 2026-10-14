@@ -6502,6 +6502,12 @@
       "STEAM"
     ]
   },
+  "cozy builder": {
+    "name": "Cozy Builder",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "cozy builder demo": {
     "name": "Cozy Builder Demo",
     "stores": [
@@ -21598,6 +21604,12 @@
   },
   "outworld station": {
     "name": "Outworld Station",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "over the hill": {
+    "name": "over the hill",
     "stores": [
       "STEAM"
     ]

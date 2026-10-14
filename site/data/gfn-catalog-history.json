@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T17:08:26+00:00",
+  "generated_at": "2026-10-14T21:39:20+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -4737,6 +4737,28 @@
           ]
         }
       ]
+    },
+    {
+      "timestamp": "2026-10-14T21:39:20+00:00",
+      "baseline": false,
+      "catalog_game_count": 6140,
+      "new_game_count": 2,
+      "new_store_count": 0,
+      "new_games": [
+        {
+          "name": "Cozy Builder",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "over the hill",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
+      "new_stores": []
     }
   ]
 }
