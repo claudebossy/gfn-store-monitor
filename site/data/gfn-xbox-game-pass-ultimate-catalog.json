@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T22:53:44+00:00",
+  "generated_at": "2026-10-14T05:02:29+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,15 +13,15 @@
     }
   },
   "counts": {
-    "gfn_titles": 6132,
+    "gfn_titles": 6133,
     "xbox_game_pass_titles": 907,
     "catalog_titles": 690,
-    "intersection_titles": 405,
-    "xbox_only_titles": 285
+    "intersection_titles": 406,
+    "xbox_only_titles": 284
   },
   "summary": {
     "store_counts": {
-      "STEAM": 364,
+      "STEAM": 365,
       "XBOX": 204,
       "EPIC": 77,
       "UPLAY": 65,
@@ -84,12 +84,12 @@
       }
     ],
     "gfn_xbox_store_matches": 204,
-    "intersection_titles": 405,
-    "xbox_only_titles": 285,
+    "intersection_titles": 406,
+    "xbox_only_titles": 284,
     "hltb_matches": 487,
     "opencritic_matches": 566,
     "short_game_score_matches": 351,
-    "exact_matches": 374,
+    "exact_matches": 375,
     "partial_matches": 31
   },
   "games": [
@@ -7271,11 +7271,13 @@
       }
     },
     {
-      "catalog_group": "xbox-only",
-      "is_on_gfn": false,
+      "catalog_group": "intersection",
+      "is_on_gfn": true,
       "title": "Deep Dish Dungeon",
       "normalized_title": "deep dish dungeon",
-      "gfn_stores": [],
+      "gfn_stores": [
+        "STEAM"
+      ],
       "gfn_has_xbox_store": false,
       "xbox_title": "Deep Dish Dungeon",
       "xbox_product_id": "9PPF72ZH6RP8",
@@ -7285,8 +7287,8 @@
       "release_date": "2026-10-13T14:00:00.0000000Z",
       "image_url": "https://store-images.s-microsoft.com/image/apps.50685.14326063685133853.939b1741-3671-493b-b12d-2c262722c883.540d4a4e-1a4d-4373-8608-b32a06a0f1b7",
       "description": "A survival exploration game where you navigate through a puzzly, handcrafted dungeon, with metroidvania and crafting elements. Unravel the enigmas of the dungeon solo or online co-op multiplayer.",
-      "match_type": "xbox-only",
-      "match_score": 0,
+      "match_type": "exact-title",
+      "match_score": 120,
       "howlongtobeat": {
         "title": "Deep Dish Dungeon",
         "game_id": 173056,
