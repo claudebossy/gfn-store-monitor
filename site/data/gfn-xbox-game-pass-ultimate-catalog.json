@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T21:47:37+00:00",
+  "generated_at": "2026-10-15T04:50:46+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,11 +13,11 @@
     }
   },
   "counts": {
-    "gfn_titles": 6140,
-    "xbox_game_pass_titles": 905,
-    "catalog_titles": 689,
+    "gfn_titles": 6141,
+    "xbox_game_pass_titles": 906,
+    "catalog_titles": 690,
     "intersection_titles": 406,
-    "xbox_only_titles": 283
+    "xbox_only_titles": 284
   },
   "summary": {
     "store_counts": {
@@ -85,10 +85,10 @@
     ],
     "gfn_xbox_store_matches": 205,
     "intersection_titles": 406,
-    "xbox_only_titles": 283,
-    "hltb_matches": 490,
-    "opencritic_matches": 565,
-    "short_game_score_matches": 353,
+    "xbox_only_titles": 284,
+    "hltb_matches": 495,
+    "opencritic_matches": 566,
+    "short_game_score_matches": 355,
     "exact_matches": 375,
     "partial_matches": 31
   },
@@ -4262,6 +4262,54 @@
         "main_story_hours": 18.4,
         "target_hours": 15.0
       }
+    },
+    {
+      "catalog_group": "xbox-only",
+      "is_on_gfn": false,
+      "title": "Bluey's Happy Snaps",
+      "normalized_title": "bluey s happy snaps",
+      "gfn_stores": [],
+      "gfn_has_xbox_store": false,
+      "xbox_title": "Bluey's Happy Snaps",
+      "xbox_product_id": "9NQVHHW88XW9",
+      "xbox_url": "https://www.microsoft.com/store/productId/9NQVHHW88XW9",
+      "publisher": "Gameloft",
+      "developer": "Gameloft",
+      "release_date": "2026-10-14T22:00:00.0000000Z",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.29779.13762188493241252.c9eed3d4-2711-40bb-b507-e4c31d9fe3e1.fb757fae-7305-4706-80c6-5edde7f1bb77",
+      "description": "Explore Bluey's world like never before!",
+      "match_type": "xbox-only",
+      "match_score": 0,
+      "howlongtobeat": {
+        "title": "Bluey's Happy Snaps",
+        "game_id": 183763,
+        "url": "https://howlongtobeat.com/game/183763",
+        "image_url": "https://howlongtobeat.com/games/183763_Blueys_Happy_Snaps.jpg",
+        "main_story_seconds": null,
+        "review_score": null,
+        "completion_count": null,
+        "release_year": 2026,
+        "profile_platform": "Nintendo Switch, Nintendo Switch 2, PC, PlayStation 4, PlayStation 5, Xbox Series X/S",
+        "match_type": "exact",
+        "match_score": 137,
+        "genres": [
+          "Adventure"
+        ]
+      },
+      "opencritic": {
+        "title": "Bluey's Happy Snaps",
+        "game_id": 21390,
+        "url": "https://opencritic.com/game/21390/blueys-happy-snaps",
+        "top_critic_score": 80.2,
+        "percent_recommended": 83.3,
+        "tier": "Strong",
+        "median_score": null,
+        "review_count": 6,
+        "release_year": 2026,
+        "match_type": "exact",
+        "match_score": 147
+      },
+      "short_game_score": null
     },
     {
       "catalog_group": "xbox-only",
@@ -17175,7 +17223,25 @@
       "description": "You are Commander Shepard of the SS Normandy, an elite agent in humanity’s Systems Alliance Military. Explore the galaxy with your hand picked squad of combat, tech and biotic specialists as you race against time to stop a madman bent on galactic destruction. Download new systems and worlds to visit! Meet new characters and encounter never before seen alien species! Find new weapons, armor and items as you experience a whole new adventure!",
       "match_type": "xbox-only",
       "match_score": 0,
-      "howlongtobeat": null,
+      "howlongtobeat": {
+        "title": "Mass Effect",
+        "game_id": 5698,
+        "url": "https://howlongtobeat.com/game/5698",
+        "image_url": "https://howlongtobeat.com/games/Mass_Effect_poster.jpg",
+        "main_story_seconds": 61271,
+        "review_score": 84,
+        "completion_count": 14843,
+        "release_year": 2007,
+        "profile_platform": "PC, PlayStation 3, PlayStation 4, Xbox 360, Xbox One",
+        "match_type": "exact",
+        "match_score": 130,
+        "genres": [
+          "Third-Person",
+          "Action",
+          "Role-Playing",
+          "Shooter"
+        ]
+      },
       "opencritic": {
         "title": "Mass Effect Andromeda",
         "game_id": 1547,
@@ -17189,7 +17255,13 @@
         "match_type": "partial",
         "match_score": 109
       },
-      "short_game_score": null
+      "short_game_score": {
+        "score": 79.0,
+        "critic_score": 72.3,
+        "duration_fit_score": 94.5,
+        "main_story_hours": 17.0,
+        "target_hours": 15.0
+      }
     },
     {
       "catalog_group": "xbox-only",
@@ -17694,7 +17766,23 @@
       "description": "Take to the skies in Medal of Honor Airborne, where your choices will turn the tide of WWII.  Starting with your jump from a C-47, every choice you make can seal your fate.  In the air, control your parachute to select the landing spot that brings you the greatest strategic advantage.  On the ground, explore the open, vertical environment for positions that will provide you a tactical edge against your enemies.  Then, head onto Xbox LIVE for furious multiplayer battles in three different modes,",
       "match_type": "xbox-only",
       "match_score": 0,
-      "howlongtobeat": null,
+      "howlongtobeat": {
+        "title": "Medal of Honor: Airborne",
+        "game_id": 5777,
+        "url": "https://howlongtobeat.com/game/5777",
+        "image_url": "https://howlongtobeat.com/games/5777_Medal_of_Honor_Airborne.jpg",
+        "main_story_seconds": 19860,
+        "review_score": 68,
+        "completion_count": 1127,
+        "release_year": 2007,
+        "profile_platform": "Mobile, PC, PlayStation 2, PlayStation 3, Wii, Xbox, Xbox 360",
+        "match_type": "exact",
+        "match_score": 130,
+        "genres": [
+          "First-Person",
+          "Shooter"
+        ]
+      },
       "opencritic": null,
       "short_game_score": null
     },
@@ -20250,7 +20338,23 @@
       "description": "Experience the ball-bouncing, peg-busting phenomenon! Do you have what it takes to become a Peggle™ Master? Take your best shot! Conquer 55 levels with 10 mystical Magic Powers and rack up bonus points. Face off against friends in 4-player Xbox LIVE® multiplayer play, and test your skills in 75 Grand Master Challenges.",
       "match_type": "xbox-only",
       "match_score": 0,
-      "howlongtobeat": null,
+      "howlongtobeat": {
+        "title": "Peggle",
+        "game_id": 6947,
+        "url": "https://howlongtobeat.com/game/6947",
+        "image_url": "https://howlongtobeat.com/games/6947_Peggle_Deluxe.jpg",
+        "main_story_seconds": 14766,
+        "review_score": 76,
+        "completion_count": 1979,
+        "release_year": 2007,
+        "profile_platform": "Mac, Mobile, Nintendo DS, PC, PlayStation 3, PlayStation Portable, Xbox 360",
+        "match_type": "exact",
+        "match_score": 130,
+        "genres": [
+          "Side",
+          "Puzzle"
+        ]
+      },
       "opencritic": null,
       "short_game_score": null
     },
@@ -21307,7 +21411,23 @@
       "description": "A PSYCHIC ODYSSEY THROUGH THE MINDS OF MISFITS, MONSTERS, AND MADMEN",
       "match_type": "exact-title",
       "match_score": 120,
-      "howlongtobeat": null,
+      "howlongtobeat": {
+        "title": "Psychonauts",
+        "game_id": 7372,
+        "url": "https://howlongtobeat.com/game/7372",
+        "image_url": "https://howlongtobeat.com/games/Psychonautsbox.png",
+        "main_story_seconds": 43222,
+        "review_score": 81,
+        "completion_count": 6364,
+        "release_year": 2005,
+        "profile_platform": "Linux, Mac, PC, PlayStation 2, PlayStation 4, Xbox",
+        "match_type": "exact",
+        "match_score": 130,
+        "genres": [
+          "Third-Person",
+          "Platform"
+        ]
+      },
       "opencritic": {
         "title": "Psychonauts",
         "game_id": 11382,
@@ -21321,7 +21441,13 @@
         "match_type": "exact",
         "match_score": 135
       },
-      "short_game_score": null
+      "short_game_score": {
+        "score": 91.9,
+        "critic_score": 88.5,
+        "duration_fit_score": 100.0,
+        "main_story_hours": 12.0,
+        "target_hours": 15.0
+      }
     },
     {
       "catalog_group": "intersection",

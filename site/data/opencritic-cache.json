@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T21:47:54+00:00",
+  "updated_at": "2026-10-15T04:51:44+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -11357,6 +11357,24 @@
         "release_year": 2026,
         "match_type": "exact",
         "match_score": 149
+      }
+    },
+    "bluey s happy snaps": {
+      "title": "Bluey's Happy Snaps",
+      "status": "matched",
+      "fetched_at": "2026-10-15T04:51:04+00:00",
+      "data": {
+        "title": "Bluey's Happy Snaps",
+        "game_id": 21390,
+        "url": "https://opencritic.com/game/21390/blueys-happy-snaps",
+        "top_critic_score": 80.2,
+        "percent_recommended": 83.3,
+        "tier": "Strong",
+        "median_score": null,
+        "review_count": 6,
+        "release_year": 2026,
+        "match_type": "exact",
+        "match_score": 147
       }
     }
   }
