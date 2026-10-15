@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T11:41:04+00:00",
+  "generated_at": "2026-10-15T17:08:53+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,18 +13,18 @@
     }
   },
   "counts": {
-    "gfn_titles": 6141,
-    "xbox_game_pass_titles": 906,
+    "gfn_titles": 6130,
+    "xbox_game_pass_titles": 907,
     "catalog_titles": 690,
-    "intersection_titles": 406,
-    "xbox_only_titles": 284
+    "intersection_titles": 405,
+    "xbox_only_titles": 285
   },
   "summary": {
     "store_counts": {
-      "STEAM": 365,
-      "XBOX": 205,
+      "STEAM": 364,
+      "XBOX": 206,
       "EPIC": 77,
-      "UPLAY": 65,
+      "UPLAY": 64,
       "BATTLENET": 21,
       "EA_APP": 17,
       "GOG": 4,
@@ -44,7 +44,7 @@
       },
       {
         "name": "Ubisoft",
-        "count": 59
+        "count": 58
       },
       {
         "name": "Bethesda Softworks",
@@ -83,13 +83,13 @@
         "count": 7
       }
     ],
-    "gfn_xbox_store_matches": 205,
-    "intersection_titles": 406,
-    "xbox_only_titles": 284,
-    "hltb_matches": 497,
+    "gfn_xbox_store_matches": 206,
+    "intersection_titles": 405,
+    "xbox_only_titles": 285,
+    "hltb_matches": 500,
     "opencritic_matches": 566,
-    "short_game_score_matches": 357,
-    "exact_matches": 375,
+    "short_game_score_matches": 360,
+    "exact_matches": 374,
     "partial_matches": 31
   },
   "games": [
@@ -5149,6 +5149,54 @@
         "release_year": 2021,
         "match_type": "exact",
         "match_score": 135
+      },
+      "short_game_score": null
+    },
+    {
+      "catalog_group": "xbox-only",
+      "is_on_gfn": false,
+      "title": "Chained Beasts",
+      "normalized_title": "chained beasts",
+      "gfn_stores": [],
+      "gfn_has_xbox_store": false,
+      "xbox_title": "Chained Beasts",
+      "xbox_product_id": "9PKZRN4RJRC9",
+      "xbox_url": "https://www.microsoft.com/store/productId/9PKZRN4RJRC9",
+      "publisher": "Featherweight Games",
+      "developer": "Featherweight Games",
+      "release_date": "2026-10-15T17:00:00.0000000Z",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.48762.14257629622536824.7ae5f381-bcdf-4fa8-b97f-cc953530aeb5.b6f0cdca-cb7d-42f7-89ce-27ca0dd415b4",
+      "description": "Fight chaotic battles chained to your friends in this 1-4 player co-op gladiator roguelike. Use your chains or the arena to beat up foes in creative ways and win the bloodthirsty crowd. Endure physical and mental injuries to defeat fearsome bosses and survive the day.",
+      "match_type": "xbox-only",
+      "match_score": 0,
+      "howlongtobeat": {
+        "title": "Chained Beasts",
+        "game_id": 187426,
+        "url": "https://howlongtobeat.com/game/187426",
+        "image_url": "https://howlongtobeat.com/games/187426_Chained_Beasts.jpg",
+        "main_story_seconds": null,
+        "review_score": null,
+        "completion_count": null,
+        "release_year": 2026,
+        "profile_platform": "PC",
+        "match_type": "exact",
+        "match_score": 138,
+        "genres": [
+          "Action"
+        ]
+      },
+      "opencritic": {
+        "title": "Chained Beasts",
+        "game_id": 21420,
+        "url": "https://opencritic.com/game/21420/chained-beasts",
+        "top_critic_score": null,
+        "percent_recommended": null,
+        "tier": null,
+        "median_score": null,
+        "review_count": null,
+        "release_year": 2026,
+        "match_type": "exact",
+        "match_score": 147
       },
       "short_game_score": null
     },
@@ -23236,13 +23284,13 @@
         "game_id": 166197,
         "url": "https://howlongtobeat.com/game/166197",
         "image_url": "https://howlongtobeat.com/games/166197_RuneScape_Dragonwilds.jpg",
-        "main_story_seconds": 80544,
-        "review_score": 77,
-        "completion_count": 24,
-        "release_year": 2025,
+        "main_story_seconds": 123477,
+        "review_score": 75,
+        "completion_count": 43,
+        "release_year": 2026,
         "profile_platform": "Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 136,
+        "match_score": 142,
         "genres": [
           "Survival"
         ]
@@ -23251,16 +23299,22 @@
         "title": "RuneScape: Dragonwilds",
         "game_id": 18422,
         "url": "https://opencritic.com/game/18422/runescape-dragonwilds",
-        "top_critic_score": null,
-        "percent_recommended": null,
-        "tier": null,
-        "median_score": null,
-        "review_count": 2,
+        "top_critic_score": 76.8,
+        "percent_recommended": 72.0,
+        "tier": "Strong",
+        "median_score": 80,
+        "review_count": 25,
         "release_year": 2025,
         "match_type": "exact",
-        "match_score": 141
+        "match_score": 142
       },
-      "short_game_score": null
+      "short_game_score": {
+        "score": 61.5,
+        "critic_score": 76.8,
+        "duration_fit_score": 25.7,
+        "main_story_hours": 34.3,
+        "target_hours": 15.0
+      }
     },
     {
       "catalog_group": "xbox-only",
@@ -27789,66 +27843,6 @@
     {
       "catalog_group": "intersection",
       "is_on_gfn": true,
-      "title": "The Rogue Prince of Persia",
-      "normalized_title": "the rogue prince of persia",
-      "gfn_stores": [
-        "STEAM",
-        "UPLAY"
-      ],
-      "gfn_has_xbox_store": false,
-      "xbox_title": "The Rogue Prince of Persia™",
-      "xbox_product_id": "9P7M1VCXKQVD",
-      "xbox_url": "https://www.microsoft.com/store/productId/9P7M1VCXKQVD",
-      "publisher": "Ubisoft",
-      "developer": null,
-      "release_date": "2025-08-20T14:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.64301.14104912943733679.5b0de357-ef0f-4d82-a120-7694f677050b.96fe51d9-42a0-4d2a-80e5-129e3c623c2a",
-      "description": "In this challenging, fast-paced roguelite, every death is a unique chance to rewrite fate, save Persia – or die trying. Master fluid, acrobatic combat and parkour as you explore your kingdom to right your wrongs!",
-      "match_type": "exact-title",
-      "match_score": 120,
-      "howlongtobeat": {
-        "title": "The Rogue Prince of Persia",
-        "game_id": 148485,
-        "url": "https://howlongtobeat.com/game/148485",
-        "image_url": "https://howlongtobeat.com/games/148485_The_Rogue_Prince_of_Persia.jpg",
-        "main_story_seconds": 37303,
-        "review_score": 77,
-        "completion_count": 293,
-        "release_year": 2025,
-        "profile_platform": "Nintendo Switch, Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
-        "match_type": "exact",
-        "match_score": 142,
-        "genres": [
-          "Side",
-          "Scrolling",
-          "Action",
-          "Roguelike"
-        ]
-      },
-      "opencritic": {
-        "title": "The Rogue Prince of Persia",
-        "game_id": 16774,
-        "url": "https://opencritic.com/game/16774/the-rogue-prince-of-persia",
-        "top_critic_score": 80.6,
-        "percent_recommended": 77.1,
-        "tier": "Strong",
-        "median_score": 80,
-        "review_count": 84,
-        "release_year": 2024,
-        "match_type": "exact",
-        "match_score": 145
-      },
-      "short_game_score": {
-        "score": 86.4,
-        "critic_score": 80.6,
-        "duration_fit_score": 100.0,
-        "main_story_hours": 10.4,
-        "target_hours": 15.0
-      }
-    },
-    {
-      "catalog_group": "intersection",
-      "is_on_gfn": true,
       "title": "The Royal Writ",
       "normalized_title": "the royal writ",
       "gfn_stores": [
@@ -30116,9 +30110,10 @@
       "title": "Valor Mortis",
       "normalized_title": "valor mortis",
       "gfn_stores": [
-        "STEAM"
+        "STEAM",
+        "XBOX"
       ],
-      "gfn_has_xbox_store": false,
+      "gfn_has_xbox_store": true,
       "xbox_title": "Valor Mortis",
       "xbox_product_id": "9P861V1542BL",
       "xbox_url": "https://www.microsoft.com/store/productId/9P861V1542BL",
@@ -32027,7 +32022,23 @@
       "description": "Europe, 1960. The tide of World War II has been turned using a new kind of mysterious, advanced technology. Using unrelenting force and intimidation, a ruthless world power has brought even the most powerful of nations to their knees. The regime now dominates the globe with an iron fist. You are B.J. Blazkowicz, the American war hero. You are the only man capable of rewriting history.",
       "match_type": "exact-title",
       "match_score": 120,
-      "howlongtobeat": null,
+      "howlongtobeat": {
+        "title": "Wolfenstein: The New Order",
+        "game_id": 16886,
+        "url": "https://howlongtobeat.com/game/16886",
+        "image_url": "https://howlongtobeat.com/games/256px-Wolfenstein_The_New_Order_cover.jpg",
+        "main_story_seconds": 40863,
+        "review_score": 79,
+        "completion_count": 15246,
+        "release_year": 2014,
+        "profile_platform": "PC, PlayStation 3, PlayStation 4, Xbox 360, Xbox One",
+        "match_type": "exact",
+        "match_score": 142,
+        "genres": [
+          "First-Person",
+          "Shooter"
+        ]
+      },
       "opencritic": {
         "title": "Wolfenstein: The New Order",
         "game_id": 255,
@@ -32041,7 +32052,13 @@
         "match_type": "exact",
         "match_score": 140
       },
-      "short_game_score": null
+      "short_game_score": {
+        "score": 87.0,
+        "critic_score": 81.5,
+        "duration_fit_score": 100.0,
+        "main_story_hours": 11.4,
+        "target_hours": 15.0
+      }
     },
     {
       "catalog_group": "intersection",
@@ -32063,7 +32080,24 @@
       "description": "Wolfenstein: The Old Blood is a standalone prequel to the critically acclaimed first-person action-adventure shooter, Wolfenstein: The New Order. The adventure, which spans eight chapters and two interconnected stories, features the hallmarks of MachineGames – thrilling action, immersive story and intense first-person combat.",
       "match_type": "exact-title",
       "match_score": 120,
-      "howlongtobeat": null,
+      "howlongtobeat": {
+        "title": "Wolfenstein: The Old Blood",
+        "game_id": 24484,
+        "url": "https://howlongtobeat.com/game/24484",
+        "image_url": "https://howlongtobeat.com/games/2731835-wolftob.jpg",
+        "main_story_seconds": 21323,
+        "review_score": 75,
+        "completion_count": 7289,
+        "release_year": 2015,
+        "profile_platform": "PC, PlayStation 4, Xbox One",
+        "match_type": "exact",
+        "match_score": 142,
+        "genres": [
+          "First-Person",
+          "Real-Time",
+          "Shooter"
+        ]
+      },
       "opencritic": {
         "title": "Wolfenstein: The Old Blood",
         "game_id": 26,
@@ -32077,7 +32111,13 @@
         "match_type": "exact",
         "match_score": 139
       },
-      "short_game_score": null
+      "short_game_score": {
+        "score": 84.5,
+        "critic_score": 77.8,
+        "duration_fit_score": 100.0,
+        "main_story_hours": 5.9,
+        "target_hours": 15.0
+      }
     },
     {
       "catalog_group": "intersection",
@@ -32099,7 +32139,25 @@
       "description": "Try Wolfenstein: Youngblood for free. Access to all gameplay and features requires an invitation from a Buddy Pass owner.\r\n\r\nWolfenstein: Youngblood is the first modern co-op Wolfenstein adventure.\r\n\r\nTeam up with a friend or play solo as one of BJ Blazkowicz’s twin daughters and wield a powerful arsenal of new weapons, gadgets, and abilities to liberate Paris from the Nazis.",
       "match_type": "exact-title",
       "match_score": 120,
-      "howlongtobeat": null,
+      "howlongtobeat": {
+        "title": "Wolfenstein: Youngblood",
+        "game_id": 57504,
+        "url": "https://howlongtobeat.com/game/57504",
+        "image_url": "https://howlongtobeat.com/games/57504_Wolfenstein_Youngblood.jpeg",
+        "main_story_seconds": 33032,
+        "review_score": 59,
+        "completion_count": 1402,
+        "release_year": 2019,
+        "profile_platform": "Google Stadia, Nintendo Switch, PC, PlayStation 4, Xbox One",
+        "match_type": "exact",
+        "match_score": 142,
+        "genres": [
+          "First-Person",
+          "Real-Time",
+          "Action",
+          "Shooter"
+        ]
+      },
       "opencritic": {
         "title": "Wolfenstein: Youngblood",
         "game_id": 7837,
@@ -32113,7 +32171,13 @@
         "match_type": "exact",
         "match_score": 148
       },
-      "short_game_score": null
+      "short_game_score": {
+        "score": 76.5,
+        "critic_score": 66.5,
+        "duration_fit_score": 100.0,
+        "main_story_hours": 9.2,
+        "target_hours": 15.0
+      }
     },
     {
       "catalog_group": "intersection",

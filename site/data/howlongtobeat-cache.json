@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T11:41:54+00:00",
+  "updated_at": "2026-10-15T17:09:20+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -9411,21 +9411,72 @@
     },
     "wolfenstein the new order": {
       "title": "Wolfenstein®: The New Order™",
-      "status": "not_found",
-      "fetched_at": "2026-10-08T13:40:58+00:00",
-      "data": null
+      "status": "matched",
+      "fetched_at": "2026-10-15T17:09:16+00:00",
+      "data": {
+        "title": "Wolfenstein: The New Order",
+        "game_id": 16886,
+        "url": "https://howlongtobeat.com/game/16886",
+        "image_url": "https://howlongtobeat.com/games/256px-Wolfenstein_The_New_Order_cover.jpg",
+        "main_story_seconds": 40863,
+        "review_score": 79,
+        "completion_count": 15246,
+        "release_year": 2014,
+        "profile_platform": "PC, PlayStation 3, PlayStation 4, Xbox 360, Xbox One",
+        "match_type": "exact",
+        "match_score": 142,
+        "genres": [
+          "First-Person",
+          "Shooter"
+        ]
+      }
     },
     "wolfenstein the old blood": {
       "title": "Wolfenstein®: The Old Blood™",
-      "status": "not_found",
-      "fetched_at": "2026-10-08T13:40:59+00:00",
-      "data": null
+      "status": "matched",
+      "fetched_at": "2026-10-15T17:09:17+00:00",
+      "data": {
+        "title": "Wolfenstein: The Old Blood",
+        "game_id": 24484,
+        "url": "https://howlongtobeat.com/game/24484",
+        "image_url": "https://howlongtobeat.com/games/2731835-wolftob.jpg",
+        "main_story_seconds": 21323,
+        "review_score": 75,
+        "completion_count": 7289,
+        "release_year": 2015,
+        "profile_platform": "PC, PlayStation 4, Xbox One",
+        "match_type": "exact",
+        "match_score": 142,
+        "genres": [
+          "First-Person",
+          "Real-Time",
+          "Shooter"
+        ]
+      }
     },
     "wolfenstein youngblood": {
       "title": "Wolfenstein®: Youngblood™",
-      "status": "not_found",
-      "fetched_at": "2026-10-08T13:41:02+00:00",
-      "data": null
+      "status": "matched",
+      "fetched_at": "2026-10-15T17:09:19+00:00",
+      "data": {
+        "title": "Wolfenstein: Youngblood",
+        "game_id": 57504,
+        "url": "https://howlongtobeat.com/game/57504",
+        "image_url": "https://howlongtobeat.com/games/57504_Wolfenstein_Youngblood.jpeg",
+        "main_story_seconds": 33032,
+        "review_score": 59,
+        "completion_count": 1402,
+        "release_year": 2019,
+        "profile_platform": "Google Stadia, Nintendo Switch, PC, PlayStation 4, Xbox One",
+        "match_type": "exact",
+        "match_score": 142,
+        "genres": [
+          "First-Person",
+          "Real-Time",
+          "Action",
+          "Shooter"
+        ]
+      }
     },
     "world of tanks heat": {
       "title": "World of Tanks: HEAT",
@@ -9906,19 +9957,19 @@
     "runescape dragonwilds": {
       "title": "RuneScape: Dragonwilds",
       "status": "matched",
-      "fetched_at": "2026-09-15T11:53:05+00:00",
+      "fetched_at": "2026-10-15T17:09:15+00:00",
       "data": {
         "title": "RuneScape: Dragonwilds",
         "game_id": 166197,
         "url": "https://howlongtobeat.com/game/166197",
         "image_url": "https://howlongtobeat.com/games/166197_RuneScape_Dragonwilds.jpg",
-        "main_story_seconds": 80544,
-        "review_score": 77,
-        "completion_count": 24,
-        "release_year": 2025,
+        "main_story_seconds": 123477,
+        "review_score": 75,
+        "completion_count": 43,
+        "release_year": 2026,
         "profile_platform": "Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 136,
+        "match_score": 142,
         "genres": [
           "Survival"
         ]
@@ -12783,6 +12834,27 @@
         "match_score": 137,
         "genres": [
           "Adventure"
+        ]
+      }
+    },
+    "chained beasts": {
+      "title": "Chained Beasts",
+      "status": "matched",
+      "fetched_at": "2026-10-15T17:09:13+00:00",
+      "data": {
+        "title": "Chained Beasts",
+        "game_id": 187426,
+        "url": "https://howlongtobeat.com/game/187426",
+        "image_url": "https://howlongtobeat.com/games/187426_Chained_Beasts.jpg",
+        "main_story_seconds": null,
+        "review_score": null,
+        "completion_count": null,
+        "release_year": 2026,
+        "profile_platform": "PC",
+        "match_type": "exact",
+        "match_score": 138,
+        "genres": [
+          "Action"
         ]
       }
     }
