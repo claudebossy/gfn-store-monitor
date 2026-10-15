@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T11:25:47+00:00",
+  "generated_at": "2026-10-15T16:58:41+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -4784,6 +4784,57 @@
       "new_store_count": 0,
       "new_games": [],
       "new_stores": []
+    },
+    {
+      "timestamp": "2026-10-15T16:58:41+00:00",
+      "baseline": false,
+      "catalog_game_count": 6146,
+      "new_game_count": 5,
+      "new_store_count": 1,
+      "new_games": [
+        {
+          "name": "Pit Panic",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Refuel Together Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Satelital Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Serious Bara",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "The 9th Dragon Demo",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
+      "new_stores": [
+        {
+          "name": "Valor Mortis",
+          "stores": [
+            "STEAM",
+            "XBOX"
+          ],
+          "new_stores": [
+            "XBOX"
+          ]
+        }
+      ]
     }
   ]
 }

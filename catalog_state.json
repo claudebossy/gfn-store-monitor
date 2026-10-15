@@ -22505,6 +22505,12 @@
       "STEAM"
     ]
   },
+  "pit panic": {
+    "name": "Pit Panic",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "pix the cat": {
     "name": "Pix the Cat",
     "stores": [
@@ -24243,6 +24249,12 @@
       "STEAM"
     ]
   },
+  "refuel together demo": {
+    "name": "Refuel Together Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "regiments": {
     "name": "Regiments",
     "stores": [
@@ -25720,6 +25732,12 @@
       "STEAM"
     ]
   },
+  "satelital demo": {
+    "name": "Satelital Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "satellite rush": {
     "name": "Satellite Rush",
     "stores": [
@@ -26179,6 +26197,12 @@
   },
   "serial cleaner": {
     "name": "Serial Cleaner",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "serious bara": {
+    "name": "Serious Bara",
     "stores": [
       "STEAM"
     ]
@@ -30890,6 +30914,12 @@
       "STEAM"
     ]
   },
+  "the 9th dragon demo": {
+    "name": "The 9th Dragon Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "the abbess garden": {
     "name": "The Abbess Garden",
     "stores": [
@@ -35114,7 +35144,8 @@
   "valor mortis": {
     "name": "Valor Mortis",
     "stores": [
-      "STEAM"
+      "STEAM",
+      "XBOX"
     ]
   },
   "valthirian arc hero school story": {
