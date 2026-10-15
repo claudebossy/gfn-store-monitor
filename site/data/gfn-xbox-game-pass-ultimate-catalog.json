@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T04:50:46+00:00",
+  "generated_at": "2026-10-15T11:41:04+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -86,9 +86,9 @@
     "gfn_xbox_store_matches": 205,
     "intersection_titles": 406,
     "xbox_only_titles": 284,
-    "hltb_matches": 495,
+    "hltb_matches": 497,
     "opencritic_matches": 566,
-    "short_game_score_matches": 355,
+    "short_game_score_matches": 357,
     "exact_matches": 375,
     "partial_matches": 31
   },
@@ -23654,7 +23654,25 @@
       "description": "Harebrained Schemes' biggest Shadowrun game to date, and the definitive Shadowrun RPG experience available on consoles. A standalone title with tons of new content & improvements!",
       "match_type": "exact-title",
       "match_score": 120,
-      "howlongtobeat": null,
+      "howlongtobeat": {
+        "title": "Shadowrun: Dragonfall - Director's Cut",
+        "game_id": 21118,
+        "url": "https://howlongtobeat.com/game/21118",
+        "image_url": "https://howlongtobeat.com/games/ShadowrunDragonfall-DirectorsCut_292x136.jpg",
+        "main_story_seconds": 74022,
+        "review_score": 80,
+        "completion_count": 1533,
+        "release_year": 2014,
+        "profile_platform": "Linux, Mac, Mobile, Nintendo Switch, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
+        "match_type": "exact",
+        "match_score": 130,
+        "genres": [
+          "Isometric",
+          "Turn-Based",
+          "Role-Playing",
+          "Strategy/Tactical"
+        ]
+      },
       "opencritic": {
         "title": "Shadowrun: Dragonfall - Director's Cut",
         "game_id": 515,
@@ -23668,7 +23686,13 @@
         "match_type": "exact",
         "match_score": 135
       },
-      "short_game_score": null
+      "short_game_score": {
+        "score": 82.5,
+        "critic_score": 82.6,
+        "duration_fit_score": 82.2,
+        "main_story_hours": 20.6,
+        "target_hours": 15.0
+      }
     },
     {
       "catalog_group": "intersection",
@@ -28694,7 +28718,23 @@
       "description": "Lead your elite team of Ghosts in this tactical third-person shooter. Explore a massive open world, infiltrate and destroy the deadly Santa Blanca cartel, and save Bolivia and its people.\n\nAll editions now include a free title update, featuring a new story mission, plus 4K and 60 FPS availability!",
       "match_type": "exact-title",
       "match_score": 120,
-      "howlongtobeat": null,
+      "howlongtobeat": {
+        "title": "Tom Clancy's Ghost Recon Wildlands",
+        "game_id": 43499,
+        "url": "https://howlongtobeat.com/game/43499",
+        "image_url": "https://howlongtobeat.com/games/43499_Tom_Clancys_Ghost_Recon_Wildlands.jpg",
+        "main_story_seconds": 98351,
+        "review_score": 73,
+        "completion_count": 2344,
+        "release_year": 2017,
+        "profile_platform": "Google Stadia, PC, PlayStation 4, Xbox One",
+        "match_type": "exact",
+        "match_score": 142,
+        "genres": [
+          "Shooter",
+          "Tactical"
+        ]
+      },
       "opencritic": {
         "title": "Tom Clancy's Ghost Recon: Wildlands",
         "game_id": 2870,
@@ -28708,7 +28748,13 @@
         "match_type": "exact",
         "match_score": 141
       },
-      "short_game_score": null
+      "short_game_score": {
+        "score": 66.8,
+        "critic_score": 71.5,
+        "duration_fit_score": 55.7,
+        "main_story_hours": 27.3,
+        "target_hours": 15.0
+      }
     },
     {
       "catalog_group": "intersection",
