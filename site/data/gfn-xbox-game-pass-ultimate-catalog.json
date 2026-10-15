@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T17:08:53+00:00",
+  "generated_at": "2026-10-15T21:30:40+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,18 +13,18 @@
     }
   },
   "counts": {
-    "gfn_titles": 6130,
+    "gfn_titles": 6148,
     "xbox_game_pass_titles": 907,
-    "catalog_titles": 690,
-    "intersection_titles": 405,
+    "catalog_titles": 691,
+    "intersection_titles": 406,
     "xbox_only_titles": 285
   },
   "summary": {
     "store_counts": {
-      "STEAM": 364,
+      "STEAM": 365,
       "XBOX": 206,
       "EPIC": 77,
-      "UPLAY": 64,
+      "UPLAY": 65,
       "BATTLENET": 21,
       "EA_APP": 17,
       "GOG": 4,
@@ -44,7 +44,7 @@
       },
       {
         "name": "Ubisoft",
-        "count": 58
+        "count": 59
       },
       {
         "name": "Bethesda Softworks",
@@ -84,12 +84,12 @@
       }
     ],
     "gfn_xbox_store_matches": 206,
-    "intersection_titles": 405,
+    "intersection_titles": 406,
     "xbox_only_titles": 285,
-    "hltb_matches": 500,
-    "opencritic_matches": 566,
-    "short_game_score_matches": 360,
-    "exact_matches": 374,
+    "hltb_matches": 501,
+    "opencritic_matches": 567,
+    "short_game_score_matches": 361,
+    "exact_matches": 375,
     "partial_matches": 31
   },
   "games": [
@@ -21747,7 +21747,7 @@
       "publisher": "Devolver Digital",
       "developer": "Brigada Games",
       "release_date": "2026-07-15T16:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.46784.14075645230645496.92f4d4d6-ef85-4ef3-b4c4-345d84f35480.9c258e7b-143b-4685-84c9-3bbaa4e409cb",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.61926.14075645230645496.c0a12691-ed46-4232-b7fd-f8ee8018a9d3.3afdf57a-8b7f-4942-b83e-cf4a7b20a530",
       "description": "Command the checkpoint in a collapsing city. Screen survivors, manage scarce resources, and hold back the undead. Every choice matters and one mistake could unleash the plague beyond your walls.",
       "match_type": "exact-title",
       "match_score": 120,
@@ -22060,10 +22060,10 @@
       "xbox_product_id": "C26K4DVGR45B",
       "xbox_url": "https://www.microsoft.com/store/productId/C26K4DVGR45B",
       "publisher": "Ubisoft",
-      "developer": "Ubisoft Montpellier",
+      "developer": null,
       "release_date": "2014-09-05T00:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.41220.65843946604617087.4d3f1eaa-9f9b-4884-8da5-69d3fa77479f.0774e631-7504-4aec-9e38-3593b7df27ea",
-      "description": "The Glade of Dreams is in trouble once again! The nightmares multiplied and spread, creating new monsters even more terrifying than before!",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.43306.65843946604617087.28c97e95-1438-4c02-aee4-66f02ec0e029.4e8a3987-46b8-43db-a2fd-427ea06a3b4c",
+      "description": "In this award-winning platforming adventure, run, jump, and slap through the colorful worlds of the Glade of Dreams, face epic bosses, and team up in 4-player local co-op.",
       "match_type": "exact-title",
       "match_score": 120,
       "howlongtobeat": {
@@ -27837,6 +27837,66 @@
         "critic_score": 78.3,
         "duration_fit_score": 13.5,
         "main_story_hours": 37.0,
+        "target_hours": 15.0
+      }
+    },
+    {
+      "catalog_group": "intersection",
+      "is_on_gfn": true,
+      "title": "The Rogue Prince of Persia",
+      "normalized_title": "the rogue prince of persia",
+      "gfn_stores": [
+        "STEAM",
+        "UPLAY"
+      ],
+      "gfn_has_xbox_store": false,
+      "xbox_title": "The Rogue Prince of Persia™",
+      "xbox_product_id": "9P7M1VCXKQVD",
+      "xbox_url": "https://www.microsoft.com/store/productId/9P7M1VCXKQVD",
+      "publisher": "Ubisoft",
+      "developer": null,
+      "release_date": "2025-08-20T14:00:00.0000000Z",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.64301.14104912943733679.5b0de357-ef0f-4d82-a120-7694f677050b.96fe51d9-42a0-4d2a-80e5-129e3c623c2a",
+      "description": "In this challenging, fast-paced roguelite, every death is a unique chance to rewrite fate, save Persia – or die trying. Master fluid, acrobatic combat and parkour as you explore your kingdom to right your wrongs!",
+      "match_type": "exact-title",
+      "match_score": 120,
+      "howlongtobeat": {
+        "title": "The Rogue Prince of Persia",
+        "game_id": 148485,
+        "url": "https://howlongtobeat.com/game/148485",
+        "image_url": "https://howlongtobeat.com/games/148485_The_Rogue_Prince_of_Persia.jpg",
+        "main_story_seconds": 37303,
+        "review_score": 77,
+        "completion_count": 293,
+        "release_year": 2025,
+        "profile_platform": "Nintendo Switch, Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
+        "match_type": "exact",
+        "match_score": 142,
+        "genres": [
+          "Side",
+          "Scrolling",
+          "Action",
+          "Roguelike"
+        ]
+      },
+      "opencritic": {
+        "title": "The Rogue Prince of Persia",
+        "game_id": 16774,
+        "url": "https://opencritic.com/game/16774/the-rogue-prince-of-persia",
+        "top_critic_score": 80.6,
+        "percent_recommended": 77.1,
+        "tier": "Strong",
+        "median_score": 80,
+        "review_count": 84,
+        "release_year": 2024,
+        "match_type": "exact",
+        "match_score": 145
+      },
+      "short_game_score": {
+        "score": 86.4,
+        "critic_score": 80.6,
+        "duration_fit_score": 100.0,
+        "main_story_hours": 10.4,
         "target_hours": 15.0
       }
     },
