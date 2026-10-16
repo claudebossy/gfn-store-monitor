@@ -1729,6 +1729,12 @@
       "STEAM"
     ]
   },
+  "appulse demo": {
+    "name": "Appulse Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "aqtion": {
     "name": "AQtion",
     "stores": [
