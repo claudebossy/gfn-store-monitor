@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T16:45:49+00:00",
+  "generated_at": "2026-10-16T21:20:50+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,11 +13,11 @@
     }
   },
   "counts": {
-    "gfn_titles": 6149,
-    "xbox_game_pass_titles": 896,
-    "catalog_titles": 682,
+    "gfn_titles": 6153,
+    "xbox_game_pass_titles": 897,
+    "catalog_titles": 683,
     "intersection_titles": 398,
-    "xbox_only_titles": 284
+    "xbox_only_titles": 285
   },
   "summary": {
     "store_counts": {
@@ -71,23 +71,23 @@
         "count": 8
       },
       {
+        "name": "Hooded Horse",
+        "count": 7
+      },
+      {
         "name": "Focus Entertainment",
         "count": 7
       },
       {
         "name": "Paradox Interactive",
         "count": 7
-      },
-      {
-        "name": "Microsoft",
-        "count": 7
       }
     ],
     "gfn_xbox_store_matches": 199,
     "intersection_titles": 398,
-    "xbox_only_titles": 284,
-    "hltb_matches": 493,
-    "opencritic_matches": 560,
+    "xbox_only_titles": 285,
+    "hltb_matches": 494,
+    "opencritic_matches": 561,
     "short_game_score_matches": 357,
     "exact_matches": 367,
     "partial_matches": 31
@@ -3832,6 +3832,55 @@
         ]
       },
       "opencritic": null,
+      "short_game_score": null
+    },
+    {
+      "catalog_group": "xbox-only",
+      "is_on_gfn": false,
+      "title": "Beyond These Stars",
+      "normalized_title": "beyond these stars",
+      "gfn_stores": [],
+      "gfn_has_xbox_store": false,
+      "xbox_title": "Beyond These Stars",
+      "xbox_product_id": "9N4ZMKC3GX4M",
+      "xbox_url": "https://www.microsoft.com/store/productId/9N4ZMKC3GX4M",
+      "publisher": "Hooded Horse",
+      "developer": "Balancing Monkey Games",
+      "release_date": "2026-10-16T18:00:00.0000000Z",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.15682.13973446484510076.fbb744c0-e1b7-4091-8221-12cc3c2830c8.d466b76f-d7d3-4954-9aea-17b59caf6af7",
+      "description": "Build a city on the back of a Space Whale and learn to coexist as you journey through the stars. Manage intricate supply chains and the needs of your people as you build outposts, meet aliens, and uncover the mysteries of the universe.",
+      "match_type": "xbox-only",
+      "match_score": 0,
+      "howlongtobeat": {
+        "title": "Beyond These Stars",
+        "game_id": 150549,
+        "url": "https://howlongtobeat.com/game/150549",
+        "image_url": "https://howlongtobeat.com/games/150549_Beyond_These_Stars.jpg",
+        "main_story_seconds": null,
+        "review_score": null,
+        "completion_count": null,
+        "release_year": 2025,
+        "profile_platform": "PC",
+        "match_type": "exact",
+        "match_score": 131,
+        "genres": [
+          "Simulation",
+          "Strategy/Tactical"
+        ]
+      },
+      "opencritic": {
+        "title": "Beyond These Stars",
+        "game_id": 21537,
+        "url": "https://opencritic.com/game/21537/beyond-these-stars",
+        "top_critic_score": null,
+        "percent_recommended": null,
+        "tier": null,
+        "median_score": null,
+        "review_count": 4,
+        "release_year": 2026,
+        "match_type": "exact",
+        "match_score": 147
+      },
       "short_game_score": null
     },
     {

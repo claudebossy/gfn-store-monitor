@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T16:46:04+00:00",
+  "updated_at": "2026-10-16T21:21:08+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -11390,6 +11390,24 @@
         "tier": null,
         "median_score": null,
         "review_count": null,
+        "release_year": 2026,
+        "match_type": "exact",
+        "match_score": 147
+      }
+    },
+    "beyond these stars": {
+      "title": "Beyond These Stars",
+      "status": "matched",
+      "fetched_at": "2026-10-16T21:21:06+00:00",
+      "data": {
+        "title": "Beyond These Stars",
+        "game_id": 21537,
+        "url": "https://opencritic.com/game/21537/beyond-these-stars",
+        "top_critic_score": null,
+        "percent_recommended": null,
+        "tier": null,
+        "median_score": null,
+        "review_count": 4,
         "release_year": 2026,
         "match_type": "exact",
         "match_score": 147

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T16:46:04+00:00",
+  "updated_at": "2026-10-16T21:21:08+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -12855,6 +12855,28 @@
         "match_score": 138,
         "genres": [
           "Action"
+        ]
+      }
+    },
+    "beyond these stars": {
+      "title": "Beyond These Stars",
+      "status": "matched",
+      "fetched_at": "2026-10-16T21:21:06+00:00",
+      "data": {
+        "title": "Beyond These Stars",
+        "game_id": 150549,
+        "url": "https://howlongtobeat.com/game/150549",
+        "image_url": "https://howlongtobeat.com/games/150549_Beyond_These_Stars.jpg",
+        "main_story_seconds": null,
+        "review_score": null,
+        "completion_count": null,
+        "release_year": 2025,
+        "profile_platform": "PC",
+        "match_type": "exact",
+        "match_score": 131,
+        "genres": [
+          "Simulation",
+          "Strategy/Tactical"
         ]
       }
     }
