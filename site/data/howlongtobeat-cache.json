@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T04:41:42+00:00",
+  "updated_at": "2026-10-16T11:35:14+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -3402,7 +3402,7 @@
     "for honor": {
       "title": "For Honor™",
       "status": "not_found",
-      "fetched_at": "2026-10-09T06:19:18+00:00",
+      "fetched_at": "2026-10-16T11:35:13+00:00",
       "data": null
     },
     "for the king ii": {
@@ -9978,15 +9978,15 @@
     "aniimo": {
       "title": "Aniimo",
       "status": "matched",
-      "fetched_at": "2026-09-16T04:57:26+00:00",
+      "fetched_at": "2026-10-16T11:35:10+00:00",
       "data": {
         "title": "Aniimo",
         "game_id": 169429,
         "url": "https://howlongtobeat.com/game/169429",
         "image_url": "https://howlongtobeat.com/games/169429_Aniimo.jpg",
-        "main_story_seconds": null,
-        "review_score": 60,
-        "completion_count": null,
+        "main_story_seconds": 65762,
+        "review_score": 70,
+        "completion_count": 17,
         "release_year": 2026,
         "profile_platform": "Mobile, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",

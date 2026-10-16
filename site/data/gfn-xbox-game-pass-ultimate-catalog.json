@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T04:41:27+00:00",
+  "generated_at": "2026-10-16T11:34:52+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -14,21 +14,21 @@
   },
   "counts": {
     "gfn_titles": 6149,
-    "xbox_game_pass_titles": 907,
-    "catalog_titles": 691,
-    "intersection_titles": 406,
-    "xbox_only_titles": 285
+    "xbox_game_pass_titles": 896,
+    "catalog_titles": 682,
+    "intersection_titles": 398,
+    "xbox_only_titles": 284
   },
   "summary": {
     "store_counts": {
-      "STEAM": 365,
-      "XBOX": 206,
-      "EPIC": 77,
+      "STEAM": 357,
+      "XBOX": 199,
+      "EPIC": 75,
       "UPLAY": 65,
       "BATTLENET": 21,
       "EA_APP": 17,
-      "GOG": 4,
       "NONE": 4,
+      "GOG": 3,
       "GAIJIN": 2,
       "UNKNOWN": 2,
       "WARGAMING": 1
@@ -59,10 +59,6 @@
         "count": 11
       },
       {
-        "name": "Focus Entertainment",
-        "count": 9
-      },
-      {
         "name": "UBISOFT",
         "count": 9
       },
@@ -75,21 +71,25 @@
         "count": 8
       },
       {
-        "name": "Hooded Horse",
+        "name": "Focus Entertainment",
         "count": 7
       },
       {
         "name": "Paradox Interactive",
         "count": 7
+      },
+      {
+        "name": "Microsoft",
+        "count": 7
       }
     ],
-    "gfn_xbox_store_matches": 206,
-    "intersection_titles": 406,
-    "xbox_only_titles": 285,
-    "hltb_matches": 501,
-    "opencritic_matches": 567,
-    "short_game_score_matches": 361,
-    "exact_matches": 375,
+    "gfn_xbox_store_matches": 199,
+    "intersection_titles": 398,
+    "xbox_only_titles": 284,
+    "hltb_matches": 493,
+    "opencritic_matches": 560,
+    "short_game_score_matches": 357,
+    "exact_matches": 367,
     "partial_matches": 31
   },
   "games": [
@@ -289,67 +289,6 @@
         "match_score": 148
       },
       "short_game_score": null
-    },
-    {
-      "catalog_group": "intersection",
-      "is_on_gfn": true,
-      "title": "A Plague Tale: Requiem",
-      "normalized_title": "a plague tale requiem",
-      "gfn_stores": [
-        "EPIC",
-        "STEAM",
-        "XBOX"
-      ],
-      "gfn_has_xbox_store": true,
-      "xbox_title": "A Plague Tale: Requiem",
-      "xbox_product_id": "9ND0JVB184XL",
-      "xbox_url": "https://www.microsoft.com/store/productId/9ND0JVB184XL",
-      "publisher": "Focus Entertainment",
-      "developer": "Asobo Studio",
-      "release_date": "2022-10-17T22:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.60562.13537574391772742.e387dd56-e35c-40fb-bc0c-c0c1decef3a1.1de59474-dc66-4ad3-8050-ee622224a589",
-      "description": "Embark on a heartrending journey into a brutal, breathtaking world, and discover the cost of saving those you love in a desperate struggle for survival. Strike from the shadows or unleash hell with a variety of weapons, tools and unearthly powers.",
-      "match_type": "exact-title",
-      "match_score": 120,
-      "howlongtobeat": {
-        "title": "A Plague Tale: Requiem",
-        "game_id": 93945,
-        "url": "https://howlongtobeat.com/game/93945",
-        "image_url": "https://howlongtobeat.com/games/93945_A_Plague_Tale_Requiem.jpg",
-        "main_story_seconds": 61117,
-        "review_score": 83,
-        "completion_count": 4659,
-        "release_year": 2022,
-        "profile_platform": "Nintendo Switch, PC, PlayStation 5, Xbox Series X/S",
-        "match_type": "exact",
-        "match_score": 142,
-        "genres": [
-          "Third-Person",
-          "Action",
-          "Adventure",
-          "Stealth"
-        ]
-      },
-      "opencritic": {
-        "title": "A Plague Tale: Requiem",
-        "game_id": 13346,
-        "url": "https://opencritic.com/game/13346/a-plague-tale-requiem",
-        "top_critic_score": 83.2,
-        "percent_recommended": 87.8,
-        "tier": "Strong",
-        "median_score": 85,
-        "review_count": 162,
-        "release_year": 2022,
-        "match_type": "exact",
-        "match_score": 155
-      },
-      "short_game_score": {
-        "score": 86.6,
-        "critic_score": 83.2,
-        "duration_fit_score": 94.6,
-        "main_story_hours": 17.0,
-        "target_hours": 15.0
-      }
     },
     {
       "catalog_group": "xbox-only",
@@ -1149,9 +1088,9 @@
         "game_id": 169429,
         "url": "https://howlongtobeat.com/game/169429",
         "image_url": "https://howlongtobeat.com/games/169429_Aniimo.jpg",
-        "main_story_seconds": null,
-        "review_score": 60,
-        "completion_count": null,
+        "main_story_seconds": 65762,
+        "review_score": 70,
+        "completion_count": 17,
         "release_year": 2026,
         "profile_platform": "Mobile, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
@@ -1166,16 +1105,22 @@
         "title": "Aniimo",
         "game_id": 21267,
         "url": "https://opencritic.com/game/21267/aniimo",
-        "top_critic_score": null,
-        "percent_recommended": null,
-        "tier": null,
+        "top_critic_score": 79.7,
+        "percent_recommended": 83.3,
+        "tier": "Strong",
         "median_score": null,
-        "review_count": 3,
+        "review_count": 12,
         "release_year": 2026,
         "match_type": "exact",
         "match_score": 135
       },
-      "short_game_score": null
+      "short_game_score": {
+        "score": 82.9,
+        "critic_score": 79.7,
+        "duration_fit_score": 90.4,
+        "main_story_hours": 18.3,
+        "target_hours": 15.0
+      }
     },
     {
       "catalog_group": "intersection",
@@ -5462,68 +5407,6 @@
       "short_game_score": null
     },
     {
-      "catalog_group": "intersection",
-      "is_on_gfn": true,
-      "title": "Clair Obscur: Expedition 33",
-      "normalized_title": "clair obscur expedition 33",
-      "gfn_stores": [
-        "EPIC",
-        "GOG",
-        "STEAM",
-        "XBOX"
-      ],
-      "gfn_has_xbox_store": true,
-      "xbox_title": "Clair Obscur: Expedition 33",
-      "xbox_product_id": "9PPT8K6GQHRZ",
-      "xbox_url": "https://www.microsoft.com/store/productId/9PPT8K6GQHRZ",
-      "publisher": "Kepler Interactive",
-      "developer": "Sandfall Interactive",
-      "release_date": "2025-04-24T07:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.13628.14322280443288156.27788484-2760-47f7-be0d-dd693682e016.04a10e3c-848f-424d-a431-2846f34b1a6b",
-      "description": "Lead the members of Expedition 33 on their quest to destroy the Paintress - so she can never paint death again. Explore a world of wonders inspired by Belle Époque France and battle unique enemies in this turn-based RPG with real-time mechanics.",
-      "match_type": "exact-title",
-      "match_score": 120,
-      "howlongtobeat": {
-        "title": "Clair Obscur: Expedition 33",
-        "game_id": 152016,
-        "url": "https://howlongtobeat.com/game/152016",
-        "image_url": "https://howlongtobeat.com/games/152016_Clair_Obscur_Expedition_33.jpg",
-        "main_story_seconds": 105335,
-        "review_score": 94,
-        "completion_count": 12657,
-        "release_year": 2025,
-        "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
-        "match_type": "exact",
-        "match_score": 142,
-        "genres": [
-          "Third-Person",
-          "Turn-Based",
-          "Action",
-          "Role-Playing"
-        ]
-      },
-      "opencritic": {
-        "title": "Clair Obscur: Expedition 33",
-        "game_id": 18026,
-        "url": "https://opencritic.com/game/18026/clair-obscur-expedition-33",
-        "top_critic_score": 92.1,
-        "percent_recommended": 97.6,
-        "tier": "Mighty",
-        "median_score": 95,
-        "review_count": 210,
-        "release_year": 2025,
-        "match_type": "exact",
-        "match_score": 157
-      },
-      "short_game_score": {
-        "score": 78.8,
-        "critic_score": 92.1,
-        "duration_fit_score": 47.6,
-        "main_story_hours": 29.3,
-        "target_hours": 15.0
-      }
-    },
-    {
       "catalog_group": "xbox-only",
       "is_on_gfn": false,
       "title": "Clone Drone in the Danger Zone",
@@ -6488,57 +6371,6 @@
         "release_year": 2025,
         "match_type": "partial",
         "match_score": 109
-      },
-      "short_game_score": null
-    },
-    {
-      "catalog_group": "intersection",
-      "is_on_gfn": true,
-      "title": "Crime Scene Cleaner",
-      "normalized_title": "crime scene cleaner",
-      "gfn_stores": [
-        "STEAM",
-        "XBOX"
-      ],
-      "gfn_has_xbox_store": true,
-      "xbox_title": "Crime Scene Cleaner",
-      "xbox_product_id": "9NGZ1M3N98P2",
-      "xbox_url": "https://www.microsoft.com/store/productId/9NGZ1M3N98P2",
-      "publisher": "PlayWay S.A.",
-      "developer": "President Studio S.A.",
-      "release_date": "2025-04-17T07:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.32740.13641013102004887.bf107aae-94c4-457f-a84e-5bd21f71f809.80e7a185-2d8a-425a-909f-3f55bb00bdac",
-      "description": "Once you get tangled with the mob, you will forever be a part of the mob. At least they pay a decent salary and all you have to do is clean up after their dirty work, but you know what you’re doing. So clean crime scenes, earn as much money as you can, and get ready for the next mission.",
-      "match_type": "exact-title",
-      "match_score": 120,
-      "howlongtobeat": {
-        "title": "Crime Scene Cleaner",
-        "game_id": 138513,
-        "url": "https://howlongtobeat.com/game/138513",
-        "image_url": "https://howlongtobeat.com/games/138513_Crime_Scene_Cleaner.jpg",
-        "main_story_seconds": 45616,
-        "review_score": 81,
-        "completion_count": 827,
-        "release_year": 2024,
-        "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
-        "match_type": "exact",
-        "match_score": 136,
-        "genres": [
-          "Action"
-        ]
-      },
-      "opencritic": {
-        "title": "Crime Scene Cleaner",
-        "game_id": 17636,
-        "url": "https://opencritic.com/game/17636/crime-scene-cleaner",
-        "top_critic_score": null,
-        "percent_recommended": 28.6,
-        "tier": null,
-        "median_score": 70,
-        "review_count": 7,
-        "release_year": 2024,
-        "match_type": "exact",
-        "match_score": 141
       },
       "short_game_score": null
     },
@@ -8297,61 +8129,6 @@
       }
     },
     {
-      "catalog_group": "xbox-only",
-      "is_on_gfn": false,
-      "title": "Donut County",
-      "normalized_title": "donut county",
-      "gfn_stores": [],
-      "gfn_has_xbox_store": false,
-      "xbox_title": "Donut County",
-      "xbox_product_id": "9N6V2181GHLM",
-      "xbox_url": "https://www.microsoft.com/store/productId/9N6V2181GHLM",
-      "publisher": "Annapurna Interactive",
-      "developer": "Ben Esposito",
-      "release_date": "2018-12-18T00:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.60906.14011542784181932.80ac6320-df7b-4be6-9355-e9083a5d2063.06135ea0-0572-4ed3-b5a2-e0a158e3144d",
-      "description": "Donut County is a story-based physics puzzle game where you play as an ever-growing hole in the ground. Meet cute characters, steal their trash, and throw them in a hole.\r\n\r\nThe PC version of this game does not support Xbox Live",
-      "match_type": "xbox-only",
-      "match_score": 0,
-      "howlongtobeat": {
-        "title": "Donut County",
-        "game_id": 51323,
-        "url": "https://howlongtobeat.com/game/51323",
-        "image_url": "https://howlongtobeat.com/games/51323_Donut_County.jpg",
-        "main_story_seconds": 7121,
-        "review_score": 72,
-        "completion_count": 6064,
-        "release_year": 2018,
-        "profile_platform": "Mobile, Nintendo Switch, PC, PlayStation 4, Xbox One",
-        "match_type": "exact",
-        "match_score": 142,
-        "genres": [
-          "Top-Down",
-          "Puzzle"
-        ]
-      },
-      "opencritic": {
-        "title": "Donut County",
-        "game_id": 1735,
-        "url": "https://opencritic.com/game/1735/donut-county",
-        "top_critic_score": 76.2,
-        "percent_recommended": 62.9,
-        "tier": "Strong",
-        "median_score": 79,
-        "review_count": 64,
-        "release_year": 2018,
-        "match_type": "exact",
-        "match_score": 150
-      },
-      "short_game_score": {
-        "score": 83.3,
-        "critic_score": 76.2,
-        "duration_fit_score": 100.0,
-        "main_story_hours": 2.0,
-        "target_hours": 15.0
-      }
-    },
-    {
       "catalog_group": "intersection",
       "is_on_gfn": true,
       "title": "DOOM",
@@ -9948,63 +9725,6 @@
         "critic_score": 74.1,
         "duration_fit_score": 89.4,
         "main_story_hours": 18.5,
-        "target_hours": 15.0
-      }
-    },
-    {
-      "catalog_group": "intersection",
-      "is_on_gfn": true,
-      "title": "Evil West",
-      "normalized_title": "evil west",
-      "gfn_stores": [
-        "STEAM",
-        "XBOX"
-      ],
-      "gfn_has_xbox_store": true,
-      "xbox_title": "Evil West",
-      "xbox_product_id": "9MW581HCJPM6",
-      "xbox_url": "https://www.microsoft.com/store/productId/9MW581HCJPM6",
-      "publisher": "Focus Entertainment",
-      "developer": "Flying Wild Hog",
-      "release_date": "2022-11-21T23:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.4211.14176554647910182.b03fa26e-38ab-4eae-a31e-457e38d3b885.931e36a8-9260-4fcf-833a-72600108d150",
-      "description": "A dark menace consumes the Old West. In solo or coop, fight with style in visceral, explosive combat against bloodthirsty monstrosities. Eradicate the vampiric hordes with your lightning-fueled gauntlet and become a Wild West Superhero.",
-      "match_type": "exact-title",
-      "match_score": 120,
-      "howlongtobeat": {
-        "title": "Evil West",
-        "game_id": 85970,
-        "url": "https://howlongtobeat.com/game/85970",
-        "image_url": "https://howlongtobeat.com/games/85970_Evil_West.jpg",
-        "main_story_seconds": 38802,
-        "review_score": 71,
-        "completion_count": 1469,
-        "release_year": 2022,
-        "profile_platform": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
-        "match_type": "exact",
-        "match_score": 130,
-        "genres": [
-          "Beat em Up"
-        ]
-      },
-      "opencritic": {
-        "title": "Evil West",
-        "game_id": 13378,
-        "url": "https://opencritic.com/game/13378/evil-west",
-        "top_critic_score": 73.2,
-        "percent_recommended": 58.6,
-        "tier": "Fair",
-        "median_score": 75,
-        "review_count": 121,
-        "release_year": 2022,
-        "match_type": "exact",
-        "match_score": 141
-      },
-      "short_game_score": {
-        "score": 81.2,
-        "critic_score": 73.2,
-        "duration_fit_score": 100.0,
-        "main_story_hours": 10.8,
         "target_hours": 15.0
       }
     },
@@ -19722,47 +19442,6 @@
     {
       "catalog_group": "intersection",
       "is_on_gfn": true,
-      "title": "Nova Roma",
-      "normalized_title": "nova roma",
-      "gfn_stores": [
-        "STEAM",
-        "XBOX"
-      ],
-      "gfn_has_xbox_store": true,
-      "xbox_title": "Nova Roma (Game Preview)",
-      "xbox_product_id": "9NBNFBQ546DT",
-      "xbox_url": "https://www.microsoft.com/store/productId/9NBNFBQ546DT",
-      "publisher": "Hooded Horse",
-      "developer": "Lion Shield",
-      "release_date": "2026-03-26T18:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.482.13514288515095406.cc3ca34d-704c-41f1-84c0-f3bbe3ce82ac.39e52681-de3d-4116-b6cc-38cd3a15e436",
-      "description": "The glory of Rome is at your fingertips in this city-building game where you must appease the gods, enact laws, and develop complex supply chains to meet the needs of your citizens.",
-      "match_type": "exact-title",
-      "match_score": 120,
-      "howlongtobeat": {
-        "title": "Nova Roma",
-        "game_id": 130002,
-        "url": "https://howlongtobeat.com/game/130002",
-        "image_url": "https://howlongtobeat.com/games/130002_Nova_Roma.jpg",
-        "main_story_seconds": 41000,
-        "review_score": 75,
-        "completion_count": 5,
-        "release_year": 2026,
-        "profile_platform": "Linux, Mac, PC",
-        "match_type": "exact",
-        "match_score": 138,
-        "genres": [
-          "City-Building",
-          "Simulation",
-          "Strategy/Tactical"
-        ]
-      },
-      "opencritic": null,
-      "short_game_score": null
-    },
-    {
-      "catalog_group": "intersection",
-      "is_on_gfn": true,
       "title": "OddBallers™",
       "normalized_title": "oddballers",
       "gfn_stores": [
@@ -20163,64 +19842,6 @@
         "match_score": 141
       },
       "short_game_score": null
-    },
-    {
-      "catalog_group": "intersection",
-      "is_on_gfn": true,
-      "title": "Pacific Drive",
-      "normalized_title": "pacific drive",
-      "gfn_stores": [
-        "STEAM",
-        "XBOX"
-      ],
-      "gfn_has_xbox_store": true,
-      "xbox_title": "Pacific Drive",
-      "xbox_product_id": "9PNKG0WBL61W",
-      "xbox_url": "https://www.microsoft.com/store/productId/9PNKG0WBL61W",
-      "publisher": "Kepler Interactive",
-      "developer": "Ironwood Studios",
-      "release_date": "2025-10-23T19:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.30777.14342694787118182.96ac9113-88e6-4c27-822e-b852c773b5cc.9664d48f-5494-4d80-b8a1-253008354cf2",
-      "description": "Face the supernatural dangers of the Olympic Exclusion Zone with a car as your only lifeline in this driving survival adventure! Scavenge resources, load up your trusty station wagon, and drive like hell to make it through alive.",
-      "match_type": "exact-title",
-      "match_score": 120,
-      "howlongtobeat": {
-        "title": "Pacific Drive",
-        "game_id": 113597,
-        "url": "https://howlongtobeat.com/game/113597",
-        "image_url": "https://howlongtobeat.com/games/113597_Pacific_Drive.jpg",
-        "main_story_seconds": 76936,
-        "review_score": 72,
-        "completion_count": 687,
-        "release_year": 2024,
-        "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
-        "match_type": "exact",
-        "match_score": 136,
-        "genres": [
-          "Simulation",
-          "Vehicular Combat"
-        ]
-      },
-      "opencritic": {
-        "title": "Pacific Drive",
-        "game_id": 16317,
-        "url": "https://opencritic.com/game/16317/pacific-drive",
-        "top_critic_score": 79.8,
-        "percent_recommended": 74.7,
-        "tier": "Strong",
-        "median_score": 80,
-        "review_count": 78,
-        "release_year": 2024,
-        "match_type": "exact",
-        "match_score": 144
-      },
-      "short_game_score": {
-        "score": 79.6,
-        "critic_score": 79.8,
-        "duration_fit_score": 79.2,
-        "main_story_hours": 21.4,
-        "target_hours": 15.0
-      }
     },
     {
       "catalog_group": "intersection",
@@ -26082,45 +25703,6 @@
     {
       "catalog_group": "intersection",
       "is_on_gfn": true,
-      "title": "Superball",
-      "normalized_title": "superball",
-      "gfn_stores": [
-        "STEAM"
-      ],
-      "gfn_has_xbox_store": false,
-      "xbox_title": "Superball",
-      "xbox_product_id": "9N4M72L6KGC8",
-      "xbox_url": "https://www.microsoft.com/store/productId/9N4M72L6KGC8",
-      "publisher": "Logoi Games",
-      "developer": "Pathea Games",
-      "release_date": "2025-10-28T18:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.35699.13984747577958597.92005490-208e-4e00-9984-1e54d4ab85c5.0b5f51c6-354c-4781-99b2-f223453ff8e5",
-      "description": "Superball is a multiplayer superpower sports game featuring 3v3 team-based combat in cyberpunk-themed stadiums. \nSelect your character, pass, kick and pave the way to victory!",
-      "match_type": "exact-title",
-      "match_score": 120,
-      "howlongtobeat": {
-        "title": "Superball",
-        "game_id": 176361,
-        "url": "https://howlongtobeat.com/game/176361",
-        "image_url": "https://howlongtobeat.com/games/176361_Superball.jpg",
-        "main_story_seconds": 10800,
-        "review_score": 75,
-        "completion_count": 3,
-        "release_year": 2025,
-        "profile_platform": "PC, Xbox One, Xbox Series X/S",
-        "match_type": "exact",
-        "match_score": 137,
-        "genres": [
-          "Action",
-          "Sports"
-        ]
-      },
-      "opencritic": null,
-      "short_game_score": null
-    },
-    {
-      "catalog_group": "intersection",
-      "is_on_gfn": true,
       "title": "SUPERHOT: MIND CONTROL DELETE",
       "normalized_title": "superhot mind control delete",
       "gfn_stores": [
@@ -26919,42 +26501,6 @@
         "release_year": 2018,
         "match_type": "exact",
         "match_score": 141
-      },
-      "short_game_score": null
-    },
-    {
-      "catalog_group": "intersection",
-      "is_on_gfn": true,
-      "title": "The Casting of Frank Stone™",
-      "normalized_title": "the casting of frank stone",
-      "gfn_stores": [
-        "STEAM",
-        "XBOX"
-      ],
-      "gfn_has_xbox_store": true,
-      "xbox_title": "The Casting of Frank Stone™",
-      "xbox_product_id": "9PG0PMB5Q0GT",
-      "xbox_url": "https://www.microsoft.com/store/productId/9PG0PMB5Q0GT",
-      "publisher": "Behaviour Interactive",
-      "developer": "Supermassive Games",
-      "release_date": "2024-09-03T16:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.865.14194909325684282.4555d428-db78-49a6-b09e-ad174d55ec29.296b8565-cd6d-4fca-b4ba-6bee2fcfd859",
-      "description": "The shadow of Frank Stone looms over Cedar Hills, a town forever altered by his violent past. As a group of young friends are about to discover, Stone’s blood-soaked legacy cuts deep, leaving scars across families, generations, and the very fabric of reality itself.",
-      "match_type": "exact-title",
-      "match_score": 120,
-      "howlongtobeat": null,
-      "opencritic": {
-        "title": "The Casting of Frank Stone",
-        "game_id": 17237,
-        "url": "https://opencritic.com/game/17237/the-casting-of-frank-stone",
-        "top_critic_score": 67.5,
-        "percent_recommended": 40.0,
-        "tier": "Fair",
-        "median_score": 70,
-        "review_count": 71,
-        "release_year": 2024,
-        "match_type": "exact",
-        "match_score": 150
       },
       "short_game_score": null
     },
