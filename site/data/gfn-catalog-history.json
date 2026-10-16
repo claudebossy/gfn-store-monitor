@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T16:37:01+00:00",
+  "generated_at": "2026-10-16T21:05:24+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -4890,6 +4890,40 @@
       "new_game_count": 0,
       "new_store_count": 0,
       "new_games": [],
+      "new_stores": []
+    },
+    {
+      "timestamp": "2026-10-16T21:05:24+00:00",
+      "baseline": false,
+      "catalog_game_count": 6153,
+      "new_game_count": 4,
+      "new_store_count": 0,
+      "new_games": [
+        {
+          "name": "Gravity Circuit 2 Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Haunted Heist",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "The Rug Racket Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Tinker Islands Demo",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
       "new_stores": []
     }
   ]

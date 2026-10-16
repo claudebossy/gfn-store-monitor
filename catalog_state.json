@@ -13170,6 +13170,12 @@
       "STEAM"
     ]
   },
+  "gravity circuit 2 demo": {
+    "name": "Gravity Circuit 2 Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "gravity heroes": {
     "name": "Gravity Heroes",
     "stores": [
@@ -13777,6 +13783,12 @@
   },
   "haunt chaser": {
     "name": "Haunt Chaser",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "haunted heist": {
+    "name": "Haunted Heist",
     "stores": [
       "STEAM"
     ]
@@ -32521,6 +32533,12 @@
       "STEAM"
     ]
   },
+  "the rug racket demo": {
+    "name": "The Rug Racket Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "the samaritan paradox": {
     "name": "The Samaritan Paradox",
     "stores": [
@@ -33250,6 +33268,12 @@
     "stores": [
       "STEAM",
       "XBOX"
+    ]
+  },
+  "tinker islands demo": {
+    "name": "Tinker Islands Demo",
+    "stores": [
+      "STEAM"
     ]
   },
   "tinkertown": {
