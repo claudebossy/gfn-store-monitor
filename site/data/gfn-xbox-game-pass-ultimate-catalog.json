@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T15:42:46+00:00",
+  "generated_at": "2026-10-17T20:43:14+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -15720,12 +15720,12 @@
         "url": "https://howlongtobeat.com/game/157653",
         "image_url": "https://howlongtobeat.com/games/157653_Kernel_Hearts.jpg",
         "main_story_seconds": null,
-        "review_score": null,
+        "review_score": 30,
         "completion_count": null,
         "release_year": 2026,
         "profile_platform": "Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 138,
+        "match_score": 141,
         "genres": [
           "Action",
           "Roguelike",
