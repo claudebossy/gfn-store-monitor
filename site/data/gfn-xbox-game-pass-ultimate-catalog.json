@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T21:20:50+00:00",
+  "generated_at": "2026-10-17T04:38:27+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,16 +13,16 @@
     }
   },
   "counts": {
-    "gfn_titles": 6153,
+    "gfn_titles": 6154,
     "xbox_game_pass_titles": 897,
     "catalog_titles": 683,
-    "intersection_titles": 398,
-    "xbox_only_titles": 285
+    "intersection_titles": 399,
+    "xbox_only_titles": 284
   },
   "summary": {
     "store_counts": {
-      "STEAM": 357,
-      "XBOX": 199,
+      "STEAM": 358,
+      "XBOX": 200,
       "EPIC": 75,
       "UPLAY": 65,
       "BATTLENET": 21,
@@ -83,13 +83,13 @@
         "count": 7
       }
     ],
-    "gfn_xbox_store_matches": 199,
-    "intersection_titles": 398,
-    "xbox_only_titles": 285,
+    "gfn_xbox_store_matches": 200,
+    "intersection_titles": 399,
+    "xbox_only_titles": 284,
     "hltb_matches": 494,
     "opencritic_matches": 561,
     "short_game_score_matches": 357,
-    "exact_matches": 367,
+    "exact_matches": 368,
     "partial_matches": 31
   },
   "games": [
@@ -3835,12 +3835,15 @@
       "short_game_score": null
     },
     {
-      "catalog_group": "xbox-only",
-      "is_on_gfn": false,
+      "catalog_group": "intersection",
+      "is_on_gfn": true,
       "title": "Beyond These Stars",
       "normalized_title": "beyond these stars",
-      "gfn_stores": [],
-      "gfn_has_xbox_store": false,
+      "gfn_stores": [
+        "STEAM",
+        "XBOX"
+      ],
+      "gfn_has_xbox_store": true,
       "xbox_title": "Beyond These Stars",
       "xbox_product_id": "9N4ZMKC3GX4M",
       "xbox_url": "https://www.microsoft.com/store/productId/9N4ZMKC3GX4M",
@@ -3849,8 +3852,8 @@
       "release_date": "2026-10-16T18:00:00.0000000Z",
       "image_url": "https://store-images.s-microsoft.com/image/apps.15682.13973446484510076.fbb744c0-e1b7-4091-8221-12cc3c2830c8.d466b76f-d7d3-4954-9aea-17b59caf6af7",
       "description": "Build a city on the back of a Space Whale and learn to coexist as you journey through the stars. Manage intricate supply chains and the needs of your people as you build outposts, meet aliens, and uncover the mysteries of the universe.",
-      "match_type": "xbox-only",
-      "match_score": 0,
+      "match_type": "exact-title",
+      "match_score": 120,
       "howlongtobeat": {
         "title": "Beyond These Stars",
         "game_id": 150549,
