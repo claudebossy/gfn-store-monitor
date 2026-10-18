@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T11:20:43+00:00",
+  "generated_at": "2026-10-18T15:58:24+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,7 +13,7 @@
     }
   },
   "counts": {
-    "gfn_titles": 6150,
+    "gfn_titles": 6155,
     "xbox_game_pass_titles": 897,
     "catalog_titles": 683,
     "intersection_titles": 399,
@@ -21,9 +21,9 @@
   },
   "summary": {
     "store_counts": {
-      "STEAM": 358,
+      "STEAM": 359,
       "XBOX": 199,
-      "EPIC": 74,
+      "EPIC": 75,
       "UPLAY": 65,
       "BATTLENET": 21,
       "EA_APP": 17,
@@ -88,7 +88,7 @@
     "xbox_only_titles": 284,
     "hltb_matches": 494,
     "opencritic_matches": 561,
-    "short_game_score_matches": 356,
+    "short_game_score_matches": 357,
     "exact_matches": 368,
     "partial_matches": 31
   },
@@ -907,6 +907,67 @@
       },
       "opencritic": null,
       "short_game_score": null
+    },
+    {
+      "catalog_group": "intersection",
+      "is_on_gfn": true,
+      "title": "Aliens: Dark Descent",
+      "normalized_title": "aliens dark descent",
+      "gfn_stores": [
+        "EPIC",
+        "STEAM",
+        "XBOX"
+      ],
+      "gfn_has_xbox_store": true,
+      "xbox_title": "Aliens: Dark Descent",
+      "xbox_product_id": "9MX7DMHK13SC",
+      "xbox_url": "https://www.microsoft.com/store/productId/9MX7DMHK13SC",
+      "publisher": "Focus Entertainment",
+      "developer": "Tindalos Interactive",
+      "release_date": "2023-06-20T00:00:00.0000000Z",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.52207.13898888461912760.834aa9dd-7399-4287-8be9-57be8cd1e516.de7deb43-0a06-4856-942f-523a1a4b72f7",
+      "description": "Drop into the gripping journey of Aliens: Dark Descent, a squad-based, single-player action game in the iconic Alien franchise. Lead your soldiers in real-time to stop a new and terrifying kind of Xenomorph outbreak on Moon Lethe.",
+      "match_type": "exact-title",
+      "match_score": 120,
+      "howlongtobeat": {
+        "title": "Aliens: Dark Descent",
+        "game_id": 110158,
+        "url": "https://howlongtobeat.com/game/110158",
+        "image_url": "https://howlongtobeat.com/games/110158_Aliens_Dark_Descent.jpg",
+        "main_story_seconds": 90308,
+        "review_score": 76,
+        "completion_count": 321,
+        "release_year": 2023,
+        "profile_platform": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
+        "match_type": "exact",
+        "match_score": 136,
+        "genres": [
+          "Real-Time",
+          "Action",
+          "Adventure",
+          "Strategy/Tactical"
+        ]
+      },
+      "opencritic": {
+        "title": "Aliens: Dark Descent",
+        "game_id": 15096,
+        "url": "https://opencritic.com/game/15096/aliens-dark-descent",
+        "top_critic_score": 75.1,
+        "percent_recommended": 61.9,
+        "tier": "Strong",
+        "median_score": 80,
+        "review_count": 100,
+        "release_year": 2023,
+        "match_type": "exact",
+        "match_score": 146
+      },
+      "short_game_score": {
+        "score": 72.0,
+        "critic_score": 75.1,
+        "duration_fit_score": 64.8,
+        "main_story_hours": 25.1,
+        "target_hours": 15.0
+      }
     },
     {
       "catalog_group": "intersection",
@@ -24455,57 +24516,6 @@
       "short_game_score": null
     },
     {
-      "catalog_group": "intersection",
-      "is_on_gfn": true,
-      "title": "Squad",
-      "normalized_title": "squad",
-      "gfn_stores": [
-        "STEAM"
-      ],
-      "gfn_has_xbox_store": false,
-      "xbox_title": "Aliens: Dark Descent",
-      "xbox_product_id": "9MX7DMHK13SC",
-      "xbox_url": "https://www.microsoft.com/store/productId/9MX7DMHK13SC",
-      "publisher": "Focus Entertainment",
-      "developer": "Tindalos Interactive",
-      "release_date": "2023-06-20T00:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.52207.13898888461912760.834aa9dd-7399-4287-8be9-57be8cd1e516.de7deb43-0a06-4856-942f-523a1a4b72f7",
-      "description": "Drop into the gripping journey of Aliens: Dark Descent, a squad-based, single-player action game in the iconic Alien franchise. Lead your soldiers in real-time to stop a new and terrifying kind of Xenomorph outbreak on Moon Lethe.",
-      "match_type": "exact-search",
-      "match_score": 90,
-      "howlongtobeat": {
-        "title": "Squad",
-        "game_id": 33215,
-        "url": "https://howlongtobeat.com/game/33215",
-        "image_url": "https://howlongtobeat.com/games/Squad_header.jpg",
-        "main_story_seconds": 70823,
-        "review_score": 78,
-        "completion_count": 156,
-        "release_year": 2015,
-        "profile_platform": "PC",
-        "match_type": "exact",
-        "match_score": 130,
-        "genres": [
-          "First-Person",
-          "Shooter"
-        ]
-      },
-      "opencritic": {
-        "title": "Squad",
-        "game_id": 10343,
-        "url": "https://opencritic.com/game/10343/squad",
-        "top_critic_score": null,
-        "percent_recommended": null,
-        "tier": null,
-        "median_score": null,
-        "review_count": 3,
-        "release_year": 2020,
-        "match_type": "exact",
-        "match_score": 135
-      },
-      "short_game_score": null
-    },
-    {
       "catalog_group": "xbox-only",
       "is_on_gfn": false,
       "title": "SSX",
@@ -26291,9 +26301,9 @@
       "title": "TerraTech Legion",
       "normalized_title": "terratech legion",
       "gfn_stores": [
-        "XBOX"
+        "STEAM"
       ],
-      "gfn_has_xbox_store": true,
+      "gfn_has_xbox_store": false,
       "xbox_title": "TerraTech Legion",
       "xbox_product_id": "9NG66K0Z31LH",
       "xbox_url": "https://www.microsoft.com/store/productId/9NG66K0Z31LH",
