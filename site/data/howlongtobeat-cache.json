@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T04:44:27+00:00",
+  "updated_at": "2026-10-18T11:21:01+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -10153,7 +10153,11 @@
         "release_year": 2015,
         "profile_platform": "PC",
         "match_type": "exact",
-        "match_score": 130
+        "match_score": 130,
+        "genres": [
+          "First-Person",
+          "Shooter"
+        ]
       }
     },
     "minecraft dungeons ii": {
