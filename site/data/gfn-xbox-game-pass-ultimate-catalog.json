@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T13:34:38+00:00",
+  "generated_at": "2026-10-19T22:27:52+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,17 +13,17 @@
     }
   },
   "counts": {
-    "gfn_titles": 6155,
+    "gfn_titles": 6121,
     "xbox_game_pass_titles": 897,
     "catalog_titles": 683,
-    "intersection_titles": 399,
-    "xbox_only_titles": 284
+    "intersection_titles": 398,
+    "xbox_only_titles": 285
   },
   "summary": {
     "store_counts": {
-      "STEAM": 358,
-      "XBOX": 200,
-      "EPIC": 75,
+      "STEAM": 357,
+      "XBOX": 199,
+      "EPIC": 73,
       "UPLAY": 65,
       "BATTLENET": 21,
       "EA_APP": 17,
@@ -83,13 +83,13 @@
         "count": 7
       }
     ],
-    "gfn_xbox_store_matches": 200,
-    "intersection_titles": 399,
-    "xbox_only_titles": 284,
+    "gfn_xbox_store_matches": 199,
+    "intersection_titles": 398,
+    "xbox_only_titles": 285,
     "hltb_matches": 494,
     "opencritic_matches": 561,
-    "short_game_score_matches": 357,
-    "exact_matches": 368,
+    "short_game_score_matches": 356,
+    "exact_matches": 367,
     "partial_matches": 31
   },
   "games": [
@@ -907,67 +907,6 @@
       },
       "opencritic": null,
       "short_game_score": null
-    },
-    {
-      "catalog_group": "intersection",
-      "is_on_gfn": true,
-      "title": "Aliens: Dark Descent",
-      "normalized_title": "aliens dark descent",
-      "gfn_stores": [
-        "EPIC",
-        "STEAM",
-        "XBOX"
-      ],
-      "gfn_has_xbox_store": true,
-      "xbox_title": "Aliens: Dark Descent",
-      "xbox_product_id": "9MX7DMHK13SC",
-      "xbox_url": "https://www.microsoft.com/store/productId/9MX7DMHK13SC",
-      "publisher": "Focus Entertainment",
-      "developer": "Tindalos Interactive",
-      "release_date": "2023-06-20T00:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.52207.13898888461912760.834aa9dd-7399-4287-8be9-57be8cd1e516.de7deb43-0a06-4856-942f-523a1a4b72f7",
-      "description": "Drop into the gripping journey of Aliens: Dark Descent, a squad-based, single-player action game in the iconic Alien franchise. Lead your soldiers in real-time to stop a new and terrifying kind of Xenomorph outbreak on Moon Lethe.",
-      "match_type": "exact-title",
-      "match_score": 120,
-      "howlongtobeat": {
-        "title": "Aliens: Dark Descent",
-        "game_id": 110158,
-        "url": "https://howlongtobeat.com/game/110158",
-        "image_url": "https://howlongtobeat.com/games/110158_Aliens_Dark_Descent.jpg",
-        "main_story_seconds": 90308,
-        "review_score": 76,
-        "completion_count": 321,
-        "release_year": 2023,
-        "profile_platform": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
-        "match_type": "exact",
-        "match_score": 136,
-        "genres": [
-          "Real-Time",
-          "Action",
-          "Adventure",
-          "Strategy/Tactical"
-        ]
-      },
-      "opencritic": {
-        "title": "Aliens: Dark Descent",
-        "game_id": 15096,
-        "url": "https://opencritic.com/game/15096/aliens-dark-descent",
-        "top_critic_score": 75.1,
-        "percent_recommended": 61.9,
-        "tier": "Strong",
-        "median_score": 80,
-        "review_count": 100,
-        "release_year": 2023,
-        "match_type": "exact",
-        "match_score": 146
-      },
-      "short_game_score": {
-        "score": 72.0,
-        "critic_score": 75.1,
-        "duration_fit_score": 64.8,
-        "main_story_hours": 25.1,
-        "target_hours": 15.0
-      }
     },
     {
       "catalog_group": "intersection",
@@ -24516,6 +24455,57 @@
       "short_game_score": null
     },
     {
+      "catalog_group": "intersection",
+      "is_on_gfn": true,
+      "title": "Squad",
+      "normalized_title": "squad",
+      "gfn_stores": [
+        "STEAM"
+      ],
+      "gfn_has_xbox_store": false,
+      "xbox_title": "Aliens: Dark Descent",
+      "xbox_product_id": "9MX7DMHK13SC",
+      "xbox_url": "https://www.microsoft.com/store/productId/9MX7DMHK13SC",
+      "publisher": "Focus Entertainment",
+      "developer": "Tindalos Interactive",
+      "release_date": "2023-06-20T00:00:00.0000000Z",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.52207.13898888461912760.834aa9dd-7399-4287-8be9-57be8cd1e516.de7deb43-0a06-4856-942f-523a1a4b72f7",
+      "description": "Drop into the gripping journey of Aliens: Dark Descent, a squad-based, single-player action game in the iconic Alien franchise. Lead your soldiers in real-time to stop a new and terrifying kind of Xenomorph outbreak on Moon Lethe.",
+      "match_type": "exact-search",
+      "match_score": 90,
+      "howlongtobeat": {
+        "title": "Squad",
+        "game_id": 33215,
+        "url": "https://howlongtobeat.com/game/33215",
+        "image_url": "https://howlongtobeat.com/games/Squad_header.jpg",
+        "main_story_seconds": 70823,
+        "review_score": 78,
+        "completion_count": 156,
+        "release_year": 2015,
+        "profile_platform": "PC",
+        "match_type": "exact",
+        "match_score": 130,
+        "genres": [
+          "First-Person",
+          "Shooter"
+        ]
+      },
+      "opencritic": {
+        "title": "Squad",
+        "game_id": 10343,
+        "url": "https://opencritic.com/game/10343/squad",
+        "top_critic_score": null,
+        "percent_recommended": null,
+        "tier": null,
+        "median_score": null,
+        "review_count": 3,
+        "release_year": 2020,
+        "match_type": "exact",
+        "match_score": 135
+      },
+      "short_game_score": null
+    },
+    {
       "catalog_group": "xbox-only",
       "is_on_gfn": false,
       "title": "SSX",
@@ -32117,25 +32107,22 @@
       }
     },
     {
-      "catalog_group": "intersection",
-      "is_on_gfn": true,
+      "catalog_group": "xbox-only",
+      "is_on_gfn": false,
       "title": "Wreckfest",
       "normalized_title": "wreckfest",
-      "gfn_stores": [
-        "EPIC",
-        "STEAM"
-      ],
+      "gfn_stores": [],
       "gfn_has_xbox_store": false,
       "xbox_title": "Wreckfest",
-      "xbox_product_id": "BRJNRZ9N734V",
-      "xbox_url": "https://www.microsoft.com/store/productId/BRJNRZ9N734V",
+      "xbox_product_id": "9NG06CSMM97P",
+      "xbox_url": "https://www.microsoft.com/store/productId/9NG06CSMM97P",
       "publisher": "THQ Nordic",
       "developer": "Bugbear Entertainment",
-      "release_date": "2019-08-26T22:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.64141.69762792333465121.4086c71f-fab9-4c14-b959-3e77164a74cf.27e4efda-6f6d-4d33-b636-4d6ef45396ea",
-      "description": "Break the rules and take full-contact racing to the limit with Wreckfest! \r\n\r\n\r\n\r\n\r\n\r\nExpect epic crashes, neck-to-neck fights over the finish line and brand-new ways for metal to bend – These are the once-in-a-lifetime moments that can only be achieved in Wreckfest, with its true-to-life physics simulation crafted by legendary developer Bugbear, who also brought you FlatOut 1 & 2!\r\n\r\n\r\n\r\n\r\n\r\nBurn rubber and shred metal in the ultimate driving playground!",
-      "match_type": "exact-title",
-      "match_score": 120,
+      "release_date": "2021-02-18T00:00:00.0000000Z",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.64141.13589258961846020.5e95ec4c-44cb-4b39-8217-927890b74c94.add30f1a-d761-4638-87e4-16f77f0036a0",
+      "description": "Break the rules and take full-contact racing to the limit with Wreckfest! \r\n\r\nExpect epic crashes, neck-to-neck fights over the finish line and brand-new ways for metal to bend – These are the once-in-a-lifetime moments that can only be achieved in Wreckfest, with its true-to-life physics simulation crafted by legendary developer Bugbear, who also brought you FlatOut 1 & 2!\r\n\r\nBurn rubber and shred metal in the ultimate driving playground!",
+      "match_type": "xbox-only",
+      "match_score": 0,
       "howlongtobeat": {
         "title": "Wreckfest",
         "game_id": 16136,
