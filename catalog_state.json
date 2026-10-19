@@ -1669,6 +1669,12 @@
       "STEAM"
     ]
   },
+  "anywhere rpg demo": {
+    "name": "Anywhere RPG Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "ao tennis 2": {
     "name": "AO Tennis 2",
     "stores": [
@@ -1869,6 +1875,12 @@
   },
   "architect life a house design simulator": {
     "name": "Architect Life: A House Design Simulator",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "architecture design": {
+    "name": "Architecture & Design",
     "stores": [
       "STEAM"
     ]
@@ -3484,6 +3496,12 @@
       "STEAM"
     ]
   },
+  "big dig": {
+    "name": "Big Dig",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "big dig demo": {
     "name": "Big Dig Demo",
     "stores": [
@@ -4932,6 +4950,12 @@
   },
   "caravan sandwitch": {
     "name": "Caravan SandWitch",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "caravanserai simulator demo": {
+    "name": "Caravanserai Simulator Demo",
     "stores": [
       "STEAM"
     ]
@@ -7939,6 +7963,12 @@
       "STEAM"
     ]
   },
+  "defentrix": {
+    "name": "Defentrix",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "deliver us mars": {
     "name": "Deliver Us Mars",
     "stores": [
@@ -9697,6 +9727,12 @@
       "STEAM"
     ]
   },
+  "ecstatica demo": {
+    "name": "Ecstatica Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "edge of eternity": {
     "name": "Edge Of Eternity",
     "stores": [
@@ -10966,6 +11002,12 @@
       "STEAM"
     ]
   },
+  "fallen sword ii demo": {
+    "name": "Fallen Sword II Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "fallen symphony demo": {
     "name": "Fallen Symphony Demo",
     "stores": [
@@ -11330,6 +11372,12 @@
       "STEAM"
     ]
   },
+  "fear tall grass demo": {
+    "name": "Fear Tall Grass Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "fear the wolves": {
     "name": "Fear The Wolves",
     "stores": [
@@ -11664,6 +11712,12 @@
   },
   "fluffy sailors demo": {
     "name": "Fluffy Sailors Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "fluxwerks": {
+    "name": "FluxWerks",
     "stores": [
       "STEAM"
     ]
@@ -12539,6 +12593,12 @@
   },
   "genome guardian 2": {
     "name": "Genome Guardian 2",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "genome guardian 2 demo": {
+    "name": "Genome Guardian 2 Demo",
     "stores": [
       "STEAM"
     ]
@@ -20119,6 +20179,12 @@
       "STEAM"
     ]
   },
+  "nekome nazi hunter demo": {
+    "name": "Nekome: Nazi Hunter Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "nekuia": {
     "name": "Nekuia",
     "stores": [
@@ -21011,6 +21077,12 @@
   },
   "olija demo": {
     "name": "Olija Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "omea demo": {
+    "name": "OMEA Demo",
     "stores": [
       "STEAM"
     ]
@@ -22586,6 +22658,12 @@
   },
   "plague inc evolved": {
     "name": "Plague Inc: Evolved",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "plague inc the board game the video game demo": {
+    "name": "Plague Inc: The Board Game: The Video Game Demo",
     "stores": [
       "STEAM"
     ]
@@ -27695,6 +27773,12 @@
       "STEAM"
     ]
   },
+  "sombie demo": {
+    "name": "Sombie Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "sombras negative frames demo": {
     "name": "SOMBRAS: negative frames Demo",
     "stores": [
@@ -29337,6 +29421,12 @@
   },
   "strange encounter": {
     "name": "Strange Encounter",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "strange horticulture": {
+    "name": "Strange Horticulture",
     "stores": [
       "STEAM"
     ]
@@ -34476,6 +34566,12 @@
       "XBOX"
     ]
   },
+  "tropico 7 demo": {
+    "name": "Tropico 7 - Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "troublemaker": {
     "name": "Troublemaker",
     "stores": [
@@ -34958,6 +35054,12 @@
       "STEAM"
     ]
   },
+  "underground chapter 1": {
+    "name": "Underground: Chapter 1",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "underground garage": {
     "name": "Underground Garage",
     "stores": [
@@ -35359,6 +35461,12 @@
   },
   "vein": {
     "name": "VEIN",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "velocity midnight run demo": {
+    "name": "Velocity - Midnight Run Demo",
     "stores": [
       "STEAM"
     ]
@@ -35863,6 +35971,12 @@
       "BATTLENET"
     ]
   },
+  "warding witches": {
+    "name": "Warding Witches",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "warding witches demo": {
     "name": "Warding Witches Demo",
     "stores": [
@@ -36342,6 +36456,12 @@
   },
   "welcome to the game ii": {
     "name": "Welcome to the Game II",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "werewolf hunter night of horror demo": {
+    "name": "Werewolf Hunter: Night of Horror Demo",
     "stores": [
       "STEAM"
     ]

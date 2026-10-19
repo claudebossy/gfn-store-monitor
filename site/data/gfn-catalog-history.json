@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T13:10:06+00:00",
+  "generated_at": "2026-10-19T22:19:43+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -5050,6 +5050,136 @@
           ]
         }
       ]
+    },
+    {
+      "timestamp": "2026-10-19T22:19:43+00:00",
+      "baseline": false,
+      "catalog_game_count": 6175,
+      "new_game_count": 20,
+      "new_store_count": 0,
+      "new_games": [
+        {
+          "name": "Anywhere RPG Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Architecture & Design",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Big Dig",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Caravanserai Simulator Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Defentrix",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Ecstatica Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Fallen Sword II Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Fear Tall Grass Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "FluxWerks",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Genome Guardian 2 Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Nekome: Nazi Hunter Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "OMEA Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Plague Inc: The Board Game: The Video Game Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Sombie Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Strange Horticulture",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Tropico 7 - Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Underground: Chapter 1",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Velocity - Midnight Run Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Warding Witches",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Werewolf Hunter: Night of Horror Demo",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
+      "new_stores": []
     }
   ]
 }
