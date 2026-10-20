@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T11:49:15+00:00",
+  "generated_at": "2026-10-20T17:18:05+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,7 +13,7 @@
     }
   },
   "counts": {
-    "gfn_titles": 6175,
+    "gfn_titles": 6177,
     "xbox_game_pass_titles": 899,
     "catalog_titles": 684,
     "intersection_titles": 399,
@@ -27046,7 +27046,7 @@
       "publisher": "Embark Studios AB",
       "developer": "Embark Studios AB",
       "release_date": "2023-12-08T04:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.15427.14187080498030026.0dd8c398-3cd8-46a2-a68f-9c4f3d2d879b.59ee74ee-1be0-4d6f-9f03-f75afa5d0eda",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.27851.14187080498030026.59e4e911-b9e6-4100-966e-ab13c66cf874.8706c7f1-8fe5-4b12-82d4-afe098729420",
       "description": "THE FINALS is the ultimate virtual combat game show, where you and your team fight for fame, riches, and the favor of generous seasonal sponsors. This free-to-play, team-based, first-person shooter pits contestants against each other in Virtual Arenas based on iconic real-world locations that can be altered and even destroyed.",
       "match_type": "exact-title",
       "match_score": 120,
