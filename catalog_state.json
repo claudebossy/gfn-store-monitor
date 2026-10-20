@@ -1885,6 +1885,12 @@
       "STEAM"
     ]
   },
+  "architecture design demo": {
+    "name": "Architecture & Design Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "archival anemoia": {
     "name": "Archival Anemoia",
     "stores": [
@@ -31837,6 +31843,12 @@
   },
   "the hungry fly": {
     "name": "The Hungry Fly",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "the idle undead demo": {
+    "name": "The Idle Undead Demo",
     "stores": [
       "STEAM"
     ]
