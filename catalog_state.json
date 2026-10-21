@@ -7072,6 +7072,12 @@
       "STEAM"
     ]
   },
+  "cutout village": {
+    "name": "Cutout Village",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "cutout village demo": {
     "name": "Cutout Village Demo",
     "stores": [
@@ -15064,6 +15070,12 @@
       "STEAM"
     ]
   },
+  "hunting simulator 3 demo": {
+    "name": "Hunting Simulator 3 Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "hunting simulator demo": {
     "name": "Hunting Simulator Demo",
     "stores": [
@@ -16768,6 +16780,12 @@
   },
   "kromlech": {
     "name": "Kromlech",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "kron wars": {
+    "name": "Kron Wars",
     "stores": [
       "STEAM"
     ]

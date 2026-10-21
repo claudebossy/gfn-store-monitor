@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T11:45:46+00:00",
+  "generated_at": "2026-10-21T17:09:50+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -5246,6 +5246,34 @@
       "new_game_count": 0,
       "new_store_count": 0,
       "new_games": [],
+      "new_stores": []
+    },
+    {
+      "timestamp": "2026-10-21T17:09:50+00:00",
+      "baseline": false,
+      "catalog_game_count": 6180,
+      "new_game_count": 3,
+      "new_store_count": 0,
+      "new_games": [
+        {
+          "name": "Cutout Village",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Hunting Simulator 3 Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Kron Wars",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
       "new_stores": []
     }
   ]
