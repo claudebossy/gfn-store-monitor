@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T12:04:51+00:00",
+  "updated_at": "2026-10-22T17:18:37+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -8986,37 +8986,37 @@
     "dune awakening": {
       "title": "Dune: Awakening",
       "status": "matched",
-      "fetched_at": "2026-09-22T17:02:58+00:00",
+      "fetched_at": "2026-10-22T17:18:35+00:00",
       "data": {
         "title": "Dune: Awakening",
         "game_id": 18178,
         "url": "https://opencritic.com/game/18178/dune-awakening",
-        "top_critic_score": 80.3,
-        "percent_recommended": 80.8,
+        "top_critic_score": 80.5,
+        "percent_recommended": 79.2,
         "tier": "Strong",
         "median_score": 80,
-        "review_count": 80,
+        "review_count": 98,
         "release_year": 2025,
         "match_type": "exact",
-        "match_score": 139
+        "match_score": 145
       }
     },
     "well dweller": {
       "title": "Well Dweller",
       "status": "matched",
-      "fetched_at": "2026-09-22T17:03:03+00:00",
+      "fetched_at": "2026-10-22T17:18:37+00:00",
       "data": {
         "title": "Well Dweller",
         "game_id": 21304,
         "url": "https://opencritic.com/game/21304/well-dweller",
-        "top_critic_score": 90.4,
-        "percent_recommended": 100.0,
+        "top_critic_score": 86.6,
+        "percent_recommended": 91.5,
         "tier": "Mighty",
         "median_score": 90,
-        "review_count": 17,
+        "review_count": 47,
         "release_year": 2026,
         "match_type": "exact",
-        "match_score": 147
+        "match_score": 149
       }
     },
     "mad king redemption": {

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T12:04:03+00:00",
+  "generated_at": "2026-10-22T17:18:19+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,7 +13,7 @@
     }
   },
   "counts": {
-    "gfn_titles": 6182,
+    "gfn_titles": 6184,
     "xbox_game_pass_titles": 898,
     "catalog_titles": 684,
     "intersection_titles": 399,
@@ -88,7 +88,7 @@
     "xbox_only_titles": 285,
     "hltb_matches": 495,
     "opencritic_matches": 562,
-    "short_game_score_matches": 357,
+    "short_game_score_matches": 358,
     "exact_matches": 368,
     "partial_matches": 31
   },
@@ -8916,13 +8916,13 @@
         "game_id": 118779,
         "url": "https://howlongtobeat.com/game/118779",
         "image_url": "https://howlongtobeat.com/games/118779_Dune_Awakening.jpg",
-        "main_story_seconds": 213120,
-        "review_score": 77,
-        "completion_count": 58,
+        "main_story_seconds": 184582,
+        "review_score": 74,
+        "completion_count": 66,
         "release_year": 2025,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 130,
+        "match_score": 136,
         "genres": [
           "Action",
           "Open World",
@@ -8933,20 +8933,20 @@
         "title": "Dune: Awakening",
         "game_id": 18178,
         "url": "https://opencritic.com/game/18178/dune-awakening",
-        "top_critic_score": 80.3,
-        "percent_recommended": 80.8,
+        "top_critic_score": 80.5,
+        "percent_recommended": 79.2,
         "tier": "Strong",
         "median_score": 80,
-        "review_count": 80,
+        "review_count": 98,
         "release_year": 2025,
         "match_type": "exact",
-        "match_score": 139
+        "match_score": 145
       },
       "short_game_score": {
-        "score": 56.2,
-        "critic_score": 80.3,
+        "score": 56.3,
+        "critic_score": 80.5,
         "duration_fit_score": 0.0,
-        "main_story_hours": 59.2,
+        "main_story_hours": 51.3,
         "target_hours": 15.0
       }
     },
@@ -31202,11 +31202,11 @@
         "game_id": 172190,
         "url": "https://howlongtobeat.com/game/172190",
         "image_url": "https://howlongtobeat.com/games/172190_Well_Dweller.jpg",
-        "main_story_seconds": null,
-        "review_score": null,
-        "completion_count": 1,
+        "main_story_seconds": 31649,
+        "review_score": 85,
+        "completion_count": 232,
         "release_year": 2026,
-        "profile_platform": "Nintendo Switch, Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
+        "profile_platform": "Nintendo Switch, Nintendo Switch 2, PC, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
         "match_score": 142,
         "genres": [
@@ -31220,16 +31220,22 @@
         "title": "Well Dweller",
         "game_id": 21304,
         "url": "https://opencritic.com/game/21304/well-dweller",
-        "top_critic_score": 90.4,
-        "percent_recommended": 100.0,
+        "top_critic_score": 86.6,
+        "percent_recommended": 91.5,
         "tier": "Mighty",
         "median_score": 90,
-        "review_count": 17,
+        "review_count": 47,
         "release_year": 2026,
         "match_type": "exact",
-        "match_score": 147
+        "match_score": 149
       },
-      "short_game_score": null
+      "short_game_score": {
+        "score": 90.6,
+        "critic_score": 86.6,
+        "duration_fit_score": 100.0,
+        "main_story_hours": 8.8,
+        "target_hours": 15.0
+      }
     },
     {
       "catalog_group": "xbox-only",
