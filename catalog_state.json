@@ -6747,6 +6747,7 @@
   "crimson desert enhanced": {
     "name": "Crimson Desert Enhanced",
     "stores": [
+      "EPIC",
       "STEAM",
       "XBOX"
     ]
