@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T21:49:03+00:00",
+  "generated_at": "2026-10-22T05:01:15+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,11 +13,11 @@
     }
   },
   "counts": {
-    "gfn_titles": 6181,
-    "xbox_game_pass_titles": 897,
-    "catalog_titles": 683,
+    "gfn_titles": 6182,
+    "xbox_game_pass_titles": 898,
+    "catalog_titles": 684,
     "intersection_titles": 399,
-    "xbox_only_titles": 284
+    "xbox_only_titles": 285
   },
   "summary": {
     "store_counts": {
@@ -85,9 +85,9 @@
     ],
     "gfn_xbox_store_matches": 200,
     "intersection_titles": 399,
-    "xbox_only_titles": 284,
-    "hltb_matches": 494,
-    "opencritic_matches": 561,
+    "xbox_only_titles": 285,
+    "hltb_matches": 495,
+    "opencritic_matches": 562,
     "short_game_score_matches": 357,
     "exact_matches": 368,
     "partial_matches": 31
@@ -8122,6 +8122,56 @@
         "main_story_hours": 17.7,
         "target_hours": 15.0
       }
+    },
+    {
+      "catalog_group": "xbox-only",
+      "is_on_gfn": false,
+      "title": "Dodo Duckie",
+      "normalized_title": "dodo duckie",
+      "gfn_stores": [],
+      "gfn_has_xbox_store": false,
+      "xbox_title": "Dodo Duckie",
+      "xbox_product_id": "9P7S9F02293J",
+      "xbox_url": "https://www.microsoft.com/store/productId/9P7S9F02293J",
+      "publisher": "BornMonkie",
+      "developer": "BornMonkie",
+      "release_date": "2026-07-23T17:00:00.0000000Z",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.13916.14101741972261561.f51063ee-b9b9-4aed-b2ba-df511d794b2e.7003fdc6-d444-4ac3-8d0b-b361296abea9",
+      "description": "You’re a DUCK! with one special cap that gives you the power to switch between 2D and 3D. Use it to explore, switch perspectives, solve puzzles and save your chicken friends.",
+      "match_type": "xbox-only",
+      "match_score": 0,
+      "howlongtobeat": {
+        "title": "Dodo Duckie!",
+        "game_id": 172173,
+        "url": "https://howlongtobeat.com/game/172173",
+        "image_url": "https://howlongtobeat.com/games/172173_Dodo_Duckie.jpeg",
+        "main_story_seconds": 14400,
+        "review_score": 78,
+        "completion_count": 3,
+        "release_year": 2026,
+        "profile_platform": "Linux, Nintendo Switch, PC, PlayStation 5, Xbox Series X/S",
+        "match_type": "exact",
+        "match_score": 138,
+        "genres": [
+          "Third-Person",
+          "Platform",
+          "Puzzle"
+        ]
+      },
+      "opencritic": {
+        "title": "Dodo Duckie",
+        "game_id": 21205,
+        "url": "https://opencritic.com/game/21205/dodo-duckie",
+        "top_critic_score": null,
+        "percent_recommended": 100.0,
+        "tier": null,
+        "median_score": null,
+        "review_count": 5,
+        "release_year": 2026,
+        "match_type": "exact",
+        "match_score": 147
+      },
+      "short_game_score": null
     },
     {
       "catalog_group": "intersection",

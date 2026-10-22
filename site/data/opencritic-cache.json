@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T21:49:19+00:00",
+  "updated_at": "2026-10-22T05:02:15+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -11408,6 +11408,24 @@
         "tier": null,
         "median_score": null,
         "review_count": 4,
+        "release_year": 2026,
+        "match_type": "exact",
+        "match_score": 147
+      }
+    },
+    "dodo duckie": {
+      "title": "Dodo Duckie",
+      "status": "matched",
+      "fetched_at": "2026-10-22T05:01:34+00:00",
+      "data": {
+        "title": "Dodo Duckie",
+        "game_id": 21205,
+        "url": "https://opencritic.com/game/21205/dodo-duckie",
+        "top_critic_score": null,
+        "percent_recommended": 100.0,
+        "tier": null,
+        "median_score": null,
+        "review_count": 5,
         "release_year": 2026,
         "match_type": "exact",
         "match_score": 147
