@@ -6371,6 +6371,7 @@
   "control resonant": {
     "name": "CONTROL Resonant",
     "stores": [
+      "EPIC",
       "STEAM"
     ]
   },
@@ -8032,6 +8033,12 @@
   },
   "demonologist": {
     "name": "Demonologist",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "demons night fever": {
+    "name": "DEMONS' NIGHT FEVER",
     "stores": [
       "STEAM"
     ]
@@ -20012,6 +20019,12 @@
       "STEAM"
     ]
   },
+  "mycelium the silent contract": {
+    "name": "Mycelium: The Silent Contract",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "mycopunk": {
     "name": "Mycopunk",
     "stores": [
@@ -22794,7 +22807,8 @@
   "planet zoo 2": {
     "name": "Planet Zoo 2",
     "stores": [
-      "STEAM"
+      "STEAM",
+      "XBOX"
     ]
   },
   "planetaries": {

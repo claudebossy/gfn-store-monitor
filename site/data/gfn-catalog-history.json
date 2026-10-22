@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T11:48:51+00:00",
+  "generated_at": "2026-10-22T17:08:27+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -5316,6 +5316,49 @@
       "new_store_count": 0,
       "new_games": [],
       "new_stores": []
+    },
+    {
+      "timestamp": "2026-10-22T17:08:27+00:00",
+      "baseline": false,
+      "catalog_game_count": 6184,
+      "new_game_count": 2,
+      "new_store_count": 2,
+      "new_games": [
+        {
+          "name": "DEMONS' NIGHT FEVER",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Mycelium: The Silent Contract",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
+      "new_stores": [
+        {
+          "name": "CONTROL Resonant",
+          "stores": [
+            "EPIC",
+            "STEAM"
+          ],
+          "new_stores": [
+            "EPIC"
+          ]
+        },
+        {
+          "name": "Planet Zoo 2",
+          "stores": [
+            "STEAM",
+            "XBOX"
+          ],
+          "new_stores": [
+            "XBOX"
+          ]
+        }
+      ]
     }
   ]
 }
