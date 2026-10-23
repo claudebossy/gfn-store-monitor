@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T11:49:21+00:00",
+  "updated_at": "2026-10-23T17:16:22+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -7072,16 +7072,16 @@
     "tcg card shop simulator": {
       "title": "TCG Card Shop Simulator",
       "status": "matched",
-      "fetched_at": "2026-09-23T11:51:29+00:00",
+      "fetched_at": "2026-10-23T17:16:21+00:00",
       "data": {
         "title": "TCG: Card Shop Simulator",
         "game_id": 21392,
         "url": "https://opencritic.com/game/21392/tcg-card-shop-simulator",
-        "top_critic_score": null,
-        "percent_recommended": 40.0,
-        "tier": null,
+        "top_critic_score": 81.0,
+        "percent_recommended": 72.7,
+        "tier": "Strong",
         "median_score": 80,
-        "review_count": 5,
+        "review_count": 11,
         "release_year": 2026,
         "match_type": "exact",
         "match_score": 147

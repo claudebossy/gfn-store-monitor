@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T11:49:01+00:00",
+  "generated_at": "2026-10-23T17:16:03+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,7 +13,7 @@
     }
   },
   "counts": {
-    "gfn_titles": 6185,
+    "gfn_titles": 6186,
     "xbox_game_pass_titles": 898,
     "catalog_titles": 684,
     "intersection_titles": 399,
@@ -88,7 +88,7 @@
     "xbox_only_titles": 285,
     "hltb_matches": 495,
     "opencritic_matches": 562,
-    "short_game_score_matches": 358,
+    "short_game_score_matches": 359,
     "exact_matches": 368,
     "partial_matches": 31
   },
@@ -21994,8 +21994,8 @@
       "publisher": "Sloclap, Kepler Interactive",
       "developer": "Sloclap",
       "release_date": "2025-06-19T10:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.6707.14036668029170653.6510dadb-d349-4a75-b762-95e6550fdd9b.d5b36e28-53c0-460b-b8bb-7b97e3335433",
-      "description": "Rematch is an online multiplayer football game. \nControl one player on your team and compete in fast-paced 5v5 matches from an immersive third-person perspective. Team up with your friends and join the action!",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.32652.14036668029170653.97838000-87b6-4a56-9c79-e4eddcea3b6f.0e8acd37-4ade-4b98-b9a1-3ce6befe26d8",
+      "description": "Control one player in fast-paced online football matches from an immersive third-person perspective. Team up with friends in teams of 3, 4 or 5, show off your skills, and make every move count.",
       "match_type": "exact-title",
       "match_score": 120,
       "howlongtobeat": {
@@ -26103,16 +26103,22 @@
         "title": "TCG: Card Shop Simulator",
         "game_id": 21392,
         "url": "https://opencritic.com/game/21392/tcg-card-shop-simulator",
-        "top_critic_score": null,
-        "percent_recommended": 40.0,
-        "tier": null,
+        "top_critic_score": 81.0,
+        "percent_recommended": 72.7,
+        "tier": "Strong",
         "median_score": 80,
-        "review_count": 5,
+        "review_count": 11,
         "release_year": 2026,
         "match_type": "exact",
         "match_score": 147
       },
-      "short_game_score": null
+      "short_game_score": {
+        "score": 69.7,
+        "critic_score": 81.0,
+        "duration_fit_score": 43.3,
+        "main_story_hours": 30.3,
+        "target_hours": 15.0
+      }
     },
     {
       "catalog_group": "xbox-only",
