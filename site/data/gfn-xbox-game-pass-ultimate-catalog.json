@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T11:14:47+00:00",
+  "generated_at": "2026-10-24T16:03:36+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -221,7 +221,7 @@
       "publisher": "Hooded Horse",
       "developer": "Sad Socket",
       "release_date": "2025-08-14T13:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.17545.13735777332261166.fa12b139-0a12-43d8-b337-7c9e9d314404.483d67f0-6b9c-4617-b9dd-78ea04ee5301",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.30483.13735777332261166.046c4476-2fdb-4636-af17-eba2edfec19a.664f1e7f-e451-42b0-ab21-894af5236c52",
       "description": "A fast-paced roguelike kingdom builder. Grow your empire and fight massive battles against powerful rival kings. Break the game with thousands of insane builds to become the King of Kings.",
       "match_type": "exact-title",
       "match_score": 120,
