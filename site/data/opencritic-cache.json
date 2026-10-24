@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T16:03:57+00:00",
+  "updated_at": "2026-10-24T20:57:37+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -8968,16 +8968,16 @@
     "kernel hearts": {
       "title": "Kernel Hearts",
       "status": "matched",
-      "fetched_at": "2026-09-24T17:18:29+00:00",
+      "fetched_at": "2026-10-24T20:57:36+00:00",
       "data": {
         "title": "Kernel Hearts",
         "game_id": 21419,
         "url": "https://opencritic.com/game/21419/kernel-hearts",
         "top_critic_score": null,
-        "percent_recommended": null,
+        "percent_recommended": 41.7,
         "tier": null,
-        "median_score": null,
-        "review_count": 3,
+        "median_score": 75,
+        "review_count": 12,
         "release_year": 2026,
         "match_type": "exact",
         "match_score": 147

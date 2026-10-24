@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T16:03:36+00:00",
+  "generated_at": "2026-10-24T20:57:18+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -15787,10 +15787,10 @@
         "game_id": 21419,
         "url": "https://opencritic.com/game/21419/kernel-hearts",
         "top_critic_score": null,
-        "percent_recommended": null,
+        "percent_recommended": 41.7,
         "tier": null,
-        "median_score": null,
-        "review_count": 3,
+        "median_score": 75,
+        "review_count": 12,
         "release_year": 2026,
         "match_type": "exact",
         "match_score": 147
