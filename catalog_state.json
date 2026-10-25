@@ -6819,8 +6819,8 @@
       "STEAM"
     ]
   },
-  "crossout": {
-    "name": "Crossout",
+  "crossout remastered": {
+    "name": "Crossout Remastered",
     "stores": [
       "STEAM"
     ]
@@ -19442,6 +19442,12 @@
   },
   "monster jam showdown": {
     "name": "Monster Jam™ Showdown",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "monster lab simulator": {
+    "name": "Monster Lab Simulator",
     "stores": [
       "STEAM"
     ]
