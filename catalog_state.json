@@ -4997,6 +4997,12 @@
       "STEAM"
     ]
   },
+  "cardtographer": {
+    "name": "Cardtographer",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "cardtographer demo": {
     "name": "Cardtographer Demo",
     "stores": [
@@ -9747,8 +9753,20 @@
       "STEAM"
     ]
   },
+  "ecstatica": {
+    "name": "Ecstatica",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "ecstatica demo": {
     "name": "Ecstatica Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "ecstatica ii": {
+    "name": "Ecstatica II",
     "stores": [
       "STEAM"
     ]
@@ -29859,6 +29877,12 @@
       "STEAM"
     ]
   },
+  "sumoo": {
+    "name": "SUMOO",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "sumoo demo": {
     "name": "SUMOO Demo",
     "stores": [
@@ -33402,6 +33426,12 @@
   },
   "time breaker": {
     "name": "TIME BREAKER",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "time commando": {
+    "name": "Time Commando",
     "stores": [
       "STEAM"
     ]
