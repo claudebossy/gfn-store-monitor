@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T13:17:08+00:00",
+  "generated_at": "2026-10-26T22:45:08+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,11 +13,11 @@
     }
   },
   "counts": {
-    "gfn_titles": 6187,
-    "xbox_game_pass_titles": 898,
-    "catalog_titles": 684,
+    "gfn_titles": 6192,
+    "xbox_game_pass_titles": 899,
+    "catalog_titles": 685,
     "intersection_titles": 399,
-    "xbox_only_titles": 285
+    "xbox_only_titles": 286
   },
   "summary": {
     "store_counts": {
@@ -85,7 +85,7 @@
     ],
     "gfn_xbox_store_matches": 200,
     "intersection_titles": 399,
-    "xbox_only_titles": 285,
+    "xbox_only_titles": 286,
     "hltb_matches": 493,
     "opencritic_matches": 562,
     "short_game_score_matches": 359,
@@ -23152,6 +23152,27 @@
         "match_type": "exact",
         "match_score": 135
       },
+      "short_game_score": null
+    },
+    {
+      "catalog_group": "xbox-only",
+      "is_on_gfn": false,
+      "title": "Scramble Knights Online (Game Preview)",
+      "normalized_title": "scramble knights online game preview",
+      "gfn_stores": [],
+      "gfn_has_xbox_store": false,
+      "xbox_title": "Scramble Knights Online (Game Preview)",
+      "xbox_product_id": "9NK039GWVTVC",
+      "xbox_url": "https://www.microsoft.com/store/productId/9NK039GWVTVC",
+      "publisher": "Funktronic Labs",
+      "developer": "Funktronic Labs",
+      "release_date": "2025-12-10T10:00:00.0000000Z",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.37486.13666925911831228.39a643d8-0904-4270-b0a3-7b063f9c1c1d.7df927e8-1a50-47b9-8421-e912d5c240ae",
+      "description": "This game is a work in progress. It may or may not change over time or release as a final product. Purchase only if you are comfortable with the current state of the unfinished game.\n\nAdventure with friends in this MMO-lite action RPG! Explore the shared online kingdom of Terracott as a knight-in-training. Team up to conquer dungeons, slay monsters, discover rare loot, and return home to forge powerful new gear before setting out on your next quest.",
+      "match_type": "xbox-only",
+      "match_score": 0,
+      "howlongtobeat": null,
+      "opencritic": null,
       "short_game_score": null
     },
     {
