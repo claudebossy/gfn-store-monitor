@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T12:24:15+00:00",
+  "generated_at": "2026-10-27T22:23:53+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,15 +13,15 @@
     }
   },
   "counts": {
-    "gfn_titles": 6192,
-    "xbox_game_pass_titles": 899,
-    "catalog_titles": 685,
-    "intersection_titles": 399,
+    "gfn_titles": 6197,
+    "xbox_game_pass_titles": 900,
+    "catalog_titles": 686,
+    "intersection_titles": 400,
     "xbox_only_titles": 286
   },
   "summary": {
     "store_counts": {
-      "STEAM": 358,
+      "STEAM": 359,
       "XBOX": 200,
       "EPIC": 75,
       "UPLAY": 65,
@@ -84,12 +84,12 @@
       }
     ],
     "gfn_xbox_store_matches": 200,
-    "intersection_titles": 399,
+    "intersection_titles": 400,
     "xbox_only_titles": 286,
-    "hltb_matches": 493,
-    "opencritic_matches": 562,
-    "short_game_score_matches": 359,
-    "exact_matches": 368,
+    "hltb_matches": 494,
+    "opencritic_matches": 563,
+    "short_game_score_matches": 360,
+    "exact_matches": 369,
     "partial_matches": 31
   },
   "games": [
@@ -6771,7 +6771,7 @@
       "publisher": "Behaviour Interactive Inc.",
       "developer": "Behaviour Interactive Inc.",
       "release_date": "2017-06-23T00:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.51158.64366672042187759.099a5916-8b59-4db9-9ba3-146ee8e5afbb.3af5a707-fc52-4dd8-924a-07d384e361b0",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.51458.64366672042187759.733004ed-c696-44cf-98cc-30eddf2375a8.33981a4c-a34b-4492-b81f-8695c017496b",
       "description": "Trapped forever in a realm of eldritch evil where even death is not an escape, four determined Survivors face a bloodthirsty Killer in a vicious game of nerve and wits. Pick a side and step into a world of tension and terror with horror gaming's best asymmetrical multiplayer.",
       "match_type": "exact-title",
       "match_score": 120,
@@ -27784,6 +27784,62 @@
     {
       "catalog_group": "intersection",
       "is_on_gfn": true,
+      "title": "The Séance of Blake Manor",
+      "normalized_title": "the séance of blake manor",
+      "gfn_stores": [
+        "STEAM"
+      ],
+      "gfn_has_xbox_store": false,
+      "xbox_title": "The Séance of Blake Manor",
+      "xbox_product_id": "9PNRLJNDPP4G",
+      "xbox_url": "https://www.microsoft.com/store/productId/9PNRLJNDPP4G",
+      "publisher": "Raw Fury",
+      "developer": "Spooky Doorway",
+      "release_date": "2026-10-27T15:00:00.0000000Z",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.58589.14338899831126037.9571fdec-43b9-45e0-87e0-6beb38254966.921ef682-7a46-4ec0-889f-bf0df78f016d",
+      "description": "The Séance of Blake Manor is a supernatural detective mystery, set in 1897 Ireland, where you investigate the disappearance of Evelyn Deane in a remote hotel full of secrets and other-worldly occurrences.",
+      "match_type": "exact-title",
+      "match_score": 120,
+      "howlongtobeat": {
+        "title": "The Séance of Blake Manor",
+        "game_id": 165387,
+        "url": "https://howlongtobeat.com/game/165387",
+        "image_url": "https://howlongtobeat.com/games/165387_The_Sance_of_Blake_Manor.jpg",
+        "main_story_seconds": 56239,
+        "review_score": 85,
+        "completion_count": 310,
+        "release_year": 2025,
+        "profile_platform": "Linux, Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
+        "match_type": "exact",
+        "match_score": 136,
+        "genres": [
+          "Adventure"
+        ]
+      },
+      "opencritic": {
+        "title": "The Séance of Blake Manor",
+        "game_id": 19582,
+        "url": "https://opencritic.com/game/19582/the-s-ance-of-blake-manor",
+        "top_critic_score": 89.7,
+        "percent_recommended": 95.7,
+        "tier": "Mighty",
+        "median_score": 90,
+        "review_count": 23,
+        "release_year": 2025,
+        "match_type": "exact",
+        "match_score": 142
+      },
+      "short_game_score": {
+        "score": 92.4,
+        "critic_score": 89.7,
+        "duration_fit_score": 98.6,
+        "main_story_hours": 15.6,
+        "target_hours": 15.0
+      }
+    },
+    {
+      "catalog_group": "intersection",
+      "is_on_gfn": true,
       "title": "The Talos Principle 2",
       "normalized_title": "the talos principle 2",
       "gfn_stores": [
@@ -29857,7 +29913,7 @@
       "publisher": "Riot Games",
       "developer": "Riot Games",
       "release_date": "2024-08-02T16:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.17312.13898029070941789.8d58b251-455c-4993-a1fd-1d77e8261eaf.8291ef5a-305d-4750-8231-0467ee0d1da0",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.30107.13898029070941789.b9070612-bb75-4081-8f05-4acaf8e47425.c299c14e-745b-45c7-bdfd-d7d8c2348321",
       "description": null,
       "match_type": "xbox-only",
       "match_score": 0,
@@ -29912,7 +29968,7 @@
       "publisher": "Riot Games",
       "developer": "Riot Games",
       "release_date": "2022-12-12T00:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.17312.13663857844271189.42ac3116-ce9d-40e2-939f-ca94e72c04a8.60fe8f10-4191-45dd-8a2c-21eb91fb7ac2",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.30107.13663857844271189.005b5800-25c5-439e-8a6e-fdb02b928900.5a37cd3f-3d64-49fd-b6a1-14cc3855f770",
       "description": "VALORANT is a character-based 5v5 tactical shooter set on the global stage. Outwit, outplay, and outshine your competition with tactical abilities, precise gunplay, and adaptive teamwork.\r\n\r\nWith Game Pass, members will unlock: \r\n●\tAll current Agents \r\n●\tDay-one access to every new Agent as they're released\r\n●\t20% Match XP boost given to Battlepass, Event Pass, and active Agent Contract progress.",
       "match_type": "xbox-only",
       "match_score": 0,

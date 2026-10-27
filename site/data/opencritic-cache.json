@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T12:24:30+00:00",
+  "updated_at": "2026-10-27T22:24:08+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -11436,6 +11436,24 @@
       "status": "not_found",
       "fetched_at": "2026-10-26T22:46:16+00:00",
       "data": null
+    },
+    "the séance of blake manor": {
+      "title": "The Séance of Blake Manor",
+      "status": "matched",
+      "fetched_at": "2026-10-27T22:24:06+00:00",
+      "data": {
+        "title": "The Séance of Blake Manor",
+        "game_id": 19582,
+        "url": "https://opencritic.com/game/19582/the-s-ance-of-blake-manor",
+        "top_critic_score": 89.7,
+        "percent_recommended": 95.7,
+        "tier": "Mighty",
+        "median_score": 90,
+        "review_count": 23,
+        "release_year": 2025,
+        "match_type": "exact",
+        "match_score": 142
+      }
     }
   }
 }
