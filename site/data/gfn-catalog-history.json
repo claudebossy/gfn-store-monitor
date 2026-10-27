@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T12:08:15+00:00",
+  "generated_at": "2026-10-27T17:59:10+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -5611,6 +5611,84 @@
       "new_game_count": 0,
       "new_store_count": 0,
       "new_games": [],
+      "new_stores": []
+    },
+    {
+      "timestamp": "2026-10-27T17:59:10+00:00",
+      "baseline": false,
+      "catalog_game_count": 6197,
+      "new_game_count": 11,
+      "new_store_count": 0,
+      "new_games": [
+        {
+          "name": "Amazing Cultivation Simulator",
+          "stores": [
+            "STEAM",
+            "XBOX"
+          ]
+        },
+        {
+          "name": "Anywhere RPG",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Coal Duty",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Megaris",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Ride 4",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "RiME",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Star Conflict",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "SUSPENCIL",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Trials® Rising",
+          "stores": [
+            "STEAM",
+            "UPLAY"
+          ]
+        },
+        {
+          "name": "Virtue and a Sledgehammer",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Welcome to ParadiZe",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
       "new_stores": []
     }
   ]

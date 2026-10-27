@@ -1271,6 +1271,13 @@
       "STEAM"
     ]
   },
+  "amazing cultivation simulator": {
+    "name": "Amazing Cultivation Simulator",
+    "stores": [
+      "STEAM",
+      "XBOX"
+    ]
+  },
   "amberial dreams": {
     "name": "Amberial Dreams",
     "stores": [
@@ -1658,6 +1665,12 @@
   },
   "anyway": {
     "name": "!AnyWay!",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "anywhere rpg": {
+    "name": "Anywhere RPG",
     "stores": [
       "STEAM"
     ]
@@ -6021,6 +6034,12 @@
   },
   "clutchtime basketball deckbuilder": {
     "name": "Clutchtime™: Basketball Deckbuilder",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "coal duty": {
+    "name": "Coal Duty",
     "stores": [
       "STEAM"
     ]
@@ -18717,6 +18736,12 @@
       "STEAM"
     ]
   },
+  "megaris": {
+    "name": "Megaris",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "megastore simulator": {
     "name": "Megastore Simulator",
     "stores": [
@@ -24959,6 +24984,12 @@
       "STEAM"
     ]
   },
+  "ride 4": {
+    "name": "Ride 4",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "ride 5": {
     "name": "RIDE 5",
     "stores": [
@@ -24987,6 +25018,12 @@
   },
   "rightfully beary arms": {
     "name": "Rightfully, Beary Arms",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "rime": {
+    "name": "RiME",
     "stores": [
       "STEAM"
     ]
@@ -28641,6 +28678,12 @@
       "STEAM"
     ]
   },
+  "star conflict": {
+    "name": "Star Conflict",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "star control origins": {
     "name": "Star Control®: Origins",
     "stores": [
@@ -30249,6 +30292,12 @@
     "name": "Surviving The Aftermath",
     "stores": [
       "EPIC",
+      "STEAM"
+    ]
+  },
+  "suspencil": {
+    "name": "SUSPENCIL",
+    "stores": [
       "STEAM"
     ]
   },
@@ -34463,6 +34512,13 @@
       "UPLAY"
     ]
   },
+  "trials rising": {
+    "name": "Trials® Rising",
+    "stores": [
+      "STEAM",
+      "UPLAY"
+    ]
+  },
   "tribe primitive builder": {
     "name": "Tribe: Primitive Builder",
     "stores": [
@@ -35672,6 +35728,12 @@
       "STEAM"
     ]
   },
+  "virtue and a sledgehammer": {
+    "name": "Virtue and a Sledgehammer",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "virus x": {
     "name": "Virus X",
     "stores": [
@@ -36518,6 +36580,12 @@
   },
   "welcome to elderfield": {
     "name": "Welcome to Elderfield",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "welcome to paradize": {
+    "name": "Welcome to ParadiZe",
     "stores": [
       "STEAM"
     ]
