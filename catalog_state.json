@@ -995,6 +995,12 @@
       "STEAM"
     ]
   },
+  "airport contraband": {
+    "name": "Airport Contraband",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "airport contraband demo": {
     "name": "Airport Contraband Demo",
     "stores": [
@@ -27961,6 +27967,12 @@
   },
   "sorry we re closed": {
     "name": "Sorry We're Closed",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "soul general": {
+    "name": "Soul General",
     "stores": [
       "STEAM"
     ]
