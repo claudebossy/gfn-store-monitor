@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T05:58:24+00:00",
+  "generated_at": "2026-10-29T13:17:45+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -88,7 +88,7 @@
     "xbox_only_titles": 287,
     "hltb_matches": 495,
     "opencritic_matches": 564,
-    "short_game_score_matches": 361,
+    "short_game_score_matches": 362,
     "exact_matches": 369,
     "partial_matches": 31
   },
@@ -17991,13 +17991,13 @@
         "game_id": 183502,
         "url": "https://howlongtobeat.com/game/183502",
         "image_url": "https://howlongtobeat.com/games/183502_Minecraft_Dungeons_II.jpg",
-        "main_story_seconds": null,
-        "review_score": null,
-        "completion_count": 1,
+        "main_story_seconds": 29844,
+        "review_score": 72,
+        "completion_count": 76,
         "release_year": 2026,
         "profile_platform": "Nintendo Switch, Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 142,
+        "match_score": 130,
         "genres": [
           "Action",
           "Role-Playing"
@@ -18007,16 +18007,22 @@
         "title": "Minecraft Dungeons II",
         "game_id": 20797,
         "url": "https://opencritic.com/game/20797/minecraft-dungeons-ii",
-        "top_critic_score": 85.0,
-        "percent_recommended": 85.0,
-        "tier": "Mighty",
+        "top_critic_score": 73.7,
+        "percent_recommended": 69.2,
+        "tier": "Fair",
         "median_score": 80,
-        "review_count": 20,
+        "review_count": 65,
         "release_year": 2026,
         "match_type": "exact",
-        "match_score": 148
+        "match_score": 138
       },
-      "short_game_score": null
+      "short_game_score": {
+        "score": 81.6,
+        "critic_score": 73.7,
+        "duration_fit_score": 100.0,
+        "main_story_hours": 8.3,
+        "target_hours": 15.0
+      }
     },
     {
       "catalog_group": "xbox-only",
