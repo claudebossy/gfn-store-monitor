@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T13:18:42+00:00",
+  "updated_at": "2026-10-29T22:50:53+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -12919,6 +12919,62 @@
           "Action",
           "Adventure",
           "Role-Playing"
+        ]
+      }
+    },
+    "mouthwashing": {
+      "title": "Mouthwashing",
+      "status": "matched",
+      "fetched_at": "2026-10-29T22:50:47+00:00",
+      "data": {
+        "title": "Mouthwashing",
+        "game_id": 145368,
+        "url": "https://howlongtobeat.com/game/145368",
+        "image_url": "https://howlongtobeat.com/games/145368_Mouthwashing.jpg",
+        "main_story_seconds": 9146,
+        "review_score": 81,
+        "completion_count": 2528,
+        "release_year": 2024,
+        "profile_platform": "Nintendo Switch, PC, PlayStation 4, PlayStation 5, Xbox Series X/S",
+        "match_type": "exact",
+        "match_score": 130,
+        "genres": [
+          "First-Person",
+          "Horror"
+        ]
+      }
+    },
+    "plants vs zombies replanted": {
+      "title": "Plants vs. Zombies™: Replanted",
+      "status": "not_found",
+      "fetched_at": "2026-10-29T22:50:49+00:00",
+      "data": null
+    },
+    "plants vs zombies replanted pc": {
+      "title": "Plants vs. Zombies™: Replanted - PC",
+      "status": "not_found",
+      "fetched_at": "2026-10-29T22:50:51+00:00",
+      "data": null
+    },
+    "terrible lizards": {
+      "title": "Terrible Lizards",
+      "status": "matched",
+      "fetched_at": "2026-10-29T22:50:52+00:00",
+      "data": {
+        "title": "Terrible Lizards",
+        "game_id": 192451,
+        "url": "https://howlongtobeat.com/game/192451",
+        "image_url": "https://howlongtobeat.com/games/192451_Terrible_Lizards.jpg",
+        "main_story_seconds": null,
+        "review_score": null,
+        "completion_count": null,
+        "release_year": 2026,
+        "profile_platform": "PC",
+        "match_type": "exact",
+        "match_score": 140,
+        "genres": [
+          "First-Person",
+          "Platform"
         ]
       }
     }

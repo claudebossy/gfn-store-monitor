@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T13:17:45+00:00",
+  "generated_at": "2026-10-29T22:50:35+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,11 +13,11 @@
     }
   },
   "counts": {
-    "gfn_titles": 6202,
-    "xbox_game_pass_titles": 901,
-    "catalog_titles": 687,
+    "gfn_titles": 6206,
+    "xbox_game_pass_titles": 905,
+    "catalog_titles": 691,
     "intersection_titles": 400,
-    "xbox_only_titles": 287
+    "xbox_only_titles": 291
   },
   "summary": {
     "store_counts": {
@@ -36,7 +36,7 @@
     "top_publishers": [
       {
         "name": "Electronic Arts",
-        "count": 111
+        "count": 113
       },
       {
         "name": "Xbox Game Studios",
@@ -85,10 +85,10 @@
     ],
     "gfn_xbox_store_matches": 200,
     "intersection_titles": 400,
-    "xbox_only_titles": 287,
-    "hltb_matches": 495,
-    "opencritic_matches": 564,
-    "short_game_score_matches": 362,
+    "xbox_only_titles": 291,
+    "hltb_matches": 497,
+    "opencritic_matches": 568,
+    "short_game_score_matches": 363,
     "exact_matches": 369,
     "partial_matches": 31
   },
@@ -8834,7 +8834,7 @@
       "xbox_title": "Drop Duchy - Complete Edition",
       "xbox_product_id": "9NXVPTB0FXSZ",
       "xbox_url": "https://www.microsoft.com/store/productId/9NXVPTB0FXSZ",
-      "publisher": "The Arcade Crew",
+      "publisher": "Dotemu",
       "developer": "Sleepy Mill Studio",
       "release_date": "2026-01-28T16:00:00.0000000Z",
       "image_url": "https://store-images.s-microsoft.com/image/apps.38602.14488445922975122.1488f171-486a-4fe8-a1a2-81caa1fce1ef.f50651b9-6160-4241-aaee-5c798359eb1f",
@@ -18714,6 +18714,61 @@
       }
     },
     {
+      "catalog_group": "xbox-only",
+      "is_on_gfn": false,
+      "title": "Mouthwashing",
+      "normalized_title": "mouthwashing",
+      "gfn_stores": [],
+      "gfn_has_xbox_store": false,
+      "xbox_title": "Mouthwashing",
+      "xbox_product_id": "9MVNCSJ14754",
+      "xbox_url": "https://www.microsoft.com/store/productId/9MVNCSJ14754",
+      "publisher": "CRITICAL REFLEX",
+      "developer": "Wrong Organ",
+      "release_date": "2026-10-29T14:00:00.0000000Z",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.24363.13855544626090177.00f10a03-a204-4b92-893c-87ea3db07631.818be90f-ee77-4b06-966f-566937724aac",
+      "description": "The five crew members of the Tulpar are stranded in the empty reaches of space, shrouded in perpetual sunset. God is not watching.",
+      "match_type": "xbox-only",
+      "match_score": 0,
+      "howlongtobeat": {
+        "title": "Mouthwashing",
+        "game_id": 145368,
+        "url": "https://howlongtobeat.com/game/145368",
+        "image_url": "https://howlongtobeat.com/games/145368_Mouthwashing.jpg",
+        "main_story_seconds": 9146,
+        "review_score": 81,
+        "completion_count": 2528,
+        "release_year": 2024,
+        "profile_platform": "Nintendo Switch, PC, PlayStation 4, PlayStation 5, Xbox Series X/S",
+        "match_type": "exact",
+        "match_score": 130,
+        "genres": [
+          "First-Person",
+          "Horror"
+        ]
+      },
+      "opencritic": {
+        "title": "Mouthwashing",
+        "game_id": 17350,
+        "url": "https://opencritic.com/game/17350/mouthwashing",
+        "top_critic_score": 84.6,
+        "percent_recommended": 90.0,
+        "tier": "Mighty",
+        "median_score": 90,
+        "review_count": 31,
+        "release_year": 2024,
+        "match_type": "exact",
+        "match_score": 136
+      },
+      "short_game_score": {
+        "score": 89.2,
+        "critic_score": 84.6,
+        "duration_fit_score": 100.0,
+        "main_story_hours": 2.5,
+        "target_hours": 15.0
+      }
+    },
+    {
       "catalog_group": "intersection",
       "is_on_gfn": true,
       "title": "Moving Out 2",
@@ -20818,6 +20873,72 @@
         "release_year": 2016,
         "match_type": "exact",
         "match_score": 150
+      },
+      "short_game_score": null
+    },
+    {
+      "catalog_group": "xbox-only",
+      "is_on_gfn": false,
+      "title": "Plants vs. Zombies™: Replanted",
+      "normalized_title": "plants vs zombies replanted",
+      "gfn_stores": [],
+      "gfn_has_xbox_store": false,
+      "xbox_title": "Plants vs. Zombies™: Replanted",
+      "xbox_product_id": "9PGSDFM3JD85",
+      "xbox_url": "https://www.microsoft.com/store/productId/9PGSDFM3JD85",
+      "publisher": "Electronic Arts",
+      "developer": "PopCap Games",
+      "release_date": "2025-10-23T16:00:00.0000000Z",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.55682.14249493036313298.22c0dae5-4fa6-41f8-a5bd-bfdfcb3e98a0.ebf432b1-68de-40d9-81b1-3ad79b49cc82",
+      "description": "The classic Plants vs. Zombies returns in glorious HD! The original battle between Plants and Zombies is back - bigger, brighter, and crazier than ever before! Experience the game that started it all, now remastered with stunning HD graphics and packed with new secrets and content to uncover.",
+      "match_type": "xbox-only",
+      "match_score": 0,
+      "howlongtobeat": null,
+      "opencritic": {
+        "title": "Plants vs. Zombies: Replanted",
+        "game_id": 19029,
+        "url": "https://opencritic.com/game/19029/plants-vs-zombies-replanted",
+        "top_critic_score": 75.2,
+        "percent_recommended": 55.9,
+        "tier": "Strong",
+        "median_score": 75,
+        "review_count": 59,
+        "release_year": 2025,
+        "match_type": "exact",
+        "match_score": 149
+      },
+      "short_game_score": null
+    },
+    {
+      "catalog_group": "xbox-only",
+      "is_on_gfn": false,
+      "title": "Plants vs. Zombies™: Replanted - PC",
+      "normalized_title": "plants vs zombies replanted pc",
+      "gfn_stores": [],
+      "gfn_has_xbox_store": false,
+      "xbox_title": "Plants vs. Zombies™: Replanted - PC",
+      "xbox_product_id": "9NGP0DJVKSFL",
+      "xbox_url": "https://www.microsoft.com/store/productId/9NGP0DJVKSFL",
+      "publisher": "Electronic Arts",
+      "developer": "PopCap Games",
+      "release_date": "9998-12-30T00:00:00.0000000Z",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.55682.13646186565134327.0201942e-1cbf-443f-a58a-5aa441c425e7.350da7fd-d056-4d48-ac05-4c31a8632542",
+      "description": "The classic Plants vs. Zombies returns in glorious HD! The original battle between Plants and Zombies is back and crazier than before! Experience the game that started it all, remastered with HD graphics and packed with new secrets to uncover.",
+      "match_type": "xbox-only",
+      "match_score": 0,
+      "howlongtobeat": null,
+      "opencritic": {
+        "title": "Plants vs. Zombies: Replanted",
+        "game_id": 19029,
+        "url": "https://opencritic.com/game/19029/plants-vs-zombies-replanted",
+        "top_critic_score": 75.2,
+        "percent_recommended": 55.9,
+        "tier": "Strong",
+        "median_score": 75,
+        "review_count": 59,
+        "release_year": 2025,
+        "match_type": "exact",
+        "match_score": 136
       },
       "short_game_score": null
     },
@@ -26443,6 +26564,55 @@
         "main_story_hours": 6.1,
         "target_hours": 15.0
       }
+    },
+    {
+      "catalog_group": "xbox-only",
+      "is_on_gfn": false,
+      "title": "Terrible Lizards",
+      "normalized_title": "terrible lizards",
+      "gfn_stores": [],
+      "gfn_has_xbox_store": false,
+      "xbox_title": "Terrible Lizards",
+      "xbox_product_id": "9PKFL1XJT73S",
+      "xbox_url": "https://www.microsoft.com/store/productId/9PKFL1XJT73S",
+      "publisher": "Digital Pajamas",
+      "developer": "WDR Studios",
+      "release_date": "2026-10-29T17:00:00.0000000Z",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.8368.14263508046410977.85ca9e89-ec54-4c85-9c49-0ce9abe3f1fd.d965509b-8659-4d15-8f26-b612fc6106cd",
+      "description": "Terrible Lizards is a horror parkour game set against the backdrop of an old Route 66 attraction… with something dark and sinister lurking below. To escape, you’ll need to move fast, navigate challenging terrain, and uncover what Dalton’s Dinos is really hiding. You’d better start running.",
+      "match_type": "xbox-only",
+      "match_score": 0,
+      "howlongtobeat": {
+        "title": "Terrible Lizards",
+        "game_id": 192451,
+        "url": "https://howlongtobeat.com/game/192451",
+        "image_url": "https://howlongtobeat.com/games/192451_Terrible_Lizards.jpg",
+        "main_story_seconds": null,
+        "review_score": null,
+        "completion_count": null,
+        "release_year": 2026,
+        "profile_platform": "PC",
+        "match_type": "exact",
+        "match_score": 140,
+        "genres": [
+          "First-Person",
+          "Platform"
+        ]
+      },
+      "opencritic": {
+        "title": "Terrible Lizards",
+        "game_id": 21613,
+        "url": "https://opencritic.com/game/21613/terrible-lizards",
+        "top_critic_score": 76.2,
+        "percent_recommended": 50.0,
+        "tier": "Strong",
+        "median_score": null,
+        "review_count": 6,
+        "release_year": 2026,
+        "match_type": "exact",
+        "match_score": 147
+      },
+      "short_game_score": null
     },
     {
       "catalog_group": "intersection",

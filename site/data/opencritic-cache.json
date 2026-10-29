@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T13:18:42+00:00",
+  "updated_at": "2026-10-29T22:50:53+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -11471,6 +11471,78 @@
         "release_year": 2020,
         "match_type": "exact",
         "match_score": 143
+      }
+    },
+    "mouthwashing": {
+      "title": "Mouthwashing",
+      "status": "matched",
+      "fetched_at": "2026-10-29T22:50:48+00:00",
+      "data": {
+        "title": "Mouthwashing",
+        "game_id": 17350,
+        "url": "https://opencritic.com/game/17350/mouthwashing",
+        "top_critic_score": 84.6,
+        "percent_recommended": 90.0,
+        "tier": "Mighty",
+        "median_score": 90,
+        "review_count": 31,
+        "release_year": 2024,
+        "match_type": "exact",
+        "match_score": 136
+      }
+    },
+    "plants vs zombies replanted": {
+      "title": "Plants vs. Zombies™: Replanted",
+      "status": "matched",
+      "fetched_at": "2026-10-29T22:50:50+00:00",
+      "data": {
+        "title": "Plants vs. Zombies: Replanted",
+        "game_id": 19029,
+        "url": "https://opencritic.com/game/19029/plants-vs-zombies-replanted",
+        "top_critic_score": 75.2,
+        "percent_recommended": 55.9,
+        "tier": "Strong",
+        "median_score": 75,
+        "review_count": 59,
+        "release_year": 2025,
+        "match_type": "exact",
+        "match_score": 149
+      }
+    },
+    "plants vs zombies replanted pc": {
+      "title": "Plants vs. Zombies™: Replanted - PC",
+      "status": "matched",
+      "fetched_at": "2026-10-29T22:50:51+00:00",
+      "data": {
+        "title": "Plants vs. Zombies: Replanted",
+        "game_id": 19029,
+        "url": "https://opencritic.com/game/19029/plants-vs-zombies-replanted",
+        "top_critic_score": 75.2,
+        "percent_recommended": 55.9,
+        "tier": "Strong",
+        "median_score": 75,
+        "review_count": 59,
+        "release_year": 2025,
+        "match_type": "exact",
+        "match_score": 136
+      }
+    },
+    "terrible lizards": {
+      "title": "Terrible Lizards",
+      "status": "matched",
+      "fetched_at": "2026-10-29T22:50:52+00:00",
+      "data": {
+        "title": "Terrible Lizards",
+        "game_id": 21613,
+        "url": "https://opencritic.com/game/21613/terrible-lizards",
+        "top_critic_score": 76.2,
+        "percent_recommended": 50.0,
+        "tier": "Strong",
+        "median_score": null,
+        "review_count": 6,
+        "release_year": 2026,
+        "match_type": "exact",
+        "match_score": 147
       }
     }
   }
