@@ -11536,6 +11536,12 @@
       "STEAM"
     ]
   },
+  "finals week": {
+    "name": "Finals Week ✍🏻",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "find 101 doomers": {
     "name": "Find 101 Doomers",
     "stores": [
@@ -13179,8 +13185,8 @@
       "STEAM"
     ]
   },
-  "gothic 3": {
-    "name": "Gothic® 3",
+  "gothic 3 classic": {
+    "name": "Gothic 3 Classic",
     "stores": [
       "STEAM"
     ]
@@ -13740,6 +13746,7 @@
   "halloween the game": {
     "name": "Halloween: The Game",
     "stores": [
+      "EPIC",
       "STEAM"
     ]
   },
@@ -14191,6 +14198,7 @@
   "hell let loose vietnam": {
     "name": "Hell Let Loose: Vietnam",
     "stores": [
+      "EPIC",
       "STEAM"
     ]
   },
@@ -15679,6 +15687,12 @@
       "EPIC",
       "STEAM",
       "XBOX"
+    ]
+  },
+  "into the crypt": {
+    "name": "Into the Crypt",
+    "stores": [
+      "STEAM"
     ]
   },
   "into the flames": {
@@ -24625,6 +24639,12 @@
       "STEAM"
     ]
   },
+  "remothered red nun s legacy": {
+    "name": "Remothered: Red Nun's Legacy",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "renaissance kingdom wars": {
     "name": "Renaissance Kingdom Wars",
     "stores": [
@@ -26430,6 +26450,12 @@
   },
   "serious bara": {
     "name": "Serious Bara",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "serious bara demo": {
+    "name": "Serious Bara Demo",
     "stores": [
       "STEAM"
     ]
