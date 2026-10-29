@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T22:32:46+00:00",
+  "generated_at": "2026-10-29T05:45:10+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -5735,6 +5735,34 @@
           "name": "Soul General",
           "stores": [
             "STEAM"
+          ]
+        }
+      ],
+      "new_stores": []
+    },
+    {
+      "timestamp": "2026-10-29T05:45:10+00:00",
+      "baseline": false,
+      "catalog_game_count": 6202,
+      "new_game_count": 3,
+      "new_store_count": 0,
+      "new_games": [
+        {
+          "name": "Phantom Blade Zero",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "World of Warcraft®: Forever",
+          "stores": [
+            "BATTLENET"
           ]
         }
       ],

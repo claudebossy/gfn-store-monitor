@@ -22506,6 +22506,12 @@
       "STEAM"
     ]
   },
+  "phantom blade zero": {
+    "name": "Phantom Blade Zero",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "phantom brave pc": {
     "name": "Phantom Brave PC",
     "stores": [
@@ -23417,6 +23423,12 @@
   },
   "pro football": {
     "name": "Pro Football",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "probably stolen cyberpunk shopkeeper sim": {
+    "name": "Probably Stolen - Cyberpunk Shopkeeper Sim",
     "stores": [
       "STEAM"
     ]
@@ -37165,6 +37177,12 @@
   },
   "world of warcraft classic": {
     "name": "World of Warcraft® Classic",
+    "stores": [
+      "BATTLENET"
+    ]
+  },
+  "world of warcraft forever": {
+    "name": "World of Warcraft®: Forever",
     "stores": [
       "BATTLENET"
     ]
