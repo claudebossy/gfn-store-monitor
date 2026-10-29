@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T22:42:46+00:00",
+  "updated_at": "2026-10-29T05:59:07+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -11453,6 +11453,24 @@
         "release_year": 2025,
         "match_type": "exact",
         "match_score": 142
+      }
+    },
+    "final fantasy vii remake intergrade": {
+      "title": "FINAL FANTASY VII REMAKE INTERGRADE",
+      "status": "matched",
+      "fetched_at": "2026-10-29T05:58:43+00:00",
+      "data": {
+        "title": "Final Fantasy VII Remake Intergrade",
+        "game_id": 11370,
+        "url": "https://opencritic.com/game/11370/final-fantasy-vii-remake-intergrade",
+        "top_critic_score": 86.5,
+        "percent_recommended": 93.4,
+        "tier": "Mighty",
+        "median_score": 90,
+        "review_count": 170,
+        "release_year": 2020,
+        "match_type": "exact",
+        "match_score": 143
       }
     }
   }

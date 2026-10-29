@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T22:41:18+00:00",
+  "generated_at": "2026-10-29T05:58:24+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,11 +13,11 @@
     }
   },
   "counts": {
-    "gfn_titles": 6199,
-    "xbox_game_pass_titles": 900,
-    "catalog_titles": 686,
+    "gfn_titles": 6202,
+    "xbox_game_pass_titles": 901,
+    "catalog_titles": 687,
     "intersection_titles": 400,
-    "xbox_only_titles": 286
+    "xbox_only_titles": 287
   },
   "summary": {
     "store_counts": {
@@ -68,7 +68,7 @@
       },
       {
         "name": "SQUARE ENIX",
-        "count": 8
+        "count": 9
       },
       {
         "name": "Hooded Horse",
@@ -85,10 +85,10 @@
     ],
     "gfn_xbox_store_matches": 200,
     "intersection_titles": 400,
-    "xbox_only_titles": 286,
-    "hltb_matches": 494,
-    "opencritic_matches": 563,
-    "short_game_score_matches": 360,
+    "xbox_only_titles": 287,
+    "hltb_matches": 495,
+    "opencritic_matches": 564,
+    "short_game_score_matches": 361,
     "exact_matches": 369,
     "partial_matches": 31
   },
@@ -1079,7 +1079,7 @@
       "publisher": "Pawprint Studio",
       "developer": "Pawprint Studio",
       "release_date": "9998-12-30T00:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.29200.14271146495264987.c32913b7-6895-4338-ad19-54121ee5a1e9.9807370e-f74d-4e5a-b55e-d918d6e8d7d2",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.48862.14271146495264987.389490b9-697a-4878-87fc-ab69dd3499a6.d383e873-d7b2-48d4-bfe2-427387d56740",
       "description": null,
       "match_type": "exact-title",
       "match_score": 120,
@@ -11312,6 +11312,63 @@
         "match_score": 135
       },
       "short_game_score": null
+    },
+    {
+      "catalog_group": "xbox-only",
+      "is_on_gfn": false,
+      "title": "FINAL FANTASY VII REMAKE INTERGRADE",
+      "normalized_title": "final fantasy vii remake intergrade",
+      "gfn_stores": [],
+      "gfn_has_xbox_store": false,
+      "xbox_title": "FINAL FANTASY VII REMAKE INTERGRADE",
+      "xbox_product_id": "9NRQVQ7ZRM7Z",
+      "xbox_url": "https://www.microsoft.com/store/productId/9NRQVQ7ZRM7Z",
+      "publisher": "SQUARE ENIX",
+      "developer": "SQUARE ENIX CO., LTD.",
+      "release_date": "2026-01-22T00:00:00.0000000Z",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.28826.14378305291947412.8d8cbc22-0457-455b-807c-34822c76e54f.9fcd146c-7470-4126-9018-d050dd7c6726",
+      "description": "In the bustling city of Midgar, lead Cloud and his allies in their fight against the Shinra Electric Power Company in a legendary tale filled with unforgettable characters and intense battles that fuse fast-paced action with strategic commands.",
+      "match_type": "xbox-only",
+      "match_score": 0,
+      "howlongtobeat": {
+        "title": "Final Fantasy VII Remake",
+        "game_id": 57686,
+        "url": "https://howlongtobeat.com/game/57686",
+        "image_url": "https://howlongtobeat.com/games/57686_Final_Fantasy_VII_Remake.jpg",
+        "main_story_seconds": 116195,
+        "review_score": 86,
+        "completion_count": 15065,
+        "release_year": 2020,
+        "profile_platform": "Nintendo Switch 2, PC, PlayStation 4, PlayStation 5, Xbox Series X/S",
+        "match_type": "exact",
+        "match_score": 130,
+        "genres": [
+          "Third-Person",
+          "Action",
+          "Adventure",
+          "Role-Playing"
+        ]
+      },
+      "opencritic": {
+        "title": "Final Fantasy VII Remake Intergrade",
+        "game_id": 11370,
+        "url": "https://opencritic.com/game/11370/final-fantasy-vii-remake-intergrade",
+        "top_critic_score": 86.5,
+        "percent_recommended": 93.4,
+        "tier": "Mighty",
+        "median_score": 90,
+        "review_count": 170,
+        "release_year": 2020,
+        "match_type": "exact",
+        "match_score": 143
+      },
+      "short_game_score": {
+        "score": 70.9,
+        "critic_score": 86.5,
+        "duration_fit_score": 34.6,
+        "main_story_hours": 32.3,
+        "target_hours": 15.0
+      }
     },
     {
       "catalog_group": "intersection",
