@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T22:50:35+00:00",
+  "generated_at": "2026-10-30T05:59:27+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -22881,11 +22881,11 @@
         "image_url": "https://howlongtobeat.com/games/177568_Roadside_Research.jpg",
         "main_story_seconds": 55740,
         "review_score": 58,
-        "completion_count": 11,
+        "completion_count": 12,
         "release_year": 2026,
         "profile_platform": "PC, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 126,
+        "match_score": 127,
         "genres": [
           "Simulation"
         ]

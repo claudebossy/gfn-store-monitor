@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T22:50:53+00:00",
+  "updated_at": "2026-10-30T05:59:41+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -6863,7 +6863,7 @@
     "roadside research": {
       "title": "Roadside Research",
       "status": "matched",
-      "fetched_at": "2026-09-30T05:41:47+00:00",
+      "fetched_at": "2026-10-30T05:59:38+00:00",
       "data": {
         "title": "Roadside Research",
         "game_id": 177568,
@@ -6871,11 +6871,11 @@
         "image_url": "https://howlongtobeat.com/games/177568_Roadside_Research.jpg",
         "main_story_seconds": 55740,
         "review_score": 58,
-        "completion_count": 11,
+        "completion_count": 12,
         "release_year": 2026,
         "profile_platform": "PC, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 126,
+        "match_score": 127,
         "genres": [
           "Simulation"
         ]
@@ -10149,7 +10149,7 @@
     "gears of war ultimate edition for windows 10": {
       "title": "Gears of War: Ultimate Edition for Windows 10",
       "status": "not_found",
-      "fetched_at": "2026-10-23T05:01:50+00:00",
+      "fetched_at": "2026-10-30T05:59:37+00:00",
       "data": null
     },
     "gears of war e day": {
