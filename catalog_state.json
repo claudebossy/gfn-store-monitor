@@ -2505,6 +2505,12 @@
       "STEAM"
     ]
   },
+  "atmosfar": {
+    "name": "ATMOSFAR",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "atmosfar demo": {
     "name": "ATMOSFAR Demo",
     "stores": [
@@ -15129,6 +15135,12 @@
       "STEAM"
     ]
   },
+  "hunting simulator 3": {
+    "name": "Hunting Simulator 3",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "hunting simulator 3 demo": {
     "name": "Hunting Simulator 3 Demo",
     "stores": [
@@ -23724,6 +23736,12 @@
   },
   "purrrifiers cleaning chaos play for free with friend s pass": {
     "name": "Purrrifiers: Cleaning Chaos (Play for Free with Friend's Pass)",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "put your toys away together": {
+    "name": "Put Your Toys Away Together!",
     "stores": [
       "STEAM"
     ]
