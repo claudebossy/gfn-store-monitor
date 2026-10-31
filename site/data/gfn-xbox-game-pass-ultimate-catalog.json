@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T05:55:13+00:00",
+  "generated_at": "2026-10-31T12:46:00+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,7 +13,7 @@
     }
   },
   "counts": {
-    "gfn_titles": 6207,
+    "gfn_titles": 6209,
     "xbox_game_pass_titles": 905,
     "catalog_titles": 691,
     "intersection_titles": 400,
