@@ -381,6 +381,12 @@
       "STEAM"
     ]
   },
+  "a place for every potion": {
+    "name": "A Place for Every Potion",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "a plague tale innocence": {
     "name": "A Plague Tale: Innocence",
     "stores": [
@@ -12847,6 +12853,12 @@
   },
   "global protocol new world order": {
     "name": "Global Protocol: New World Order",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "global protocol new world order demo": {
+    "name": "Global Protocol: New World Order Demo",
     "stores": [
       "STEAM"
     ]
@@ -31724,6 +31736,12 @@
       "XBOX"
     ]
   },
+  "the electorate": {
+    "name": "The Electorate",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "the ember guardian": {
     "name": "The Ember Guardian",
     "stores": [
@@ -31744,6 +31762,12 @@
   },
   "the end of the sun prologue": {
     "name": "The End of the Sun: Prologue",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "the endless pit": {
+    "name": "The Endless Pit",
     "stores": [
       "STEAM"
     ]

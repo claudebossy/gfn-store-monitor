@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T12:23:45+00:00",
+  "generated_at": "2026-10-31T21:31:20+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -5900,6 +5900,40 @@
       "new_game_count": 0,
       "new_store_count": 0,
       "new_games": [],
+      "new_stores": []
+    },
+    {
+      "timestamp": "2026-10-31T21:31:20+00:00",
+      "baseline": false,
+      "catalog_game_count": 6213,
+      "new_game_count": 4,
+      "new_store_count": 0,
+      "new_games": [
+        {
+          "name": "A Place for Every Potion",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Global Protocol: New World Order Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "The Electorate",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "The Endless Pit",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
       "new_stores": []
     }
   ]
