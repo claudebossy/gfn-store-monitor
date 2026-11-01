@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T06:22:34+00:00",
+  "generated_at": "2026-11-01T13:38:34+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -14,16 +14,16 @@
   },
   "counts": {
     "gfn_titles": 6213,
-    "xbox_game_pass_titles": 905,
-    "catalog_titles": 691,
-    "intersection_titles": 400,
-    "xbox_only_titles": 291
+    "xbox_game_pass_titles": 897,
+    "catalog_titles": 683,
+    "intersection_titles": 396,
+    "xbox_only_titles": 287
   },
   "summary": {
     "store_counts": {
-      "STEAM": 359,
-      "XBOX": 200,
-      "EPIC": 75,
+      "STEAM": 355,
+      "XBOX": 197,
+      "EPIC": 74,
       "UPLAY": 65,
       "BATTLENET": 21,
       "EA_APP": 17,
@@ -40,7 +40,7 @@
       },
       {
         "name": "Xbox Game Studios",
-        "count": 64
+        "count": 62
       },
       {
         "name": "Ubisoft",
@@ -83,13 +83,13 @@
         "count": 7
       }
     ],
-    "gfn_xbox_store_matches": 200,
-    "intersection_titles": 400,
-    "xbox_only_titles": 291,
-    "hltb_matches": 497,
-    "opencritic_matches": 568,
-    "short_game_score_matches": 363,
-    "exact_matches": 369,
+    "gfn_xbox_store_matches": 197,
+    "intersection_titles": 396,
+    "xbox_only_titles": 287,
+    "hltb_matches": 490,
+    "opencritic_matches": 560,
+    "short_game_score_matches": 356,
+    "exact_matches": 365,
     "partial_matches": 31
   },
   "games": [
@@ -6642,63 +6642,6 @@
       }
     },
     {
-      "catalog_group": "xbox-only",
-      "is_on_gfn": false,
-      "title": "Day of the Tentacle Remastered",
-      "normalized_title": "day of the tentacle remastered",
-      "gfn_stores": [],
-      "gfn_has_xbox_store": false,
-      "xbox_title": "Day of the Tentacle Remastered",
-      "xbox_product_id": "9NKK6CX54183",
-      "xbox_url": "https://www.microsoft.com/store/productId/9NKK6CX54183",
-      "publisher": "Xbox Game Studios",
-      "developer": "Double Fine Productions & Shiny Shoe",
-      "release_date": "2020-10-29T17:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.18669.13659998887820416.ac97c487-e49c-4236-a48f-681c4095040e.27089192-fc55-4fcc-910d-aebc79555211",
-      "description": "A mind-bending, time travel, cartoon puzzle adventure game in which three unlikely friends work together to prevent an evil mutated purple tentacle from taking over the world!",
-      "match_type": "xbox-only",
-      "match_score": 0,
-      "howlongtobeat": {
-        "title": "Day of the Tentacle",
-        "game_id": 2285,
-        "url": "https://howlongtobeat.com/game/2285",
-        "image_url": "https://howlongtobeat.com/games/2285_Day_of_the_Tentacle.png",
-        "main_story_seconds": 18712,
-        "review_score": 78,
-        "completion_count": 2560,
-        "release_year": 1993,
-        "profile_platform": "Linux, Mac, Mobile, PC, PlayStation 4, PlayStation Vita, Xbox One",
-        "match_type": "exact",
-        "match_score": 130,
-        "genres": [
-          "Side",
-          "Point-and-Click",
-          "Adventure",
-          "Puzzle"
-        ]
-      },
-      "opencritic": {
-        "title": "Day of the Tentacle Remastered",
-        "game_id": 2455,
-        "url": "https://opencritic.com/game/2455/day-of-the-tentacle-remastered",
-        "top_critic_score": 85.4,
-        "percent_recommended": 88.4,
-        "tier": "Mighty",
-        "median_score": null,
-        "review_count": 46,
-        "release_year": 2016,
-        "match_type": "exact",
-        "match_score": 137
-      },
-      "short_game_score": {
-        "score": 89.8,
-        "critic_score": 85.4,
-        "duration_fit_score": 100.0,
-        "main_story_hours": 5.2,
-        "target_hours": 15.0
-      }
-    },
-    {
       "catalog_group": "intersection",
       "is_on_gfn": true,
       "title": "DayZ",
@@ -7067,58 +7010,6 @@
       "short_game_score": null
     },
     {
-      "catalog_group": "xbox-only",
-      "is_on_gfn": false,
-      "title": "Dead Static Drive",
-      "normalized_title": "dead static drive",
-      "gfn_stores": [],
-      "gfn_has_xbox_store": false,
-      "xbox_title": "Dead Static Drive",
-      "xbox_product_id": "9MXWL7VJ2SJW",
-      "xbox_url": "https://www.microsoft.com/store/productId/9MXWL7VJ2SJW",
-      "publisher": "Reuben Games",
-      "developer": "Reuben Games",
-      "release_date": "2025-11-05T00:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.17199.13882054236358572.6bfd2436-1337-41ff-8bba-a695d6c3d9e9.36b44ecb-8bc7-44e6-b07a-cbbaddc570cd",
-      "description": "Grand Theft Cthulhu.",
-      "match_type": "xbox-only",
-      "match_score": 0,
-      "howlongtobeat": {
-        "title": "Dead Static Drive",
-        "game_id": 68358,
-        "url": "https://howlongtobeat.com/game/68358",
-        "image_url": "https://howlongtobeat.com/games/68358_Dead_Static_Drive.jpg",
-        "main_story_seconds": 15300,
-        "review_score": 30,
-        "completion_count": 2,
-        "release_year": null,
-        "profile_platform": "PC",
-        "match_type": "exact",
-        "match_score": 127,
-        "genres": []
-      },
-      "opencritic": {
-        "title": "Dead Static Drive",
-        "game_id": 19609,
-        "url": "https://opencritic.com/game/19609/dead-static-drive",
-        "top_critic_score": 33.3,
-        "percent_recommended": null,
-        "tier": "Weak",
-        "median_score": null,
-        "review_count": 3,
-        "release_year": 2025,
-        "match_type": "exact",
-        "match_score": 147
-      },
-      "short_game_score": {
-        "score": 53.3,
-        "critic_score": 33.3,
-        "duration_fit_score": 100.0,
-        "main_story_hours": 4.2,
-        "target_hours": 15.0
-      }
-    },
-    {
       "catalog_group": "intersection",
       "is_on_gfn": true,
       "title": "Death Howl",
@@ -7349,64 +7240,6 @@
         "match_score": 147
       },
       "short_game_score": null
-    },
-    {
-      "catalog_group": "intersection",
-      "is_on_gfn": true,
-      "title": "Deep Rock Galactic",
-      "normalized_title": "deep rock galactic",
-      "gfn_stores": [
-        "STEAM",
-        "XBOX"
-      ],
-      "gfn_has_xbox_store": true,
-      "xbox_title": "Deep Rock Galactic",
-      "xbox_product_id": "9NHFVWX1V7QJ",
-      "xbox_url": "https://www.microsoft.com/store/productId/9NHFVWX1V7QJ",
-      "publisher": "Coffee Stain Publishing",
-      "developer": "Ghost Ship Games",
-      "release_date": "2020-05-13T08:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.1444.13626568325427111.acf8bd0b-a403-422a-bfd4-5262a9b59ec2.8e099efd-082f-4d41-8941-17309ee91c92",
-      "description": "Deep Rock Galactic is a 1-4 player co-op FPS featuring badass space Dwarves, 100% destructible environments, procedurally-generated caves, and endless hordes of alien monsters.",
-      "match_type": "exact-title",
-      "match_score": 120,
-      "howlongtobeat": {
-        "title": "Deep Rock Galactic",
-        "game_id": 47169,
-        "url": "https://howlongtobeat.com/game/47169",
-        "image_url": "https://howlongtobeat.com/games/47169_Deep_Rock_Galactic.jpg",
-        "main_story_seconds": 155133,
-        "review_score": 80,
-        "completion_count": 1219,
-        "release_year": 2020,
-        "profile_platform": "PC, PlayStation 4, PlayStation 5, Xbox One",
-        "match_type": "exact",
-        "match_score": 142,
-        "genres": [
-          "First-Person",
-          "Action"
-        ]
-      },
-      "opencritic": {
-        "title": "Deep Rock Galactic",
-        "game_id": 9436,
-        "url": "https://opencritic.com/game/9436/deep-rock-galactic",
-        "top_critic_score": 85.1,
-        "percent_recommended": 96.8,
-        "tier": "Mighty",
-        "median_score": 85,
-        "review_count": 32,
-        "release_year": 2020,
-        "match_type": "exact",
-        "match_score": 148
-      },
-      "short_game_score": {
-        "score": 59.6,
-        "critic_score": 85.1,
-        "duration_fit_score": 0.0,
-        "main_story_hours": 43.1,
-        "target_hours": 15.0
-      }
     },
     {
       "catalog_group": "intersection",
@@ -12069,61 +11902,6 @@
     {
       "catalog_group": "xbox-only",
       "is_on_gfn": false,
-      "title": "Full Throttle Remastered",
-      "normalized_title": "full throttle remastered",
-      "gfn_stores": [],
-      "gfn_has_xbox_store": false,
-      "xbox_title": "Full Throttle Remastered",
-      "xbox_product_id": "9P3ZRGNQVC7D",
-      "xbox_url": "https://www.microsoft.com/store/productId/9P3ZRGNQVC7D",
-      "publisher": "Xbox Game Studios",
-      "developer": "Double Fine Productions & Shiny Shoe",
-      "release_date": "2020-10-29T17:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.7896.14598891268352765.09cb1dd7-f055-4038-983d-2721763eedbe.0bab6c1b-43ce-423d-86ae-ced85f951431",
-      "description": "A classic graphic adventure game from industry legend Tim Schafer, telling the story of Ben Throttle, the butt-kicking leader of biker gang the Polecats who gets caught up in a tale of Motorcycles, Mayhem, and Murder.",
-      "match_type": "xbox-only",
-      "match_score": 0,
-      "howlongtobeat": {
-        "title": "Full Throttle Remastered",
-        "game_id": 44400,
-        "url": "https://howlongtobeat.com/game/44400",
-        "image_url": "https://howlongtobeat.com/games/44400_Full_Throttle_Remastered.jpg",
-        "main_story_seconds": 14522,
-        "review_score": 72,
-        "completion_count": 1414,
-        "release_year": 2017,
-        "profile_platform": "Mobile, PC, PlayStation 4, PlayStation Vita, Xbox One",
-        "match_type": "exact",
-        "match_score": 130,
-        "genres": [
-          "Point-and-Click",
-          "Adventure"
-        ]
-      },
-      "opencritic": {
-        "title": "Full Throttle: Remastered",
-        "game_id": 4143,
-        "url": "https://opencritic.com/game/4143/full-throttle-remastered",
-        "top_critic_score": 78.7,
-        "percent_recommended": 68.9,
-        "tier": "Strong",
-        "median_score": 80,
-        "review_count": 48,
-        "release_year": 2017,
-        "match_type": "exact",
-        "match_score": 137
-      },
-      "short_game_score": {
-        "score": 85.1,
-        "critic_score": 78.7,
-        "duration_fit_score": 100.0,
-        "main_story_hours": 4.0,
-        "target_hours": 15.0
-      }
-    },
-    {
-      "catalog_group": "xbox-only",
-      "is_on_gfn": false,
       "title": "Fuzion Frenzy®",
       "normalized_title": "fuzion frenzy",
       "gfn_stores": [],
@@ -16199,65 +15977,6 @@
       }
     },
     {
-      "catalog_group": "intersection",
-      "is_on_gfn": true,
-      "title": "LARA CROFT AND THE TEMPLE OF OSIRIS™",
-      "normalized_title": "lara croft and the temple of osiris",
-      "gfn_stores": [
-        "STEAM",
-        "XBOX"
-      ],
-      "gfn_has_xbox_store": true,
-      "xbox_title": "Lara Croft and the Temple of Osiris",
-      "xbox_product_id": "C3553MB4P5TT",
-      "xbox_url": "https://www.microsoft.com/store/productId/C3553MB4P5TT",
-      "publisher": "Crystal Dynamics",
-      "developer": "Crystal Dynamics",
-      "release_date": "2014-12-09T00:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.45852.66406861093311956.5a3a6cc5-ae0d-478d-aa71-eeec71b3768a.ab674b22-40af-41d9-9c2b-68aa18f705d5",
-      "description": "Lara Croft and the Temple of Osiris is the sequel to the critically-acclaimed Lara Croft and the Guardian of Light, and the first-ever four-player co-op experience with Lara Croft. Featuring stunning visuals and a brand-new story, players must work together to explore the temple, defeat hordes of enemies from the Egyptian underworld, solve devious puzzles, and avoid deadly traps. All the while, players will compete for treasure, powerful artifacts, and ultimate bragging rights.",
-      "match_type": "exact-title",
-      "match_score": 120,
-      "howlongtobeat": {
-        "title": "Lara Croft and the Temple of Osiris",
-        "game_id": 21699,
-        "url": "https://howlongtobeat.com/game/21699",
-        "image_url": "https://howlongtobeat.com/games/21699_Lara_Croft_and_the_Temple_of_Osiris.jpg",
-        "main_story_seconds": 18924,
-        "review_score": 68,
-        "completion_count": 1359,
-        "release_year": 2014,
-        "profile_platform": "Google Stadia, Nintendo Switch, PC, PlayStation 4, Xbox One",
-        "match_type": "exact",
-        "match_score": 142,
-        "genres": [
-          "Action",
-          "Platform",
-          "Puzzle"
-        ]
-      },
-      "opencritic": {
-        "title": "Lara Croft and the Temple of Osiris",
-        "game_id": 141,
-        "url": "https://opencritic.com/game/141/lara-croft-and-the-temple-of-osiris",
-        "top_critic_score": 73.0,
-        "percent_recommended": 37.3,
-        "tier": "Fair",
-        "median_score": 75,
-        "review_count": 61,
-        "release_year": 2014,
-        "match_type": "exact",
-        "match_score": 150
-      },
-      "short_game_score": {
-        "score": 81.1,
-        "critic_score": 73.0,
-        "duration_fit_score": 100.0,
-        "main_story_hours": 5.3,
-        "target_hours": 15.0
-      }
-    },
-    {
       "catalog_group": "xbox-only",
       "is_on_gfn": false,
       "title": "League of Legends",
@@ -16366,39 +16085,6 @@
         "main_story_hours": 39.2,
         "target_hours": 15.0
       }
-    },
-    {
-      "catalog_group": "xbox-only",
-      "is_on_gfn": false,
-      "title": "LEGO® Star Wars™: The Skywalker Saga",
-      "normalized_title": "lego star wars the skywalker saga",
-      "gfn_stores": [],
-      "gfn_has_xbox_store": false,
-      "xbox_title": "LEGO® Star Wars™: The Skywalker Saga",
-      "xbox_product_id": "BRMKDCZT0C4L",
-      "xbox_url": "https://www.microsoft.com/store/productId/BRMKDCZT0C4L",
-      "publisher": "Warner Bros. Games",
-      "developer": "TT Games",
-      "release_date": "9998-12-30T00:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.7489.69776162813131649.5a0614cf-d90a-4580-90d2-d09e65459d75.24c8420c-5d5f-45f7-b495-59335a7ab2fb",
-      "description": "Play through all nine Skywalker saga films in a game unlike any other.   With over 300 playable characters, over 100 vehicles, and 23 planets to explore, a galaxy far, far away has never been more fun! \r\n\r\n*Purchasers of the digital edition receive an exclusive classic Obi-Wan Kenobi playable character.",
-      "match_type": "xbox-only",
-      "match_score": 0,
-      "howlongtobeat": null,
-      "opencritic": {
-        "title": "Lego Star Wars: The Skywalker Saga",
-        "game_id": 9901,
-        "url": "https://opencritic.com/game/9901/lego-star-wars-the-skywalker-saga",
-        "top_critic_score": 81.8,
-        "percent_recommended": 88.6,
-        "tier": "Strong",
-        "median_score": 85,
-        "review_count": 172,
-        "release_year": 2022,
-        "match_type": "exact",
-        "match_score": 143
-      },
-      "short_game_score": null
     },
     {
       "catalog_group": "xbox-only",
@@ -31030,64 +30716,6 @@
       }
     },
     {
-      "catalog_group": "intersection",
-      "is_on_gfn": true,
-      "title": "Wartales",
-      "normalized_title": "wartales",
-      "gfn_stores": [
-        "STEAM",
-        "XBOX"
-      ],
-      "gfn_has_xbox_store": true,
-      "xbox_title": "Wartales",
-      "xbox_product_id": "9NWQ686JB33G",
-      "xbox_url": "https://www.microsoft.com/store/productId/9NWQ686JB33G",
-      "publisher": "Shiro Games",
-      "developer": "Shiro Games",
-      "release_date": "2023-10-31T13:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.57743.14440655325358467.0a9794a6-3645-4db4-a85e-c611d041111a.80dc7cd7-d40f-455f-9676-f0cf0946ae88",
-      "description": "Wartales is an open world RPG in which you lead a group of mercenaries in their search for wealth across a massive medieval universe. Explore the world, recruit companions, collect bounties and unravel the secrets of the tombs of the ancients!",
-      "match_type": "exact-title",
-      "match_score": 120,
-      "howlongtobeat": {
-        "title": "Wartales",
-        "game_id": 93986,
-        "url": "https://howlongtobeat.com/game/93986",
-        "image_url": "https://howlongtobeat.com/games/93986_Wartales.jpg",
-        "main_story_seconds": 150724,
-        "review_score": 71,
-        "completion_count": 118,
-        "release_year": 2023,
-        "profile_platform": "Nintendo Switch, PC, Xbox Series X/S",
-        "match_type": "exact",
-        "match_score": 141,
-        "genres": [
-          "Open World",
-          "Role-Playing"
-        ]
-      },
-      "opencritic": {
-        "title": "Wartales",
-        "game_id": 12419,
-        "url": "https://opencritic.com/game/12419/wartales",
-        "top_critic_score": 76.6,
-        "percent_recommended": 70.6,
-        "tier": "Strong",
-        "median_score": null,
-        "review_count": 19,
-        "release_year": 2023,
-        "match_type": "exact",
-        "match_score": 147
-      },
-      "short_game_score": {
-        "score": 53.6,
-        "critic_score": 76.6,
-        "duration_fit_score": 0.0,
-        "main_story_hours": 41.9,
-        "target_hours": 15.0
-      }
-    },
-    {
       "catalog_group": "xbox-only",
       "is_on_gfn": false,
       "title": "Wasteland 2: Director's Cut",
@@ -31685,64 +31313,6 @@
         "match_score": 116
       },
       "short_game_score": null
-    },
-    {
-      "catalog_group": "intersection",
-      "is_on_gfn": true,
-      "title": "Wildgate",
-      "normalized_title": "wildgate",
-      "gfn_stores": [
-        "EPIC",
-        "STEAM"
-      ],
-      "gfn_has_xbox_store": false,
-      "xbox_title": "Wildgate",
-      "xbox_product_id": "9N6VS1BMZ3BW",
-      "xbox_url": "https://www.microsoft.com/store/productId/9N6VS1BMZ3BW",
-      "publisher": "Dreamhaven, Inc.",
-      "developer": "Moonshot Games",
-      "release_date": "2025-07-22T15:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.53490.14011062654467580.dba38bbf-80c3-4aba-afd1-78d46abb6970.2c5e30f1-0052-48aa-a526-46c234418872",
-      "description": "Wildgate is a PvPvE multiplayer shooter that blends tactical ship-to-ship combat with fast-paced first-person action. Evade deadly environmental hazards, search for powerful weapons and ship upgrades, and be the first crew to escape with the Artifact... or the last crew left flying.",
-      "match_type": "exact-title",
-      "match_score": 120,
-      "howlongtobeat": {
-        "title": "Wildgate",
-        "game_id": 165750,
-        "url": "https://howlongtobeat.com/game/165750",
-        "image_url": "https://howlongtobeat.com/games/165750_Wildgate.jpg",
-        "main_story_seconds": 68550,
-        "review_score": 68,
-        "completion_count": 8,
-        "release_year": 2025,
-        "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
-        "match_type": "exact",
-        "match_score": 139,
-        "genres": [
-          "First-Person",
-          "Shooter"
-        ]
-      },
-      "opencritic": {
-        "title": "Wildgate",
-        "game_id": 18999,
-        "url": "https://opencritic.com/game/18999/wildgate",
-        "top_critic_score": 76.4,
-        "percent_recommended": 55.0,
-        "tier": "Strong",
-        "median_score": 80,
-        "review_count": 20,
-        "release_year": 2025,
-        "match_type": "exact",
-        "match_score": 148
-      },
-      "short_game_score": {
-        "score": 79.8,
-        "critic_score": 76.4,
-        "duration_fit_score": 87.7,
-        "main_story_hours": 19.0,
-        "target_hours": 15.0
-      }
     },
     {
       "catalog_group": "xbox-only",
