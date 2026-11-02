@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T06:23:57+00:00",
+  "updated_at": "2026-11-02T21:46:39+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -11544,6 +11544,12 @@
         "match_type": "exact",
         "match_score": 147
       }
+    },
+    "gravhounds game preview": {
+      "title": "GRAVHOUNDS (Game Preview)",
+      "status": "not_found",
+      "fetched_at": "2026-11-02T21:46:37+00:00",
+      "data": null
     }
   }
 }

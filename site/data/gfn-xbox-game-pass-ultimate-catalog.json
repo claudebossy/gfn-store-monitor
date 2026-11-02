@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T06:23:47+00:00",
+  "generated_at": "2026-11-02T21:46:25+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,11 +13,11 @@
     }
   },
   "counts": {
-    "gfn_titles": 6213,
-    "xbox_game_pass_titles": 897,
-    "catalog_titles": 683,
+    "gfn_titles": 6217,
+    "xbox_game_pass_titles": 898,
+    "catalog_titles": 684,
     "intersection_titles": 396,
-    "xbox_only_titles": 287
+    "xbox_only_titles": 288
   },
   "summary": {
     "store_counts": {
@@ -85,7 +85,7 @@
     ],
     "gfn_xbox_store_matches": 197,
     "intersection_titles": 396,
-    "xbox_only_titles": 287,
+    "xbox_only_titles": 288,
     "hltb_matches": 490,
     "opencritic_matches": 560,
     "short_game_score_matches": 356,
@@ -12981,6 +12981,27 @@
         "main_story_hours": 7.8,
         "target_hours": 15.0
       }
+    },
+    {
+      "catalog_group": "xbox-only",
+      "is_on_gfn": false,
+      "title": "GRAVHOUNDS (Game Preview)",
+      "normalized_title": "gravhounds game preview",
+      "gfn_stores": [],
+      "gfn_has_xbox_store": false,
+      "xbox_title": "GRAVHOUNDS (Game Preview)",
+      "xbox_product_id": "9PBG4MTM3JJC",
+      "xbox_url": "https://www.microsoft.com/store/productId/9PBG4MTM3JJC",
+      "publisher": "Octopus Panic, Inc",
+      "developer": "Octopus Panic, Inc",
+      "release_date": "9998-12-30T00:00:00.0000000Z",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.32418.14119486704236036.abde8f1d-835f-498a-a443-5a7c4d6c7932.8d3deadc-c733-456f-970d-8b3f90a5e322",
+      "description": "This game is a work in progress. It may or may not change over time or release as a final product. Purchase only if you are comfortable with the current state of the unfinished game. \nGRAVHOUNDS is a 1–4 player co-op action builder. Drop into hostile planets as a pack, build and defend your base in physics-driven mayhem, and extract with everything you can carry before you become alien chow.",
+      "match_type": "xbox-only",
+      "match_score": 0,
+      "howlongtobeat": null,
+      "opencritic": null,
+      "short_game_score": null
     },
     {
       "catalog_group": "xbox-only",
@@ -31919,7 +31940,7 @@
       "publisher": "Wargaming.net",
       "developer": "Wargaming Group Limited",
       "release_date": "2019-08-12T00:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.47095.65694988112101034.15f749ea-0c2c-4a1d-a997-35665ae27acf.8d0ace70-1146-41a4-a25d-77cddbf98d09",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.27935.65694988112101034.0e2e9b4c-f10e-4538-ab3d-5efb48eaa044.fdf697a9-4652-4ecc-8c55-1c481abbaa02",
       "description": "Experience epic naval action in World of Warships: Legends, a global multiplayer free-to-play online game in which you can master the seas on the decks of history's greatest warships! Recruit Legendary Commanders, upgrade your vessels, and stake your claim to naval domination alongside and against players from around the world.",
       "match_type": "exact-title",
       "match_score": 120,
