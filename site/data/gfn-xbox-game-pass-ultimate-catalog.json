@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T06:58:07+00:00",
+  "generated_at": "2026-11-03T19:35:45+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,11 +13,11 @@
     }
   },
   "counts": {
-    "gfn_titles": 6223,
-    "xbox_game_pass_titles": 898,
-    "catalog_titles": 684,
+    "gfn_titles": 6226,
+    "xbox_game_pass_titles": 900,
+    "catalog_titles": 686,
     "intersection_titles": 396,
-    "xbox_only_titles": 288
+    "xbox_only_titles": 290
   },
   "summary": {
     "store_counts": {
@@ -85,9 +85,9 @@
     ],
     "gfn_xbox_store_matches": 197,
     "intersection_titles": 396,
-    "xbox_only_titles": 288,
-    "hltb_matches": 490,
-    "opencritic_matches": 560,
+    "xbox_only_titles": 290,
+    "hltb_matches": 492,
+    "opencritic_matches": 559,
     "short_game_score_matches": 356,
     "exact_matches": 365,
     "partial_matches": 31
@@ -10257,39 +10257,6 @@
       "short_game_score": null
     },
     {
-      "catalog_group": "xbox-only",
-      "is_on_gfn": false,
-      "title": "Far Cry 3 Classic Edition",
-      "normalized_title": "far cry 3 classic edition",
-      "gfn_stores": [],
-      "gfn_has_xbox_store": false,
-      "xbox_title": "Far Cry 3 Classic Edition",
-      "xbox_product_id": "BV2ZVP7PJZWL",
-      "xbox_url": "https://www.microsoft.com/store/productId/BV2ZVP7PJZWL",
-      "publisher": "Ubisoft",
-      "developer": null,
-      "release_date": "2018-06-26T00:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.1920.71220804959101191.bad88979-60b4-40b4-af6d-182d4534c987.1bd53913-3aff-42c9-8d2b-fb0467e78e72",
-      "description": "(Re-)experience Far Cry 3 Classic Edition, now available in 60 FPS on Xbox Series X|S. Create your own adventure in a single-player, open world island of danger and discovery as you journey through the dark side of humanity.",
-      "match_type": "xbox-only",
-      "match_score": 0,
-      "howlongtobeat": null,
-      "opencritic": {
-        "title": "Far Cry 3 Classic Edition",
-        "game_id": 6166,
-        "url": "https://opencritic.com/game/6166/far-cry-3-classic-edition",
-        "top_critic_score": 75.4,
-        "percent_recommended": 66.7,
-        "tier": "Strong",
-        "median_score": 78,
-        "review_count": 10,
-        "release_year": 2018,
-        "match_type": "exact",
-        "match_score": 147
-      },
-      "short_game_score": null
-    },
-    {
       "catalog_group": "intersection",
       "is_on_gfn": true,
       "title": "Far Cry® 4",
@@ -10538,6 +10505,27 @@
         "main_story_hours": 15.0,
         "target_hours": 15.0
       }
+    },
+    {
+      "catalog_group": "xbox-only",
+      "is_on_gfn": false,
+      "title": "FARCRY 3 Classic Edition",
+      "normalized_title": "farcry 3 classic edition",
+      "gfn_stores": [],
+      "gfn_has_xbox_store": false,
+      "xbox_title": "FARCRY 3 Classic Edition",
+      "xbox_product_id": "BV2ZVP7PJZWL",
+      "xbox_url": "https://www.microsoft.com/store/productId/BV2ZVP7PJZWL",
+      "publisher": "Ubisoft",
+      "developer": null,
+      "release_date": "2018-06-26T00:00:00.0000000Z",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.1920.71220804959101191.bad88979-60b4-40b4-af6d-182d4534c987.1bd53913-3aff-42c9-8d2b-fb0467e78e72",
+      "description": "Stranded on the Rook Islands as Jason Brody, fight your way through a lawless tropical open world using a powerful arsenal to save your friends and escape the madness of this acclaimed, visceral first-person shooter. Now in 60 FPS on Xbox Series X|S!",
+      "match_type": "xbox-only",
+      "match_score": 0,
+      "howlongtobeat": null,
+      "opencritic": null,
+      "short_game_score": null
     },
     {
       "catalog_group": "xbox-only",
@@ -11444,6 +11432,42 @@
         "match_type": "partial",
         "match_score": 117
       },
+      "short_game_score": null
+    },
+    {
+      "catalog_group": "xbox-only",
+      "is_on_gfn": false,
+      "title": "Football Manager 27",
+      "normalized_title": "football manager 27",
+      "gfn_stores": [],
+      "gfn_has_xbox_store": false,
+      "xbox_title": "Football Manager 27",
+      "xbox_product_id": "9N4NKMXDZCX6",
+      "xbox_url": "https://www.microsoft.com/store/productId/9N4NKMXDZCX6",
+      "publisher": "SEGA",
+      "developer": "Sports Interactive",
+      "release_date": "2026-11-10T00:00:00.0000000Z",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.41128.13984136076613493.b5146129-a992-4e04-8b43-ffa40460c569.65fc80a0-aece-4587-8f3f-9537315ddeb9",
+      "description": "Choose the club. Shape the squad. Set the tactics. Chase the future only you can see. \r\nFM27 is where your footballing beliefs become a reality. Make The Call.",
+      "match_type": "xbox-only",
+      "match_score": 0,
+      "howlongtobeat": {
+        "title": "Football Manager 27",
+        "game_id": 192812,
+        "url": "https://howlongtobeat.com/game/192812",
+        "image_url": "https://howlongtobeat.com/games/192812_Football_Manager_27.jpg",
+        "main_story_seconds": null,
+        "review_score": null,
+        "completion_count": 1,
+        "release_year": 2026,
+        "profile_platform": "Mac, PC",
+        "match_type": "exact",
+        "match_score": 140,
+        "genres": [
+          "Sports"
+        ]
+      },
+      "opencritic": null,
       "short_game_score": null
     },
     {
@@ -20400,6 +20424,43 @@
       }
     },
     {
+      "catalog_group": "xbox-only",
+      "is_on_gfn": false,
+      "title": "PIT OF GOBLIN",
+      "normalized_title": "pit of goblin",
+      "gfn_stores": [],
+      "gfn_has_xbox_store": false,
+      "xbox_title": "PIT OF GOBLIN",
+      "xbox_product_id": "9MW4MFG0192L",
+      "xbox_url": "https://www.microsoft.com/store/productId/9MW4MFG0192L",
+      "publisher": "Friendly Foe, Bright Gambit",
+      "developer": "Friendly Foe",
+      "release_date": "2026-11-03T14:00:00.0000000Z",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.27620.13846192334895629.23a9d00d-834c-4fd7-abe1-41b8b885b3ee.36fa2021-fe84-4d8b-82c1-b8870791b64c",
+      "description": null,
+      "match_type": "xbox-only",
+      "match_score": 0,
+      "howlongtobeat": {
+        "title": "Pit of Goblin",
+        "game_id": 177189,
+        "url": "https://howlongtobeat.com/game/177189",
+        "image_url": "https://howlongtobeat.com/games/177189_Pit_of_Goblin.jpg",
+        "main_story_seconds": null,
+        "review_score": 60,
+        "completion_count": 3,
+        "release_year": 2024,
+        "profile_platform": "PC",
+        "match_type": "exact",
+        "match_score": 125,
+        "genres": [
+          "Action",
+          "Adventure"
+        ]
+      },
+      "opencritic": null,
+      "short_game_score": null
+    },
+    {
       "catalog_group": "intersection",
       "is_on_gfn": true,
       "title": "Planet Coaster 2",
@@ -23863,7 +23924,7 @@
       "publisher": "Hi-Rez Studios",
       "developer": "Titan Forge Games",
       "release_date": "9998-12-30T00:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.53577.14402893629943553.54fbd0de-7e4f-448e-93c6-1ad78c0a967a.264f684c-58e6-4b9f-b471-91ebc459b46e",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.61571.14402893629943553.6e6c7d04-2186-4859-a2b8-45f1f1799a2e.bbc0f7a0-8939-4be2-95f9-d3a038af4eed",
       "description": "This game is a work in progress. It may or may not change over time or release as a final product. Purchase only if you are comfortable with the current state of the unfinished game. \n\nBecome a god and wage war in SMITE 2, the Unreal Engine 5-powered sequel to the legendary third-person action MOBA. If you love competition, intense action, ability-driven combat, rewarding teamwork, or godly mythology, you’ll see why 40+ million players love SMITE.",
       "match_type": "exact-title",
       "match_score": 120,
@@ -31830,7 +31891,7 @@
       "publisher": "Wargaming.net",
       "developer": "Wargaming.net",
       "release_date": "2026-05-26T07:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.51844.13914660851585642.bf740845-6b4f-4219-8754-f267907650cd.8dd0d24a-2002-449f-8a76-cd569f1ddac4",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.63783.13914660851585642.a21c2c87-a21a-4263-9436-669b54cfa894.6f6c51ca-27ad-495d-892b-50adfb797702",
       "description": "World of Tanks: HEAT is a free-to-play PvP vehicle shooter with powerful hero abilities and explosive team combat. Pilot customizable tanks, unleash Agent skills, and take control in 10v10 online battles where tactical warfare meets FPS-style intensity.",
       "match_type": "exact-title",
       "match_score": 120,
@@ -31883,7 +31944,7 @@
       "publisher": "Wargaming Group Limited",
       "developer": "Wargaming Group Limited",
       "release_date": "2017-11-03T18:08:36.1008660Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.55678.13660342589962425.6455870f-14f6-40c6-8297-921ec3889341.7a8d87fc-a637-4cd9-8541-bbfc90238344",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.26657.13660342589962425.83c35c19-74e3-4695-9f5e-d36d0fcd1705.c3a30a27-cb29-455f-b385-d4e6b5653acf",
       "description": null,
       "match_type": "exact-title",
       "match_score": 120,

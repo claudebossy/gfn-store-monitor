@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T06:59:04+00:00",
+  "updated_at": "2026-11-03T19:36:07+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -11549,6 +11549,24 @@
       "title": "GRAVHOUNDS (Game Preview)",
       "status": "not_found",
       "fetched_at": "2026-11-02T21:46:37+00:00",
+      "data": null
+    },
+    "farcry 3 classic edition": {
+      "title": "FARCRY 3 Classic Edition",
+      "status": "not_found",
+      "fetched_at": "2026-11-03T19:35:57+00:00",
+      "data": null
+    },
+    "football manager 27": {
+      "title": "Football Manager 27",
+      "status": "not_found",
+      "fetched_at": "2026-11-03T19:36:00+00:00",
+      "data": null
+    },
+    "pit of goblin": {
+      "title": "PIT OF GOBLIN",
+      "status": "not_found",
+      "fetched_at": "2026-11-03T19:36:01+00:00",
       "data": null
     }
   }
