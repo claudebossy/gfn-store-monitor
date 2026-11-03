@@ -6533,6 +6533,12 @@
       "STEAM"
     ]
   },
+  "corpus et spiritus": {
+    "name": "Corpus et Spiritus",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "corridor z": {
     "name": "Corridor Z",
     "stores": [
@@ -8396,6 +8402,12 @@
   },
   "die by the blade": {
     "name": "Die by the Blade",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "diecast": {
+    "name": "Diecast",
     "stores": [
       "STEAM"
     ]
@@ -15447,6 +15459,12 @@
       "STEAM"
     ]
   },
+  "imperium": {
+    "name": "Imperium",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "impire": {
     "name": "Impire",
     "stores": [
@@ -17568,6 +17586,12 @@
   },
   "lingo 2": {
     "name": "Lingo 2",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "link cameras": {
+    "name": "Link Cameras",
     "stores": [
       "STEAM"
     ]
@@ -20525,6 +20549,12 @@
   },
   "never breakup": {
     "name": "Never BreakUp",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "neverending descent": {
+    "name": "Neverending Descent",
     "stores": [
       "STEAM"
     ]
