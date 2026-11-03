@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T00:56:10+00:00",
+  "generated_at": "2026-11-03T14:09:36+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -6008,6 +6008,52 @@
         },
         {
           "name": "Velocity - Midnight Run",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
+      "new_stores": []
+    },
+    {
+      "timestamp": "2026-11-03T14:09:36+00:00",
+      "baseline": false,
+      "catalog_game_count": 6223,
+      "new_game_count": 6,
+      "new_store_count": 0,
+      "new_games": [
+        {
+          "name": "IfSunSets",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Mr Chicken's Totally Ethical Farm!",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Mr Chicken's Totally Ethical Farm! Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Neon Breaker: Endless Arcade",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "The Dream Machine: Chapter 1 & 2",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Warhammer 40,000: Dakka Squadron - Flyboyz Edition (Classic)",
           "stores": [
             "STEAM"
           ]

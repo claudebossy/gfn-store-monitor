@@ -15360,6 +15360,12 @@
       "STEAM"
     ]
   },
+  "ifsunsets": {
+    "name": "IfSunSets",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "ihf handball challenge 14": {
     "name": "IHF Handball Challenge 14",
     "stores": [
@@ -19848,6 +19854,18 @@
       "STEAM"
     ]
   },
+  "mr chicken s totally ethical farm": {
+    "name": "Mr Chicken's Totally Ethical Farm!",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "mr chicken s totally ethical farm demo": {
+    "name": "Mr Chicken's Totally Ethical Farm! Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "mr king luo don t be kidding": {
     "name": "Mr.King Luo!Don't be kidding",
     "stores": [
@@ -20382,6 +20400,12 @@
     "name": "Neon Blight",
     "stores": [
       "EPIC",
+      "STEAM"
+    ]
+  },
+  "neon breaker endless arcade": {
+    "name": "Neon Breaker: Endless Arcade",
+    "stores": [
       "STEAM"
     ]
   },
@@ -31683,6 +31707,12 @@
       "STEAM"
     ]
   },
+  "the dream machine chapter 1 2": {
+    "name": "The Dream Machine: Chapter 1 & 2",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "the dream office": {
     "name": "The Dream Office",
     "stores": [
@@ -36299,6 +36329,12 @@
     "name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
     "stores": [
       "EPIC",
+      "STEAM"
+    ]
+  },
+  "warhammer 40 000 dakka squadron flyboyz edition classic": {
+    "name": "Warhammer 40,000: Dakka Squadron - Flyboyz Edition (Classic)",
+    "stores": [
       "STEAM"
     ]
   },
