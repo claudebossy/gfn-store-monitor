@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T15:46:19+00:00",
+  "generated_at": "2026-11-03T00:56:10+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -5979,6 +5979,40 @@
       "new_game_count": 0,
       "new_store_count": 0,
       "new_games": [],
+      "new_stores": []
+    },
+    {
+      "timestamp": "2026-11-03T00:56:10+00:00",
+      "baseline": false,
+      "catalog_game_count": 6217,
+      "new_game_count": 4,
+      "new_store_count": 0,
+      "new_games": [
+        {
+          "name": "Brick by Brick: Tidy Up the Small Town!",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Mayday: The Survival Island",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Queen's Domain",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Velocity - Midnight Run",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
       "new_stores": []
     }
   ]

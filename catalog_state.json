@@ -4361,6 +4361,12 @@
       "STEAM"
     ]
   },
+  "brick by brick tidy up the small town": {
+    "name": "Brick by Brick: Tidy Up the Small Town!",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "brick rigs": {
     "name": "Brick Rigs",
     "stores": [
@@ -18582,6 +18588,12 @@
       "STEAM"
     ]
   },
+  "mayday the survival island": {
+    "name": "Mayday: The Survival Island",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "mayhem in single valley demo": {
     "name": "Mayhem in Single Valley Demo",
     "stores": [
@@ -23898,6 +23910,12 @@
   },
   "quasimorph": {
     "name": "Quasimorph",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "queen s domain": {
+    "name": "Queen's Domain",
     "stores": [
       "STEAM"
     ]
@@ -35677,6 +35695,12 @@
   },
   "vein": {
     "name": "VEIN",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "velocity midnight run": {
+    "name": "Velocity - Midnight Run",
     "stores": [
       "STEAM"
     ]
