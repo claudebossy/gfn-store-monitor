@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T06:39:51+00:00",
+  "generated_at": "2026-11-04T19:52:15+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,8 +13,8 @@
     }
   },
   "counts": {
-    "gfn_titles": 6228,
-    "xbox_game_pass_titles": 900,
+    "gfn_titles": 6233,
+    "xbox_game_pass_titles": 899,
     "catalog_titles": 686,
     "intersection_titles": 396,
     "xbox_only_titles": 290
@@ -30309,13 +30309,13 @@
         "XBOX"
       ],
       "gfn_has_xbox_store": true,
-      "xbox_title": "VOID/BREAKER (Game Preview)",
+      "xbox_title": "VOID/BREAKER",
       "xbox_product_id": "9N9K5QP9G3GL",
       "xbox_url": "https://www.microsoft.com/store/productId/9N9K5QP9G3GL",
       "publisher": "Playstack",
       "developer": "Stubby Games",
       "release_date": "2026-11-04T00:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.38119.13536036111571877.589d3b26-235b-491c-b54b-52bb688c551a.60bf8a60-ca7a-49b8-a6ea-0763cfc58ff8",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.51980.13536036111571877.6e9314d2-c36f-4ec9-ad65-425453b390bd.3a66a7ac-58c7-4548-b48a-ea9cc3ba82eb",
       "description": "Adrenaline-Fueled Roguelite FPS",
       "match_type": "exact-title",
       "match_score": 120,
