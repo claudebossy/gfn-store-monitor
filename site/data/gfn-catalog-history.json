@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T06:16:04+00:00",
+  "generated_at": "2026-11-04T14:37:31+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -6108,6 +6108,34 @@
       "new_game_count": 0,
       "new_store_count": 0,
       "new_games": [],
+      "new_stores": []
+    },
+    {
+      "timestamp": "2026-11-04T14:37:31+00:00",
+      "baseline": false,
+      "catalog_game_count": 6231,
+      "new_game_count": 3,
+      "new_store_count": 0,
+      "new_games": [
+        {
+          "name": "Guns of Eschaton Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Lost Host",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Therapy Simulator",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
       "new_stores": []
     }
   ]

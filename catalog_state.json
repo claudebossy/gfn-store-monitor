@@ -13659,6 +13659,12 @@
       "STEAM"
     ]
   },
+  "guns of eschaton demo": {
+    "name": "Guns of Eschaton Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "guntouchables": {
     "name": "GUNTOUCHABLES",
     "stores": [
@@ -17902,6 +17908,12 @@
   },
   "lost ember rekindled edition": {
     "name": "LOST EMBER: Rekindled Edition",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "lost host": {
+    "name": "Lost Host",
     "stores": [
       "STEAM"
     ]
@@ -33396,6 +33408,12 @@
   },
   "theofil": {
     "name": "Theofil",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "therapy simulator": {
+    "name": "Therapy Simulator",
     "stores": [
       "STEAM"
     ]
