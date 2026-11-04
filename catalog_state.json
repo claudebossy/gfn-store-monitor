@@ -2037,12 +2037,6 @@
       "STEAM"
     ]
   },
-  "armored warfare": {
-    "name": "Armored Warfare",
-    "stores": [
-      "STEAM"
-    ]
-  },
   "arms of god": {
     "name": "Arms of God",
     "stores": [
@@ -14210,6 +14204,12 @@
       "STEAM"
     ]
   },
+  "hell clock": {
+    "name": "Hell Clock",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "hell is others": {
     "name": "Hell is Others",
     "stores": [
@@ -22883,6 +22883,12 @@
       "STEAM"
     ]
   },
+  "plague inc the board game": {
+    "name": "Plague Inc: The Board Game",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "plague inc the board game the video game demo": {
     "name": "Plague Inc: The Board Game: The Video Game Demo",
     "stores": [
@@ -24700,6 +24706,12 @@
       "STEAM"
     ]
   },
+  "relic hunters legend": {
+    "name": "Relic Hunters Legend",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "relic hunters zero remix": {
     "name": "Relic Hunters Zero: Remix",
     "stores": [
@@ -24962,6 +24974,12 @@
   },
   "retro tv tycoon demo": {
     "name": "Retro TV Tycoon Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "retrospace": {
+    "name": "RetroSpace",
     "stores": [
       "STEAM"
     ]
@@ -33412,6 +33430,12 @@
       "STEAM"
     ]
   },
+  "theos cities of myth": {
+    "name": "Theos: Cities Of Myth",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "therapy simulator": {
     "name": "Therapy Simulator",
     "stores": [
@@ -33771,6 +33795,12 @@
   },
   "tiny troopers joint ops xl": {
     "name": "Tiny Troopers: Joint Ops XL",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "tinybriks": {
+    "name": "TinyBriks",
     "stores": [
       "STEAM"
     ]

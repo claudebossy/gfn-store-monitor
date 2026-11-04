@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T14:37:31+00:00",
+  "generated_at": "2026-11-04T23:38:50+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -6131,6 +6131,52 @@
         },
         {
           "name": "Therapy Simulator",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
+      "new_stores": []
+    },
+    {
+      "timestamp": "2026-11-04T23:38:50+00:00",
+      "baseline": false,
+      "catalog_game_count": 6236,
+      "new_game_count": 6,
+      "new_store_count": 0,
+      "new_games": [
+        {
+          "name": "Hell Clock",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Plague Inc: The Board Game",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Relic Hunters Legend",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "RetroSpace",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Theos: Cities Of Myth",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "TinyBriks",
           "stores": [
             "STEAM"
           ]
