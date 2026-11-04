@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T19:35:45+00:00",
+  "generated_at": "2026-11-04T06:39:51+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,7 +13,7 @@
     }
   },
   "counts": {
-    "gfn_titles": 6226,
+    "gfn_titles": 6228,
     "xbox_game_pass_titles": 900,
     "catalog_titles": 686,
     "intersection_titles": 396,
@@ -12736,7 +12736,7 @@
       "publisher": "COGNOSPHERE PTE. LTD.",
       "developer": "Shanghai miHoYo TianMing Technology Co., Ltd.",
       "release_date": "2024-11-20T03:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.40706.14057893183113088.225c959c-4e96-4c0d-b572-af64d573ae06.eb1b05ab-846a-434d-8f78-d9c3d9f4bb76",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.40980.14057893183113088.6184a715-916f-4092-977e-599a3645f0a0.d0e061be-e3b1-4ff7-8695-1e06fe964301",
       "description": "Explore a World of Adventure",
       "match_type": "exact-title",
       "match_score": 120,
@@ -24342,13 +24342,13 @@
         "game_id": 166772,
         "url": "https://howlongtobeat.com/game/166772",
         "image_url": "https://howlongtobeat.com/games/166772_SpeedRunners_2_King_of_Speed.jpg",
-        "main_story_seconds": 4230,
-        "review_score": 59,
-        "completion_count": 7,
+        "main_story_seconds": 3758,
+        "review_score": 58,
+        "completion_count": 12,
         "release_year": 2026,
         "profile_platform": "Nintendo Switch, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 140,
+        "match_score": 138,
         "genres": [
           "Side",
           "Scrolling",
