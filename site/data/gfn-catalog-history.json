@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T06:42:09+00:00",
+  "generated_at": "2026-11-05T19:55:03+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -6192,6 +6192,102 @@
       "new_store_count": 0,
       "new_games": [],
       "new_stores": []
+    },
+    {
+      "timestamp": "2026-11-05T19:55:03+00:00",
+      "baseline": false,
+      "catalog_game_count": 6245,
+      "new_game_count": 9,
+      "new_store_count": 3,
+      "new_games": [
+        {
+          "name": "007 First Light Free Starter Pack",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Abashed",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Chivalware",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Drive UP: Together",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Duck Detective: The Secret Salami",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Faraway",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "SpiritVale",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Townworks",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Underkeep",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
+      "new_stores": [
+        {
+          "name": "Planet Zoo 2",
+          "stores": [
+            "EPIC",
+            "STEAM",
+            "XBOX"
+          ],
+          "new_stores": [
+            "EPIC"
+          ]
+        },
+        {
+          "name": "RuneScape: Dragonwilds",
+          "stores": [
+            "EPIC",
+            "STEAM",
+            "XBOX"
+          ],
+          "new_stores": [
+            "EPIC"
+          ]
+        },
+        {
+          "name": "TerraTech Legion",
+          "stores": [
+            "STEAM"
+          ],
+          "new_stores": [
+            "STEAM"
+          ]
+        }
+      ]
     }
   ]
 }

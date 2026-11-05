@@ -7,6 +7,12 @@
       "XBOX"
     ]
   },
+  "007 first light free starter pack": {
+    "name": "007 First Light Free Starter Pack",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "10 minute tower": {
     "name": "10 Minute Tower",
     "stores": [
@@ -477,6 +483,12 @@
   },
   "aarklash legacy": {
     "name": "Aarklash: Legacy",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "abashed": {
+    "name": "Abashed",
     "stores": [
       "STEAM"
     ]
@@ -5515,6 +5527,12 @@
       "STEAM"
     ]
   },
+  "chivalware": {
+    "name": "Chivalware",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "chocolate factory": {
     "name": "Chocolate Factory",
     "stores": [
@@ -9246,6 +9264,12 @@
       "STEAM"
     ]
   },
+  "drive up together": {
+    "name": "Drive UP: Together",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "droid assault": {
     "name": "Droid Assault",
     "stores": [
@@ -9308,6 +9332,12 @@
   },
   "dss 2 war industry": {
     "name": "DSS 2: War Industry",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "duck detective the secret salami": {
+    "name": "Duck Detective: The Secret Salami",
     "stores": [
       "STEAM"
     ]
@@ -11249,6 +11279,12 @@
   },
   "farady protocol demo": {
     "name": "Farady Protocol Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "faraway": {
+    "name": "Faraway",
     "stores": [
       "STEAM"
     ]
@@ -22991,6 +23027,7 @@
   "planet zoo 2": {
     "name": "Planet Zoo 2",
     "stores": [
+      "EPIC",
       "STEAM",
       "XBOX"
     ]
@@ -25784,6 +25821,7 @@
   "runescape dragonwilds": {
     "name": "RuneScape: Dragonwilds",
     "stores": [
+      "EPIC",
       "STEAM",
       "XBOX"
     ]
@@ -28648,6 +28686,12 @@
       "XBOX"
     ]
   },
+  "spiritvale": {
+    "name": "SpiritVale",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "spitkiss": {
     "name": "Spitkiss",
     "stores": [
@@ -31248,7 +31292,7 @@
   "terratech legion": {
     "name": "TerraTech Legion",
     "stores": [
-      "XBOX"
+      "STEAM"
     ]
   },
   "terratech legion demo": {
@@ -34425,6 +34469,12 @@
       "STEAM"
     ]
   },
+  "townworks": {
+    "name": "Townworks",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "toy escape": {
     "name": "Toy Escape",
     "stores": [
@@ -35404,6 +35454,12 @@
   },
   "underground garage": {
     "name": "Underground Garage",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "underkeep": {
+    "name": "Underkeep",
     "stores": [
       "STEAM"
     ]
