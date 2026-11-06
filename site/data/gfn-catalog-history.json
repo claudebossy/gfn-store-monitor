@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T06:40:06+00:00",
+  "generated_at": "2026-11-06T19:22:33+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -6307,6 +6307,58 @@
           ]
         }
       ]
+    },
+    {
+      "timestamp": "2026-11-06T19:22:33+00:00",
+      "baseline": false,
+      "catalog_game_count": 6252,
+      "new_game_count": 7,
+      "new_store_count": 0,
+      "new_games": [
+        {
+          "name": "Duck Detective: The Ghost of Glamping",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Heretic's Rapture - DEMO",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "PETAFAB: Bot Invasion",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Phoenix Springs",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Pool of Radiance: Ruins of Myth Drannor",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "This Game Socks",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "UnderMine 2",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
+      "new_stores": []
     }
   ]
 }

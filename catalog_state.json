@@ -9336,6 +9336,12 @@
       "STEAM"
     ]
   },
+  "duck detective the ghost of glamping": {
+    "name": "Duck Detective: The Ghost of Glamping",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "duck detective the secret salami": {
     "name": "Duck Detective: The Secret Salami",
     "stores": [
@@ -14446,6 +14452,12 @@
   },
   "heretic s fork": {
     "name": "Heretic's Fork",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "heretic s rapture demo": {
+    "name": "Heretic's Rapture - DEMO",
     "stores": [
       "STEAM"
     ]
@@ -22646,6 +22658,12 @@
       "STEAM"
     ]
   },
+  "petafab bot invasion": {
+    "name": "PETAFAB: Bot Invasion",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "peter pan hidden objects": {
     "name": "Peter Pan: Hidden Objects",
     "stores": [
@@ -22740,6 +22758,12 @@
     "name": "Phoenix Point",
     "stores": [
       "EPIC",
+      "STEAM"
+    ]
+  },
+  "phoenix springs": {
+    "name": "Phoenix Springs",
+    "stores": [
       "STEAM"
     ]
   },
@@ -23197,6 +23221,12 @@
   },
   "pool cleaning simulator": {
     "name": "Pool Cleaning Simulator",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "pool of radiance ruins of myth drannor": {
+    "name": "Pool of Radiance: Ruins of Myth Drannor",
     "stores": [
       "STEAM"
     ]
@@ -33547,6 +33577,12 @@
       "STEAM"
     ]
   },
+  "this game socks": {
+    "name": "This Game Socks",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "this is the police": {
     "name": "This Is the Police",
     "stores": [
@@ -35460,6 +35496,12 @@
   },
   "underkeep": {
     "name": "Underkeep",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "undermine 2": {
+    "name": "UnderMine 2",
     "stores": [
       "STEAM"
     ]
