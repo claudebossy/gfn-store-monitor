@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T19:22:33+00:00",
+  "generated_at": "2026-11-07T05:55:35+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -6353,6 +6353,70 @@
         },
         {
           "name": "UnderMine 2",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
+      "new_stores": []
+    },
+    {
+      "timestamp": "2026-11-07T05:55:35+00:00",
+      "baseline": false,
+      "catalog_game_count": 6260,
+      "new_game_count": 9,
+      "new_store_count": 0,
+      "new_games": [
+        {
+          "name": "Cascadou",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "County of Fortune",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Friends vs Friends",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Milkmaid of the Milky Way",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Prime Monster",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Ravenous Devils",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Retro TV Tycoon",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "The Roottrees are Dead",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "UnderMine",
           "stores": [
             "STEAM"
           ]

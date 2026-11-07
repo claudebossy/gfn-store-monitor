@@ -5124,6 +5124,12 @@
       "STEAM"
     ]
   },
+  "cascadou": {
+    "name": "Cascadou",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "cash cleaner simulator": {
     "name": "Cash Cleaner Simulator",
     "stores": [
@@ -6608,6 +6614,12 @@
   },
   "counter strike source": {
     "name": "Counter-Strike: Source",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "county of fortune": {
+    "name": "County of Fortune",
     "stores": [
       "STEAM"
     ]
@@ -12252,6 +12264,12 @@
   },
   "friendly steps": {
     "name": "Friendly Steps",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "friends vs friends": {
+    "name": "Friends vs Friends",
     "stores": [
       "STEAM"
     ]
@@ -19232,6 +19250,12 @@
       "UPLAY"
     ]
   },
+  "milkmaid of the milky way": {
+    "name": "Milkmaid of the Milky Way",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "millennia": {
     "name": "Millennia",
     "stores": [
@@ -23489,6 +23513,12 @@
       "STEAM"
     ]
   },
+  "prime monster": {
+    "name": "Prime Monster",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "primeval": {
     "name": "Primeval",
     "stores": [
@@ -24386,6 +24416,12 @@
       "STEAM"
     ]
   },
+  "ravenous devils": {
+    "name": "Ravenous Devils",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "ravenous horde": {
     "name": "Ravenous Horde",
     "stores": [
@@ -25035,6 +25071,12 @@
   },
   "retro rewind video store simulator": {
     "name": "Retro Rewind - Video Store Simulator",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "retro tv tycoon": {
+    "name": "Retro TV Tycoon",
     "stores": [
       "STEAM"
     ]
@@ -33016,6 +33058,12 @@
       "UPLAY"
     ]
   },
+  "the roottrees are dead": {
+    "name": "The Roottrees are Dead",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "the rosebud condominium": {
     "name": "The Rosebud Condominium",
     "stores": [
@@ -35494,8 +35542,8 @@
       "STEAM"
     ]
   },
-  "underkeep": {
-    "name": "Underkeep",
+  "undermine": {
+    "name": "UnderMine",
     "stores": [
       "STEAM"
     ]
