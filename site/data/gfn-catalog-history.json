@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T12:57:23+00:00",
+  "generated_at": "2026-11-07T21:47:47+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -6431,6 +6431,22 @@
       "new_game_count": 0,
       "new_store_count": 0,
       "new_games": [],
+      "new_stores": []
+    },
+    {
+      "timestamp": "2026-11-07T21:47:47+00:00",
+      "baseline": false,
+      "catalog_game_count": 6261,
+      "new_game_count": 1,
+      "new_store_count": 0,
+      "new_games": [
+        {
+          "name": "The Lord of the Rings: War in the North™ - Legacy Edition",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
       "new_stores": []
     }
   ]
