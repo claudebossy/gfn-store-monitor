@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T19:52:13+00:00",
+  "generated_at": "2026-11-08T06:16:39+00:00",
   "currency": "CHF",
   "products": [
     {
@@ -11,8 +11,8 @@
       "canonical_url": "https://www.instant-gaming.com/fr/4994-acheter-xbox-game-pass-ultimate-3-mois-xbox-one-xbox-series-x-s-pc-microsoft-store/",
       "image_url": "https://gaming-cdn.com/images/products/4994/616x353/xbox-game-pass-ultimate-3-mois-xbox-one-xbox-series-x-s-pc-microsoft-store-cover.jpg?v=1776851245",
       "current": {
-        "timestamp": "2026-11-04T19:52:13+00:00",
-        "price": 41.24,
+        "timestamp": "2026-11-08T06:16:39+00:00",
+        "price": 41.14,
         "available": true,
         "discount_percent": 29,
         "preorder": false,
@@ -2066,6 +2066,14 @@
           "discount_percent": 29,
           "preorder": false,
           "retail_price": 58.0
+        },
+        {
+          "timestamp": "2026-11-08T06:16:39+00:00",
+          "price": 41.14,
+          "available": true,
+          "discount_percent": 29,
+          "preorder": false,
+          "retail_price": 58.0
         }
       ]
     },
@@ -2078,8 +2086,8 @@
       "canonical_url": "https://www.instant-gaming.com/fr/4993-acheter-xbox-game-pass-ultimate-1-mois-xbox-one-xbox-series-x-s-pc-microsoft-store/",
       "image_url": "https://gaming-cdn.com/images/products/4993/616x353/xbox-game-pass-ultimate-1-mois-xbox-one-xbox-series-x-s-pc-microsoft-store-cover.jpg?v=1776843160",
       "current": {
-        "timestamp": "2026-11-04T19:52:13+00:00",
-        "price": 15.57,
+        "timestamp": "2026-11-08T06:16:39+00:00",
+        "price": 15.53,
         "available": true,
         "discount_percent": 19,
         "preorder": false,
@@ -4133,6 +4141,14 @@
           "discount_percent": 19,
           "preorder": false,
           "retail_price": 19.0
+        },
+        {
+          "timestamp": "2026-11-08T06:16:39+00:00",
+          "price": 15.53,
+          "available": true,
+          "discount_percent": 19,
+          "preorder": false,
+          "retail_price": 19.0
         }
       ]
     },
@@ -4145,8 +4161,8 @@
       "canonical_url": "https://www.instant-gaming.com/fr/7613-acheter-xbox-game-pass-3-mois-pc-microsoft-store/",
       "image_url": "https://gaming-cdn.com/images/products/7613/616x353/xbox-game-pass-3-mois-pc-microsoft-store-cover.jpg?v=1786528310",
       "current": {
-        "timestamp": "2026-11-04T19:52:13+00:00",
-        "price": 31.16,
+        "timestamp": "2026-11-08T06:16:39+00:00",
+        "price": 31.08,
         "available": false,
         "discount_percent": 13,
         "preorder": false,
@@ -6200,6 +6216,14 @@
           "discount_percent": 13,
           "preorder": false,
           "retail_price": 36.0
+        },
+        {
+          "timestamp": "2026-11-08T06:16:39+00:00",
+          "price": 31.08,
+          "available": false,
+          "discount_percent": 13,
+          "preorder": false,
+          "retail_price": 36.0
         }
       ]
     },
@@ -6212,8 +6236,8 @@
       "canonical_url": "https://www.instant-gaming.com/fr/15846-acheter-dragon-quest-builders-pc-jeu-steam/",
       "image_url": "https://gaming-cdn.com/images/products/15846/616x353/dragon-quest-builders-pc-jeu-steam-cover.jpg?v=1706631799",
       "current": {
-        "timestamp": "2026-11-04T19:52:13+00:00",
-        "price": 12.92,
+        "timestamp": "2026-11-08T06:16:39+00:00",
+        "price": 12.97,
         "available": true,
         "discount_percent": 52,
         "preorder": false,
@@ -8019,6 +8043,14 @@
           "discount_percent": 52,
           "preorder": false,
           "retail_price": 27.0
+        },
+        {
+          "timestamp": "2026-11-08T06:16:39+00:00",
+          "price": 12.97,
+          "available": true,
+          "discount_percent": 52,
+          "preorder": false,
+          "retail_price": 27.0
         }
       ]
     },
@@ -8031,8 +8063,8 @@
       "canonical_url": "https://www.instant-gaming.com/fr/6027-acheter-dragon-quest-builders-2-pc-jeu-steam/",
       "image_url": "https://gaming-cdn.com/images/products/6027/616x353/dragon-quest-builders-2-pc-jeu-steam-cover.jpg?v=1651506855",
       "current": {
-        "timestamp": "2026-11-04T19:52:13+00:00",
-        "price": 20.8,
+        "timestamp": "2026-11-08T06:16:39+00:00",
+        "price": 20.75,
         "available": true,
         "discount_percent": 58,
         "preorder": false,
@@ -9834,6 +9866,14 @@
         {
           "timestamp": "2026-11-04T19:52:13+00:00",
           "price": 20.8,
+          "available": true,
+          "discount_percent": 58,
+          "preorder": false,
+          "retail_price": 50.0
+        },
+        {
+          "timestamp": "2026-11-08T06:16:39+00:00",
+          "price": 20.75,
           "available": true,
           "discount_percent": 58,
           "preorder": false,

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T19:52:15+00:00",
+  "generated_at": "2026-11-08T06:16:41+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,17 +13,17 @@
     }
   },
   "counts": {
-    "gfn_titles": 6233,
-    "xbox_game_pass_titles": 899,
-    "catalog_titles": 686,
-    "intersection_titles": 396,
+    "gfn_titles": 6261,
+    "xbox_game_pass_titles": 904,
+    "catalog_titles": 688,
+    "intersection_titles": 398,
     "xbox_only_titles": 290
   },
   "summary": {
     "store_counts": {
-      "STEAM": 355,
+      "STEAM": 357,
       "XBOX": 197,
-      "EPIC": 74,
+      "EPIC": 75,
       "UPLAY": 65,
       "BATTLENET": 21,
       "EA_APP": 17,
@@ -84,12 +84,12 @@
       }
     ],
     "gfn_xbox_store_matches": 197,
-    "intersection_titles": 396,
+    "intersection_titles": 398,
     "xbox_only_titles": 290,
-    "hltb_matches": 492,
-    "opencritic_matches": 559,
-    "short_game_score_matches": 356,
-    "exact_matches": 365,
+    "hltb_matches": 494,
+    "opencritic_matches": 561,
+    "short_game_score_matches": 360,
+    "exact_matches": 367,
     "partial_matches": 31
   },
   "games": [
@@ -9232,13 +9232,13 @@
         "game_id": 146731,
         "url": "https://howlongtobeat.com/game/146731",
         "image_url": "https://howlongtobeat.com/games/146731_Echo_Weaver.jpg",
-        "main_story_seconds": null,
-        "review_score": null,
-        "completion_count": null,
+        "main_story_seconds": 38190,
+        "review_score": 80,
+        "completion_count": 24,
         "release_year": 2026,
         "profile_platform": "Mac, Nintendo Switch 2, PC, PlayStation 5, Xbox One, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 140,
+        "match_score": 142,
         "genres": [
           "Side",
           "Scrolling",
@@ -9249,16 +9249,22 @@
         "title": "Echo Weaver",
         "game_id": 21510,
         "url": "https://opencritic.com/game/21510/echo-weaver",
-        "top_critic_score": null,
-        "percent_recommended": null,
-        "tier": null,
-        "median_score": null,
-        "review_count": 3,
+        "top_critic_score": 83.1,
+        "percent_recommended": 88.9,
+        "tier": "Strong",
+        "median_score": 80,
+        "review_count": 10,
         "release_year": 2026,
         "match_type": "exact",
         "match_score": 147
       },
-      "short_game_score": null
+      "short_game_score": {
+        "score": 88.2,
+        "critic_score": 83.1,
+        "duration_fit_score": 100.0,
+        "main_story_hours": 10.6,
+        "target_hours": 15.0
+      }
     },
     {
       "catalog_group": "xbox-only",
@@ -9445,6 +9451,54 @@
         "release_year": 2021,
         "match_type": "exact",
         "match_score": 147
+      },
+      "short_game_score": null
+    },
+    {
+      "catalog_group": "xbox-only",
+      "is_on_gfn": false,
+      "title": "Escape Academy 2: Back 2 School",
+      "normalized_title": "escape academy 2 back 2 school",
+      "gfn_stores": [],
+      "gfn_has_xbox_store": false,
+      "xbox_title": "Escape Academy 2: Back 2 School",
+      "xbox_product_id": "9P743P6195Q5",
+      "xbox_url": "https://www.microsoft.com/store/productId/9P743P6195Q5",
+      "publisher": "iam8bit Presents",
+      "developer": "Coin Crew Games",
+      "release_date": "9998-12-30T00:00:00.0000000Z",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.52586.14607328992338706.a7a9f492-6e2c-4b94-ab21-d3b4889e76fe.71902a1d-6068-4b8c-8673-357527f4bb06",
+      "description": "Class is (back) in session with Escape Academy 2: Back 2 School! Explore an all-new campus, escape life-threatening puzzle rooms, and unravel a conspiracy as old as the school itself — all before the bell rings. Play solo or grab a friend and start solving in online or local co-op.",
+      "match_type": "xbox-only",
+      "match_score": 0,
+      "howlongtobeat": {
+        "title": "Escape Academy 2: Back 2 School",
+        "game_id": 169292,
+        "url": "https://howlongtobeat.com/game/169292",
+        "image_url": "https://howlongtobeat.com/games/169292_Escape_Academy_2_Back_2_School.jpg",
+        "main_story_seconds": null,
+        "review_score": null,
+        "completion_count": 1,
+        "release_year": 2026,
+        "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
+        "match_type": "exact",
+        "match_score": 130,
+        "genres": [
+          "Puzzle"
+        ]
+      },
+      "opencritic": {
+        "title": "Escape Academy 2: Back 2 School",
+        "game_id": 21655,
+        "url": "https://opencritic.com/game/21655/escape-academy-2-back-2-school",
+        "top_critic_score": 84.3,
+        "percent_recommended": 80.0,
+        "tier": "Mighty",
+        "median_score": 83,
+        "review_count": 5,
+        "release_year": 2026,
+        "match_type": "exact",
+        "match_score": 135
       },
       "short_game_score": null
     },
@@ -10178,7 +10232,7 @@
       "developer": "Ubisoft Montreal, MASSIVE Entertainment & Ubisoft Shanghaï",
       "release_date": "2026-07-21T14:00:00.0000000Z",
       "image_url": "https://store-images.s-microsoft.com/image/apps.1920.71220804959101191.bad88979-60b4-40b4-af6d-182d4534c987.1bd53913-3aff-42c9-8d2b-fb0467e78e72",
-      "description": "Far Cry 3 is an open world first-person shooter set on an island unlike any other. A place where heavily armed warlords traffic in slaves. Where outsiders are hunted for ransom. And as you embark on a desperate quest to rescue your friends, you realize that the only way to escape this darkness… is to embrace it",
+      "description": "Stranded on the Rook Islands as Jason Brody, fight your way through a lawless tropical open world using a powerful arsenal to save your friends and escape the madness of this acclaimed visceral FPS.",
       "match_type": "xbox-only",
       "match_score": 0,
       "howlongtobeat": {
@@ -11194,6 +11248,63 @@
     {
       "catalog_group": "intersection",
       "is_on_gfn": true,
+      "title": "Firefighting Simulator: Ignite",
+      "normalized_title": "firefighting simulator ignite",
+      "gfn_stores": [
+        "STEAM"
+      ],
+      "gfn_has_xbox_store": false,
+      "xbox_title": "Firefighting Simulator: Ignite",
+      "xbox_product_id": "9N8RKWJT32L4",
+      "xbox_url": "https://www.microsoft.com/store/productId/9N8RKWJT32L4",
+      "publisher": "astragon Entertainment GmbH",
+      "developer": "weltenbauer. Software Entwicklung GmbH",
+      "release_date": "2025-09-09T08:00:00.0000000Z",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.47851.14039390486448903.600abc2c-9f2a-489a-8d46-0eefc0946576.98b8a19d-8674-4c7c-838e-9106898f5482",
+      "description": "Face unpredictable dangers, fight perilous fires with your crew, and save lives in Firefighting Simulator: Ignite. Step into the boots of a U.S. firefighter and play with up to 3 friends or with the help of your NPC controlled crew members.",
+      "match_type": "exact-title",
+      "match_score": 120,
+      "howlongtobeat": {
+        "title": "Firefighting Simulator: Ignite",
+        "game_id": 175679,
+        "url": "https://howlongtobeat.com/game/175679",
+        "image_url": "https://howlongtobeat.com/games/175679_Firefighting_Simulator_Ignite.jpg",
+        "main_story_seconds": 93600,
+        "review_score": 70,
+        "completion_count": 8,
+        "release_year": 2025,
+        "profile_platform": "PC, PlayStation 5",
+        "match_type": "exact",
+        "match_score": 139,
+        "genres": [
+          "Action",
+          "Simulation"
+        ]
+      },
+      "opencritic": {
+        "title": "Firefighting Simulator: Ignite",
+        "game_id": 19240,
+        "url": "https://opencritic.com/game/19240/firefighting-simulator-ignite",
+        "top_critic_score": 76.0,
+        "percent_recommended": 68.8,
+        "tier": "Strong",
+        "median_score": 80,
+        "review_count": 16,
+        "release_year": 2025,
+        "match_type": "exact",
+        "match_score": 147
+      },
+      "short_game_score": {
+        "score": 71.5,
+        "critic_score": 76.0,
+        "duration_fit_score": 61.1,
+        "main_story_hours": 26.0,
+        "target_hours": 15.0
+      }
+    },
+    {
+      "catalog_group": "intersection",
+      "is_on_gfn": true,
       "title": "Firefighting Simulator - The Squad",
       "normalized_title": "firefighting simulator the squad",
       "gfn_stores": [
@@ -11589,13 +11700,13 @@
         "game_id": 81842,
         "url": "https://howlongtobeat.com/game/81842",
         "image_url": "https://howlongtobeat.com/games/81842_Forever_Ago.jpg",
-        "main_story_seconds": null,
-        "review_score": null,
-        "completion_count": null,
+        "main_story_seconds": 15188,
+        "review_score": 73,
+        "completion_count": 62,
         "release_year": 2026,
         "profile_platform": "Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 140,
+        "match_score": 142,
         "genres": [
           "Adventure"
         ]
@@ -11604,16 +11715,22 @@
         "title": "Forever Ago",
         "game_id": 21440,
         "url": "https://opencritic.com/game/21440/forever-ago",
-        "top_critic_score": 71.8,
-        "percent_recommended": 57.7,
+        "top_critic_score": 72.7,
+        "percent_recommended": 62.5,
         "tier": "Fair",
-        "median_score": 75,
-        "review_count": 27,
+        "median_score": 80,
+        "review_count": 57,
         "release_year": 2026,
         "match_type": "exact",
-        "match_score": 148
+        "match_score": 149
       },
-      "short_game_score": null
+      "short_game_score": {
+        "score": 80.9,
+        "critic_score": 72.7,
+        "duration_fit_score": 100.0,
+        "main_story_hours": 4.2,
+        "target_hours": 15.0
+      }
     },
     {
       "catalog_group": "intersection",
@@ -11844,7 +11961,7 @@
       "publisher": "Bad Guitar Studio",
       "developer": "Bad Guitar Studio",
       "release_date": "2025-04-29T10:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.62309.13848987134544813.7c1bc445-ee84-4289-ab2e-4ee6990764e8.314d3c55-b074-496a-a8dc-4bfe3797b24b",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.35564.13848987134544813.b9397189-e630-434e-b4ea-da4764f01b90.863b199b-c47e-4595-b9a0-a3c5336c37ea",
       "description": "FragPunk is a new fast-paced 5v5 hero-based first-person shooter featuring power-up cards that bend the rules of combat!",
       "match_type": "exact-title",
       "match_score": 120,
@@ -12311,9 +12428,9 @@
         "game_id": 152017,
         "url": "https://howlongtobeat.com/game/152017",
         "image_url": "https://howlongtobeat.com/games/152017_Gears_of_War_E-Day.jpg",
-        "main_story_seconds": 50280,
-        "review_score": 88,
-        "completion_count": 16,
+        "main_story_seconds": 50406,
+        "review_score": 81,
+        "completion_count": 505,
         "release_year": 2026,
         "profile_platform": "PC, Xbox Series X/S",
         "match_type": "exact",
@@ -12328,18 +12445,18 @@
         "title": "Gears of War: E-Day",
         "game_id": 20801,
         "url": "https://opencritic.com/game/20801/gears-of-war-e-day",
-        "top_critic_score": 87.1,
-        "percent_recommended": 90.9,
+        "top_critic_score": 84.8,
+        "percent_recommended": 88.9,
         "tier": "Mighty",
         "median_score": 90,
-        "review_count": 78,
+        "review_count": 136,
         "release_year": 2026,
         "match_type": "exact",
-        "match_score": 150
+        "match_score": 153
       },
       "short_game_score": {
-        "score": 91.0,
-        "critic_score": 87.1,
+        "score": 89.4,
+        "critic_score": 84.8,
         "duration_fit_score": 100.0,
         "main_story_hours": 14.0,
         "target_hours": 15.0
@@ -18565,12 +18682,12 @@
       "gfn_stores": [],
       "gfn_has_xbox_store": false,
       "xbox_title": "MySims™",
-      "xbox_product_id": "9P9JZZ79KHDK",
-      "xbox_url": "https://www.microsoft.com/store/productId/9P9JZZ79KHDK",
+      "xbox_product_id": "9N74KFV7253H",
+      "xbox_url": "https://www.microsoft.com/store/productId/9N74KFV7253H",
       "publisher": "Electronic Arts",
       "developer": "Maxis",
       "release_date": "9998-12-30T00:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.9508.14137268337766138.5760ba9b-d3fd-4251-b763-a5218a0fadfa.a13c8736-b09b-484a-b769-4af0855aac72",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.9508.14005579857467322.9c4802f5-cf2d-4d79-93bf-b33cd7d45331.adb897c0-3174-41b6-ac31-7f25fe82465d",
       "description": "Explore a new world with MySims™ — it's your world to transform in this retro re-release with updated graphics! Move to an adorable town. With a little creativity and some help from the locals, you can make this place thrive!",
       "match_type": "xbox-only",
       "match_score": 0,
@@ -18586,12 +18703,12 @@
       "gfn_stores": [],
       "gfn_has_xbox_store": false,
       "xbox_title": "MySims™ Kingdom",
-      "xbox_product_id": "9NJ71RH89RJ5",
-      "xbox_url": "https://www.microsoft.com/store/productId/9NJ71RH89RJ5",
+      "xbox_product_id": "9N8RS7CW8CGL",
+      "xbox_url": "https://www.microsoft.com/store/productId/9N8RS7CW8CGL",
       "publisher": "Electronic Arts",
       "developer": "Maxis",
       "release_date": "9998-12-30T00:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.31654.13686413617108414.37bfe544-2122-46eb-ab4e-64ee646fd986.b6e9c14a-6c3c-45c4-8a7b-ca66704a549e",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.31654.14039526998713941.72b547b4-f64a-4bb8-95bd-1caa549f1df5.57f44049-fc27-49dd-84bd-ce4d256be227",
       "description": "Explore new lands, and meet new friends in this retro re-release with updated graphics! It's all the things you loved about the first MySims™ game, but with more challenges, puzzles, and things to explore. Can you help revitalize the kingdom?",
       "match_type": "xbox-only",
       "match_score": 0,
@@ -18819,13 +18936,13 @@
         "game_id": 160559,
         "url": "https://howlongtobeat.com/game/160559",
         "image_url": "https://howlongtobeat.com/games/160559_Neon_Abyss_2.jpg",
-        "main_story_seconds": 14400,
-        "review_score": 70,
-        "completion_count": 7,
+        "main_story_seconds": 25693,
+        "review_score": 73,
+        "completion_count": 15,
         "release_year": 2025,
         "profile_platform": "Nintendo Switch, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 132,
+        "match_score": 136,
         "genres": [
           "Side",
           "Scrolling",
@@ -18837,16 +18954,22 @@
         "title": "Neon Abyss 2",
         "game_id": 18930,
         "url": "https://opencritic.com/game/18930/neon-abyss-2",
-        "top_critic_score": null,
-        "percent_recommended": 66.7,
-        "tier": null,
+        "top_critic_score": 81.7,
+        "percent_recommended": 71.4,
+        "tier": "Strong",
         "median_score": 80,
-        "review_count": 9,
+        "review_count": 14,
         "release_year": 2025,
         "match_type": "exact",
         "match_score": 139
       },
-      "short_game_score": null
+      "short_game_score": {
+        "score": 87.2,
+        "critic_score": 81.7,
+        "duration_fit_score": 100.0,
+        "main_story_hours": 7.1,
+        "target_hours": 15.0
+      }
     },
     {
       "catalog_group": "intersection",
@@ -21844,11 +21967,13 @@
       }
     },
     {
-      "catalog_group": "xbox-only",
-      "is_on_gfn": false,
+      "catalog_group": "intersection",
+      "is_on_gfn": true,
       "title": "Relic Hunters Legend",
       "normalized_title": "relic hunters legend",
-      "gfn_stores": [],
+      "gfn_stores": [
+        "STEAM"
+      ],
       "gfn_has_xbox_store": false,
       "xbox_title": "Relic Hunters Legend",
       "xbox_product_id": "9P81K2C8RBF4",
@@ -21858,8 +21983,8 @@
       "release_date": "2025-08-14T15:00:00.0000000Z",
       "image_url": "https://store-images.s-microsoft.com/image/apps.14074.14097016447581693.ee94877f-b509-44d9-abed-33614d4bfc2b.8789bca2-7579-4756-8220-19fb8cefa24f",
       "description": "A Top-Down Shooter/Looter RPG with a touching story inspired by JRPG classics. Shoot enemies, get loot, and customize your characters. Multiple endgame systems and over 100 hours of play await you solo or up to 4-player co-op!",
-      "match_type": "xbox-only",
-      "match_score": 0,
+      "match_type": "exact-title",
+      "match_score": 120,
       "howlongtobeat": {
         "title": "Relic Hunters Legend",
         "game_id": 116800,
@@ -22892,6 +23017,7 @@
       "title": "RuneScape: Dragonwilds",
       "normalized_title": "runescape dragonwilds",
       "gfn_stores": [
+        "EPIC",
         "STEAM",
         "XBOX"
       ],

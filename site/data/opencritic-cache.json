@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T19:52:26+00:00",
+  "updated_at": "2026-11-08T06:19:36+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -274,7 +274,7 @@
     "alice madness returns": {
       "title": "Alice: Madness Returns",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:41:30+00:00",
+      "fetched_at": "2026-11-08T06:16:52+00:00",
       "data": null
     },
     "aliens dark descent": {
@@ -316,7 +316,7 @@
     "an elder scrolls legend battlespire": {
       "title": "An Elder Scrolls Legend: Battlespire",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:41:32+00:00",
+      "fetched_at": "2026-11-08T06:16:53+00:00",
       "data": null
     },
     "anno 1800": {
@@ -412,7 +412,7 @@
     "arcade": {
       "title": "ARCADE",
       "status": "not_found",
-      "fetched_at": "2026-10-30T13:09:28+00:00",
+      "fetched_at": "2026-11-08T06:16:55+00:00",
       "data": null
     },
     "ark survival ascended": {
@@ -436,7 +436,7 @@
     "ark ultimate survivor edition": {
       "title": "ARK: Ultimate Survivor Edition",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:41:34+00:00",
+      "fetched_at": "2026-11-08T06:16:57+00:00",
       "data": null
     },
     "artifact": {
@@ -748,7 +748,7 @@
     "barbie horse trails": {
       "title": "Barbie™ Horse Trails",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:41:36+00:00",
+      "fetched_at": "2026-11-08T06:17:00+00:00",
       "data": null
     },
     "batman arkham knight": {
@@ -934,7 +934,7 @@
     "beatdown city survivors": {
       "title": "Beatdown City Survivors",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:41:40+00:00",
+      "fetched_at": "2026-11-08T06:17:05+00:00",
       "data": null
     },
     "black jacket": {
@@ -1012,7 +1012,7 @@
     "blinx the time sweeper": {
       "title": "BLiNX: The Time Sweeper",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:41:41+00:00",
+      "fetched_at": "2026-11-08T06:17:05+00:00",
       "data": null
     },
     "blizzard arcade collection": {
@@ -1486,7 +1486,7 @@
     "conker live and reloaded": {
       "title": "Conker: Live and Reloaded",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:41:53+00:00",
+      "fetched_at": "2026-11-08T06:17:20+00:00",
       "data": null
     },
     "construction simulator": {
@@ -1708,25 +1708,25 @@
     "crimson skies high road to revenge": {
       "title": "Crimson Skies®: High Road to Revenge™",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:41:56+00:00",
+      "fetched_at": "2026-11-08T06:17:26+00:00",
       "data": null
     },
     "crysis": {
       "title": "Crysis®",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:41:57+00:00",
+      "fetched_at": "2026-11-08T06:17:27+00:00",
       "data": null
     },
     "crysis 2 maximum edition": {
       "title": "Crysis® 2 Maximum Edition",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:41:59+00:00",
+      "fetched_at": "2026-11-08T06:17:28+00:00",
       "data": null
     },
     "crysis 3": {
       "title": "Crysis 3",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:41:59+00:00",
+      "fetched_at": "2026-11-08T06:17:29+00:00",
       "data": null
     },
     "date everything": {
@@ -2074,7 +2074,7 @@
     "diablo": {
       "title": "Diablo®",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:01+00:00",
+      "fetched_at": "2026-11-08T06:17:30+00:00",
       "data": null
     },
     "diablo ii resurrected": {
@@ -2296,7 +2296,7 @@
     "doom 3": {
       "title": "DOOM 3",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:04+00:00",
+      "fetched_at": "2026-11-08T06:17:39+00:00",
       "data": null
     },
     "doom 64": {
@@ -2374,7 +2374,7 @@
     "dragon age ii": {
       "title": "Dragon Age™ II",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:06+00:00",
+      "fetched_at": "2026-11-08T06:17:40+00:00",
       "data": null
     },
     "dragon age inquisition game of the year edition": {
@@ -2398,7 +2398,7 @@
     "dragon age origins ultimate edition": {
       "title": "Dragon Age™: Origins - Ultimate Edition",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:08+00:00",
+      "fetched_at": "2026-11-08T06:17:44+00:00",
       "data": null
     },
     "dragon age the veilguard": {
@@ -2440,7 +2440,7 @@
     "dreamworks gabby s dollhouse ready to party": {
       "title": "DreamWorks Gabby’s Dollhouse: Ready to Party",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:09+00:00",
+      "fetched_at": "2026-11-08T06:17:46+00:00",
       "data": null
     },
     "dredge": {
@@ -2464,7 +2464,7 @@
     "drop duchy complete edition": {
       "title": "Drop Duchy - Complete Edition",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:10+00:00",
+      "fetched_at": "2026-11-08T06:17:47+00:00",
       "data": null
     },
     "ea sports fc 25 pc": {
@@ -2758,19 +2758,19 @@
     "fallout": {
       "title": "Fallout",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:11+00:00",
+      "fetched_at": "2026-11-08T06:18:01+00:00",
       "data": null
     },
     "fallout 2": {
       "title": "Fallout 2",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:11+00:00",
+      "fetched_at": "2026-11-08T06:18:01+00:00",
       "data": null
     },
     "fallout 3 game of the year edition": {
       "title": "Fallout 3 Game of the Year Edition",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:11+00:00",
+      "fetched_at": "2026-11-08T06:18:01+00:00",
       "data": null
     },
     "fallout 4": {
@@ -2812,13 +2812,13 @@
     "fallout new vegas": {
       "title": "Fallout: New Vegas",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:12+00:00",
+      "fetched_at": "2026-11-08T06:18:02+00:00",
       "data": null
     },
     "fallout tactics": {
       "title": "Fallout Tactics",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:13+00:00",
+      "fetched_at": "2026-11-08T06:18:02+00:00",
       "data": null
     },
     "far cry 4": {
@@ -3004,7 +3004,7 @@
     "final fantasy iv": {
       "title": "FINAL FANTASY IV",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:13+00:00",
+      "fetched_at": "2026-11-08T06:18:03+00:00",
       "data": null
     },
     "final fantasy v": {
@@ -3244,7 +3244,7 @@
     "frog sqwad": {
       "title": "Frog Sqwad",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:14+00:00",
+      "fetched_at": "2026-11-08T06:18:08+00:00",
       "data": null
     },
     "frostpunk 2": {
@@ -3286,7 +3286,7 @@
     "fuzion frenzy": {
       "title": "Fuzion Frenzy®",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:14+00:00",
+      "fetched_at": "2026-11-08T06:18:09+00:00",
       "data": null
     },
     "gang beasts": {
@@ -3670,7 +3670,7 @@
     "halo spartan strike": {
       "title": "Halo: Spartan Strike",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:15+00:00",
+      "fetched_at": "2026-11-08T06:18:11+00:00",
       "data": null
     },
     "halo the master chief collection": {
@@ -3802,13 +3802,13 @@
     "heroes of might and magic 3 complete edition": {
       "title": "Heroes of Might and Magic 3 - Complete Edition",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:16+00:00",
+      "fetched_at": "2026-11-08T06:18:14+00:00",
       "data": null
     },
     "heroes of might and magic ii gold edition": {
       "title": "Heroes of Might and Magic II - Gold Edition",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:16+00:00",
+      "fetched_at": "2026-11-08T06:18:15+00:00",
       "data": null
     },
     "heroes of might and magic olden era": {
@@ -4138,7 +4138,7 @@
     "jade empire special edition": {
       "title": "Jade Empire™: Special Edition",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:17+00:00",
+      "fetched_at": "2026-11-08T06:18:17+00:00",
       "data": null
     },
     "junkster": {
@@ -4564,7 +4564,7 @@
     "mahjong": {
       "title": "Mahjong",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:18+00:00",
+      "fetched_at": "2026-11-08T06:18:19+00:00",
       "data": null
     },
     "manor lords": {
@@ -4624,13 +4624,13 @@
     "mass effect 2 2010 edition": {
       "title": "Mass Effect 2 (2010 Edition)",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:19+00:00",
+      "fetched_at": "2026-11-08T06:18:20+00:00",
       "data": null
     },
     "mass effect 3 2012 edition": {
       "title": "Mass Effect 3 (2012 Edition)",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:20+00:00",
+      "fetched_at": "2026-11-08T06:18:21+00:00",
       "data": null
     },
     "mass effect andromeda deluxe edition": {
@@ -4726,7 +4726,7 @@
     "medal of honor airborne": {
       "title": "Medal of Honor Airborne",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:20+00:00",
+      "fetched_at": "2026-11-08T06:18:22+00:00",
       "data": null
     },
     "medieval dynasty": {
@@ -5038,13 +5038,13 @@
     "mysims": {
       "title": "MySims™",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:21+00:00",
+      "fetched_at": "2026-11-08T06:18:25+00:00",
       "data": null
     },
     "mysims kingdom": {
       "title": "MySims™ Kingdom",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:21+00:00",
+      "fetched_at": "2026-11-08T06:18:27+00:00",
       "data": null
     },
     "naraka bladepoint": {
@@ -5128,16 +5128,16 @@
     "neon abyss": {
       "title": "Neon Abyss",
       "status": "matched",
-      "fetched_at": "2026-10-08T13:40:57+00:00",
+      "fetched_at": "2026-11-08T06:18:31+00:00",
       "data": {
         "title": "Neon Abyss 2",
         "game_id": 18930,
         "url": "https://opencritic.com/game/18930/neon-abyss-2",
-        "top_critic_score": null,
-        "percent_recommended": 66.7,
-        "tier": null,
+        "top_critic_score": 81.7,
+        "percent_recommended": 71.4,
+        "tier": "Strong",
         "median_score": 80,
-        "review_count": 9,
+        "review_count": 14,
         "release_year": 2025,
         "match_type": "exact",
         "match_score": 139
@@ -5164,7 +5164,7 @@
     "ni no kuni ii revenant kingdom the prince s edition": {
       "title": "Ni no Kuni™ II: Revenant Kingdom - The Prince's Edition",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:22+00:00",
+      "fetched_at": "2026-11-08T06:18:33+00:00",
       "data": null
     },
     "ni no kuni wrath of the white witch remastered": {
@@ -5362,7 +5362,7 @@
     "overthrown": {
       "title": "Overthrown",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:23+00:00",
+      "fetched_at": "2026-11-08T06:18:34+00:00",
       "data": null
     },
     "overwatch": {
@@ -5422,7 +5422,7 @@
     "pax dei": {
       "title": "Pax Dei",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:24+00:00",
+      "fetched_at": "2026-11-08T06:18:35+00:00",
       "data": null
     },
     "pba pro bowling 2026": {
@@ -5446,13 +5446,13 @@
     "peggle": {
       "title": "Peggle",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:24+00:00",
+      "fetched_at": "2026-11-08T06:18:35+00:00",
       "data": null
     },
     "peggle nights": {
       "title": "Peggle® Nights",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:25+00:00",
+      "fetched_at": "2026-11-08T06:18:37+00:00",
       "data": null
     },
     "pentiment": {
@@ -5674,19 +5674,19 @@
     "populous": {
       "title": "Populous™",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:26+00:00",
+      "fetched_at": "2026-11-08T06:18:41+00:00",
       "data": null
     },
     "populous ii trials of the olympian gods": {
       "title": "Populous™ II: Trials of the Olympian Gods",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:26+00:00",
+      "fetched_at": "2026-11-08T06:18:42+00:00",
       "data": null
     },
     "populous the beginning": {
       "title": "Populous™: The Beginning",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:27+00:00",
+      "fetched_at": "2026-11-08T06:18:43+00:00",
       "data": null
     },
     "powerwash simulator 2": {
@@ -5908,7 +5908,7 @@
     "relic hunters legend": {
       "title": "Relic Hunters Legend",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:28+00:00",
+      "fetched_at": "2026-11-08T06:18:43+00:00",
       "data": null
     },
     "rematch": {
@@ -5932,7 +5932,7 @@
     "remi": {
       "title": "Remi",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:29+00:00",
+      "fetched_at": "2026-11-08T06:18:45+00:00",
       "data": null
     },
     "remnant ii": {
@@ -6046,7 +6046,7 @@
     "retro classics": {
       "title": "Retro Classics",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:30+00:00",
+      "fetched_at": "2026-11-08T06:18:47+00:00",
       "data": null
     },
     "return to castle wolfenstein": {
@@ -6088,7 +6088,7 @@
     "rise of nations extended edition": {
       "title": "Rise of Nations: Extended Edition",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:31+00:00",
+      "fetched_at": "2026-11-08T06:18:48+00:00",
       "data": null
     },
     "roadcraft": {
@@ -6184,7 +6184,7 @@
     "rush a disneypixar adventure": {
       "title": "Rush: A DisneyPixar Adventure",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:31+00:00",
+      "fetched_at": "2026-11-08T06:18:49+00:00",
       "data": null
     },
     "rv there yet": {
@@ -6352,7 +6352,7 @@
     "sid meier s alpha centauri planetary pack": {
       "title": "Sid Meier's Alpha Centauri™ Planetary Pack",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:33+00:00",
+      "fetched_at": "2026-11-08T06:18:52+00:00",
       "data": null
     },
     "sifu": {
@@ -6376,31 +6376,31 @@
     "sim city 3000 unlimited": {
       "title": "Sim City 3000™ Unlimited",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:33+00:00",
+      "fetched_at": "2026-11-08T06:18:52+00:00",
       "data": null
     },
     "simcity 4 deluxe edition": {
       "title": "SimCity™ 4 Deluxe Edition",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:34+00:00",
+      "fetched_at": "2026-11-08T06:18:53+00:00",
       "data": null
     },
     "simcity complete edition": {
       "title": "SimCity™: Complete Edition",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:35+00:00",
+      "fetched_at": "2026-11-08T06:18:54+00:00",
       "data": null
     },
     "sledding game": {
       "title": "Sledding Game",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:35+00:00",
+      "fetched_at": "2026-11-08T06:18:54+00:00",
       "data": null
     },
     "smite 2": {
       "title": "SMITE 2",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:36+00:00",
+      "fetched_at": "2026-11-08T06:18:55+00:00",
       "data": null
     },
     "snowrunner": {
@@ -6442,7 +6442,7 @@
     "solitaire": {
       "title": "Solitaire",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:37+00:00",
+      "fetched_at": "2026-11-08T06:18:55+00:00",
       "data": null
     },
     "sopa tale of the stolen potato": {
@@ -6556,7 +6556,7 @@
     "spore": {
       "title": "SPORE™",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:38+00:00",
+      "fetched_at": "2026-11-08T06:19:05+00:00",
       "data": null
     },
     "spyro reignited trilogy": {
@@ -7090,13 +7090,13 @@
     "teamfight tactics": {
       "title": "Teamfight Tactics",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:39+00:00",
+      "fetched_at": "2026-11-08T06:19:13+00:00",
       "data": null
     },
     "tears of metal game preview": {
       "title": "Tears of Metal (Game Preview)",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:39+00:00",
+      "fetched_at": "2026-11-08T06:19:14+00:00",
       "data": null
     },
     "tell me why": {
@@ -7180,7 +7180,7 @@
     "the bard s tale arpg remastered and resnarkled": {
       "title": "The Bard's Tale ARPG : Remastered and Resnarkled",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:40+00:00",
+      "fetched_at": "2026-11-08T06:19:14+00:00",
       "data": null
     },
     "the bard s tale iv director s cut": {
@@ -7258,19 +7258,19 @@
     "the elder scrolls adventures redguard": {
       "title": "The Elder Scrolls Adventures: Redguard",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:41+00:00",
+      "fetched_at": "2026-11-08T06:19:15+00:00",
       "data": null
     },
     "the elder scrolls iii morrowind game of the year edition": {
       "title": "The Elder Scrolls III: Morrowind® Game of the Year Edition",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:41+00:00",
+      "fetched_at": "2026-11-08T06:19:16+00:00",
       "data": null
     },
     "the elder scrolls iv oblivion game of the year edition": {
       "title": "The Elder Scrolls IV: Oblivion® Game of the Year Edition",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:42+00:00",
+      "fetched_at": "2026-11-08T06:19:18+00:00",
       "data": null
     },
     "the elder scrolls iv oblivion remastered": {
@@ -7492,13 +7492,13 @@
     "the saboteur": {
       "title": "The Saboteur™",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:42+00:00",
+      "fetched_at": "2026-11-08T06:19:21+00:00",
       "data": null
     },
     "the sims 2 legacy collection": {
       "title": "The Sims™ 2 Legacy Collection",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:42+00:00",
+      "fetched_at": "2026-11-08T06:19:22+00:00",
       "data": null
     },
     "the sims 3 starter pack": {
@@ -8044,7 +8044,7 @@
     "vapor world over the mind game preview": {
       "title": "Vapor World: Over The Mind (Game Preview)",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:43+00:00",
+      "fetched_at": "2026-11-08T06:19:29+00:00",
       "data": null
     },
     "visions of mana": {
@@ -8068,7 +8068,7 @@
     "void breaker": {
       "title": "VOID/BREAKER",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:44+00:00",
+      "fetched_at": "2026-11-08T06:19:29+00:00",
       "data": null
     },
     "voidtrain": {
@@ -8470,13 +8470,13 @@
     "wolfenstein 3d": {
       "title": "Wolfenstein 3D",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:45+00:00",
+      "fetched_at": "2026-11-08T06:19:34+00:00",
       "data": null
     },
     "wolfenstein ii standard edition": {
       "title": "Wolfenstein II: Standard Edition",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:46+00:00",
+      "fetched_at": "2026-11-08T06:19:36+00:00",
       "data": null
     },
     "wolfenstein the new order": {
@@ -8764,7 +8764,7 @@
     "shelldiver": {
       "title": "Shelldiver",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:32+00:00",
+      "fetched_at": "2026-11-08T06:18:50+00:00",
       "data": null
     },
     "monsters are coming": {
@@ -8842,7 +8842,7 @@
     "call of duty black ops cold war": {
       "title": "Call of Duty®: Black Ops Cold War",
       "status": "matched",
-      "fetched_at": "2026-10-08T23:26:16+00:00",
+      "fetched_at": "2026-11-08T06:17:12+00:00",
       "data": {
         "title": "Call of Duty: Black Ops Cold War",
         "game_id": 10119,
@@ -9022,7 +9022,7 @@
     "mad king redemption": {
       "title": "Mad King Redemption",
       "status": "not_found",
-      "fetched_at": "2026-10-28T22:42:17+00:00",
+      "fetched_at": "2026-11-08T06:18:18+00:00",
       "data": null
     },
     "roadside research game preview": {
@@ -9118,52 +9118,52 @@
     "gears of war e day": {
       "title": "Gears of War: E-Day",
       "status": "matched",
-      "fetched_at": "2026-10-06T18:28:20+00:00",
+      "fetched_at": "2026-11-08T06:18:10+00:00",
       "data": {
         "title": "Gears of War: E-Day",
         "game_id": 20801,
         "url": "https://opencritic.com/game/20801/gears-of-war-e-day",
-        "top_critic_score": 87.1,
-        "percent_recommended": 90.9,
+        "top_critic_score": 84.8,
+        "percent_recommended": 88.9,
         "tier": "Mighty",
         "median_score": 90,
-        "review_count": 78,
+        "review_count": 136,
         "release_year": 2026,
         "match_type": "exact",
-        "match_score": 150
+        "match_score": 153
       }
     },
     "forever ago": {
       "title": "Forever Ago",
       "status": "matched",
-      "fetched_at": "2026-10-08T13:40:56+00:00",
+      "fetched_at": "2026-11-08T06:18:08+00:00",
       "data": {
         "title": "Forever Ago",
         "game_id": 21440,
         "url": "https://opencritic.com/game/21440/forever-ago",
-        "top_critic_score": 71.8,
-        "percent_recommended": 57.7,
+        "top_critic_score": 72.7,
+        "percent_recommended": 62.5,
         "tier": "Fair",
-        "median_score": 75,
-        "review_count": 27,
+        "median_score": 80,
+        "review_count": 57,
         "release_year": 2026,
         "match_type": "exact",
-        "match_score": 148
+        "match_score": 149
       }
     },
     "echo weaver": {
       "title": "Echo Weaver",
       "status": "matched",
-      "fetched_at": "2026-10-08T23:26:19+00:00",
+      "fetched_at": "2026-11-08T06:17:54+00:00",
       "data": {
         "title": "Echo Weaver",
         "game_id": 21510,
         "url": "https://opencritic.com/game/21510/echo-weaver",
-        "top_critic_score": null,
-        "percent_recommended": null,
-        "tier": null,
-        "median_score": null,
-        "review_count": 3,
+        "top_critic_score": 83.1,
+        "percent_recommended": 88.9,
+        "tier": "Strong",
+        "median_score": 80,
+        "review_count": 10,
         "release_year": 2026,
         "match_type": "exact",
         "match_score": 147
@@ -11568,6 +11568,42 @@
       "status": "not_found",
       "fetched_at": "2026-11-03T19:36:01+00:00",
       "data": null
+    },
+    "escape academy 2 back 2 school": {
+      "title": "Escape Academy 2: Back 2 School",
+      "status": "matched",
+      "fetched_at": "2026-11-08T06:17:58+00:00",
+      "data": {
+        "title": "Escape Academy 2: Back 2 School",
+        "game_id": 21655,
+        "url": "https://opencritic.com/game/21655/escape-academy-2-back-2-school",
+        "top_critic_score": 84.3,
+        "percent_recommended": 80.0,
+        "tier": "Mighty",
+        "median_score": 83,
+        "review_count": 5,
+        "release_year": 2026,
+        "match_type": "exact",
+        "match_score": 135
+      }
+    },
+    "firefighting simulator ignite": {
+      "title": "Firefighting Simulator: Ignite",
+      "status": "matched",
+      "fetched_at": "2026-11-08T06:18:04+00:00",
+      "data": {
+        "title": "Firefighting Simulator: Ignite",
+        "game_id": 19240,
+        "url": "https://opencritic.com/game/19240/firefighting-simulator-ignite",
+        "top_critic_score": 76.0,
+        "percent_recommended": 68.8,
+        "tier": "Strong",
+        "median_score": 80,
+        "review_count": 16,
+        "release_year": 2025,
+        "match_type": "exact",
+        "match_score": 147
+      }
     }
   }
 }
