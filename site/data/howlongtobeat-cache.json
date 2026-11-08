@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T13:37:14+00:00",
+  "updated_at": "2026-11-08T22:15:22+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -2032,7 +2032,7 @@
     "dead space 2": {
       "title": "Dead Space™ 2",
       "status": "not_found",
-      "fetched_at": "2026-11-01T13:38:45+00:00",
+      "fetched_at": "2026-11-08T22:15:20+00:00",
       "data": null
     },
     "dead space 2008": {
@@ -2044,7 +2044,7 @@
     "dead space 3": {
       "title": "Dead Space™ 3",
       "status": "not_found",
-      "fetched_at": "2026-11-01T13:38:45+00:00",
+      "fetched_at": "2026-11-08T22:15:21+00:00",
       "data": null
     },
     "dead static drive": {
