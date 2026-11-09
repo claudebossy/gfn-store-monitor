@@ -5667,6 +5667,12 @@
       "STEAM"
     ]
   },
+  "cinema theater tycoon": {
+    "name": "Cinema Theater Tycoon",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "ciphercraft cyber guardian introduction": {
     "name": "CipherCraft: Cyber Guardian Introduction",
     "stores": [
@@ -6112,6 +6118,12 @@
   },
   "codename cure ii": {
     "name": "Codename CURE II",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "coffeeshop simulator": {
+    "name": "CoffeeShop Simulator",
     "stores": [
       "STEAM"
     ]
@@ -8411,6 +8423,12 @@
       "STEAM"
     ]
   },
+  "dicealot": {
+    "name": "Dicealot",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "dicey dungeons": {
     "name": "Dicey Dungeons",
     "stores": [
@@ -9344,6 +9362,12 @@
   },
   "dss 2 war industry": {
     "name": "DSS 2: War Industry",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "dub party": {
+    "name": "Dub Party",
     "stores": [
       "STEAM"
     ]
@@ -13012,6 +13036,12 @@
   },
   "gobble demo": {
     "name": "GOBBLE Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "gobble inn demo": {
+    "name": "Gobble Inn Demo",
     "stores": [
       "STEAM"
     ]
