@@ -4204,6 +4204,12 @@
       "STEAM"
     ]
   },
+  "booster pack heroes": {
+    "name": "Booster Pack Heroes",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "borderlands 2": {
     "name": "Borderlands 2",
     "stores": [
@@ -11379,12 +11385,6 @@
       "STEAM"
     ]
   },
-  "farmer s dynasty 2": {
-    "name": "Farmer's Dynasty 2",
-    "stores": [
-      "STEAM"
-    ]
-  },
   "farmer s father save the innocence": {
     "name": "Farmer's Father: Save the Innocence",
     "stores": [
@@ -14747,6 +14747,12 @@
   },
   "hills of glory 3d": {
     "name": "Hills Of Glory 3D",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "hillthorn": {
+    "name": "Hillthorn",
     "stores": [
       "STEAM"
     ]
@@ -19751,6 +19757,12 @@
       "STEAM"
     ]
   },
+  "moon sweepers": {
+    "name": "Moon Sweepers",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "moon watch": {
     "name": "Moon Watch",
     "stores": [
@@ -23465,6 +23477,12 @@
   },
   "pratfall": {
     "name": "Pratfall",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "pray your god": {
+    "name": "Pray Your God!",
     "stores": [
       "STEAM"
     ]
@@ -31133,6 +31151,12 @@
   },
   "tavernacle": {
     "name": "Tavernacle!",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "tax force": {
+    "name": "Tax-Force",
     "stores": [
       "STEAM"
     ]

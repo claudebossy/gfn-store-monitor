@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T07:13:57+00:00",
+  "generated_at": "2026-11-10T19:41:46+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -6532,6 +6532,46 @@
       "new_game_count": 0,
       "new_store_count": 0,
       "new_games": [],
+      "new_stores": []
+    },
+    {
+      "timestamp": "2026-11-10T19:41:46+00:00",
+      "baseline": false,
+      "catalog_game_count": 6270,
+      "new_game_count": 5,
+      "new_store_count": 0,
+      "new_games": [
+        {
+          "name": "Booster Pack Heroes",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Hillthorn",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Moon Sweepers",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Pray Your God!",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Tax-Force",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
       "new_stores": []
     }
   ]
