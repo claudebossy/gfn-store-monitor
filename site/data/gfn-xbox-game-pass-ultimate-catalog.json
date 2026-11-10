@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T07:28:33+00:00",
+  "generated_at": "2026-11-10T19:50:50+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,11 +13,11 @@
     }
   },
   "counts": {
-    "gfn_titles": 6266,
-    "xbox_game_pass_titles": 905,
-    "catalog_titles": 688,
+    "gfn_titles": 6270,
+    "xbox_game_pass_titles": 909,
+    "catalog_titles": 691,
     "intersection_titles": 398,
-    "xbox_only_titles": 290
+    "xbox_only_titles": 293
   },
   "summary": {
     "store_counts": {
@@ -71,23 +71,23 @@
         "count": 9
       },
       {
+        "name": "SEGA",
+        "count": 8
+      },
+      {
         "name": "Hooded Horse",
         "count": 7
       },
       {
         "name": "Focus Entertainment",
         "count": 7
-      },
-      {
-        "name": "Paradox Interactive",
-        "count": 7
       }
     ],
     "gfn_xbox_store_matches": 197,
     "intersection_titles": 398,
-    "xbox_only_titles": 290,
-    "hltb_matches": 494,
-    "opencritic_matches": 561,
+    "xbox_only_titles": 293,
+    "hltb_matches": 496,
+    "opencritic_matches": 566,
     "short_game_score_matches": 360,
     "exact_matches": 367,
     "partial_matches": 31
@@ -11578,7 +11578,52 @@
           "Sports"
         ]
       },
-      "opencritic": null,
+      "opencritic": {
+        "title": "Football Manager 27",
+        "game_id": 21676,
+        "url": "https://opencritic.com/game/21676/football-manager-27",
+        "top_critic_score": 81.6,
+        "percent_recommended": 60.0,
+        "tier": "Strong",
+        "median_score": 80,
+        "review_count": 10,
+        "release_year": 2026,
+        "match_type": "exact",
+        "match_score": 147
+      },
+      "short_game_score": null
+    },
+    {
+      "catalog_group": "xbox-only",
+      "is_on_gfn": false,
+      "title": "Football Manager 27 Console",
+      "normalized_title": "football manager 27 console",
+      "gfn_stores": [],
+      "gfn_has_xbox_store": false,
+      "xbox_title": "Football Manager 27 Console",
+      "xbox_product_id": "9N5DDTDLTWCL",
+      "xbox_url": "https://www.microsoft.com/store/productId/9N5DDTDLTWCL",
+      "publisher": "SEGA",
+      "developer": "Sports Interactive",
+      "release_date": "2026-11-10T16:00:00.0000000Z",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.33744.14035709193149319.c0b48782-5397-43ae-95b7-be2ecd468b49.a6635f9e-4fc6-4105-a669-f6e7ab458745",
+      "description": "Choose the club. Set the tactics. Shape the squad. Make the call.",
+      "match_type": "xbox-only",
+      "match_score": 0,
+      "howlongtobeat": null,
+      "opencritic": {
+        "title": "Football Manager 27",
+        "game_id": 21676,
+        "url": "https://opencritic.com/game/21676/football-manager-27",
+        "top_critic_score": 81.6,
+        "percent_recommended": 60.0,
+        "tier": "Strong",
+        "median_score": 80,
+        "review_count": 10,
+        "release_year": 2026,
+        "match_type": "partial",
+        "match_score": 115
+      },
       "short_game_score": null
     },
     {
@@ -18037,7 +18082,7 @@
       "publisher": "Skystone Games",
       "developer": "Bellring Games",
       "release_date": "2026-07-30T01:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.39397.14079456565345641.e3e3713f-53d2-4829-9bd5-395a291216ac.ebc9df1e-40f7-48ac-bc52-e91dfb954e0c",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.60616.14079456565345641.6e8f7d58-d469-40c4-827b-64e8dcbdeb18.649d065d-8d1e-4172-a63c-688e15440332",
       "description": "Mistfall Hunter is a dark fantasy extraction ARPG.\nCombine skills, talents, and gear for each class in thrilling combat! Whether you team up or go solo, one thing remains certain—only by fighting your way through can you return with a full haul. Good luck, Gyldhunter.",
       "match_type": "exact-title",
       "match_score": 120,
@@ -20580,7 +20625,19 @@
           "Adventure"
         ]
       },
-      "opencritic": null,
+      "opencritic": {
+        "title": "Pit of Goblin",
+        "game_id": 21671,
+        "url": "https://opencritic.com/game/21671/pit-of-goblin",
+        "top_critic_score": null,
+        "percent_recommended": null,
+        "tier": null,
+        "median_score": null,
+        "review_count": null,
+        "release_year": 2026,
+        "match_type": "exact",
+        "match_score": 147
+      },
       "short_game_score": null
     },
     {
@@ -24201,14 +24258,14 @@
         "STEAM"
       ],
       "gfn_has_xbox_store": false,
-      "xbox_title": "Microsoft Solitaire Collection",
-      "xbox_product_id": "9WZDNCRFHWD2",
-      "xbox_url": "https://www.microsoft.com/store/productId/9WZDNCRFHWD2",
+      "xbox_title": "Microsoft Sudoku",
+      "xbox_product_id": "9WZDNCRFHV60",
+      "xbox_url": "https://www.microsoft.com/store/productId/9WZDNCRFHV60",
       "publisher": "Xbox Game Studios",
       "developer": null,
-      "release_date": "2012-07-28T01:27:59.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.35357.9007199266246761.ea1b2c5a-a27a-446f-ade9-736e01fc0bd3.a25c0236-3fbf-4bb2-98e3-79463adcd37d",
-      "description": null,
+      "release_date": "2014-03-06T03:02:24.7472301Z",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.24597.9007199266248115.9cbeff43-bb4e-48be-abec-06ddec39f69e.b62b762c-7e75-4915-a913-eb9f56cf0b54",
+      "description": "Microsoft Sudoku has turned up the brilliance! With NEW levels of difficulty, FOUR (4) themes to choose from, DAILY Challenges, and ALL NEW Irregular and Ice Breaker modes, you may never go back to playing the classic way again. Keep your mind sharp across hundreds of brain training puzzles in bright, FUN colors. Play at your own pace or strive to become a GRANDMASTER today!",
       "match_type": "exact-search",
       "match_score": 90,
       "howlongtobeat": {
@@ -26113,6 +26170,54 @@
         "main_story_hours": 1.0,
         "target_hours": 15.0
       }
+    },
+    {
+      "catalog_group": "xbox-only",
+      "is_on_gfn": false,
+      "title": "TANUKI: Pon's Summer",
+      "normalized_title": "tanuki pon s summer",
+      "gfn_stores": [],
+      "gfn_has_xbox_store": false,
+      "xbox_title": "TANUKI: Pon's Summer",
+      "xbox_product_id": "9NRBW3FJSJWT",
+      "xbox_url": "https://www.microsoft.com/store/productId/9NRBW3FJSJWT",
+      "publisher": "CRITICAL REFLEX",
+      "developer": "Denkiworks",
+      "release_date": "9998-12-30T00:00:00.0000000Z",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.5597.14390224744653316.b8cfc87d-5763-4e3b-9506-f6dc3b4f7735.c62f7baf-6fb0-4691-914a-f85f838774bc",
+      "description": "The Tanuki Festival is just a month away, and the shrine is in disrepair. Follow Pon, a well meaning, if a bit lazy Tanuki with a part-time job at the Post Office, as he works to restore the shrine before summer ends. Deliver packages, make friends, and get the shrine ready for the big festival!",
+      "match_type": "xbox-only",
+      "match_score": 0,
+      "howlongtobeat": {
+        "title": "TANUKI: Pon's Summer",
+        "game_id": 157358,
+        "url": "https://howlongtobeat.com/game/157358",
+        "image_url": "https://howlongtobeat.com/games/157358_TANUKI_Pons_Summer.jpg",
+        "main_story_seconds": null,
+        "review_score": null,
+        "completion_count": null,
+        "release_year": 2026,
+        "profile_platform": "Nintendo Switch, Nintendo Switch 2, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
+        "match_type": "exact",
+        "match_score": 126,
+        "genres": [
+          "Adventure"
+        ]
+      },
+      "opencritic": {
+        "title": "TANUKI: Pon's Summer",
+        "game_id": 21702,
+        "url": "https://opencritic.com/game/21702/tanuki-pons-summer",
+        "top_critic_score": 80.0,
+        "percent_recommended": 80.0,
+        "tier": "Strong",
+        "median_score": 80,
+        "review_count": 10,
+        "release_year": 2026,
+        "match_type": "exact",
+        "match_score": 135
+      },
+      "short_game_score": null
     },
     {
       "catalog_group": "intersection",
@@ -30866,6 +30971,56 @@
         "main_story_hours": 9.4,
         "target_hours": 15.0
       }
+    },
+    {
+      "catalog_group": "xbox-only",
+      "is_on_gfn": false,
+      "title": "Warhammer Survivors",
+      "normalized_title": "warhammer survivors",
+      "gfn_stores": [],
+      "gfn_has_xbox_store": false,
+      "xbox_title": "Warhammer Survivors",
+      "xbox_product_id": "9MZZWGTF7V65",
+      "xbox_url": "https://www.microsoft.com/store/productId/9MZZWGTF7V65",
+      "publisher": "Auroch Digital",
+      "developer": "Auroch Digital",
+      "release_date": "9998-12-30T00:00:00.0000000Z",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.56080.13865289401901694.ec4fd4fe-95aa-4110-a6b3-96d9a78df1a3.b7bfa857-2471-4c28-b1ec-fc0e0dfc91c2",
+      "description": "Become the embodiment of bullet hell in Warhammer Survivors, a fast-paced roguelite survivors game. Play as characters from the Warhammer 40,000 and Warhammer: Age of Sigmar universes, collect and evolve iconic weapons and destroy endless swarms of enemies.",
+      "match_type": "xbox-only",
+      "match_score": 0,
+      "howlongtobeat": {
+        "title": "Warhammer Survivors",
+        "game_id": 176686,
+        "url": "https://howlongtobeat.com/game/176686",
+        "image_url": "https://howlongtobeat.com/games/176686_Warhammer_Survivors.jpg",
+        "main_story_seconds": null,
+        "review_score": null,
+        "completion_count": null,
+        "release_year": 2026,
+        "profile_platform": "Nintendo Switch, Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
+        "match_type": "exact",
+        "match_score": 130,
+        "genres": [
+          "Top-Down",
+          "Action",
+          "Roguelike"
+        ]
+      },
+      "opencritic": {
+        "title": "Warhammer Survivors",
+        "game_id": 21596,
+        "url": "https://opencritic.com/game/21596/warhammer-survivors",
+        "top_critic_score": 76.1,
+        "percent_recommended": 52.9,
+        "tier": "Strong",
+        "median_score": 75,
+        "review_count": 17,
+        "release_year": 2026,
+        "match_type": "exact",
+        "match_score": 135
+      },
+      "short_game_score": null
     },
     {
       "catalog_group": "intersection",

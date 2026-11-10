@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T07:29:46+00:00",
+  "updated_at": "2026-11-10T19:51:13+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -12319,7 +12319,7 @@
     "tom clancy s the division": {
       "title": "Tom Clancy's The Division™",
       "status": "not_found",
-      "fetched_at": "2026-11-03T19:36:02+00:00",
+      "fetched_at": "2026-11-10T19:51:08+00:00",
       "data": null
     },
     "trackmania turbo": {
@@ -12436,13 +12436,13 @@
     "ufc 4": {
       "title": "UFC® 4",
       "status": "not_found",
-      "fetched_at": "2026-11-03T19:36:04+00:00",
+      "fetched_at": "2026-11-10T19:51:09+00:00",
       "data": null
     },
     "ufc 5": {
       "title": "UFC® 5",
       "status": "not_found",
-      "fetched_at": "2026-11-03T19:36:04+00:00",
+      "fetched_at": "2026-11-10T19:51:09+00:00",
       "data": null
     },
     "uno": {
@@ -12558,7 +12558,7 @@
     "viva piñata tip": {
       "title": "Viva Piñata: TIP",
       "status": "not_found",
-      "fetched_at": "2026-11-03T19:36:05+00:00",
+      "fetched_at": "2026-11-10T19:51:10+00:00",
       "data": null
     },
     "warhammer vermintide 2": {
@@ -12630,13 +12630,13 @@
     "wild hearts standard edition": {
       "title": "WILD HEARTS™ Standard Edition",
       "status": "not_found",
-      "fetched_at": "2026-11-03T19:36:06+00:00",
+      "fetched_at": "2026-11-10T19:51:12+00:00",
       "data": null
     },
     "wolfenstein ii the new colossus": {
       "title": "Wolfenstein® II: The New Colossus™",
       "status": "not_found",
-      "fetched_at": "2026-11-03T19:36:06+00:00",
+      "fetched_at": "2026-11-10T19:51:12+00:00",
       "data": null
     },
     "world of tanks": {
@@ -12987,7 +12987,7 @@
     "farcry 3 classic edition": {
       "title": "FARCRY 3 Classic Edition",
       "status": "not_found",
-      "fetched_at": "2026-11-03T19:35:57+00:00",
+      "fetched_at": "2026-11-10T19:51:02+00:00",
       "data": null
     },
     "football manager 27": {
@@ -13073,6 +13073,56 @@
         "genres": [
           "Action",
           "Simulation"
+        ]
+      }
+    },
+    "football manager 27 console": {
+      "title": "Football Manager 27 Console",
+      "status": "not_found",
+      "fetched_at": "2026-11-10T19:51:05+00:00",
+      "data": null
+    },
+    "tanuki pon s summer": {
+      "title": "TANUKI: Pon's Summer",
+      "status": "matched",
+      "fetched_at": "2026-11-10T19:51:06+00:00",
+      "data": {
+        "title": "TANUKI: Pon's Summer",
+        "game_id": 157358,
+        "url": "https://howlongtobeat.com/game/157358",
+        "image_url": "https://howlongtobeat.com/games/157358_TANUKI_Pons_Summer.jpg",
+        "main_story_seconds": null,
+        "review_score": null,
+        "completion_count": null,
+        "release_year": 2026,
+        "profile_platform": "Nintendo Switch, Nintendo Switch 2, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
+        "match_type": "exact",
+        "match_score": 126,
+        "genres": [
+          "Adventure"
+        ]
+      }
+    },
+    "warhammer survivors": {
+      "title": "Warhammer Survivors",
+      "status": "matched",
+      "fetched_at": "2026-11-10T19:51:10+00:00",
+      "data": {
+        "title": "Warhammer Survivors",
+        "game_id": 176686,
+        "url": "https://howlongtobeat.com/game/176686",
+        "image_url": "https://howlongtobeat.com/games/176686_Warhammer_Survivors.jpg",
+        "main_story_seconds": null,
+        "review_score": null,
+        "completion_count": null,
+        "release_year": 2026,
+        "profile_platform": "Nintendo Switch, Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
+        "match_type": "exact",
+        "match_score": 130,
+        "genres": [
+          "Top-Down",
+          "Action",
+          "Roguelike"
         ]
       }
     }
