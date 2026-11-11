@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T06:43:09+00:00",
+  "updated_at": "2026-11-11T19:42:31+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -11679,6 +11679,30 @@
         "median_score": 75,
         "review_count": 17,
         "release_year": 2026,
+        "match_type": "exact",
+        "match_score": 135
+      }
+    },
+    "hope in the city": {
+      "title": "Hope in the City",
+      "status": "not_found",
+      "fetched_at": "2026-11-11T19:42:29+00:00",
+      "data": null
+    },
+    "thronefall": {
+      "title": "Thronefall",
+      "status": "matched",
+      "fetched_at": "2026-11-11T19:42:31+00:00",
+      "data": {
+        "title": "Thronefall",
+        "game_id": 15319,
+        "url": "https://opencritic.com/game/15319/thronefall",
+        "top_critic_score": 84.2,
+        "percent_recommended": 90.0,
+        "tier": "Mighty",
+        "median_score": 90,
+        "review_count": 11,
+        "release_year": 2023,
         "match_type": "exact",
         "match_score": 135
       }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T06:43:01+00:00",
+  "generated_at": "2026-11-11T19:42:19+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,15 +13,15 @@
     }
   },
   "counts": {
-    "gfn_titles": 6271,
+    "gfn_titles": 6283,
     "xbox_game_pass_titles": 909,
     "catalog_titles": 691,
-    "intersection_titles": 398,
-    "xbox_only_titles": 293
+    "intersection_titles": 400,
+    "xbox_only_titles": 291
   },
   "summary": {
     "store_counts": {
-      "STEAM": 357,
+      "STEAM": 359,
       "XBOX": 197,
       "EPIC": 75,
       "UPLAY": 65,
@@ -71,25 +71,25 @@
         "count": 9
       },
       {
-        "name": "SEGA",
-        "count": 8
-      },
-      {
         "name": "Hooded Horse",
         "count": 7
       },
       {
         "name": "Focus Entertainment",
         "count": 7
+      },
+      {
+        "name": "Paradox Interactive",
+        "count": 7
       }
     ],
     "gfn_xbox_store_matches": 197,
-    "intersection_titles": 398,
-    "xbox_only_titles": 293,
-    "hltb_matches": 496,
-    "opencritic_matches": 566,
+    "intersection_titles": 400,
+    "xbox_only_titles": 291,
+    "hltb_matches": 497,
+    "opencritic_matches": 565,
     "short_game_score_matches": 360,
-    "exact_matches": 367,
+    "exact_matches": 369,
     "partial_matches": 31
   },
   "games": [
@@ -11460,94 +11460,6 @@
     {
       "catalog_group": "xbox-only",
       "is_on_gfn": false,
-      "title": "Football Manager 26",
-      "normalized_title": "football manager 26",
-      "gfn_stores": [],
-      "gfn_has_xbox_store": false,
-      "xbox_title": "Football Manager 26",
-      "xbox_product_id": "9PD0Z90216RJ",
-      "xbox_url": "https://www.microsoft.com/store/productId/9PD0Z90216RJ",
-      "publisher": "SEGA",
-      "developer": "Sports Interactive",
-      "release_date": "2025-11-04T16:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.58862.14159410862978133.08a7ac44-5c17-4c0d-a8d6-c3e247e74fcb.136a3e89-555e-4209-b48c-93791d3cbd05",
-      "description": "Step into the dugout and experience the future of football management.",
-      "match_type": "xbox-only",
-      "match_score": 0,
-      "howlongtobeat": {
-        "title": "Football Manager 26",
-        "game_id": 174295,
-        "url": "https://howlongtobeat.com/game/174295",
-        "image_url": "https://howlongtobeat.com/games/174295_Football_Manager_26.jpg",
-        "main_story_seconds": 450219,
-        "review_score": 66,
-        "completion_count": 41,
-        "release_year": 2025,
-        "profile_platform": "Mobile, Nintendo Switch, PC, PlayStation 5, Xbox One, Xbox Series X/S",
-        "match_type": "exact",
-        "match_score": 141,
-        "genres": [
-          "Simulation",
-          "Sports"
-        ]
-      },
-      "opencritic": {
-        "title": "Football Manager 26",
-        "game_id": 19479,
-        "url": "https://opencritic.com/game/19479/football-manager-26",
-        "top_critic_score": 70.8,
-        "percent_recommended": 28.3,
-        "tier": "Fair",
-        "median_score": 70,
-        "review_count": 46,
-        "release_year": 2025,
-        "match_type": "exact",
-        "match_score": 149
-      },
-      "short_game_score": {
-        "score": 49.6,
-        "critic_score": 70.8,
-        "duration_fit_score": 0.0,
-        "main_story_hours": 125.1,
-        "target_hours": 15.0
-      }
-    },
-    {
-      "catalog_group": "xbox-only",
-      "is_on_gfn": false,
-      "title": "Football Manager 26 Console",
-      "normalized_title": "football manager 26 console",
-      "gfn_stores": [],
-      "gfn_has_xbox_store": false,
-      "xbox_title": "Football Manager 26 Console",
-      "xbox_product_id": "9NMNZ4CK59DM",
-      "xbox_url": "https://www.microsoft.com/store/productId/9NMNZ4CK59DM",
-      "publisher": "SEGA",
-      "developer": "Sports Interactive",
-      "release_date": "2025-11-04T16:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.859.13754609462095808.6e939a74-099e-490d-b009-02e7105155bd.38943d60-aff2-4778-9365-2b30acc02769",
-      "description": "Step into the dugout and experience the future of football management",
-      "match_type": "xbox-only",
-      "match_score": 0,
-      "howlongtobeat": null,
-      "opencritic": {
-        "title": "Football Manager 26",
-        "game_id": 19479,
-        "url": "https://opencritic.com/game/19479/football-manager-26",
-        "top_critic_score": 70.8,
-        "percent_recommended": 28.3,
-        "tier": "Fair",
-        "median_score": 70,
-        "review_count": 46,
-        "release_year": 2025,
-        "match_type": "partial",
-        "match_score": 117
-      },
-      "short_game_score": null
-    },
-    {
-      "catalog_group": "xbox-only",
-      "is_on_gfn": false,
       "title": "Football Manager 27",
       "normalized_title": "football manager 27",
       "gfn_stores": [],
@@ -14866,6 +14778,42 @@
         "main_story_hours": 28.2,
         "target_hours": 15.0
       }
+    },
+    {
+      "catalog_group": "xbox-only",
+      "is_on_gfn": false,
+      "title": "Hope in the City",
+      "normalized_title": "hope in the city",
+      "gfn_stores": [],
+      "gfn_has_xbox_store": false,
+      "xbox_title": "Hope in the City",
+      "xbox_product_id": "9P1S707BPW6W",
+      "xbox_url": "https://www.microsoft.com/store/productId/9P1S707BPW6W",
+      "publisher": "Lofty Sky Games and NAGA Games",
+      "developer": "Lofty Sky Games",
+      "release_date": "2026-11-11T18:00:00.0000000Z",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.40080.14501332661010356.1878bbae-b86e-4579-a4ee-b6e5b6f9498a.231af6ac-8729-4c13-b3a2-c71f94a11a58",
+      "description": "17-year-old Hope Song thought the national exams were her biggest worry... until she got home to a ransacked apartment and two missing parents. Investigate through the eyes of an artist, turn sketches into evidence, and watch her family's mystery grow stranger and darker with every answer.",
+      "match_type": "xbox-only",
+      "match_score": 0,
+      "howlongtobeat": {
+        "title": "Hope in the City",
+        "game_id": 191158,
+        "url": "https://howlongtobeat.com/game/191158",
+        "image_url": "https://howlongtobeat.com/games/191158_Hope_in_the_City.jpg",
+        "main_story_seconds": null,
+        "review_score": null,
+        "completion_count": null,
+        "release_year": 2026,
+        "profile_platform": "PC, Xbox Series X/S",
+        "match_type": "exact",
+        "match_score": 137,
+        "genres": [
+          "Adventure"
+        ]
+      },
+      "opencritic": null,
+      "short_game_score": null
     },
     {
       "catalog_group": "intersection",
@@ -28466,6 +28414,64 @@
       "short_game_score": null
     },
     {
+      "catalog_group": "intersection",
+      "is_on_gfn": true,
+      "title": "Thronefall",
+      "normalized_title": "thronefall",
+      "gfn_stores": [
+        "STEAM"
+      ],
+      "gfn_has_xbox_store": false,
+      "xbox_title": "Thronefall",
+      "xbox_product_id": "9NWWL1CBWFCG",
+      "xbox_url": "https://www.microsoft.com/store/productId/9NWWL1CBWFCG",
+      "publisher": "Mythwright",
+      "developer": "Mythwright",
+      "release_date": "2026-11-11T14:00:00.0000000Z",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.38294.14441309410256211.99377474-23f3-49c1-b8b5-99ac2efbc206.0c41e148-6992-4908-8660-d55bd70f3879",
+      "description": "A minimalist game about building and defending your little kingdom.",
+      "match_type": "exact-title",
+      "match_score": 120,
+      "howlongtobeat": {
+        "title": "Thronefall",
+        "game_id": 132482,
+        "url": "https://howlongtobeat.com/game/132482",
+        "image_url": "https://howlongtobeat.com/games/132482_Thronefall.jpg",
+        "main_story_seconds": 29420,
+        "review_score": 77,
+        "completion_count": 230,
+        "release_year": 2024,
+        "profile_platform": "Mac, Mobile, Nintendo Switch, PC",
+        "match_type": "exact",
+        "match_score": 130,
+        "genres": [
+          "Top-Down",
+          "Action",
+          "Strategy/Tactical"
+        ]
+      },
+      "opencritic": {
+        "title": "Thronefall",
+        "game_id": 15319,
+        "url": "https://opencritic.com/game/15319/thronefall",
+        "top_critic_score": 84.2,
+        "percent_recommended": 90.0,
+        "tier": "Mighty",
+        "median_score": 90,
+        "review_count": 11,
+        "release_year": 2023,
+        "match_type": "exact",
+        "match_score": 135
+      },
+      "short_game_score": {
+        "score": 88.9,
+        "critic_score": 84.2,
+        "duration_fit_score": 100.0,
+        "main_story_hours": 8.2,
+        "target_hours": 15.0
+      }
+    },
+    {
       "catalog_group": "xbox-only",
       "is_on_gfn": false,
       "title": "Tiny Bookshop",
@@ -30647,7 +30653,7 @@
       "publisher": "Gaijin Distribution Kft",
       "developer": "Gaijin Distribution Kft",
       "release_date": "2018-10-23T00:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.22630.63381296256995371.9e10cdbd-1881-4099-9f20-0b0885c216a7.c42b9272-8726-4fb6-b601-bc0ca73363a4",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.28781.63381296256995371.63fd92c7-ca2f-4730-a89d-ce2b9c6e5a2b.aa326692-8613-4caa-a624-b1e99e495e63",
       "description": "War Thunder is the most comprehensive free-to-play MMO military game dedicated to aviation, armoured vehicles, and naval craft from World War II and the Cold War. Join now and take part in major battles on land, in the air, and at sea, fighting with millions of players from all over the world in an ever-evolving environment.",
       "match_type": "exact-title",
       "match_score": 120,
@@ -30973,11 +30979,13 @@
       }
     },
     {
-      "catalog_group": "xbox-only",
-      "is_on_gfn": false,
+      "catalog_group": "intersection",
+      "is_on_gfn": true,
       "title": "Warhammer Survivors",
       "normalized_title": "warhammer survivors",
-      "gfn_stores": [],
+      "gfn_stores": [
+        "STEAM"
+      ],
       "gfn_has_xbox_store": false,
       "xbox_title": "Warhammer Survivors",
       "xbox_product_id": "9MZZWGTF7V65",
@@ -30987,8 +30995,8 @@
       "release_date": "9998-12-30T00:00:00.0000000Z",
       "image_url": "https://store-images.s-microsoft.com/image/apps.56080.13865289401901694.ec4fd4fe-95aa-4110-a6b3-96d9a78df1a3.b7bfa857-2471-4c28-b1ec-fc0e0dfc91c2",
       "description": "Become the embodiment of bullet hell in Warhammer Survivors, a fast-paced roguelite survivors game. Play as characters from the Warhammer 40,000 and Warhammer: Age of Sigmar universes, collect and evolve iconic weapons and destroy endless swarms of enemies.",
-      "match_type": "xbox-only",
-      "match_score": 0,
+      "match_type": "exact-title",
+      "match_score": 120,
       "howlongtobeat": {
         "title": "Warhammer Survivors",
         "game_id": 176686,

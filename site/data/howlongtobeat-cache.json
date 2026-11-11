@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T06:43:09+00:00",
+  "updated_at": "2026-11-11T19:42:31+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -13123,6 +13123,50 @@
           "Top-Down",
           "Action",
           "Roguelike"
+        ]
+      }
+    },
+    "hope in the city": {
+      "title": "Hope in the City",
+      "status": "matched",
+      "fetched_at": "2026-11-11T19:42:29+00:00",
+      "data": {
+        "title": "Hope in the City",
+        "game_id": 191158,
+        "url": "https://howlongtobeat.com/game/191158",
+        "image_url": "https://howlongtobeat.com/games/191158_Hope_in_the_City.jpg",
+        "main_story_seconds": null,
+        "review_score": null,
+        "completion_count": null,
+        "release_year": 2026,
+        "profile_platform": "PC, Xbox Series X/S",
+        "match_type": "exact",
+        "match_score": 137,
+        "genres": [
+          "Adventure"
+        ]
+      }
+    },
+    "thronefall": {
+      "title": "Thronefall",
+      "status": "matched",
+      "fetched_at": "2026-11-11T19:42:30+00:00",
+      "data": {
+        "title": "Thronefall",
+        "game_id": 132482,
+        "url": "https://howlongtobeat.com/game/132482",
+        "image_url": "https://howlongtobeat.com/games/132482_Thronefall.jpg",
+        "main_story_seconds": 29420,
+        "review_score": 77,
+        "completion_count": 230,
+        "release_year": 2024,
+        "profile_platform": "Mac, Mobile, Nintendo Switch, PC",
+        "match_type": "exact",
+        "match_score": 130,
+        "genres": [
+          "Top-Down",
+          "Action",
+          "Strategy/Tactical"
         ]
       }
     }
