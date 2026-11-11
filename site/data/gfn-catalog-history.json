@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T19:41:46+00:00",
+  "generated_at": "2026-11-11T06:12:28+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -6567,6 +6567,22 @@
         },
         {
           "name": "Tax-Force",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
+      "new_stores": []
+    },
+    {
+      "timestamp": "2026-11-11T06:12:28+00:00",
+      "baseline": false,
+      "catalog_game_count": 6271,
+      "new_game_count": 1,
+      "new_store_count": 0,
+      "new_games": [
+        {
+          "name": "Thieves and Gold",
           "stores": [
             "STEAM"
           ]
