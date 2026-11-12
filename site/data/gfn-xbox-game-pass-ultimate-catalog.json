@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T07:23:23+00:00",
+  "generated_at": "2026-11-12T20:05:36+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,16 +13,16 @@
     }
   },
   "counts": {
-    "gfn_titles": 6284,
-    "xbox_game_pass_titles": 909,
-    "catalog_titles": 691,
-    "intersection_titles": 400,
+    "gfn_titles": 6290,
+    "xbox_game_pass_titles": 910,
+    "catalog_titles": 692,
+    "intersection_titles": 401,
     "xbox_only_titles": 291
   },
   "summary": {
     "store_counts": {
-      "STEAM": 359,
-      "XBOX": 197,
+      "STEAM": 360,
+      "XBOX": 198,
       "EPIC": 75,
       "UPLAY": 65,
       "BATTLENET": 21,
@@ -40,7 +40,7 @@
       },
       {
         "name": "Xbox Game Studios",
-        "count": 62
+        "count": 61
       },
       {
         "name": "Ubisoft",
@@ -71,11 +71,11 @@
         "count": 9
       },
       {
-        "name": "Hooded Horse",
-        "count": 7
+        "name": "Focus Entertainment",
+        "count": 8
       },
       {
-        "name": "Focus Entertainment",
+        "name": "Hooded Horse",
         "count": 7
       },
       {
@@ -83,13 +83,13 @@
         "count": 7
       }
     ],
-    "gfn_xbox_store_matches": 197,
-    "intersection_titles": 400,
+    "gfn_xbox_store_matches": 198,
+    "intersection_titles": 401,
     "xbox_only_titles": 291,
-    "hltb_matches": 497,
-    "opencritic_matches": 565,
-    "short_game_score_matches": 360,
-    "exact_matches": 369,
+    "hltb_matches": 498,
+    "opencritic_matches": 566,
+    "short_game_score_matches": 361,
+    "exact_matches": 370,
     "partial_matches": 31
   },
   "games": [
@@ -215,13 +215,13 @@
         "XBOX"
       ],
       "gfn_has_xbox_store": true,
-      "xbox_title": "9 Kings (Game Preview)",
+      "xbox_title": "9 Kings",
       "xbox_product_id": "9NNM7PKZN3JF",
       "xbox_url": "https://www.microsoft.com/store/productId/9NNM7PKZN3JF",
       "publisher": "Hooded Horse",
       "developer": "Sad Socket",
-      "release_date": "2025-08-14T13:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.30483.13735777332261166.046c4476-2fdb-4636-af17-eba2edfec19a.664f1e7f-e451-42b0-ab21-894af5236c52",
+      "release_date": "2026-11-12T13:00:00.0000000Z",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.3227.13735777332261166.ccc1adb2-25e3-4d4c-82ac-c5a7a8061a9f.acd12fc2-2318-40d7-b2fb-9e72c15ad955",
       "description": "A fast-paced roguelike kingdom builder. Grow your empire and fight massive battles against powerful rival kings. Break the game with thousands of insane builds to become the King of Kings.",
       "match_type": "exact-title",
       "match_score": 120,
@@ -7212,13 +7212,13 @@
         "game_id": 173056,
         "url": "https://howlongtobeat.com/game/173056",
         "image_url": "https://howlongtobeat.com/games/173056_Deep_Dish_Dungeon.jpg",
-        "main_story_seconds": null,
-        "review_score": null,
-        "completion_count": null,
+        "main_story_seconds": 31915,
+        "review_score": 75,
+        "completion_count": 8,
         "release_year": 2026,
         "profile_platform": "PC, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 138,
+        "match_score": 142,
         "genres": [
           "First-Person",
           "Action",
@@ -7231,10 +7231,10 @@
         "game_id": 21522,
         "url": "https://opencritic.com/game/21522/deep-dish-dungeon",
         "top_critic_score": null,
-        "percent_recommended": null,
+        "percent_recommended": 57.1,
         "tier": null,
-        "median_score": null,
-        "review_count": 3,
+        "median_score": 80,
+        "review_count": 7,
         "release_year": 2026,
         "match_type": "exact",
         "match_score": 147
@@ -15500,6 +15500,62 @@
       "short_game_score": null
     },
     {
+      "catalog_group": "intersection",
+      "is_on_gfn": true,
+      "title": "John Carpenter's Toxic Commando",
+      "normalized_title": "john carpenter s toxic commando",
+      "gfn_stores": [
+        "STEAM"
+      ],
+      "gfn_has_xbox_store": false,
+      "xbox_title": "John Carpenter's Toxic Commando",
+      "xbox_product_id": "9MTGCZ84M503",
+      "xbox_url": "https://www.microsoft.com/store/productId/9MTGCZ84M503",
+      "publisher": "Focus Entertainment",
+      "developer": "Saber Interactive",
+      "release_date": "2026-03-12T10:00:00.0000000Z",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.2174.13813225504277272.60187aa7-cee5-4670-9406-da8555a77e6d.254ddc8a-3d22-4f1c-9870-19e12225f622",
+      "description": "Pick a character and team up with three friends ‘cause it’s time to save the world. Experience intense FPS action as you obliterate hordes of terrifying monsters! You may not be on the best team of mercenaries, but you are… a Toxic Commando!",
+      "match_type": "exact-title",
+      "match_score": 120,
+      "howlongtobeat": {
+        "title": "John Carpenter's Toxic Commando",
+        "game_id": 129818,
+        "url": "https://howlongtobeat.com/game/129818",
+        "image_url": "https://howlongtobeat.com/games/129818_John_Carpenters_Toxic_Commando.jpg",
+        "main_story_seconds": 31002,
+        "review_score": 62,
+        "completion_count": 33,
+        "release_year": 2026,
+        "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
+        "match_type": "exact",
+        "match_score": 139,
+        "genres": [
+          "Shooter"
+        ]
+      },
+      "opencritic": {
+        "title": "John Carpenter's Toxic Commando",
+        "game_id": 19932,
+        "url": "https://opencritic.com/game/19932/john-carpenters-toxic-commando",
+        "top_critic_score": 73.2,
+        "percent_recommended": 54.2,
+        "tier": "Fair",
+        "median_score": null,
+        "review_count": 96,
+        "release_year": 2026,
+        "match_type": "exact",
+        "match_score": 151
+      },
+      "short_game_score": {
+        "score": 81.2,
+        "critic_score": 73.2,
+        "duration_fit_score": 100.0,
+        "main_story_hours": 8.6,
+        "target_hours": 15.0
+      }
+    },
+    {
       "catalog_group": "xbox-only",
       "is_on_gfn": false,
       "title": "Junkster",
@@ -15914,11 +15970,11 @@
       "xbox_title": "Kiln",
       "xbox_product_id": "9MW53ZKZH168",
       "xbox_url": "https://www.microsoft.com/store/productId/9MW53ZKZH168",
-      "publisher": "Xbox Game Studios",
+      "publisher": "Double Fine Productions",
       "developer": "Double Fine Productions",
       "release_date": "2026-04-23T15:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.2406.13846114870355423.c6d5bbc2-3a52-4589-8bbf-606749aa483c.beec8181-1284-48cd-ab19-5707462c15e4",
-      "description": "An online multiplayer, pottery party brawler where teams of colorful spirits sculpt ceramic battle armor on a pottery wheel, and the size and shape of your pots determine your play-style and abilities",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.57392.13846114870355423.e43ee5b3-300f-4323-b45f-d8368f69215d.ad130bf2-bb5c-4ab1-aa06-9a8ca642050f",
+      "description": "A multiplayer pottery party brawler all about creation and destruction. Assemble a team, sculpt your pot body out of clay, and enter the fray with one of three online modes or with some local co-op.",
       "match_type": "exact-title",
       "match_score": 120,
       "howlongtobeat": {
@@ -30985,9 +31041,10 @@
       "title": "Warhammer Survivors",
       "normalized_title": "warhammer survivors",
       "gfn_stores": [
-        "STEAM"
+        "STEAM",
+        "XBOX"
       ],
-      "gfn_has_xbox_store": false,
+      "gfn_has_xbox_store": true,
       "xbox_title": "Warhammer Survivors",
       "xbox_product_id": "9MZZWGTF7V65",
       "xbox_url": "https://www.microsoft.com/store/productId/9MZZWGTF7V65",
@@ -32344,14 +32401,14 @@
         "XBOX"
       ],
       "gfn_has_xbox_store": true,
-      "xbox_title": "World War Z: Aftermath",
+      "xbox_title": "World War Z: Year 1 Edition",
       "xbox_product_id": "9PLCL2VB2SC0",
       "xbox_url": "https://www.microsoft.com/store/productId/9PLCL2VB2SC0",
       "publisher": "Saber Interactive Inc.",
       "developer": "Saber Interactive Inc.",
       "release_date": "2021-09-21T13:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.17991.14315814591543581.e259272c-6394-43a0-9fcb-744c0a35683f.3ec89289-214c-4706-b1b6-d232c9630952",
-      "description": "World War Z: Aftermath is the ultimate co-op zombie shooter and the next evolution of the original hit World War Z that has captivated over 20 million players.  Fight off hordes of zombies in intense story episodes across new zombie-ravaged locations around the world.",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.12097.14315814591543581.7abfbd86-71c6-4582-a8ef-26d2cba60921.38c99211-0435-4204-a587-c0e4706a93bb",
+      "description": "World War Z: Year 1 Edition is a great way to experience the first year of story content from the breakout co-op zombie shooter hit that has now captivated over 25 million players.",
       "match_type": "partial",
       "match_score": 95,
       "howlongtobeat": {

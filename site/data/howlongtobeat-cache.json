@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T07:26:04+00:00",
+  "updated_at": "2026-11-12T20:06:04+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -12735,19 +12735,19 @@
     "deep dish dungeon": {
       "title": "Deep Dish Dungeon",
       "status": "matched",
-      "fetched_at": "2026-10-13T14:22:22+00:00",
+      "fetched_at": "2026-11-12T20:06:00+00:00",
       "data": {
         "title": "Deep Dish Dungeon",
         "game_id": 173056,
         "url": "https://howlongtobeat.com/game/173056",
         "image_url": "https://howlongtobeat.com/games/173056_Deep_Dish_Dungeon.jpg",
-        "main_story_seconds": null,
-        "review_score": null,
-        "completion_count": null,
+        "main_story_seconds": 31915,
+        "review_score": 75,
+        "completion_count": 8,
         "release_year": 2026,
         "profile_platform": "PC, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 138,
+        "match_score": 142,
         "genres": [
           "First-Person",
           "Action",
@@ -13168,6 +13168,27 @@
           "Top-Down",
           "Action",
           "Strategy/Tactical"
+        ]
+      }
+    },
+    "john carpenter s toxic commando": {
+      "title": "John Carpenter's Toxic Commando",
+      "status": "matched",
+      "fetched_at": "2026-11-12T20:06:02+00:00",
+      "data": {
+        "title": "John Carpenter's Toxic Commando",
+        "game_id": 129818,
+        "url": "https://howlongtobeat.com/game/129818",
+        "image_url": "https://howlongtobeat.com/games/129818_John_Carpenters_Toxic_Commando.jpg",
+        "main_story_seconds": 31002,
+        "review_score": 62,
+        "completion_count": 33,
+        "release_year": 2026,
+        "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
+        "match_type": "exact",
+        "match_score": 139,
+        "genres": [
+          "Shooter"
         ]
       }
     }
