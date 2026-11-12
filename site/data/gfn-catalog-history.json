@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T14:18:28+00:00",
+  "generated_at": "2026-11-12T00:40:00+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -6598,6 +6598,113 @@
       "new_store_count": 0,
       "new_games": [],
       "new_stores": []
+    },
+    {
+      "timestamp": "2026-11-12T00:40:00+00:00",
+      "baseline": false,
+      "catalog_game_count": 6284,
+      "new_game_count": 14,
+      "new_store_count": 1,
+      "new_games": [
+        {
+          "name": "Ashes of the Singularity II",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Bandit the game",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Boltz",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "CURE - A Hospital Simulator FREE Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Drive UP: Together Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "GroundInFlames",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Liar's Bar",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Market Moe",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Noble Fates Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Prinny Party: Going Overboard!",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "SkyInFlames",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Void Reaver",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Warhammer Survivors",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Worst Class Ever",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
+      "new_stores": [
+        {
+          "name": "Cyberpunk 2077®",
+          "stores": [
+            "BATTLENET",
+            "EPIC",
+            "GOG",
+            "STEAM"
+          ],
+          "new_stores": [
+            "BATTLENET"
+          ]
+        }
+      ]
     }
   ]
 }

@@ -2179,6 +2179,12 @@
       "XBOX"
     ]
   },
+  "ashes of the singularity ii": {
+    "name": "Ashes of the Singularity II",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "ashwalkers": {
     "name": "Ashwalkers",
     "stores": [
@@ -2968,6 +2974,12 @@
   },
   "bambas": {
     "name": "Bambas!",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "bandit the game": {
+    "name": "Bandit the game",
     "stores": [
       "STEAM"
     ]
@@ -4104,6 +4116,12 @@
   },
   "boiling bolt": {
     "name": "Boiling Bolt",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "boltz": {
+    "name": "Boltz",
     "stores": [
       "STEAM"
     ]
@@ -7125,6 +7143,12 @@
       "STEAM"
     ]
   },
+  "cure a hospital simulator free demo": {
+    "name": "CURE - A Hospital Simulator FREE Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "curious expedition 2": {
     "name": "Curious Expedition 2",
     "stores": [
@@ -7215,6 +7239,7 @@
   "cyberpunk 2077": {
     "name": "Cyberpunk 2077®",
     "stores": [
+      "BATTLENET",
       "EPIC",
       "GOG",
       "STEAM"
@@ -9302,6 +9327,12 @@
   },
   "drive up together": {
     "name": "Drive UP: Together",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "drive up together demo": {
+    "name": "Drive UP: Together Demo",
     "stores": [
       "STEAM"
     ]
@@ -12292,12 +12323,6 @@
       "STEAM"
     ]
   },
-  "friends vs friends": {
-    "name": "Friends vs Friends",
-    "stores": [
-      "STEAM"
-    ]
-  },
   "frigato shadows of the caribbean": {
     "name": "Frigato: Shadows of the Caribbean",
     "stores": [
@@ -13584,6 +13609,12 @@
     "stores": [
       "STEAM",
       "XBOX"
+    ]
+  },
+  "groundinflames": {
+    "name": "GroundInFlames",
+    "stores": [
+      "STEAM"
     ]
   },
   "grubkins demo": {
@@ -17582,6 +17613,12 @@
       "STEAM"
     ]
   },
+  "liar s bar": {
+    "name": "Liar's Bar",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "liberated": {
     "name": "Liberated",
     "stores": [
@@ -18572,6 +18609,12 @@
   },
   "mark of the ninja remastered": {
     "name": "Mark of the Ninja: Remastered",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "market moe": {
+    "name": "Market Moe",
     "stores": [
       "STEAM"
     ]
@@ -20969,6 +21012,12 @@
   },
   "no time to explain remastered": {
     "name": "No Time To Explain Remastered",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "noble fates demo": {
+    "name": "Noble Fates Demo",
     "stores": [
       "STEAM"
     ]
@@ -23578,6 +23627,12 @@
     "stores": [
       "STEAM",
       "UPLAY"
+    ]
+  },
+  "prinny party going overboard": {
+    "name": "Prinny Party: Going Overboard!",
+    "stores": [
+      "STEAM"
     ]
   },
   "prinny party going overboard demo": {
@@ -27750,6 +27805,12 @@
   },
   "skyformer demo": {
     "name": "Skyformer Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "skyinflames": {
+    "name": "SkyInFlames",
     "stores": [
       "STEAM"
     ]
@@ -36255,6 +36316,12 @@
       "STEAM"
     ]
   },
+  "void reaver": {
+    "name": "Void Reaver",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "void reaver demo": {
     "name": "Void Reaver Demo",
     "stores": [
@@ -36728,6 +36795,12 @@
   },
   "warhammer end times vermintide": {
     "name": "Warhammer: End Times - Vermintide",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "warhammer survivors": {
+    "name": "Warhammer Survivors",
     "stores": [
       "STEAM"
     ]
@@ -37752,6 +37825,12 @@
   },
   "worshippers of cthulhu": {
     "name": "Worshippers of Cthulhu",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "worst class ever": {
+    "name": "Worst Class Ever",
     "stores": [
       "STEAM"
     ]
