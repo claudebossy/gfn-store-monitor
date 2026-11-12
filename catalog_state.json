@@ -23671,6 +23671,12 @@
       "STEAM"
     ]
   },
+  "pro basketball manager 2027": {
+    "name": "Pro Basketball Manager 2027",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "pro cycling manager 2016": {
     "name": "Pro Cycling Manager 2016",
     "stores": [
@@ -36802,7 +36808,8 @@
   "warhammer survivors": {
     "name": "Warhammer Survivors",
     "stores": [
-      "STEAM"
+      "STEAM",
+      "XBOX"
     ]
   },
   "warhammer underworlds shadespire edition": {

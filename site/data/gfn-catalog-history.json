@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T00:40:00+00:00",
+  "generated_at": "2026-11-12T15:10:20+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -6702,6 +6702,33 @@
           ],
           "new_stores": [
             "BATTLENET"
+          ]
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-11-12T15:10:20+00:00",
+      "baseline": false,
+      "catalog_game_count": 6285,
+      "new_game_count": 1,
+      "new_store_count": 1,
+      "new_games": [
+        {
+          "name": "Pro Basketball Manager 2027",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
+      "new_stores": [
+        {
+          "name": "Warhammer Survivors",
+          "stores": [
+            "STEAM",
+            "XBOX"
+          ],
+          "new_stores": [
+            "XBOX"
           ]
         }
       ]
