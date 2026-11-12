@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T19:42:31+00:00",
+  "updated_at": "2026-11-12T07:26:04+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -9184,7 +9184,7 @@
     "assassin s creed chronicles china": {
       "title": "Assassin’s Creed® Chronicles: China",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:30:46+00:00",
+      "fetched_at": "2026-11-12T07:23:36+00:00",
       "data": {
         "title": "Assassin's Creed Chronicles: China",
         "game_id": 32,
@@ -9202,7 +9202,7 @@
     "assassin s creed chronicles india": {
       "title": "Assassin’s Creed® Chronicles: India",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:30:48+00:00",
+      "fetched_at": "2026-11-12T07:23:37+00:00",
       "data": {
         "title": "Assassin's Creed Chronicles: India",
         "game_id": 1613,
@@ -9220,7 +9220,7 @@
     "assassin s creed chronicles russia": {
       "title": "Assassin’s Creed® Chronicles: Russia",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:30:50+00:00",
+      "fetched_at": "2026-11-12T07:23:37+00:00",
       "data": {
         "title": "Assassin's Creed Chronicles: Russia",
         "game_id": 1696,
@@ -9238,7 +9238,7 @@
     "assassin s creed chronicles trilogy": {
       "title": "Assassin's Creed Chronicles – Trilogy",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:30:52+00:00",
+      "fetched_at": "2026-11-12T07:23:37+00:00",
       "data": {
         "title": "Assassin’s Creed Chronicles - Trilogy Pack",
         "game_id": 2137,
@@ -9256,7 +9256,7 @@
     "assassin s creed director s cut edition": {
       "title": "Assassin's Creed™: Director's Cut Edition",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:30:54+00:00",
+      "fetched_at": "2026-11-12T07:23:37+00:00",
       "data": {
         "title": "Assassin's Creed: The Ezio Collection",
         "game_id": 3406,
@@ -9274,7 +9274,7 @@
     "assassin s creed freedom cry": {
       "title": "Assassin's Creed Freedom Cry",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:30:55+00:00",
+      "fetched_at": "2026-11-12T07:23:40+00:00",
       "data": {
         "title": "Assassin's Creed: Freedom Cry",
         "game_id": 294,
@@ -9292,7 +9292,7 @@
     "assassin s creed iii remastered": {
       "title": "Assassin’s Creed® III Remastered",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:30:57+00:00",
+      "fetched_at": "2026-11-12T07:23:40+00:00",
       "data": {
         "title": "Assassin's Creed III Remastered",
         "game_id": 7397,
@@ -9310,7 +9310,7 @@
     "assassin s creed iv black flag": {
       "title": "Assassin’s Creed® IV Black Flag™",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:31:01+00:00",
+      "fetched_at": "2026-11-12T07:23:42+00:00",
       "data": {
         "title": "Assassin's Creed IV: Black Flag",
         "game_id": 316,
@@ -9328,7 +9328,7 @@
     "assassin s creed iv black flag gold edition": {
       "title": "Assassin’s Creed® IV Black Flag™ - Gold Edition",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:31:03+00:00",
+      "fetched_at": "2026-11-12T07:23:42+00:00",
       "data": {
         "title": "Assassin's Creed IV: Black Flag",
         "game_id": 316,
@@ -9352,7 +9352,7 @@
     "assassin s creed rogue": {
       "title": "Assassin’s Creed® Rogue",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:31:10+00:00",
+      "fetched_at": "2026-11-12T07:23:46+00:00",
       "data": {
         "title": "Assassin's Creed Rogue",
         "game_id": 1396,
@@ -9370,7 +9370,7 @@
     "assassin s creed syndicate": {
       "title": "Assassin’s Creed®: Syndicate",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:31:13+00:00",
+      "fetched_at": "2026-11-12T07:23:48+00:00",
       "data": {
         "title": "Assassin's Creed Syndicate",
         "game_id": 1660,
@@ -9388,7 +9388,7 @@
     "assassin s creed unity": {
       "title": "Assassin's Creed® Unity",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:31:15+00:00",
+      "fetched_at": "2026-11-12T07:23:50+00:00",
       "data": {
         "title": "Assassin's Creed Unity",
         "game_id": 165,
@@ -9406,7 +9406,7 @@
     "atlas": {
       "title": "ATLAS",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:31:17+00:00",
+      "fetched_at": "2026-11-12T07:23:51+00:00",
       "data": {
         "title": "Starlink: Battle for Atlas",
         "game_id": 6579,
@@ -9424,7 +9424,7 @@
     "banjo kazooie": {
       "title": "Banjo-Kazooie",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:31:19+00:00",
+      "fetched_at": "2026-11-12T07:23:53+00:00",
       "data": {
         "title": "Banjo-Kazooie",
         "game_id": 20888,
@@ -9442,7 +9442,7 @@
     "banjo kazooie n n b": {
       "title": "Banjo Kazooie: N n B",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:31:22+00:00",
+      "fetched_at": "2026-11-12T07:23:53+00:00",
       "data": {
         "title": "Banjo-Kazooie",
         "game_id": 20888,
@@ -9460,7 +9460,7 @@
     "banjo tooie": {
       "title": "Banjo-Tooie",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:31:23+00:00",
+      "fetched_at": "2026-11-12T07:23:55+00:00",
       "data": {
         "title": "Banjo-Tooie",
         "game_id": 20889,
@@ -9484,7 +9484,7 @@
     "battlefield hardline": {
       "title": "Battlefield™ Hardline",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:31:27+00:00",
+      "fetched_at": "2026-11-12T07:23:55+00:00",
       "data": {
         "title": "Battlefield Hardline",
         "game_id": 81,
@@ -9526,7 +9526,7 @@
     "call of duty black ops 6 cross gen bundle": {
       "title": "Call of Duty®: Black Ops 6 - Cross-Gen Bundle",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:31:37+00:00",
+      "fetched_at": "2026-11-12T07:23:59+00:00",
       "data": {
         "title": "Call of Duty: Black Ops 6",
         "game_id": 17124,
@@ -9544,7 +9544,7 @@
     "call of duty black ops cold war cross gen bundle": {
       "title": "Call of Duty®: Black Ops Cold War - Cross-Gen Bundle",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:31:39+00:00",
+      "fetched_at": "2026-11-12T07:23:59+00:00",
       "data": {
         "title": "Call of Duty: Black Ops Cold War",
         "game_id": 10119,
@@ -9562,7 +9562,7 @@
     "child of light": {
       "title": "Child of Light™",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:31:41+00:00",
+      "fetched_at": "2026-11-12T07:24:01+00:00",
       "data": {
         "title": "Child of Light",
         "game_id": 264,
@@ -9580,7 +9580,7 @@
     "colony ship a post earth role playing game": {
       "title": "Colony Ship: A Post-Earth Role Playing Game",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:31:43+00:00",
+      "fetched_at": "2026-11-12T07:24:03+00:00",
       "data": {
         "title": "Colony Ship: A Post-Earth Role Playing Game",
         "game_id": 16019,
@@ -9598,7 +9598,7 @@
     "contrast": {
       "title": "Contrast",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:31:45+00:00",
+      "fetched_at": "2026-11-12T07:24:05+00:00",
       "data": {
         "title": "Contrast",
         "game_id": 309,
@@ -9616,7 +9616,7 @@
     "control": {
       "title": "Control",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:31:48+00:00",
+      "fetched_at": "2026-11-12T07:24:06+00:00",
       "data": {
         "title": "Control",
         "game_id": 7858,
@@ -9634,7 +9634,7 @@
     "control ultimate edition xbox series x s": {
       "title": "Control Ultimate Edition - Xbox Series X|S",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:31:50+00:00",
+      "fetched_at": "2026-11-12T07:24:06+00:00",
       "data": {
         "title": "Control: Ultimate Edition",
         "game_id": 10096,
@@ -9652,7 +9652,7 @@
     "costume quest 2": {
       "title": "Costume Quest 2",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:31:52+00:00",
+      "fetched_at": "2026-11-12T07:24:08+00:00",
       "data": {
         "title": "Costume Quest 2",
         "game_id": 176,
@@ -9670,7 +9670,7 @@
     "crash team racing nitro fueled": {
       "title": "Crash™ Team Racing Nitro-Fueled",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:31:54+00:00",
+      "fetched_at": "2026-11-12T07:24:08+00:00",
       "data": {
         "title": "Crash Team Racing: Nitro-Fueled",
         "game_id": 7709,
@@ -9678,8 +9678,8 @@
         "top_critic_score": 83.3,
         "percent_recommended": 89.3,
         "tier": "Strong",
-        "median_score": null,
-        "review_count": 124,
+        "median_score": 83,
+        "review_count": 125,
         "release_year": 2019,
         "match_type": "exact",
         "match_score": 153
@@ -9700,7 +9700,7 @@
     "dead space ignition": {
       "title": "Dead Space™ Ignition",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:32:01+00:00",
+      "fetched_at": "2026-11-12T07:24:10+00:00",
       "data": {
         "title": "Dead Space (2023)",
         "game_id": 13897,
@@ -9718,7 +9718,7 @@
     "dirt rally 2 0": {
       "title": "DiRT Rally 2.0",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:32:03+00:00",
+      "fetched_at": "2026-11-12T07:24:12+00:00",
       "data": {
         "title": "Dirt Rally 2.0",
         "game_id": 7087,
@@ -9736,16 +9736,16 @@
     "doom": {
       "title": "DOOM",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:32:06+00:00",
+      "fetched_at": "2026-11-12T07:24:13+00:00",
       "data": {
         "title": "Doom (2016)",
         "game_id": 1572,
         "url": "https://opencritic.com/game/1572/doom-2016-",
         "top_critic_score": 85.8,
-        "percent_recommended": 92.4,
+        "percent_recommended": 92.5,
         "tier": "Mighty",
         "median_score": 90,
-        "review_count": 152,
+        "review_count": 153,
         "release_year": 2016,
         "match_type": "exact",
         "match_score": 147
@@ -9754,7 +9754,7 @@
     "doom eternal standard edition": {
       "title": "DOOM Eternal Standard Edition",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:32:08+00:00",
+      "fetched_at": "2026-11-12T07:24:14+00:00",
       "data": {
         "title": "Doom Eternal",
         "game_id": 7410,
@@ -9784,7 +9784,7 @@
     "ea sports college football 25": {
       "title": "EA SPORTS™ College Football 25",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:32:14+00:00",
+      "fetched_at": "2026-11-12T07:24:15+00:00",
       "data": {
         "title": "EA Sports College Football 25",
         "game_id": 17015,
@@ -9802,7 +9802,7 @@
     "ea sports college football 26": {
       "title": "EA SPORTS™ College Football 26",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:32:18+00:00",
+      "fetched_at": "2026-11-12T07:24:15+00:00",
       "data": {
         "title": "EA Sports College Football 26",
         "game_id": 18613,
@@ -9820,7 +9820,7 @@
     "ea sports fc 25 xbox one": {
       "title": "EA SPORTS FC™ 25 Xbox One",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:32:19+00:00",
+      "fetched_at": "2026-11-12T07:24:16+00:00",
       "data": {
         "title": "EA Sports FC 25",
         "game_id": 17121,
@@ -9838,7 +9838,7 @@
     "ea sports fc 25 xbox series x s": {
       "title": "EA SPORTS FC™ 25 Xbox Series X|S",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:32:21+00:00",
+      "fetched_at": "2026-11-12T07:24:16+00:00",
       "data": {
         "title": "EA Sports FC 25",
         "game_id": 17121,
@@ -9856,7 +9856,7 @@
     "ea sports fc 26 xbox one": {
       "title": "EA SPORTS FC™ 26 Xbox One",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:32:22+00:00",
+      "fetched_at": "2026-11-12T07:24:16+00:00",
       "data": {
         "title": "EA Sports FC 26",
         "game_id": 18960,
@@ -9874,7 +9874,7 @@
     "ea sports fc 26 xbox series x s": {
       "title": "EA SPORTS FC™ 26 Xbox Series X|S",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:32:23+00:00",
+      "fetched_at": "2026-11-12T07:24:16+00:00",
       "data": {
         "title": "EA Sports FC 26",
         "game_id": 18960,
@@ -9892,7 +9892,7 @@
     "elite dangerous": {
       "title": "Elite Dangerous",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:32:24+00:00",
+      "fetched_at": "2026-11-12T07:24:17+00:00",
       "data": {
         "title": "Elite Dangerous (VR)",
         "game_id": 2492,
@@ -9940,7 +9940,7 @@
     "far cry 3 blood dragon": {
       "title": "Far Cry® 3: Blood Dragon",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:32:40+00:00",
+      "fetched_at": "2026-11-12T07:24:23+00:00",
       "data": {
         "title": "Far Cry 3: Blood Dragon Classic Edition",
         "game_id": 21386,
@@ -9976,7 +9976,7 @@
     "far cry primal": {
       "title": "Far Cry® Primal",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:32:44+00:00",
+      "fetched_at": "2026-11-12T07:24:25+00:00",
       "data": {
         "title": "Far Cry Primal",
         "game_id": 1944,
@@ -10024,7 +10024,7 @@
     "gears of war": {
       "title": "Gears of War",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:32:55+00:00",
+      "fetched_at": "2026-11-12T07:24:30+00:00",
       "data": {
         "title": "Gears of War: Ultimate Edition",
         "game_id": 1502,
@@ -10042,7 +10042,7 @@
     "gears of war 2": {
       "title": "Gears of War 2",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:32:57+00:00",
+      "fetched_at": "2026-11-12T07:24:32+00:00",
       "data": {
         "title": "Gears of War: Ultimate Edition",
         "game_id": 1502,
@@ -10060,7 +10060,7 @@
     "gears of war 3": {
       "title": "Gears of War 3",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:32:59+00:00",
+      "fetched_at": "2026-11-12T07:24:33+00:00",
       "data": {
         "title": "Gears of War: Ultimate Edition",
         "game_id": 1502,
@@ -10078,7 +10078,7 @@
     "gears of war judgment": {
       "title": "Gears of War: Judgment",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:33:00+00:00",
+      "fetched_at": "2026-11-12T07:24:34+00:00",
       "data": {
         "title": "Gears of War: Ultimate Edition",
         "game_id": 1502,
@@ -10096,7 +10096,7 @@
     "gears of war ultimate edition": {
       "title": "Gears of War: Ultimate Edition",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:33:01+00:00",
+      "fetched_at": "2026-11-12T07:24:35+00:00",
       "data": {
         "title": "Gears of War: Ultimate Edition",
         "game_id": 1502,
@@ -10114,7 +10114,7 @@
     "genshin impact": {
       "title": "Genshin Impact",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:33:02+00:00",
+      "fetched_at": "2026-11-12T07:24:36+00:00",
       "data": {
         "title": "Genshin Impact",
         "game_id": 10217,
@@ -10132,7 +10132,7 @@
     "goldeneye 007": {
       "title": "GoldenEye 007",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:33:04+00:00",
+      "fetched_at": "2026-11-12T07:24:38+00:00",
       "data": {
         "title": "GoldenEye 007",
         "game_id": 14240,
@@ -10150,7 +10150,7 @@
     "halo 5 guardians": {
       "title": "Halo 5: Guardians",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:33:06+00:00",
+      "fetched_at": "2026-11-12T07:24:39+00:00",
       "data": {
         "title": "Halo 5: Guardians",
         "game_id": 1513,
@@ -10168,7 +10168,7 @@
     "halo wars definitive edition": {
       "title": "Halo Wars: Definitive Edition",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:33:08+00:00",
+      "fetched_at": "2026-11-12T07:24:40+00:00",
       "data": {
         "title": "Halo Wars: Definitive Edition",
         "game_id": 3746,
@@ -10192,7 +10192,7 @@
     "hungry shark world": {
       "title": "Hungry Shark World",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:33:13+00:00",
+      "fetched_at": "2026-11-12T07:24:42+00:00",
       "data": {
         "title": "Hungry Shark World",
         "game_id": 6436,
@@ -10228,7 +10228,7 @@
     "killer instinct 2 classic": {
       "title": "Killer Instinct 2 Classic",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:33:21+00:00",
+      "fetched_at": "2026-11-12T07:24:46+00:00",
       "data": {
         "title": "Killer Instinct",
         "game_id": 843,
@@ -10246,7 +10246,7 @@
     "madden nfl 25 xbox one": {
       "title": "Madden NFL 25 Xbox One",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:33:23+00:00",
+      "fetched_at": "2026-11-12T07:24:46+00:00",
       "data": {
         "title": "Madden NFL 25",
         "game_id": 17056,
@@ -10264,7 +10264,7 @@
     "madden nfl 25 xbox series x s": {
       "title": "Madden NFL 25 Xbox Series X|S",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:33:25+00:00",
+      "fetched_at": "2026-11-12T07:24:47+00:00",
       "data": {
         "title": "Madden NFL 25",
         "game_id": 17056,
@@ -10294,7 +10294,7 @@
     "mass effect andromeda": {
       "title": "Mass Effect™: Andromeda",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:33:30+00:00",
+      "fetched_at": "2026-11-12T07:24:48+00:00",
       "data": {
         "title": "Mass Effect Andromeda",
         "game_id": 1547,
@@ -10312,7 +10312,7 @@
     "massive chalice": {
       "title": "MASSIVE CHALICE",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:33:31+00:00",
+      "fetched_at": "2026-11-12T07:24:49+00:00",
       "data": {
         "title": "Massive Chalice",
         "game_id": 326,
@@ -10330,7 +10330,7 @@
     "max the curse of brotherhood": {
       "title": "Max: The Curse of Brotherhood",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:33:33+00:00",
+      "fetched_at": "2026-11-12T07:24:51+00:00",
       "data": {
         "title": "Max: The Curse of Brotherhood",
         "game_id": 1450,
@@ -10348,7 +10348,7 @@
     "minecraft": {
       "title": "Minecraft",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:33:35+00:00",
+      "fetched_at": "2026-11-12T07:24:52+00:00",
       "data": {
         "title": "Minecraft",
         "game_id": 194,
@@ -10366,7 +10366,7 @@
     "minecraft dungeons": {
       "title": "Minecraft Dungeons",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:33:38+00:00",
+      "fetched_at": "2026-11-12T07:24:54+00:00",
       "data": {
         "title": "Minecraft Dungeons",
         "game_id": 9258,
@@ -10384,7 +10384,7 @@
     "monopoly madness": {
       "title": "Monopoly Madness",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:33:40+00:00",
+      "fetched_at": "2026-11-12T07:24:54+00:00",
       "data": {
         "title": "Monopoly Madness",
         "game_id": 12482,
@@ -10402,7 +10402,7 @@
     "need for speed payback": {
       "title": "Need for Speed™ Payback",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:33:42+00:00",
+      "fetched_at": "2026-11-12T07:24:55+00:00",
       "data": {
         "title": "Need for Speed Payback",
         "game_id": 4506,
@@ -10438,7 +10438,7 @@
     "nhl 94 rewind": {
       "title": "NHL® 94 REWIND",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:33:50+00:00",
+      "fetched_at": "2026-11-12T07:24:55+00:00",
       "data": {
         "title": "NHL 94 Rewind",
         "game_id": 10518,
@@ -10456,7 +10456,7 @@
     "oddballers": {
       "title": "OddBallers™",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:33:53+00:00",
+      "fetched_at": "2026-11-12T07:24:56+00:00",
       "data": {
         "title": "OddBallers",
         "game_id": 14246,
@@ -10474,7 +10474,7 @@
     "peggle 2": {
       "title": "Peggle 2",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:33:55+00:00",
+      "fetched_at": "2026-11-12T07:24:57+00:00",
       "data": {
         "title": "Peggle 2",
         "game_id": 190,
@@ -10504,7 +10504,7 @@
     "prince of persia the lost crown": {
       "title": "Prince of Persia: The Lost Crown",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:34:03+00:00",
+      "fetched_at": "2026-11-12T07:25:01+00:00",
       "data": {
         "title": "Prince of Persia: The Lost Crown",
         "game_id": 15867,
@@ -10528,7 +10528,7 @@
     "rabbids party of legends": {
       "title": "Rabbids®: Party of Legends",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:34:08+00:00",
+      "fetched_at": "2026-11-12T07:25:01+00:00",
       "data": {
         "title": "Rabbids: Party of Legends",
         "game_id": 13340,
@@ -10552,7 +10552,7 @@
     "rare replay": {
       "title": "Rare Replay",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:34:13+00:00",
+      "fetched_at": "2026-11-12T07:25:04+00:00",
       "data": {
         "title": "Rare Replay",
         "game_id": 1843,
@@ -10570,7 +10570,7 @@
     "rayman legends": {
       "title": "Rayman® Legends",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:34:16+00:00",
+      "fetched_at": "2026-11-12T07:25:06+00:00",
       "data": {
         "title": "Rayman Legends",
         "game_id": 288,
@@ -10588,7 +10588,7 @@
     "risk urban assault": {
       "title": "Risk: Urban Assault",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:34:17+00:00",
+      "fetched_at": "2026-11-12T07:25:08+00:00",
       "data": {
         "title": "Risk: Urban Assault",
         "game_id": 3117,
@@ -10606,7 +10606,7 @@
     "rocket league": {
       "title": "Rocket League®",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:34:20+00:00",
+      "fetched_at": "2026-11-12T07:25:08+00:00",
       "data": {
         "title": "Rocket League",
         "game_id": 1055,
@@ -10630,7 +10630,7 @@
     "screamride": {
       "title": "ScreamRide",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:34:25+00:00",
+      "fetched_at": "2026-11-12T07:25:10+00:00",
       "data": {
         "title": "ScreamRide",
         "game_id": 483,
@@ -10648,7 +10648,7 @@
     "skate 2007": {
       "title": "skate. (2007)",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:34:27+00:00",
+      "fetched_at": "2026-11-12T07:25:11+00:00",
       "data": {
         "title": "skate.",
         "game_id": 19193,
@@ -10672,7 +10672,7 @@
     "skull and bones": {
       "title": "SKULL AND BONES™",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:34:31+00:00",
+      "fetched_at": "2026-11-12T07:25:14+00:00",
       "data": {
         "title": "Skull and Bones",
         "game_id": 16299,
@@ -10690,7 +10690,7 @@
     "south park the stick of truth": {
       "title": "South Park™: The Stick of Truth™",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:34:34+00:00",
+      "fetched_at": "2026-11-12T07:25:16+00:00",
       "data": {
         "title": "South Park: The Stick of Truth",
         "game_id": 537,
@@ -10720,7 +10720,7 @@
     "star wars battlefront": {
       "title": "STAR WARS™ Battlefront™",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:34:40+00:00",
+      "fetched_at": "2026-11-12T07:25:19+00:00",
       "data": {
         "title": "Star Wars Battlefront",
         "game_id": 1511,
@@ -10738,7 +10738,7 @@
     "star wars jedi survivor xbox one": {
       "title": "STAR WARS Jedi: Survivor™ Xbox One",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:34:42+00:00",
+      "fetched_at": "2026-11-12T07:25:19+00:00",
       "data": {
         "title": "Star Wars Jedi: Survivor",
         "game_id": 14199,
@@ -10756,7 +10756,7 @@
     "state of decay year one survival edition": {
       "title": "State of Decay: Year One Survival Edition",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:34:46+00:00",
+      "fetched_at": "2026-11-12T07:25:21+00:00",
       "data": {
         "title": "State of Decay: Year One Survival Edition",
         "game_id": 334,
@@ -10774,7 +10774,7 @@
     "steep": {
       "title": "Steep™",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:34:48+00:00",
+      "fetched_at": "2026-11-12T07:25:23+00:00",
       "data": {
         "title": "Steep",
         "game_id": 3215,
@@ -10792,7 +10792,7 @@
     "terraria": {
       "title": "Terraria",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:34:50+00:00",
+      "fetched_at": "2026-11-12T07:25:24+00:00",
       "data": {
         "title": "Terraria",
         "game_id": 148,
@@ -10816,16 +10816,16 @@
     "the crew 2": {
       "title": "The Crew® 2",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:34:55+00:00",
+      "fetched_at": "2026-11-12T07:25:26+00:00",
       "data": {
         "title": "The Crew 2",
         "game_id": 6014,
         "url": "https://opencritic.com/game/6014/the-crew-2",
-        "top_critic_score": 66.3,
-        "percent_recommended": 25.4,
+        "top_critic_score": 66.5,
+        "percent_recommended": 25.2,
         "tier": "Fair",
         "median_score": 70,
-        "review_count": 123,
+        "review_count": 124,
         "release_year": 2018,
         "match_type": "exact",
         "match_score": 153
@@ -10834,16 +10834,16 @@
     "the elder scrolls iv oblivion": {
       "title": "The Elder Scrolls IV: Oblivion",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:34:57+00:00",
+      "fetched_at": "2026-11-12T07:25:28+00:00",
       "data": {
         "title": "The Elder Scrolls IV: Oblivion Remastered",
         "game_id": 18437,
         "url": "https://opencritic.com/game/18437/the-elder-scrolls-iv-oblivion-remastered",
-        "top_critic_score": 81.5,
-        "percent_recommended": 84.4,
+        "top_critic_score": 81.3,
+        "percent_recommended": 84.6,
         "tier": "Strong",
         "median_score": 85,
-        "review_count": 135,
+        "review_count": 136,
         "release_year": 2025,
         "match_type": "partial",
         "match_score": 109
@@ -10852,7 +10852,7 @@
     "the settlers new allies": {
       "title": "The Settlers®: New Allies",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:35:00+00:00",
+      "fetched_at": "2026-11-12T07:25:30+00:00",
       "data": {
         "title": "The Settlers: New Allies",
         "game_id": 14336,
@@ -10870,7 +10870,7 @@
     "the walking dead a new frontier": {
       "title": "The Walking Dead: A New Frontier",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:35:02+00:00",
+      "fetched_at": "2026-11-12T07:25:31+00:00",
       "data": {
         "title": "The Walking Dead: A New Frontier - Episodes 1 & 2 - Ties That Bind",
         "game_id": 3637,
@@ -10894,7 +10894,7 @@
     "the walking dead season two": {
       "title": "The Walking Dead: Season Two",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:35:09+00:00",
+      "fetched_at": "2026-11-12T07:25:32+00:00",
       "data": {
         "title": "The Walking Dead: Season Two Episode 3 - In Harm's Way",
         "game_id": 980,
@@ -10918,7 +10918,7 @@
     "the walking dead the final season the complete season": {
       "title": "The Walking Dead: The Final Season - The Complete Season",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:35:11+00:00",
+      "fetched_at": "2026-11-12T07:25:33+00:00",
       "data": {
         "title": "The Walking Dead: The Final Season",
         "game_id": 6552,
@@ -10936,7 +10936,7 @@
     "titanfall 2": {
       "title": "Titanfall® 2",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:35:12+00:00",
+      "fetched_at": "2026-11-12T07:25:33+00:00",
       "data": {
         "title": "Titanfall 2",
         "game_id": 2834,
@@ -10954,7 +10954,7 @@
     "tom clancy s ghost recon breakpoint": {
       "title": "Tom Clancy's Ghost Recon® Breakpoint",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:35:15+00:00",
+      "fetched_at": "2026-11-12T07:25:36+00:00",
       "data": {
         "title": "Tom Clancy's Ghost Recon Breakpoint",
         "game_id": 7884,
@@ -10972,7 +10972,7 @@
     "tom clancy s rainbow six extraction": {
       "title": "Tom Clancy’s Rainbow Six® Extraction",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:35:18+00:00",
+      "fetched_at": "2026-11-12T07:25:36+00:00",
       "data": {
         "title": "Tom Clancy's Rainbow Six Extraction",
         "game_id": 11577,
@@ -10990,7 +10990,7 @@
     "tom clancy s the division": {
       "title": "Tom Clancy's The Division™",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:35:20+00:00",
+      "fetched_at": "2026-11-12T07:25:37+00:00",
       "data": {
         "title": "Tom Clancy's The Division",
         "game_id": 1530,
@@ -11008,7 +11008,7 @@
     "trackmania turbo": {
       "title": "Trackmania® Turbo",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:35:22+00:00",
+      "fetched_at": "2026-11-12T07:25:38+00:00",
       "data": {
         "title": "TrackMania Turbo",
         "game_id": 1743,
@@ -11026,7 +11026,7 @@
     "transference": {
       "title": "Transference",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:35:24+00:00",
+      "fetched_at": "2026-11-12T07:25:39+00:00",
       "data": {
         "title": "Transference",
         "game_id": 6578,
@@ -11044,7 +11044,7 @@
     "trials fusion": {
       "title": "Trials Fusion™",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:35:27+00:00",
+      "fetched_at": "2026-11-12T07:25:42+00:00",
       "data": {
         "title": "Trials Fusion",
         "game_id": 269,
@@ -11080,7 +11080,7 @@
     "trials rising": {
       "title": "Trials® Rising",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:35:32+00:00",
+      "fetched_at": "2026-11-12T07:25:44+00:00",
       "data": {
         "title": "Trials Rising",
         "game_id": 7093,
@@ -11110,7 +11110,7 @@
     "uno": {
       "title": "UNO",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:35:37+00:00",
+      "fetched_at": "2026-11-12T07:25:45+00:00",
       "data": {
         "title": "Uno",
         "game_id": 3131,
@@ -11128,7 +11128,7 @@
     "urbo": {
       "title": "URBO",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:35:39+00:00",
+      "fetched_at": "2026-11-12T07:25:48+00:00",
       "data": {
         "title": "Urbo",
         "game_id": 15699,
@@ -11146,7 +11146,7 @@
     "valiant hearts the great war": {
       "title": "Valiant Hearts: The Great War™",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:35:41+00:00",
+      "fetched_at": "2026-11-12T07:25:50+00:00",
       "data": {
         "title": "Valiant Hearts: The Great War",
         "game_id": 242,
@@ -11164,7 +11164,7 @@
     "valorant": {
       "title": "VALORANT",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:35:43+00:00",
+      "fetched_at": "2026-11-12T07:25:51+00:00",
       "data": {
         "title": "Valorant",
         "game_id": 9573,
@@ -11194,7 +11194,7 @@
     "warhammer vermintide 2": {
       "title": "Warhammer: Vermintide 2",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:35:49+00:00",
+      "fetched_at": "2026-11-12T07:25:53+00:00",
       "data": {
         "title": "Warhammer: Vermintide 2",
         "game_id": 5673,
@@ -11212,7 +11212,7 @@
     "wasteland 3": {
       "title": "Wasteland 3",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:35:51+00:00",
+      "fetched_at": "2026-11-12T07:25:55+00:00",
       "data": {
         "title": "Wasteland 3",
         "game_id": 9140,
@@ -11236,7 +11236,7 @@
     "wild hearts standard edition": {
       "title": "WILD HEARTS™ Standard Edition",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:35:56+00:00",
+      "fetched_at": "2026-11-12T07:25:57+00:00",
       "data": {
         "title": "Wild Hearts",
         "game_id": 13899,
@@ -11260,7 +11260,7 @@
     "world of tanks": {
       "title": "World of Tanks",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:36:00+00:00",
+      "fetched_at": "2026-11-12T07:25:59+00:00",
       "data": {
         "title": "World of Tanks",
         "game_id": 9754,
@@ -11278,7 +11278,7 @@
     "zombi": {
       "title": "ZOMBI",
       "status": "matched",
-      "fetched_at": "2026-10-12T21:36:03+00:00",
+      "fetched_at": "2026-11-12T07:26:01+00:00",
       "data": {
         "title": "ZOMBI",
         "game_id": 1838,
