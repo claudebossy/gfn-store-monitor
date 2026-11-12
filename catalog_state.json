@@ -7242,7 +7242,8 @@
       "BATTLENET",
       "EPIC",
       "GOG",
-      "STEAM"
+      "STEAM",
+      "XBOX"
     ]
   },
   "cybertaxi": {
@@ -8859,12 +8860,6 @@
   },
   "dog man mission impawsible demo": {
     "name": "Dog Man: Mission Impawsible Demo",
-    "stores": [
-      "STEAM"
-    ]
-  },
-  "dogfight 1942": {
-    "name": "Dogfight 1942",
     "stores": [
       "STEAM"
     ]
@@ -12761,6 +12756,12 @@
       "STEAM"
     ]
   },
+  "geforce 8800 gtx 20 years of a legend": {
+    "name": "GeForce 8800 GTX - 20 Years of a Legend",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "generation zero": {
     "name": "Generation Zero",
     "stores": [
@@ -13471,6 +13472,12 @@
   },
   "gray zone warfare": {
     "name": "Gray Zone Warfare",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "grazed incremental arcade": {
+    "name": "Grazed - Incremental Arcade",
     "stores": [
       "STEAM"
     ]
@@ -21016,6 +21023,12 @@
       "STEAM"
     ]
   },
+  "noble fates": {
+    "name": "Noble Fates",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "noble fates demo": {
     "name": "Noble Fates Demo",
     "stores": [
@@ -26417,6 +26430,12 @@
       "STEAM"
     ]
   },
+  "scawy game": {
+    "name": "Scawy Game",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "scene investigators": {
     "name": "Scene Investigators",
     "stores": [
@@ -27708,6 +27727,12 @@
   },
   "skew pong": {
     "name": "Skew Pong",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "ski e o ski resort tycoon": {
+    "name": "Ski-E-O! Ski Resort Tycoon",
     "stores": [
       "STEAM"
     ]
@@ -31070,6 +31095,12 @@
       "STEAM"
     ]
   },
+  "takeover 2": {
+    "name": "Takeover 2",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "tale of wuxia the pre sequel": {
     "name": "Tale of Wuxia: The Pre-Sequel",
     "stores": [
@@ -32854,12 +32885,6 @@
     "name": "The Lord of the Rings: Return to Moria™",
     "stores": [
       "EPIC",
-      "STEAM"
-    ]
-  },
-  "the lord of the rings war in the north legacy edition": {
-    "name": "The Lord of the Rings: War in the North™ - Legacy Edition",
-    "stores": [
       "STEAM"
     ]
   },

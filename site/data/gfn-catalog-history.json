@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T15:10:20+00:00",
+  "generated_at": "2026-11-12T23:36:36+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -6724,6 +6724,66 @@
         {
           "name": "Warhammer Survivors",
           "stores": [
+            "STEAM",
+            "XBOX"
+          ],
+          "new_stores": [
+            "XBOX"
+          ]
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-11-12T23:36:36+00:00",
+      "baseline": false,
+      "catalog_game_count": 6289,
+      "new_game_count": 6,
+      "new_store_count": 1,
+      "new_games": [
+        {
+          "name": "GeForce 8800 GTX - 20 Years of a Legend",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Grazed - Incremental Arcade",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Noble Fates",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Scawy Game",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Ski-E-O! Ski Resort Tycoon",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Takeover 2",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
+      "new_stores": [
+        {
+          "name": "Cyberpunk 2077®",
+          "stores": [
+            "BATTLENET",
+            "EPIC",
+            "GOG",
             "STEAM",
             "XBOX"
           ],
