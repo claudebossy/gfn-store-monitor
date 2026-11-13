@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T20:05:36+00:00",
+  "generated_at": "2026-11-13T06:55:35+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,11 +13,11 @@
     }
   },
   "counts": {
-    "gfn_titles": 6290,
-    "xbox_game_pass_titles": 910,
-    "catalog_titles": 692,
+    "gfn_titles": 6289,
+    "xbox_game_pass_titles": 911,
+    "catalog_titles": 693,
     "intersection_titles": 401,
-    "xbox_only_titles": 291
+    "xbox_only_titles": 292
   },
   "summary": {
     "store_counts": {
@@ -75,20 +75,20 @@
         "count": 8
       },
       {
-        "name": "Hooded Horse",
-        "count": 7
+        "name": "Microsoft",
+        "count": 8
       },
       {
-        "name": "Paradox Interactive",
+        "name": "Hooded Horse",
         "count": 7
       }
     ],
     "gfn_xbox_store_matches": 198,
     "intersection_titles": 401,
-    "xbox_only_titles": 291,
+    "xbox_only_titles": 292,
     "hltb_matches": 498,
     "opencritic_matches": 566,
-    "short_game_score_matches": 361,
+    "short_game_score_matches": 362,
     "exact_matches": 370,
     "partial_matches": 31
   },
@@ -3398,10 +3398,10 @@
         "game_id": 19051,
         "url": "https://opencritic.com/game/19051/battlefield-6",
         "top_critic_score": 83.3,
-        "percent_recommended": 88.8,
+        "percent_recommended": 88.9,
         "tier": "Strong",
         "median_score": 85,
-        "review_count": 171,
+        "review_count": 172,
         "release_year": 2025,
         "match_type": "exact",
         "match_score": 155
@@ -13079,6 +13079,27 @@
         "main_story_hours": 7.8,
         "target_hours": 15.0
       }
+    },
+    {
+      "catalog_group": "xbox-only",
+      "is_on_gfn": false,
+      "title": "Grabbed by the Ghoulies™",
+      "normalized_title": "grabbed by the ghoulies",
+      "gfn_stores": [],
+      "gfn_has_xbox_store": false,
+      "xbox_title": "Grabbed by the Ghoulies™",
+      "xbox_product_id": "BTHC2G28X9H4",
+      "xbox_url": "https://www.microsoft.com/store/productId/BTHC2G28X9H4",
+      "publisher": "Microsoft",
+      "developer": "Rare®",
+      "release_date": "2003-11-21T00:00:00.0000000Z",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.5601.70863828853700397.56ab1f4a-a316-4055-8172-52200337d56f.20e8bf52-785b-499a-8671-e6c628861c5b",
+      "description": "Xbox 360 hard drive is required to use this item GAME-PLAY ALERT: This game has been fully tested to successfully play on your Xbox 360 console. However, in some cases, you may see some minor irregularities with audio/video for brief periods. For more details, see www.xbox.com/xboxoriginals. Take on the role of Cooper, a kid on a mission to rescue his girlfriend, who has been \"grabbed by the ghoulies.\" Venture through haunted and ominous Ghoulhaven Hall and battle it out with a variety of monst…",
+      "match_type": "xbox-only",
+      "match_score": 0,
+      "howlongtobeat": null,
+      "opencritic": null,
+      "short_game_score": null
     },
     {
       "catalog_group": "xbox-only",
@@ -30167,9 +30188,9 @@
         "game_id": 172954,
         "url": "https://howlongtobeat.com/game/172954",
         "image_url": "https://howlongtobeat.com/games/172954_Valor_Mortis.jpg",
-        "main_story_seconds": null,
-        "review_score": 80,
-        "completion_count": 2,
+        "main_story_seconds": 66012,
+        "review_score": 74,
+        "completion_count": 133,
         "release_year": 2026,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
@@ -30184,16 +30205,22 @@
         "title": "Valor Mortis",
         "game_id": 20805,
         "url": "https://opencritic.com/game/20805/valor-mortis",
-        "top_critic_score": 79.6,
-        "percent_recommended": 76.9,
+        "top_critic_score": 79.0,
+        "percent_recommended": 74.0,
         "tier": "Strong",
         "median_score": 80,
-        "review_count": 53,
+        "review_count": 102,
         "release_year": 2026,
         "match_type": "exact",
-        "match_score": 149
+        "match_score": 152
       },
-      "short_game_score": null
+      "short_game_score": {
+        "score": 82.3,
+        "critic_score": 79.0,
+        "duration_fit_score": 90.1,
+        "main_story_hours": 18.3,
+        "target_hours": 15.0
+      }
     },
     {
       "catalog_group": "xbox-only",

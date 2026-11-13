@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T20:06:04+00:00",
+  "updated_at": "2026-11-13T06:55:49+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -12765,15 +12765,15 @@
     "valor mortis": {
       "title": "Valor Mortis",
       "status": "matched",
-      "fetched_at": "2026-10-13T22:54:02+00:00",
+      "fetched_at": "2026-11-13T06:55:47+00:00",
       "data": {
         "title": "Valor Mortis",
         "game_id": 172954,
         "url": "https://howlongtobeat.com/game/172954",
         "image_url": "https://howlongtobeat.com/games/172954_Valor_Mortis.jpg",
-        "main_story_seconds": null,
-        "review_score": 80,
-        "completion_count": 2,
+        "main_story_seconds": 66012,
+        "review_score": 74,
+        "completion_count": 133,
         "release_year": 2026,
         "profile_platform": "PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
@@ -13191,6 +13191,12 @@
           "Shooter"
         ]
       }
+    },
+    "grabbed by the ghoulies": {
+      "title": "Grabbed by the Ghoulies™",
+      "status": "not_found",
+      "fetched_at": "2026-11-13T06:55:45+00:00",
+      "data": null
     }
   }
 }
