@@ -190,6 +190,30 @@ The URL should be the full Instant Gaming product page URL. The
 tracker adds the configured currency automatically before fetching
 the page.
 
+### Adding more products
+
+Edit `instant_gaming_products.json` directly on GitHub using the pencil
+button and append an entry to the `products` array, for example:
+
+```json
+{
+  "id": "007-first-light-pc-steam",
+  "label": "007 First Light - PC (Steam)",
+  "url": "https://www.instant-gaming.com/fr/22735-acheter-007-first-light-pc-steam/"
+}
+```
+
+Use a unique, stable `id` for each product or edition: it links future
+snapshots to the existing price history. The `label` is the name shown
+on the chart. Separate entries with commas, but do not add a trailing
+comma after the last entry.
+
+Commit the change to `main`, then either wait for the next scheduled
+run (every six hours) or start **Actions -> Update GitHub Pages Data ->
+Run workflow**. New products appear on the page after the data update
+and subsequent GitHub Pages deployment; no Python or HTML changes are
+needed.
+
 The generated history file is stored in:
 
     site/data/instant-gaming-price-history.json
