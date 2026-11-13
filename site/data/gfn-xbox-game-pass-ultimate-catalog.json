@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T21:29:41+00:00",
+  "generated_at": "2026-11-13T22:47:59+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -14,10 +14,10 @@
   },
   "counts": {
     "gfn_titles": 6294,
-    "xbox_game_pass_titles": 911,
-    "catalog_titles": 693,
+    "xbox_game_pass_titles": 912,
+    "catalog_titles": 694,
     "intersection_titles": 401,
-    "xbox_only_titles": 292
+    "xbox_only_titles": 293
   },
   "summary": {
     "store_counts": {
@@ -40,7 +40,7 @@
       },
       {
         "name": "Xbox Game Studios",
-        "count": 61
+        "count": 62
       },
       {
         "name": "Ubisoft",
@@ -85,7 +85,7 @@
     ],
     "gfn_xbox_store_matches": 198,
     "intersection_titles": 401,
-    "xbox_only_titles": 292,
+    "xbox_only_titles": 293,
     "hltb_matches": 498,
     "opencritic_matches": 566,
     "short_game_score_matches": 362,
@@ -461,6 +461,27 @@
         "main_story_hours": 9.1,
         "target_hours": 15.0
       }
+    },
+    {
+      "catalog_group": "xbox-only",
+      "is_on_gfn": false,
+      "title": "Adam Fenix Character Skin",
+      "normalized_title": "adam fenix character skin",
+      "gfn_stores": [],
+      "gfn_has_xbox_store": false,
+      "xbox_title": "Adam Fenix Character Skin",
+      "xbox_product_id": "9PHS1KPJKB6C",
+      "xbox_url": "https://www.microsoft.com/store/productId/9PHS1KPJKB6C",
+      "publisher": "Xbox Game Studios",
+      "developer": "The Coalition",
+      "release_date": "9998-12-30T00:00:00.0000000Z",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.27522.14230322659994520.47eeeb13-cd04-45ac-9c27-52c7295445e6.b9f50b80-a29a-461e-a0f3-99dac7fbea08",
+      "description": null,
+      "match_type": "xbox-only",
+      "match_score": 0,
+      "howlongtobeat": null,
+      "opencritic": null,
+      "short_game_score": null
     },
     {
       "catalog_group": "xbox-only",
