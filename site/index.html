@@ -8,6 +8,8 @@
     />
     <title>Instant Gaming Price Tracker</title>
     <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/hammerjs@2.0.8/hammer.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-zoom@2.2.0/dist/chartjs-plugin-zoom.min.js"></script>
     <style>
       :root {
         color-scheme: light;
@@ -17,13 +19,13 @@
         --panel-strong: rgba(255, 255, 255, 0.92);
         --panel-border: rgba(219, 190, 255, 0.55);
         --text: #51355a;
-        --muted: #8c78a1;
+        --muted: #736080;
         --accent: #a96ff2;
         --accent-strong: #7c52d9;
         --accent-soft: rgba(214, 189, 255, 0.42);
         --accent-soft-strong: rgba(191, 223, 255, 0.42);
-        --success: #4ebd8b;
-        --warning: #f08d77;
+        --success: #287c58;
+        --warning: #a64e39;
         --shadow: rgba(191, 169, 220, 0.22);
         --grid: rgba(169, 150, 204, 0.2);
       }
@@ -43,7 +45,7 @@
       }
 
       main {
-        max-width: 1200px;
+        max-width: 1440px;
         margin: 0 auto;
         padding: 24px;
       }
@@ -84,6 +86,8 @@
       .stack {
         display: grid;
         gap: 20px;
+        align-content: start;
+        min-width: 0;
       }
 
       .toolbar {
@@ -94,6 +98,7 @@
       }
 
       button {
+        font: inherit;
         border: 1px solid var(--panel-border);
         background: linear-gradient(
           135deg,
@@ -155,8 +160,14 @@
         box-shadow: 0 12px 28px rgba(197, 175, 226, 0.16);
       }
 
+      .selector-item.is-selected {
+        border-color: var(--series-color);
+      }
+
       .selector-item input {
-        accent-color: var(--accent);
+        accent-color: var(--series-color);
+        margin-top: 5px;
+        flex-shrink: 0;
       }
 
       .selector-item small {
@@ -190,6 +201,8 @@
         border: 1px solid var(--panel-border);
         border-radius: 16px;
         padding: 16px;
+        border-top: 3px solid var(--series-color);
+        overflow-wrap: anywhere;
       }
 
       .summary-card a {
@@ -231,9 +244,206 @@
         color: var(--muted);
       }
 
+      .field {
+        display: grid;
+        gap: 6px;
+        margin-top: 14px;
+        font-size: 0.9rem;
+        font-weight: 600;
+      }
+
+      input[type="search"],
+      select {
+        width: 100%;
+        min-width: 0;
+        padding: 10px 12px;
+        border: 1px solid var(--panel-border);
+        border-radius: 10px;
+        background: var(--panel-strong);
+        color: var(--text);
+        font: inherit;
+      }
+
+      :focus-visible {
+        outline: 3px solid var(--accent-strong);
+        outline-offset: 3px;
+      }
+
+      button:disabled {
+        opacity: 0.5;
+        cursor: not-allowed;
+      }
+
+      button[aria-pressed="true"] {
+        background: var(--accent-strong);
+        color: white;
+      }
+
+      .check-field {
+        display: flex;
+        gap: 8px;
+        align-items: center;
+        margin-top: 14px;
+      }
+
+      .selector-details {
+        flex: 1;
+        min-width: 0;
+        overflow-wrap: anywhere;
+      }
+
+      .selector-label {
+        cursor: pointer;
+      }
+
+      .selector-price {
+        font-weight: 600;
+      }
+
+      .small-button {
+        padding: 4px 10px;
+        margin-top: 8px;
+        font-size: 0.8rem;
+        box-shadow: none;
+      }
+
+      .section-header {
+        display: flex;
+        gap: 12px;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: baseline;
+      }
+
+      .section-header h2 {
+        margin-bottom: 0;
+      }
+
+      .chart-controls {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px 20px;
+        margin: 14px 0;
+      }
+
+      .chart-controls .toolbar {
+        margin: 0;
+      }
+
+      .chart-help,
+      .results-count {
+        font-size: 0.85rem;
+        line-height: 1.5;
+      }
+
+      .results-count {
+        margin-bottom: 12px;
+      }
+
+      .price-insight {
+        font-size: 0.9rem;
+        margin-top: 8px;
+      }
+
+      .price-down,
+      .recorded-low,
+      .selector-item small.recorded-low {
+        color: var(--success);
+      }
+
+      .price-up {
+        color: var(--warning);
+      }
+
+      .price-insights {
+        margin-bottom: 20px;
+      }
+
+      .insights-grid {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 20px;
+        margin-top: 16px;
+      }
+
+      .insights-grid h3 {
+        margin: 0;
+        font-size: 1rem;
+      }
+
+      .insight-list {
+        display: grid;
+        gap: 8px;
+        max-height: 260px;
+        overflow: auto;
+        list-style: none;
+        padding: 0 4px 0 0;
+        margin: 12px 0 0;
+      }
+
+      .insight-item {
+        display: flex;
+        gap: 12px;
+        align-items: center;
+        padding: 12px;
+        border: 1px solid var(--panel-border);
+        border-radius: 14px;
+        background: var(--panel-strong);
+      }
+
+      .insight-details {
+        flex: 1;
+        min-width: 0;
+        overflow-wrap: anywhere;
+      }
+
+      .insight-details a {
+        color: var(--text);
+        font-weight: 600;
+      }
+
+      .insight-details p {
+        margin-top: 6px;
+        font-size: 0.85rem;
+      }
+
+      .insight-item .small-button {
+        flex-shrink: 0;
+        margin-top: 0;
+      }
+
+      [hidden] {
+        display: none !important;
+      }
+
+      @media (max-width: 600px) {
+        .insights-grid {
+          grid-template-columns: 1fr;
+        }
+      }
+
       @media (max-width: 900px) {
         .layout {
           grid-template-columns: 1fr;
+        }
+
+        .selector-list {
+          max-height: 320px;
+        }
+      }
+
+      @media (max-width: 480px) {
+        main {
+          padding: 12px;
+        }
+
+        .panel,
+        .hero {
+          padding: 16px;
+        }
+
+        .chart-wrap {
+          height: 320px;
         }
       }
     </style>
@@ -243,8 +453,7 @@
       <section class="hero">
         <h1>Instant Gaming price tracker</h1>
         <p>
-          Select one or more configured products to compare their sampled
-          prices over time.
+          Find a game, spot a good price, and compare its price history.
         </p>
         <div class="toolbar">
           <a class="nav-link" href="./game-pass-catalog.html">
@@ -257,18 +466,83 @@
         <p class="meta" id="generated-at">Loading latest snapshot...</p>
       </section>
 
+      <section class="panel price-insights" aria-labelledby="insights-title">
+        <h2 id="insights-title">Price insights</h2>
+        <p class="chart-help">
+          Across all tracked products, regardless of search or comparison.
+          In-stock only. Drops compare the latest price with the previous sample.
+        </p>
+        <div class="insights-grid">
+          <div>
+            <h3 id="insight-lows-title">
+              At their recorded low <span id="insight-low-count"></span>
+            </h3>
+            <ul class="insight-list" id="insight-lows" tabindex="0" aria-labelledby="insight-lows-title">
+              <li class="empty-state">Loading price insights...</li>
+            </ul>
+          </div>
+          <div>
+            <h3 id="insight-drops-title">
+              Just dropped in price <span id="insight-drop-count"></span>
+            </h3>
+            <ul class="insight-list" id="insight-drops" tabindex="0" aria-labelledby="insight-drops-title">
+              <li class="empty-state">Loading price insights...</li>
+            </ul>
+          </div>
+        </div>
+      </section>
+
       <section class="layout">
         <div class="stack">
           <div class="panel">
             <h2>Products</h2>
+            <label class="field" for="product-search">
+              Find a game or edition
+              <input
+                type="search"
+                id="product-search"
+                placeholder="Game name, Steam, Xbox..."
+                autocomplete="off"
+                aria-controls="product-selector"
+              />
+            </label>
+            <label class="field" for="product-filter">
+              Show
+              <select id="product-filter">
+                <option value="all">All products</option>
+                <option value="in-stock">In stock</option>
+                <option value="lowest">At recorded low (in stock)</option>
+                <option value="price-drop">Price dropped since last sample</option>
+              </select>
+            </label>
+            <label class="field" for="product-sort">
+              Sort products and price cards
+              <select id="product-sort">
+                <option value="name">Name (A-Z)</option>
+                <option value="price">Lowest price</option>
+                <option value="discount">Biggest discount</option>
+                <option value="price-drop">Biggest price drop</option>
+              </select>
+            </label>
+            <label class="check-field">
+              <input type="checkbox" id="selected-only" />
+              Compared products only
+            </label>
             <div class="toolbar">
               <button type="button" id="select-all">
-                Select all
+                Select matches
+              </button>
+              <button type="button" id="clear-matches">
+                Clear matches
               </button>
               <button type="button" id="clear-all">
-                Clear
+                Clear all
+              </button>
+              <button type="button" id="reset-filters">
+                Reset filters
               </button>
             </div>
+            <p class="results-count" id="results-count" role="status"></p>
             <div
               class="selector-list"
               id="product-selector"
@@ -278,14 +552,42 @@
 
         <div class="stack">
           <div class="panel">
-            <h2>Price evolution</h2>
+            <div class="section-header">
+              <h2>Price evolution</h2>
+              <p id="comparison-count" role="status"></p>
+            </div>
+            <div class="chart-controls">
+              <div class="toolbar" role="group" aria-label="History period">
+                <button type="button" data-days="7" aria-pressed="false">7 days</button>
+                <button type="button" data-days="30" aria-pressed="false">30 days</button>
+                <button type="button" data-days="90" aria-pressed="false">90 days</button>
+                <button type="button" data-days="0" aria-pressed="true">All history</button>
+              </div>
+              <div class="toolbar" role="group" aria-label="Chart navigation">
+                <button type="button" id="pan-back" aria-label="Pan to earlier dates">Earlier</button>
+                <button type="button" id="zoom-in" aria-label="Zoom in on price history">Zoom +</button>
+                <button type="button" id="zoom-out" aria-label="Zoom out on price history">Zoom -</button>
+                <button type="button" id="pan-forward" aria-label="Pan to later dates">Later</button>
+                <button type="button" id="reset-zoom">Reset zoom</button>
+              </div>
+            </div>
+            <p class="chart-help" id="chart-help">
+              Drag across the graph to zoom. Ctrl + scroll or pinch to zoom;
+              Shift + drag to pan. Buttons work with keyboard and touch, too.
+            </p>
+            <p class="meta chart-help" id="chart-window" role="status"></p>
+            <div class="empty-state" id="chart-empty" hidden></div>
             <div class="chart-wrap">
-              <canvas id="price-chart"></canvas>
+              <canvas id="price-chart" role="img" aria-label="Price history for compared products"></canvas>
             </div>
           </div>
 
           <div class="panel">
             <h2>Latest prices</h2>
+            <p class="chart-help">
+              For compared products, in your chosen sort order. Recorded lows
+              use in-stock samples across all history, not just the visible dates.
+            </p>
             <div id="summary"></div>
           </div>
         </div>
@@ -321,8 +623,107 @@
 
       let chart;
       let trackerData = null;
+      let selectedIds = new Set();
+      let visibleProducts = [];
+      let productStats = new Map();
+      let timeBounds = null;
+      let periodDays = 0;
+      const DAY = 24 * 60 * 60 * 1000;
+      const nameCollator = new Intl.Collator(undefined, {
+        numeric: true,
+        sensitivity: "base"
+      });
+
+      function element(tag, className, text) {
+        const node = document.createElement(tag);
+        if (className) node.className = className;
+        if (text !== undefined) node.textContent = text;
+        return node;
+      }
+
+      function normalizeSearch(value) {
+        return String(value || "")
+          .normalize("NFD")
+          .replace(/[\u0300-\u036f]/g, "")
+          .toLowerCase()
+          .replace(/['\u2019]/g, "")
+          .replace(/[^\p{L}\p{N}]+/gu, " ")
+          .trim();
+      }
+
+      function getProductStats(product, index) {
+        const history = (product.history || [])
+          .filter((entry) =>
+            Number.isFinite(new Date(entry.timestamp).getTime()) &&
+            Number.isFinite(entry.price)
+          )
+          .slice()
+          .sort((left, right) =>
+            new Date(left.timestamp) - new Date(right.timestamp)
+          );
+        const current = product.current || {};
+        let lowest = history.reduce(
+          (minimum, entry) => entry.available ? Math.min(minimum, entry.price) : minimum,
+          Infinity
+        );
+        if (current.available && Number.isFinite(current.price)) {
+          lowest = Math.min(lowest, current.price);
+        }
+        if (!Number.isFinite(lowest)) lowest = null;
+        const previous = history.filter((entry) =>
+          new Date(entry.timestamp) < new Date(current.timestamp)
+        ).at(-1);
+        const change = previous && Number.isFinite(current.price)
+          ? Math.round((current.price - previous.price) * 100) / 100
+          : null;
+
+        return {
+          history,
+          lowest,
+          change,
+          atLow: Boolean(current.available) &&
+            Number.isFinite(current.price) && current.price === lowest,
+          search: normalizeSearch(
+            [product.label, product.title, product.id].join(" ")
+          ),
+          color: COLORS[index] || `hsl(${(index * 137.508) % 360}, 58%, 48%)`
+        };
+      }
+
+      function sortProducts(products, sortOrder) {
+        return products.slice().sort((left, right) => {
+          const a = left.current || {};
+          const b = right.current || {};
+          let difference = 0;
+          if (sortOrder === "price") {
+            difference = (Number.isFinite(a.price) ? a.price : Infinity) -
+              (Number.isFinite(b.price) ? b.price : Infinity);
+          } else if (sortOrder === "discount") {
+            difference =
+              (Number.isFinite(b.discount_percent) ? b.discount_percent : -Infinity) -
+              (Number.isFinite(a.discount_percent) ? a.discount_percent : -Infinity);
+          } else if (sortOrder === "price-drop") {
+            difference = (productStats.get(left.id).change ?? Infinity) -
+              (productStats.get(right.id).change ?? Infinity);
+          }
+          return difference || nameCollator.compare(left.label, right.label);
+        });
+      }
+
+      function filterProducts(products, query, filter, selectedOnly) {
+        const terms = normalizeSearch(query).split(" ").filter(Boolean);
+        return products.filter((product) => {
+          const stats = productStats.get(product.id);
+          return terms.every((term) => stats.search.includes(term)) &&
+            (!selectedOnly || selectedIds.has(product.id)) &&
+            (filter !== "in-stock" || product.current?.available) &&
+            (filter !== "lowest" || stats.atLow) &&
+            (filter !== "price-drop" || stats.change < 0);
+        });
+      }
 
       function formatMoney(value, currency) {
+        if (!Number.isFinite(value)) return "Price unavailable";
         return new Intl.NumberFormat(undefined, {
           style: "currency",
           currency,
@@ -356,89 +757,282 @@
           "Last update: " + formatTimestamp(trackerData.generated_at);
       }
 
-      function getSelectedIds() {
-        return Array.from(
-          document.querySelectorAll(
-            '#product-selector input[type="checkbox"]:checked'
-          )
-        ).map((checkbox) => checkbox.value);
-      }
-
       function getSelectedProducts() {
-        const selectedIds = new Set(getSelectedIds());
-
-        return (trackerData.products || []).filter((product) =>
-          selectedIds.has(product.id)
+        return sortProducts(
+          (trackerData?.products || []).filter((product) =>
+            selectedIds.has(product.id)
+          ),
+          document.getElementById("product-sort").value
         );
       }
 
-      function buildDatasets(selectedProducts, currency) {
-        return selectedProducts.map((product, index) => {
-          const data = (product.history || [])
-            .map((entry) => ({
-              x: new Date(entry.timestamp).getTime(),
-              y: entry.price
-            }))
-            .filter((entry) => Number.isFinite(entry.x))
-            .sort((left, right) => left.x - right.x);
+      function compareOnly(product) {
+        selectedIds = new Set([product.id]);
+        renderSelector();
+        renderChart();
+        const zoomButton = document.getElementById("reset-zoom");
+        (zoomButton.disabled
+          ? document.getElementById("selected-only")
+          : zoomButton).focus();
+      }
+
+      function renderInsights() {
+        const products = trackerData.products;
+        const groups = [
+          {
+            id: "insight-lows",
+            countId: "insight-low-count",
+            products: sortProducts(filterProducts(products, "", "lowest", false), "price"),
+            empty: "No in-stock products are at their recorded low right now.",
+            isDrop: false
+          },
+          {
+            id: "insight-drops",
+            countId: "insight-drop-count",
+            products: sortProducts(
+              filterProducts(products, "", "price-drop", false)
+                .filter((product) => product.current?.available),
+              "price-drop"
+            ),
+            empty: "No in-stock products dropped in price since the previous sample.",
+            isDrop: true
+          }
+        ];
+
+        for (const group of groups) {
+          const list = document.getElementById(group.id);
+          list.replaceChildren();
+          document.getElementById(group.countId).textContent = `(${group.products.length})`;
+          if (!group.products.length) {
+            list.appendChild(element("li", "empty-state", group.empty));
+            continue;
+          }
+          for (const product of group.products) {
+            const stats = productStats.get(product.id);
+            const row = element("li", "insight-item");
+            const details = element("div", "insight-details");
+            const link = element("a", "", product.label);
+            link.href = product.page_url;
+            link.target = "_blank";
+            link.rel = "noreferrer";
+            details.append(
+              link,
+              element("p", "", formatMoney(product.current.price, trackerData.currency))
+            );
+            if (group.isDrop) {
+              details.appendChild(element(
+                "p",
+                "price-down",
+                `Down ${formatMoney(Math.abs(stats.change), trackerData.currency)} since previous sample`
+              ));
+            }
+            const view = element("button", "small-button", "View history");
+            view.type = "button";
+            view.setAttribute("aria-label", `View price history for ${product.label}`);
+            view.addEventListener("click", () => {
+              periodDays = 0;
+              compareOnly(product);
+            });
+            row.append(details, view);
+            list.appendChild(row);
+          }
+        }
+      }
+
+      function buildDatasets(selectedProducts) {
+        return selectedProducts.map((product) => {
+          const stats = productStats.get(product.id);
+          const data = stats.history.map((entry) => ({
+            x: new Date(entry.timestamp).getTime(),
+            y: entry.price
+          }));
 
           return {
             label: product.label,
             data,
-            borderColor: COLORS[index % COLORS.length],
-            backgroundColor: COLORS[index % COLORS.length],
+            borderColor: stats.color,
+            backgroundColor: stats.color,
             tension: 0.25,
-            pointRadius: 3,
-            pointHoverRadius: 5
+            pointRadius: data.length > 60 ? 0 : 3,
+            pointHoverRadius: 5,
+            pointHitRadius: 8
           };
         });
       }
 
+      function getTimeBounds(datasets) {
+        let min = Infinity;
+        let max = -Infinity;
+        for (const dataset of datasets) {
+          for (const point of dataset.data) {
+            min = Math.min(min, point.x);
+            max = Math.max(max, point.x);
+          }
+        }
+        if (!Number.isFinite(min)) return null;
+        if (min === max) return { min: min - DAY / 2, max: max + DAY / 2 };
+        return { min, max };
+      }
+
+      function updateChartControls() {
+        const enabled = Boolean(chart && timeBounds);
+        const min = enabled ? chart.scales.x.min : 0;
+        const max = enabled ? chart.scales.x.max : 0;
+        const fullRange = timeBounds ? timeBounds.max - timeBounds.min : 0;
+        const minRange = Math.min(DAY / 24, fullRange);
+        document.querySelectorAll("[data-days]").forEach((button) => {
+          button.disabled = !enabled;
+          button.setAttribute(
+            "aria-pressed",
+            String(periodDays !== null && Number(button.dataset.days) === periodDays)
+          );
+        });
+        document.getElementById("zoom-in").disabled =
+          !enabled || max - min <= minRange + 1;
+        document.getElementById("zoom-out").disabled =
+          !enabled || max - min >= fullRange - 1;
+        document.getElementById("pan-back").disabled =
+          !enabled || min <= timeBounds.min + 1;
+        document.getElementById("pan-forward").disabled =
+          !enabled || max >= timeBounds.max - 1;
+        document.getElementById("reset-zoom").disabled = !enabled;
+        document.getElementById("chart-window").textContent = enabled
+          ? `${formatAxisTimestamp(min)} - ${formatAxisTimestamp(max)}`
+          : "";
+      }
+
+      function setChartWindow(min, max) {
+        if (!chart || !timeBounds) return;
+        const width = Math.min(
+          timeBounds.max - timeBounds.min,
+          Math.max(Math.min(DAY / 24, timeBounds.max - timeBounds.min), max - min)
+        );
+        const start = Math.max(timeBounds.min, Math.min(min, timeBounds.max - width));
+        // Clear the zoom plugin's cached scale limits before applying a preset.
+        if (chart.resetZoom) chart.resetZoom("none");
+        chart.options.scales.x.min = start;
+        chart.options.scales.x.max = start + width;
+        chart.update("none");
+        updateChartControls();
+      }
+
+      function applyPeriod(days) {
+        periodDays = days;
+        if (!timeBounds) return;
+        setChartWindow(
+          days ? Math.max(timeBounds.min, timeBounds.max - days * DAY) : timeBounds.min,
+          timeBounds.max
+        );
+      }
+
+      function zoomChart(factor) {
+        if (!chart || !timeBounds) return;
+        const { min, max } = chart.scales.x;
+        const center = (min + max) / 2;
+        const halfWidth = (max - min) * factor / 2;
+        periodDays = null;
+        setChartWindow(center - halfWidth, center + halfWidth);
+      }
+
+      function panChart(direction) {
+        if (!chart || !timeBounds) return;
+        const { min, max } = chart.scales.x;
+        const offset = (max - min) * 0.5 * direction;
+        periodDays = null;
+        setChartWindow(min + offset, max + offset);
+      }
+
       function renderChart() {
         const selectedProducts = getSelectedProducts();
-        const summary = document.getElementById("summary");
+        const datasets = buildDatasets(selectedProducts);
+        const previousWindow = chart && timeBounds
+          ? { min: chart.scales.x.min, max: chart.scales.x.max }
+          : null;
+        timeBounds = getTimeBounds(datasets);
+        document.getElementById("comparison-count").textContent =
+          `${selectedProducts.length} compared`;
+        const empty = document.getElementById("chart-empty");
+        empty.hidden = Boolean(selectedProducts.length && timeBounds);
+        empty.textContent = selectedProducts.length
+          ? "No price history recorded for these products yet."
+          : "Select a product or use Show only to explore a game's history.";
+        document.querySelector(".chart-wrap").hidden = !empty.hidden;
 
         if (chart) {
           chart.destroy();
           chart = null;
         }
 
-        if (!selectedProducts.length) {
-          const ctx = document
-            .getElementById("price-chart")
-            .getContext("2d");
-          ctx.clearRect(
-            0,
-            0,
-            ctx.canvas.width,
-            ctx.canvas.height
-          );
-          summary.innerHTML =
-            '<div class="empty-state">Select at least one product.</div>';
+        renderSummary(selectedProducts);
+        if (!selectedProducts.length || !timeBounds) {
+          updateChartControls();
           return;
         }
 
+        const onNavigate = () => {
+          periodDays = null;
+          updateChartControls();
+        };
+        const gestureZoomAvailable =
+          typeof ChartZoom !== "undefined" && typeof Hammer !== "undefined";
+        document.getElementById("chart-help").textContent = gestureZoomAvailable
+          ? "Drag across the graph to zoom. Ctrl + scroll or pinch to zoom; " +
+            "Shift + drag to pan. Buttons work with keyboard and touch, too."
+          : "Gesture zoom could not load. Use the date, zoom, and pan buttons instead.";
         chart = new Chart(
           document.getElementById("price-chart"),
           {
             type: "line",
             data: {
-              datasets: buildDatasets(
-                selectedProducts,
-                trackerData.currency
-              )
+              datasets
             },
             options: {
               responsive: true,
               maintainAspectRatio: false,
+              animation: false,
               parsing: false,
               plugins: {
                 legend: {
+                  display: selectedProducts.length <= 8,
+                  onClick: (_event, item) => {
+                    selectedIds.delete(selectedProducts[item.datasetIndex].id);
+                    renderSelector();
+                    renderChart();
+                  },
                   labels: {
                     color: chartTextColor
                   }
                 },
+                zoom: {
+                  limits: {
+                    x: {
+                      min: timeBounds.min,
+                      max: timeBounds.max,
+                      minRange: Math.min(DAY / 24, timeBounds.max - timeBounds.min)
+                    }
+                  },
+                  pan: {
+                    enabled: gestureZoomAvailable,
+                    mode: "x",
+                    modifierKey: "shift",
+                    onPan: onNavigate
+                  },
+                  zoom: {
+                    mode: "x",
+                    wheel: { enabled: gestureZoomAvailable, modifierKey: "ctrl" },
+                    pinch: { enabled: gestureZoomAvailable },
+                    drag: {
+                      enabled: gestureZoomAvailable,
+                      backgroundColor: "rgba(169, 111, 242, 0.2)",
+                      borderColor: chartTextColor,
+                      borderWidth: 1
+                    },
+                    onZoom: onNavigate
+                  }
+                },
                 tooltip: {
+                  mode: "nearest",
+                  intersect: false,
                   backgroundColor: chartPanelColor,
                   titleColor: chartTextColor,
                   bodyColor: chartTextColor,
@@ -468,7 +1062,10 @@
               scales: {
                 x: {
                   type: "linear",
+                  min: timeBounds.min,
+                  max: timeBounds.max,
                   ticks: {
+                    maxTicksLimit: 7,
                     color: chartMutedColor,
                     callback(value) {
                       return formatAxisTimestamp(value);
@@ -497,13 +1094,24 @@
           }
         );
 
-        renderSummary(selectedProducts);
+        if (periodDays !== null) {
+          applyPeriod(periodDays);
+        } else if (previousWindow) {
+          setChartWindow(previousWindow.min, previousWindow.max);
+        } else {
+          applyPeriod(0);
+        }
       }
 
       function renderSummary(selectedProducts) {
         const summary = document.getElementById("summary");
 
-        summary.innerHTML = "";
+        summary.replaceChildren();
+
+        if (!selectedProducts.length) {
+          summary.appendChild(element("div", "empty-state", "Select at least one product."));
+          return;
+        }
 
         const grid = document.createElement("div");
         grid.className = "summary-grid";
@@ -512,7 +1120,9 @@
           const card = document.createElement("article");
           card.className = "summary-card";
 
-          const current = product.current;
+          const current = product.current || {};
+          const stats = productStats.get(product.id);
+          card.style.setProperty("--series-color", stats.color);
           const statusClass = current.available
             ? "in-stock"
             : "out-of-stock";
@@ -531,21 +1141,42 @@
               ? `Discount: ${current.discount_percent}%`
               : "Discount unavailable";
 
-          card.innerHTML = `
-            <a href="${product.page_url}" target="_blank" rel="noreferrer">
-              <strong>${product.label}</strong>
-            </a>
-            <div class="price">${formatMoney(
-              current.price,
-              trackerData.currency
-            )}</div>
-            <div class="status ${statusClass}">${statusLabel}</div>
-            <p class="meta">${retailText}</p>
-            <p class="meta">${discountText}</p>
-            <p class="meta">Sampled: ${formatTimestamp(
-              current.timestamp
-            )}</p>
-          `;
+          const link = element("a");
+          link.href = product.page_url;
+          link.target = "_blank";
+          link.rel = "noreferrer";
+          link.appendChild(element("strong", "", product.label));
+          card.append(
+            link,
+            element("div", "price", formatMoney(current.price, trackerData.currency)),
+            element("div", `status ${statusClass}`, statusLabel)
+          );
+          if (stats.atLow) {
+            card.appendChild(element("p", "price-insight recorded-low", "At recorded low"));
+          }
+          card.appendChild(element(
+            "p",
+            "price-insight",
+            stats.lowest === null
+              ? "No in-stock price recorded yet"
+              : `Recorded low: ${formatMoney(stats.lowest, trackerData.currency)}`
+          ));
+          if (stats.change !== null) {
+            card.appendChild(element(
+              "p",
+              `price-insight ${stats.change < 0 ? "price-down" : stats.change > 0 ? "price-up" : ""}`,
+              stats.change === 0
+                ? "Unchanged since previous sample"
+                : `${stats.change < 0 ? "Down" : "Up"} ${formatMoney(
+                    Math.abs(stats.change), trackerData.currency
+                  )} since previous sample`
+            ));
+          }
+          card.append(
+            element("p", "meta", retailText),
+            element("p", "meta", discountText),
+            element("p", "meta", `Sampled: ${formatTimestamp(current.timestamp)}`)
+          );
 
           grid.appendChild(card);
         }
@@ -555,40 +1186,75 @@
 
       function renderSelector() {
         const selector = document.getElementById("product-selector");
-        selector.innerHTML = "";
+        selector.replaceChildren();
+        visibleProducts = sortProducts(
+          filterProducts(
+            trackerData?.products || [],
+            document.getElementById("product-search").value,
+            document.getElementById("product-filter").value,
+            document.getElementById("selected-only").checked
+          ),
+          document.getElementById("product-sort").value
+        );
+        document.getElementById("results-count").textContent =
+          `${visibleProducts.length} of ${trackerData?.products.length || 0} products shown; ` +
+          `${selectedIds.size} compared. Filters do not change your comparison.`;
+        document.getElementById("select-all").disabled = !visibleProducts.length;
+        document.getElementById("clear-matches").disabled = !visibleProducts.length;
+        document.getElementById("clear-all").disabled = !selectedIds.size;
 
-        if (!trackerData.products.length) {
-          selector.innerHTML =
-            '<div class="empty-state">No products are configured yet. Edit instant_gaming_products.json and let the workflow run.</div>';
-          document.getElementById("summary").innerHTML =
-            '<div class="empty-state">No product data yet.</div>';
+        if (!visibleProducts.length) {
+          selector.appendChild(element(
+            "div",
+            "empty-state",
+            trackerData?.products.length
+              ? "No matching products. Try fewer words or reset the filters."
+              : "No products are configured yet. Edit instant_gaming_products.json and let the workflow run."
+          ));
           return;
         }
 
-        for (const product of trackerData.products) {
-          const label = document.createElement("label");
-          label.className = "selector-item";
-
-          label.innerHTML = `
-            <input
-              type="checkbox"
-              value="${product.id}"
-              checked
-            />
-            <span>
-              <strong>${product.label}</strong>
-              <small>${product.title || product.canonical_url}</small>
-            </span>
-          `;
-
-          label
-            .querySelector("input")
-            .addEventListener("change", renderChart);
-
-          selector.appendChild(label);
+        for (const product of visibleProducts) {
+          const stats = productStats.get(product.id);
+          const row = element("div", "selector-item");
+          row.classList.toggle("is-selected", selectedIds.has(product.id));
+          row.style.setProperty("--series-color", stats.color);
+          const input = element("input");
+          input.type = "checkbox";
+          input.value = product.id;
+          input.id = `compare-${product.id}`;
+          input.checked = selectedIds.has(product.id);
+          const details = element("div", "selector-details");
+          const label = element("label", "selector-label");
+          label.htmlFor = input.id;
+          label.appendChild(element("strong", "", product.label));
+          const current = product.current || {};
+          const price = element(
+            "small",
+            "selector-price",
+            `${formatMoney(current.price, trackerData.currency)} - ` +
+              (current.available ? "In stock" : "Out of stock")
+          );
+          details.append(label, price);
+          if (stats.atLow) {
+            details.appendChild(element("small", "recorded-low", "At recorded low"));
+          }
+          const focus = element("button", "small-button", "Show only");
+          focus.type = "button";
+          focus.setAttribute("aria-label", `Show only ${product.label}`);
+          focus.addEventListener("click", () => compareOnly(product));
+          details.appendChild(focus);
+          input.addEventListener("change", () => {
+            if (input.checked) selectedIds.add(product.id);
+            else selectedIds.delete(product.id);
+            renderSelector();
+            renderChart();
+            (document.getElementById(input.id) ||
+              document.getElementById("selected-only")).focus();
+          });
+          row.append(input, details);
+          selector.appendChild(row);
         }
-
-        renderChart();
       }
 
       async function loadTrackerData() {
@@ -611,45 +1277,83 @@
           trackerData.products = Array.isArray(trackerData.products)
             ? trackerData.products
             : [];
+          productStats = new Map(trackerData.products.map((product, index) =>
+            [product.id, getProductStats(product, index)]
+          ));
+          selectedIds = new Set(trackerData.products.map((product) => product.id));
           renderGeneratedAt();
+          renderInsights();
           renderSelector();
+          renderChart();
         } catch (error) {
           document.getElementById("generated-at").textContent =
             "The tracker data is not available yet.";
-          document.getElementById("product-selector").innerHTML = `
-            <div class="error-state">${error.message}</div>
-          `;
+          document.getElementById("product-selector").replaceChildren(
+            element("div", "error-state", error.message)
+          );
           document.getElementById("summary").innerHTML =
             '<div class="error-state">Unable to render the latest prices.</div>';
+          for (const id of ["insight-lows", "insight-drops"]) {
+            document.getElementById(id).replaceChildren(
+              element("li", "error-state", "Unable to load price insights.")
+            );
+          }
+          document.getElementById("insight-low-count").textContent = "";
+          document.getElementById("insight-drop-count").textContent = "";
+          document.getElementById("chart-empty").hidden = false;
+          document.getElementById("chart-empty").textContent =
+            "Unable to load the price chart. Reload the page to try again.";
+          document.querySelector(".chart-wrap").hidden = true;
+          chart = null;
+          updateChartControls();
         }
       }
 
       document
         .getElementById("select-all")
         .addEventListener("click", () => {
-          document
-            .querySelectorAll(
-              '#product-selector input[type="checkbox"]'
-            )
-            .forEach((checkbox) => {
-              checkbox.checked = true;
-            });
+          visibleProducts.forEach((product) => selectedIds.add(product.id));
+          renderSelector();
           renderChart();
         });
+
+      document.getElementById("clear-matches").addEventListener("click", () => {
+        visibleProducts.forEach((product) => selectedIds.delete(product.id));
+        renderSelector();
+        renderChart();
+      });
 
       document
         .getElementById("clear-all")
         .addEventListener("click", () => {
-          document
-            .querySelectorAll(
-              '#product-selector input[type="checkbox"]'
-            )
-            .forEach((checkbox) => {
-              checkbox.checked = false;
-            });
+          selectedIds.clear();
+          renderSelector();
           renderChart();
         });
 
+      document.getElementById("product-search").addEventListener("input", renderSelector);
+      document.getElementById("product-filter").addEventListener("change", renderSelector);
+      document.getElementById("selected-only").addEventListener("change", renderSelector);
+      document.getElementById("product-sort").addEventListener("change", () => {
+        renderSelector();
+        renderSummary(getSelectedProducts());
+      });
+      document.getElementById("reset-filters").addEventListener("click", () => {
+        document.getElementById("product-search").value = "";
+        document.getElementById("product-filter").value = "all";
+        document.getElementById("selected-only").checked = false;
+        renderSelector();
+        document.getElementById("product-search").focus();
+      });
+      document.querySelectorAll("[data-days]").forEach((button) => {
+        button.addEventListener("click", () => applyPeriod(Number(button.dataset.days)));
+      });
+      document.getElementById("zoom-in").addEventListener("click", () => zoomChart(0.5));
+      document.getElementById("zoom-out").addEventListener("click", () => zoomChart(2));
+      document.getElementById("pan-back").addEventListener("click", () => panChart(-1));
+      document.getElementById("pan-forward").addEventListener("click", () => panChart(1));
+      document.getElementById("reset-zoom").addEventListener("click", () => applyPeriod(0));
+      updateChartControls();
       init();
     </script>
   </body>
