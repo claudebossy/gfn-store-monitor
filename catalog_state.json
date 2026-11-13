@@ -12264,6 +12264,12 @@
       "STEAM"
     ]
   },
+  "fracture point": {
+    "name": "Fracture Point",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "fractured core": {
     "name": "Fractured Core",
     "stores": [
@@ -15180,6 +15186,12 @@
   },
   "hovercars 3077 underground racing": {
     "name": "Hovercars 3077: Underground racing",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "how they built the pyramids": {
+    "name": "How They Built the Pyramids",
     "stores": [
       "STEAM"
     ]
@@ -18479,6 +18491,12 @@
       "STEAM"
     ]
   },
+  "main sequence": {
+    "name": "Main Sequence",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "main sequence demo": {
     "name": "Main Sequence Demo",
     "stores": [
@@ -18634,6 +18652,12 @@
   },
   "mars attracts": {
     "name": "Mars Attracts",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "mars clicker": {
+    "name": "Mars Clicker",
     "stores": [
       "STEAM"
     ]
@@ -26339,6 +26363,12 @@
   },
   "sas zombie assault 4": {
     "name": "SAS: Zombie Assault 4",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "satelital": {
+    "name": "Satelital",
     "stores": [
       "STEAM"
     ]
