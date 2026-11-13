@@ -218,6 +218,41 @@ The generated history file is stored in:
 
     site/data/instant-gaming-price-history.json
 
+### Exploring prices
+
+Use the product search to match game names, editions, or stores. Search
+ignores case, accents, and punctuation, and matches all entered words in
+any order. Filter to in-stock products, recorded lows, or recent price
+drops, and sort products and price cards by name, price, discount, or
+price change.
+
+Filters only change the product list, not the games already compared.
+Use **Select matches** or **Clear matches** to change the comparison for
+the current results, **Clear all** to start fresh, or **Show only** to
+focus on one game. **Compared products only** helps manage a large
+selection. Colors stay consistent when changing the comparison.
+
+The chart offers 7-, 30-, and 90-day views ending at the latest selected
+sample. Drag over a time interval to zoom, Ctrl + scroll or pinch to
+zoom, and Shift + drag to pan. Zoom and Earlier/Later buttons also work
+with keyboard or touch. **Reset zoom** restores all history for the
+compared products. For large comparisons, the chart legend is hidden;
+use the product checkboxes to manage the lines.
+
+Price cards show the lowest recorded in-stock price across all history
+and the change from the previous sample. Recorded lows are sampled
+prices, not a guarantee of the store's all-time low.
+
+The **Price insights** section highlights in-stock products at their
+recorded low and products whose latest price dropped since the previous
+sample. It always includes all tracked products, independent of filters
+and comparisons. Lows are ordered by current price; drops by the size
+of the price decrease. **View history** focuses the chart on that game
+and restores its full history.
+
+UI regression checks use Node.js 18 or newer and its built-in test
+runner: `node --test`.
+
 The repository also builds a second static catalog page showing the
 overlap between the GeForce NOW catalog and Xbox Game Pass Ultimate, along
 with cached HowLongToBeat main-story durations and OpenCritic scores
