@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T22:47:59+00:00",
+  "generated_at": "2026-11-14T06:41:18+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,11 +13,11 @@
     }
   },
   "counts": {
-    "gfn_titles": 6294,
-    "xbox_game_pass_titles": 912,
-    "catalog_titles": 694,
+    "gfn_titles": 6296,
+    "xbox_game_pass_titles": 911,
+    "catalog_titles": 693,
     "intersection_titles": 401,
-    "xbox_only_titles": 293
+    "xbox_only_titles": 292
   },
   "summary": {
     "store_counts": {
@@ -40,7 +40,7 @@
       },
       {
         "name": "Xbox Game Studios",
-        "count": 62
+        "count": 61
       },
       {
         "name": "Ubisoft",
@@ -85,10 +85,10 @@
     ],
     "gfn_xbox_store_matches": 198,
     "intersection_titles": 401,
-    "xbox_only_titles": 293,
+    "xbox_only_titles": 292,
     "hltb_matches": 498,
     "opencritic_matches": 566,
-    "short_game_score_matches": 362,
+    "short_game_score_matches": 363,
     "exact_matches": 370,
     "partial_matches": 31
   },
@@ -461,27 +461,6 @@
         "main_story_hours": 9.1,
         "target_hours": 15.0
       }
-    },
-    {
-      "catalog_group": "xbox-only",
-      "is_on_gfn": false,
-      "title": "Adam Fenix Character Skin",
-      "normalized_title": "adam fenix character skin",
-      "gfn_stores": [],
-      "gfn_has_xbox_store": false,
-      "xbox_title": "Adam Fenix Character Skin",
-      "xbox_product_id": "9PHS1KPJKB6C",
-      "xbox_url": "https://www.microsoft.com/store/productId/9PHS1KPJKB6C",
-      "publisher": "Xbox Game Studios",
-      "developer": "The Coalition",
-      "release_date": "9998-12-30T00:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.27522.14230322659994520.47eeeb13-cd04-45ac-9c27-52c7295445e6.b9f50b80-a29a-461e-a0f3-99dac7fbea08",
-      "description": null,
-      "match_type": "xbox-only",
-      "match_score": 0,
-      "howlongtobeat": null,
-      "opencritic": null,
-      "short_game_score": null
     },
     {
       "catalog_group": "xbox-only",
@@ -4303,13 +4282,13 @@
         "game_id": 183763,
         "url": "https://howlongtobeat.com/game/183763",
         "image_url": "https://howlongtobeat.com/games/183763_Blueys_Happy_Snaps.jpg",
-        "main_story_seconds": null,
-        "review_score": null,
-        "completion_count": null,
+        "main_story_seconds": 13050,
+        "review_score": 70,
+        "completion_count": 7,
         "release_year": 2026,
         "profile_platform": "Nintendo Switch, Nintendo Switch 2, PC, PlayStation 4, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 137,
+        "match_score": 139,
         "genres": [
           "Adventure"
         ]
@@ -4318,16 +4297,22 @@
         "title": "Bluey's Happy Snaps",
         "game_id": 21390,
         "url": "https://opencritic.com/game/21390/blueys-happy-snaps",
-        "top_critic_score": 80.2,
-        "percent_recommended": 83.3,
+        "top_critic_score": 79.6,
+        "percent_recommended": 94.4,
         "tier": "Strong",
-        "median_score": null,
-        "review_count": 6,
+        "median_score": 80,
+        "review_count": 18,
         "release_year": 2026,
         "match_type": "exact",
         "match_score": 147
       },
-      "short_game_score": null
+      "short_game_score": {
+        "score": 85.7,
+        "critic_score": 79.6,
+        "duration_fit_score": 100.0,
+        "main_story_hours": 3.6,
+        "target_hours": 15.0
+      }
     },
     {
       "catalog_group": "xbox-only",
@@ -17048,9 +17033,9 @@
         "game_id": 5698,
         "url": "https://howlongtobeat.com/game/5698",
         "image_url": "https://howlongtobeat.com/games/Mass_Effect_poster.jpg",
-        "main_story_seconds": 61271,
+        "main_story_seconds": 61283,
         "review_score": 84,
-        "completion_count": 14843,
+        "completion_count": 14875,
         "release_year": 2007,
         "profile_platform": "PC, PlayStation 3, PlayStation 4, Xbox 360, Xbox One",
         "match_type": "exact",
@@ -17591,13 +17576,13 @@
         "game_id": 5777,
         "url": "https://howlongtobeat.com/game/5777",
         "image_url": "https://howlongtobeat.com/games/5777_Medal_of_Honor_Airborne.jpg",
-        "main_story_seconds": 19860,
+        "main_story_seconds": 19794,
         "review_score": 68,
-        "completion_count": 1127,
+        "completion_count": 1134,
         "release_year": 2007,
         "profile_platform": "Mobile, PC, PlayStation 2, PlayStation 3, Wii, Xbox, Xbox 360",
         "match_type": "exact",
-        "match_score": 130,
+        "match_score": 128,
         "genres": [
           "First-Person",
           "Shooter"
@@ -20131,9 +20116,9 @@
         "game_id": 6947,
         "url": "https://howlongtobeat.com/game/6947",
         "image_url": "https://howlongtobeat.com/games/6947_Peggle_Deluxe.jpg",
-        "main_story_seconds": 14766,
+        "main_story_seconds": 14770,
         "review_score": 76,
-        "completion_count": 1979,
+        "completion_count": 2001,
         "release_year": 2007,
         "profile_platform": "Mac, Mobile, Nintendo DS, PC, PlayStation 3, PlayStation Portable, Xbox 360",
         "match_type": "exact",
@@ -21317,9 +21302,9 @@
         "game_id": 7372,
         "url": "https://howlongtobeat.com/game/7372",
         "image_url": "https://howlongtobeat.com/games/Psychonautsbox.png",
-        "main_story_seconds": 43222,
+        "main_story_seconds": 43223,
         "review_score": 81,
-        "completion_count": 6364,
+        "completion_count": 6389,
         "release_year": 2005,
         "profile_platform": "Linux, Mac, PC, PlayStation 2, PlayStation 4, Xbox",
         "match_type": "exact",

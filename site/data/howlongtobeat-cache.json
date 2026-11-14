@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T22:48:12+00:00",
+  "updated_at": "2026-11-14T06:41:36+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -5109,15 +5109,15 @@
     "mass effect": {
       "title": "Mass Effect",
       "status": "matched",
-      "fetched_at": "2026-10-15T04:51:21+00:00",
+      "fetched_at": "2026-11-14T06:41:31+00:00",
       "data": {
         "title": "Mass Effect",
         "game_id": 5698,
         "url": "https://howlongtobeat.com/game/5698",
         "image_url": "https://howlongtobeat.com/games/Mass_Effect_poster.jpg",
-        "main_story_seconds": 61271,
+        "main_story_seconds": 61283,
         "review_score": 84,
-        "completion_count": 14843,
+        "completion_count": 14875,
         "release_year": 2007,
         "profile_platform": "PC, PlayStation 3, PlayStation 4, Xbox 360, Xbox One",
         "match_type": "exact",
@@ -5229,19 +5229,19 @@
     "medal of honor airborne": {
       "title": "Medal of Honor Airborne",
       "status": "matched",
-      "fetched_at": "2026-10-15T04:51:24+00:00",
+      "fetched_at": "2026-11-14T06:41:32+00:00",
       "data": {
         "title": "Medal of Honor: Airborne",
         "game_id": 5777,
         "url": "https://howlongtobeat.com/game/5777",
         "image_url": "https://howlongtobeat.com/games/5777_Medal_of_Honor_Airborne.jpg",
-        "main_story_seconds": 19860,
+        "main_story_seconds": 19794,
         "review_score": 68,
-        "completion_count": 1127,
+        "completion_count": 1134,
         "release_year": 2007,
         "profile_platform": "Mobile, PC, PlayStation 2, PlayStation 3, Wii, Xbox, Xbox 360",
         "match_type": "exact",
-        "match_score": 130,
+        "match_score": 128,
         "genres": [
           "First-Person",
           "Shooter"
@@ -6044,15 +6044,15 @@
     "peggle": {
       "title": "Peggle",
       "status": "matched",
-      "fetched_at": "2026-10-15T04:51:34+00:00",
+      "fetched_at": "2026-11-14T06:41:33+00:00",
       "data": {
         "title": "Peggle",
         "game_id": 6947,
         "url": "https://howlongtobeat.com/game/6947",
         "image_url": "https://howlongtobeat.com/games/6947_Peggle_Deluxe.jpg",
-        "main_story_seconds": 14766,
+        "main_story_seconds": 14770,
         "review_score": 76,
-        "completion_count": 1979,
+        "completion_count": 2001,
         "release_year": 2007,
         "profile_platform": "Mac, Mobile, Nintendo DS, PC, PlayStation 3, PlayStation Portable, Xbox 360",
         "match_type": "exact",
@@ -6371,15 +6371,15 @@
     "psychonauts": {
       "title": "Psychonauts™",
       "status": "matched",
-      "fetched_at": "2026-10-15T04:51:39+00:00",
+      "fetched_at": "2026-11-14T06:41:34+00:00",
       "data": {
         "title": "Psychonauts",
         "game_id": 7372,
         "url": "https://howlongtobeat.com/game/7372",
         "image_url": "https://howlongtobeat.com/games/Psychonautsbox.png",
-        "main_story_seconds": 43222,
+        "main_story_seconds": 43223,
         "review_score": 81,
-        "completion_count": 6364,
+        "completion_count": 6389,
         "release_year": 2005,
         "profile_platform": "Linux, Mac, PC, PlayStation 2, PlayStation 4, Xbox",
         "match_type": "exact",
@@ -12788,19 +12788,19 @@
     "bluey s happy snaps": {
       "title": "Bluey's Happy Snaps",
       "status": "matched",
-      "fetched_at": "2026-10-15T04:51:03+00:00",
+      "fetched_at": "2026-11-14T06:41:29+00:00",
       "data": {
         "title": "Bluey's Happy Snaps",
         "game_id": 183763,
         "url": "https://howlongtobeat.com/game/183763",
         "image_url": "https://howlongtobeat.com/games/183763_Blueys_Happy_Snaps.jpg",
-        "main_story_seconds": null,
-        "review_score": null,
-        "completion_count": null,
+        "main_story_seconds": 13050,
+        "review_score": 70,
+        "completion_count": 7,
         "release_year": 2026,
         "profile_platform": "Nintendo Switch, Nintendo Switch 2, PC, PlayStation 4, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 137,
+        "match_score": 139,
         "genres": [
           "Adventure"
         ]
