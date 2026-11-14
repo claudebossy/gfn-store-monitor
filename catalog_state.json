@@ -29907,6 +29907,18 @@
       "STEAM"
     ]
   },
+  "stormforge": {
+    "name": "Stormforge",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "stormforge demo": {
+    "name": "Stormforge Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "stormgate": {
     "name": "Stormgate",
     "stores": [

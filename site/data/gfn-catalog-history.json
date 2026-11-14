@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T19:39:16+00:00",
+  "generated_at": "2026-11-14T06:18:03+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -6835,6 +6835,28 @@
         },
         {
           "name": "Satelital",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
+      "new_stores": []
+    },
+    {
+      "timestamp": "2026-11-14T06:18:03+00:00",
+      "baseline": false,
+      "catalog_game_count": 6296,
+      "new_game_count": 2,
+      "new_store_count": 0,
+      "new_games": [
+        {
+          "name": "Stormforge",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Stormforge Demo",
           "stores": [
             "STEAM"
           ]
