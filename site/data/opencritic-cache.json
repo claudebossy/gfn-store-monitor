@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T06:49:00+00:00",
+  "updated_at": "2026-11-15T18:58:14+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -8932,16 +8932,16 @@
     "aniimo": {
       "title": "Aniimo",
       "status": "matched",
-      "fetched_at": "2026-10-16T11:35:11+00:00",
+      "fetched_at": "2026-11-15T18:57:35+00:00",
       "data": {
         "title": "Aniimo",
         "game_id": 21267,
         "url": "https://opencritic.com/game/21267/aniimo",
         "top_critic_score": 79.7,
-        "percent_recommended": 83.3,
+        "percent_recommended": 84.6,
         "tier": "Strong",
-        "median_score": null,
-        "review_count": 12,
+        "median_score": 80,
+        "review_count": 13,
         "release_year": 2026,
         "match_type": "exact",
         "match_score": 135

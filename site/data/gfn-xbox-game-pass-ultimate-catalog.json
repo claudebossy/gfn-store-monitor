@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T06:46:53+00:00",
+  "generated_at": "2026-11-15T18:57:22+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,7 +13,7 @@
     }
   },
   "counts": {
-    "gfn_titles": 6296,
+    "gfn_titles": 6297,
     "xbox_game_pass_titles": 911,
     "catalog_titles": 693,
     "intersection_titles": 401,
@@ -1088,9 +1088,9 @@
         "game_id": 169429,
         "url": "https://howlongtobeat.com/game/169429",
         "image_url": "https://howlongtobeat.com/games/169429_Aniimo.jpg",
-        "main_story_seconds": 65762,
-        "review_score": 70,
-        "completion_count": 17,
+        "main_story_seconds": 76264,
+        "review_score": 72,
+        "completion_count": 29,
         "release_year": 2026,
         "profile_platform": "Mobile, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
@@ -1106,19 +1106,19 @@
         "game_id": 21267,
         "url": "https://opencritic.com/game/21267/aniimo",
         "top_critic_score": 79.7,
-        "percent_recommended": 83.3,
+        "percent_recommended": 84.6,
         "tier": "Strong",
-        "median_score": null,
-        "review_count": 12,
+        "median_score": 80,
+        "review_count": 13,
         "release_year": 2026,
         "match_type": "exact",
         "match_score": 135
       },
       "short_game_score": {
-        "score": 82.9,
+        "score": 79.8,
         "critic_score": 79.7,
-        "duration_fit_score": 90.4,
-        "main_story_hours": 18.3,
+        "duration_fit_score": 79.9,
+        "main_story_hours": 21.2,
         "target_hours": 15.0
       }
     },
