@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T06:24:04+00:00",
+  "generated_at": "2026-11-16T21:58:54+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -6934,6 +6934,88 @@
         },
         {
           "name": "Zombies Aren't Real",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
+      "new_stores": []
+    },
+    {
+      "timestamp": "2026-11-16T21:58:54+00:00",
+      "baseline": false,
+      "catalog_game_count": 6313,
+      "new_game_count": 12,
+      "new_store_count": 0,
+      "new_games": [
+        {
+          "name": "All Army Attack Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "CRACK",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "DAMex : DArk Matter Exodus",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Extinction Cycle",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Go Next!",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Powder Park: Ski Resort Builder",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Recess of the Dead",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Shatter",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "StoneEra",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "The Coin Keeper : Tidy up !",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "The Tower Must Fall",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "The Trivia Show",
           "stores": [
             "STEAM"
           ]

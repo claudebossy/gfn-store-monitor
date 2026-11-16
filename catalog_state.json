@@ -1217,6 +1217,12 @@
       "STEAM"
     ]
   },
+  "all army attack demo": {
+    "name": "All Army Attack Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "all quiet in the trenches": {
     "name": "All Quiet in the Trenches",
     "stores": [
@@ -6702,6 +6708,12 @@
       "STEAM"
     ]
   },
+  "crack": {
+    "name": "CRACK",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "crash bandicoot 4 it s about time": {
     "name": "Crash Bandicoot™ 4: It's About Time",
     "stores": [
@@ -7322,6 +7334,12 @@
   },
   "damascus gear operation tokyo hd": {
     "name": "Damascus Gear Operation Tokyo HD",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "damex dark matter exodus": {
+    "name": "DAMex : DArk Matter Exodus",
     "stores": [
       "STEAM"
     ]
@@ -11014,6 +11032,12 @@
       "STEAM"
     ]
   },
+  "extinction cycle": {
+    "name": "Extinction Cycle",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "extreme exorcism": {
     "name": "Extreme Exorcism",
     "stores": [
@@ -13036,6 +13060,12 @@
   },
   "go mecha ball": {
     "name": "Go Mecha Ball",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "go next": {
+    "name": "Go Next!",
     "stores": [
       "STEAM"
     ]
@@ -23517,6 +23547,12 @@
       "STEAM"
     ]
   },
+  "powder park ski resort builder": {
+    "name": "Powder Park: Ski Resort Builder",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "power of seasons": {
     "name": "Power Of Seasons",
     "stores": [
@@ -24743,6 +24779,12 @@
   },
   "receiver 2": {
     "name": "Receiver 2",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "recess of the dead": {
+    "name": "Recess of the Dead",
     "stores": [
       "STEAM"
     ]
@@ -27141,6 +27183,12 @@
   },
   "shapez 2 factory": {
     "name": "shapez 2 - Factory",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "shatter": {
+    "name": "Shatter",
     "stores": [
       "STEAM"
     ]
@@ -29871,6 +29919,12 @@
       "XBOX"
     ]
   },
+  "stoneera": {
+    "name": "StoneEra",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "stonemachia": {
     "name": "Stonemachia",
     "stores": [
@@ -31893,6 +31947,12 @@
       "STEAM"
     ]
   },
+  "the coin keeper tidy up": {
+    "name": "The Coin Keeper : Tidy up !",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "the colonists": {
     "name": "The Colonists",
     "stores": [
@@ -33553,6 +33613,12 @@
       "STEAM"
     ]
   },
+  "the tower must fall": {
+    "name": "The Tower Must Fall",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "the town of light": {
     "name": "The Town of Light",
     "stores": [
@@ -33567,6 +33633,12 @@
   },
   "the tree": {
     "name": "The Tree",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "the trivia show": {
+    "name": "The Trivia Show",
     "stores": [
       "STEAM"
     ]
