@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T18:57:22+00:00",
+  "generated_at": "2026-11-16T06:45:24+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,7 +13,7 @@
     }
   },
   "counts": {
-    "gfn_titles": 6297,
+    "gfn_titles": 6301,
     "xbox_game_pass_titles": 911,
     "catalog_titles": 693,
     "intersection_titles": 401,
@@ -3860,12 +3860,12 @@
         "url": "https://howlongtobeat.com/game/150549",
         "image_url": "https://howlongtobeat.com/games/150549_Beyond_These_Stars.jpg",
         "main_story_seconds": null,
-        "review_score": null,
+        "review_score": 50,
         "completion_count": null,
         "release_year": 2025,
         "profile_platform": "PC",
         "match_type": "exact",
-        "match_score": 131,
+        "match_score": 133,
         "genres": [
           "Simulation",
           "Strategy/Tactical"
@@ -3876,10 +3876,10 @@
         "game_id": 21537,
         "url": "https://opencritic.com/game/21537/beyond-these-stars",
         "top_critic_score": null,
-        "percent_recommended": null,
+        "percent_recommended": 100.0,
         "tier": null,
         "median_score": null,
-        "review_count": 4,
+        "review_count": 5,
         "release_year": 2026,
         "match_type": "exact",
         "match_score": 147
