@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T18:49:15+00:00",
+  "generated_at": "2026-11-16T06:24:04+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -6900,6 +6900,40 @@
       "new_games": [
         {
           "name": "DreamWorks Shrek 2 Remastered",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
+      "new_stores": []
+    },
+    {
+      "timestamp": "2026-11-16T06:24:04+00:00",
+      "baseline": false,
+      "catalog_game_count": 6301,
+      "new_game_count": 4,
+      "new_store_count": 0,
+      "new_games": [
+        {
+          "name": "Death at Fleming Manor",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Hood Warfare 2",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Wrath and Retribution Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Zombies Aren't Real",
           "stores": [
             "STEAM"
           ]

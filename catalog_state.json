@@ -7844,6 +7844,12 @@
       "STEAM"
     ]
   },
+  "death at fleming manor": {
+    "name": "Death at Fleming Manor",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "death from above a ukrainian drone warstory": {
     "name": "Death From Above: A Ukrainian Drone Warstory",
     "stores": [
@@ -14992,6 +14998,12 @@
     "name": "Honkai: Star Rail",
     "stores": [
       "UNKNOWN"
+    ]
+  },
+  "hood warfare 2": {
+    "name": "Hood Warfare 2",
+    "stores": [
+      "STEAM"
     ]
   },
   "hop step sing astral piece": {
@@ -37921,6 +37933,12 @@
       "STEAM"
     ]
   },
+  "wrath and retribution demo": {
+    "name": "Wrath and Retribution Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "wrc 10 fia world rally championship": {
     "name": "WRC 10 FIA World Rally Championship",
     "stores": [
@@ -38621,6 +38639,12 @@
   },
   "zombie pinball": {
     "name": "Zombie Pinball",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "zombies aren t real": {
+    "name": "Zombies Aren't Real",
     "stores": [
       "STEAM"
     ]
