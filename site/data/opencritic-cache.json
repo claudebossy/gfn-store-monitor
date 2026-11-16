@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T06:45:37+00:00",
+  "updated_at": "2026-11-16T22:17:51+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -8950,7 +8950,7 @@
     "shape of dreams": {
       "title": "Shape of Dreams",
       "status": "matched",
-      "fetched_at": "2026-10-17T15:43:02+00:00",
+      "fetched_at": "2026-11-16T22:17:50+00:00",
       "data": {
         "title": "Shape of Dreams",
         "game_id": 19269,
@@ -11736,6 +11736,24 @@
       "status": "not_found",
       "fetched_at": "2026-11-13T22:48:11+00:00",
       "data": null
+    },
+    "crack": {
+      "title": "CRACK",
+      "status": "matched",
+      "fetched_at": "2026-11-16T22:17:48+00:00",
+      "data": {
+        "title": "Crackdown 3",
+        "game_id": 1515,
+        "url": "https://opencritic.com/game/1515/crackdown-3",
+        "top_critic_score": 62.7,
+        "percent_recommended": 18.3,
+        "tier": "Weak",
+        "median_score": 60,
+        "review_count": 124,
+        "release_year": 2019,
+        "match_type": "exact",
+        "match_score": 144
+      }
     }
   }
 }

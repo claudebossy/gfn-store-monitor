@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T06:45:37+00:00",
+  "updated_at": "2026-11-16T22:17:51+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -9965,15 +9965,15 @@
     "shape of dreams": {
       "title": "Shape of Dreams",
       "status": "matched",
-      "fetched_at": "2026-10-17T15:43:01+00:00",
+      "fetched_at": "2026-11-16T22:17:49+00:00",
       "data": {
         "title": "Shape of Dreams",
         "game_id": 161771,
         "url": "https://howlongtobeat.com/game/161771",
         "image_url": "https://howlongtobeat.com/games/161771_Shape_of_Dreams.jpg",
-        "main_story_seconds": 29846,
+        "main_story_seconds": 29944,
         "review_score": 77,
-        "completion_count": 103,
+        "completion_count": 108,
         "release_year": 2025,
         "profile_platform": "Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
@@ -9988,19 +9988,19 @@
     "kernel hearts": {
       "title": "Kernel Hearts",
       "status": "matched",
-      "fetched_at": "2026-10-17T20:43:29+00:00",
+      "fetched_at": "2026-11-16T22:17:48+00:00",
       "data": {
         "title": "Kernel Hearts",
         "game_id": 157653,
         "url": "https://howlongtobeat.com/game/157653",
         "image_url": "https://howlongtobeat.com/games/157653_Kernel_Hearts.jpg",
-        "main_story_seconds": null,
-        "review_score": 30,
-        "completion_count": null,
+        "main_story_seconds": 45180,
+        "review_score": 55,
+        "completion_count": 3,
         "release_year": 2026,
         "profile_platform": "Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 141,
+        "match_score": 139,
         "genres": [
           "Action",
           "Roguelike",
@@ -13203,6 +13203,29 @@
       "status": "not_found",
       "fetched_at": "2026-11-13T22:48:10+00:00",
       "data": null
+    },
+    "crack": {
+      "title": "CRACK",
+      "status": "matched",
+      "fetched_at": "2026-11-16T22:17:46+00:00",
+      "data": {
+        "title": "Crackdown 3",
+        "game_id": 38828,
+        "url": "https://howlongtobeat.com/game/38828",
+        "image_url": "https://howlongtobeat.com/games/38828_Crackdown_3.jpg",
+        "main_story_seconds": 25104,
+        "review_score": 63,
+        "completion_count": 535,
+        "release_year": 2019,
+        "profile_platform": "PC, Xbox One",
+        "match_type": "exact",
+        "match_score": 139,
+        "genres": [
+          "Third-Person",
+          "Action",
+          "Adventure"
+        ]
+      }
     }
   }
 }

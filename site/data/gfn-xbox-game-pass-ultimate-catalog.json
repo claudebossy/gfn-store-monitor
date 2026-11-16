@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T06:45:24+00:00",
+  "generated_at": "2026-11-16T22:17:37+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,17 +13,17 @@
     }
   },
   "counts": {
-    "gfn_titles": 6301,
-    "xbox_game_pass_titles": 911,
-    "catalog_titles": 693,
-    "intersection_titles": 401,
-    "xbox_only_titles": 292
+    "gfn_titles": 6313,
+    "xbox_game_pass_titles": 898,
+    "catalog_titles": 682,
+    "intersection_titles": 395,
+    "xbox_only_titles": 287
   },
   "summary": {
     "store_counts": {
-      "STEAM": 360,
-      "XBOX": 198,
-      "EPIC": 75,
+      "STEAM": 355,
+      "XBOX": 195,
+      "EPIC": 73,
       "UPLAY": 65,
       "BATTLENET": 21,
       "EA_APP": 17,
@@ -83,72 +83,16 @@
         "count": 7
       }
     ],
-    "gfn_xbox_store_matches": 198,
-    "intersection_titles": 401,
-    "xbox_only_titles": 292,
-    "hltb_matches": 498,
-    "opencritic_matches": 566,
-    "short_game_score_matches": 363,
-    "exact_matches": 370,
-    "partial_matches": 31
+    "gfn_xbox_store_matches": 195,
+    "intersection_titles": 395,
+    "xbox_only_titles": 287,
+    "hltb_matches": 488,
+    "opencritic_matches": 557,
+    "short_game_score_matches": 356,
+    "exact_matches": 363,
+    "partial_matches": 32
   },
   "games": [
-    {
-      "catalog_group": "intersection",
-      "is_on_gfn": true,
-      "title": "1000xRESIST",
-      "normalized_title": "1000xresist",
-      "gfn_stores": [
-        "STEAM"
-      ],
-      "gfn_has_xbox_store": false,
-      "xbox_title": "1000xRESIST",
-      "xbox_product_id": "9NPDN9R45JX4",
-      "xbox_url": "https://www.microsoft.com/store/productId/9NPDN9R45JX4",
-      "publisher": "Fellow Traveller",
-      "developer": "sunset visitor 斜陽過客",
-      "release_date": "2025-11-04T16:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.26170.13724740810259939.b66dd818-9d75-4097-b510-7e4f8f43131a.ae40357e-1af2-40ef-8179-06b7546b3e9e",
-      "description": "1000xRESIST is a thrilling sci-fi adventure. The year is unknown, and a disease spread by an alien invasion keeps you underground. You are Watcher. You dutifully fulfil your purpose in serving the ALLMOTHER, until the day you discover a shocking secret that changes everything.",
-      "match_type": "exact-title",
-      "match_score": 120,
-      "howlongtobeat": {
-        "title": "1000xRESIST",
-        "game_id": 143595,
-        "url": "https://howlongtobeat.com/game/143595",
-        "image_url": "https://howlongtobeat.com/games/143595_1000xRESIST.jpg",
-        "main_story_seconds": 38801,
-        "review_score": 84,
-        "completion_count": 1241,
-        "release_year": 2024,
-        "profile_platform": "Nintendo Switch, Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
-        "match_type": "exact",
-        "match_score": 136,
-        "genres": [
-          "Adventure"
-        ]
-      },
-      "opencritic": {
-        "title": "1000xRESIST",
-        "game_id": 16723,
-        "url": "https://opencritic.com/game/16723/1000xresist",
-        "top_critic_score": 89.3,
-        "percent_recommended": 97.1,
-        "tier": "Mighty",
-        "median_score": 90,
-        "review_count": 35,
-        "release_year": 2024,
-        "match_type": "exact",
-        "match_score": 142
-      },
-      "short_game_score": {
-        "score": 92.5,
-        "critic_score": 89.3,
-        "duration_fit_score": 100.0,
-        "main_story_hours": 10.8,
-        "target_hours": 15.0
-      }
-    },
     {
       "catalog_group": "xbox-only",
       "is_on_gfn": false,
@@ -3163,27 +3107,6 @@
       "short_game_score": null
     },
     {
-      "catalog_group": "xbox-only",
-      "is_on_gfn": false,
-      "title": "Barbie™ Horse Trails",
-      "normalized_title": "barbie horse trails",
-      "gfn_stores": [],
-      "gfn_has_xbox_store": false,
-      "xbox_title": "Barbie™ Horse Trails",
-      "xbox_product_id": "9N21ZCV0JW6V",
-      "xbox_url": "https://www.microsoft.com/store/productId/9N21ZCV0JW6V",
-      "publisher": "Outright Games Ltd.",
-      "developer": "PHL Collective",
-      "release_date": "2025-10-09T22:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.39979.13960600887743581.ba328299-e217-4554-95d0-597345e02b27.5252ec75-2560-488a-996b-973e831ae354",
-      "description": "There’s plenty to unlock and discover in Canterbury Trails Park. Ride along as Barbie™, and Barbie with your horse, Lucky on this wild adventure.",
-      "match_type": "xbox-only",
-      "match_score": 0,
-      "howlongtobeat": null,
-      "opencritic": null,
-      "short_game_score": null
-    },
-    {
       "catalog_group": "intersection",
       "is_on_gfn": true,
       "title": "Batman™: Arkham Knight",
@@ -6129,11 +6052,13 @@
       }
     },
     {
-      "catalog_group": "xbox-only",
-      "is_on_gfn": false,
-      "title": "Crackdown 3",
-      "normalized_title": "crackdown 3",
-      "gfn_stores": [],
+      "catalog_group": "intersection",
+      "is_on_gfn": true,
+      "title": "CRACK",
+      "normalized_title": "crack",
+      "gfn_stores": [
+        "STEAM"
+      ],
       "gfn_has_xbox_store": false,
       "xbox_title": "Crackdown 3",
       "xbox_product_id": "9NXR6469DM2P",
@@ -6143,8 +6068,8 @@
       "release_date": "2019-02-14T23:00:00.0000000Z",
       "image_url": "https://store-images.s-microsoft.com/image/apps.63949.14494915233617130.8bc2d647-9563-4ed3-9081-f4a771cfa3a6.6504c19a-15a5-40a6-9231-343598749956",
       "description": "Time to step up your boom to stop crime as a super-powered Agent in Crackdown 3’s sandbox of mayhem and destruction.",
-      "match_type": "xbox-only",
-      "match_score": 0,
+      "match_type": "partial",
+      "match_score": 85,
       "howlongtobeat": {
         "title": "Crackdown 3",
         "game_id": 38828,
@@ -6152,11 +6077,11 @@
         "image_url": "https://howlongtobeat.com/games/38828_Crackdown_3.jpg",
         "main_story_seconds": 25104,
         "review_score": 63,
-        "completion_count": 534,
+        "completion_count": 535,
         "release_year": 2019,
         "profile_platform": "PC, Xbox One",
         "match_type": "exact",
-        "match_score": 138,
+        "match_score": 139,
         "genres": [
           "Third-Person",
           "Action",
@@ -6174,7 +6099,7 @@
         "review_count": 124,
         "release_year": 2019,
         "match_type": "exact",
-        "match_score": 153
+        "match_score": 144
       },
       "short_game_score": {
         "score": 73.9,
@@ -8521,63 +8446,6 @@
         "match_score": 154
       },
       "short_game_score": null
-    },
-    {
-      "catalog_group": "xbox-only",
-      "is_on_gfn": false,
-      "title": "DRAGON BALL XENOVERSE 2",
-      "normalized_title": "dragon ball xenoverse 2",
-      "gfn_stores": [],
-      "gfn_has_xbox_store": false,
-      "xbox_title": "DRAGON BALL XENOVERSE 2",
-      "xbox_product_id": "BX03760D0QGN",
-      "xbox_url": "https://www.microsoft.com/store/productId/BX03760D0QGN",
-      "publisher": "BANDAI NAMCO Entertainment",
-      "developer": "Dimps Corporation",
-      "release_date": "2016-10-28T00:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.62319.63336639312113079.ceb7d6d9-5c03-4721-ab3f-09019902f961.7561068e-671a-45c8-8ec0-f01c0a1ad1d1",
-      "description": "Dragon Ball Xenoverse 2 is the ultimate Dragon Ball gaming experience, packed with thrilling action, epic battles, and endless customization options. Create your own character, explore Conton City and team up with iconic characters from the series as a teacher to train and be ready to battle against formidable enemies to rescue the flow of History!",
-      "match_type": "xbox-only",
-      "match_score": 0,
-      "howlongtobeat": {
-        "title": "Dragon Ball Xenoverse 2",
-        "game_id": 40860,
-        "url": "https://howlongtobeat.com/game/40860",
-        "image_url": "https://howlongtobeat.com/games/40860_Dragon_Ball_Xenoverse_2.jpg",
-        "main_story_seconds": 70277,
-        "review_score": 75,
-        "completion_count": 1928,
-        "release_year": 2016,
-        "profile_platform": "Google Stadia, Nintendo Switch, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
-        "match_type": "exact",
-        "match_score": 142,
-        "genres": [
-          "Third-Person",
-          "Real-Time",
-          "Action",
-          "Fighting"
-        ]
-      },
-      "opencritic": {
-        "title": "Dragon Ball Xenoverse 2",
-        "game_id": 3170,
-        "url": "https://opencritic.com/game/3170/dragon-ball-xenoverse-2",
-        "top_critic_score": 73.5,
-        "percent_recommended": 42.9,
-        "tier": "Fair",
-        "median_score": 75,
-        "review_count": 84,
-        "release_year": 2016,
-        "match_type": "exact",
-        "match_score": 151
-      },
-      "short_game_score": {
-        "score": 77.2,
-        "critic_score": 73.5,
-        "duration_fit_score": 86.0,
-        "main_story_hours": 19.5,
-        "target_hours": 15.0
-      }
     },
     {
       "catalog_group": "xbox-only",
@@ -11311,58 +11179,6 @@
     {
       "catalog_group": "intersection",
       "is_on_gfn": true,
-      "title": "Firefighting Simulator - The Squad",
-      "normalized_title": "firefighting simulator the squad",
-      "gfn_stores": [
-        "STEAM",
-        "XBOX"
-      ],
-      "gfn_has_xbox_store": true,
-      "xbox_title": "Firefighting Simulator - The Squad",
-      "xbox_product_id": "9NBZ7Z3JRXQ8",
-      "xbox_url": "https://www.microsoft.com/store/productId/9NBZ7Z3JRXQ8",
-      "publisher": "astragon Entertainment",
-      "developer": "Chronos Unterhaltungssoftware UG",
-      "release_date": "2022-12-06T08:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.36834.13574093128038227.7f017f9d-a7e7-46d3-ac09-ad5cece1a687.e9f79767-126c-43b3-8f1b-8f1a1a8f91f4",
-      "description": "Fire alert incoming! With Firefighting Simulator-The Squad, you can become part of a major US city's firefighting team and experience how it feels to fight fires.",
-      "match_type": "exact-title",
-      "match_score": 120,
-      "howlongtobeat": {
-        "title": "Firefighting Simulator - The Squad",
-        "game_id": 85410,
-        "url": "https://howlongtobeat.com/game/85410",
-        "image_url": "https://howlongtobeat.com/games/85410_Firefighting_Simulator_-_The_Squad.jpg",
-        "main_story_seconds": 43938,
-        "review_score": 58,
-        "completion_count": 30,
-        "release_year": 2020,
-        "profile_platform": "Nintendo Switch, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
-        "match_type": "exact",
-        "match_score": 127,
-        "genres": [
-          "Action",
-          "Simulation"
-        ]
-      },
-      "opencritic": {
-        "title": "Firefighting Simulator - The Squad",
-        "game_id": 14209,
-        "url": "https://opencritic.com/game/14209/firefighting-simulator-the-squad",
-        "top_critic_score": null,
-        "percent_recommended": 50.0,
-        "tier": null,
-        "median_score": 59,
-        "review_count": 6,
-        "release_year": 2020,
-        "match_type": "exact",
-        "match_score": 135
-      },
-      "short_game_score": null
-    },
-    {
-      "catalog_group": "intersection",
-      "is_on_gfn": true,
       "title": "FixForce",
       "normalized_title": "fixforce",
       "gfn_stores": [
@@ -11477,7 +11293,7 @@
       "developer": "Sports Interactive",
       "release_date": "2026-11-10T00:00:00.0000000Z",
       "image_url": "https://store-images.s-microsoft.com/image/apps.41128.13984136076613493.b5146129-a992-4e04-8b43-ffa40460c569.65fc80a0-aece-4587-8f3f-9537315ddeb9",
-      "description": "Choose the club. Shape the squad. Set the tactics as the manager of the world’s greatest football clubs. FM27 is where footballing beliefs become reality in a living breathing football world that blends strategy with RPG in the ultimate sport simulation game.",
+      "description": "Choose the club. Shape the squad. Set the tactics as the manager of the world’s greatest football clubs. FM27 is where footballing beliefs become reality in a living breathing football world that blends strategy with RPG in the ultimate sports simulation game.",
       "match_type": "xbox-only",
       "match_score": 0,
       "howlongtobeat": {
@@ -13127,60 +12943,6 @@
       "howlongtobeat": null,
       "opencritic": null,
       "short_game_score": null
-    },
-    {
-      "catalog_group": "xbox-only",
-      "is_on_gfn": false,
-      "title": "Great God Grove",
-      "normalized_title": "great god grove",
-      "gfn_stores": [],
-      "gfn_has_xbox_store": false,
-      "xbox_title": "Great God Grove",
-      "xbox_product_id": "9N36BLQF3FX6",
-      "xbox_url": "https://www.microsoft.com/store/productId/9N36BLQF3FX6",
-      "publisher": "Fellow Traveller",
-      "developer": "LimboLane",
-      "release_date": "2024-11-15T16:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.29465.13938047926882205.478db89a-539b-4b20-956d-db969f740012.4807e127-c5eb-4e51-a9ac-623a9c9ce81e",
-      "description": "THE WORLD IS ENDING AND THE GODS ARE SQUABBLING! Suck up and launch dialogue in a world of puzzles, puppets, and weird gods… or THE RIFT WILL CONSUME US ALL!",
-      "match_type": "xbox-only",
-      "match_score": 0,
-      "howlongtobeat": {
-        "title": "Great God Grove",
-        "game_id": 150606,
-        "url": "https://howlongtobeat.com/game/150606",
-        "image_url": "https://howlongtobeat.com/games/150606_Great_God_Grove.jpg",
-        "main_story_seconds": 21418,
-        "review_score": 79,
-        "completion_count": 56,
-        "release_year": 2024,
-        "profile_platform": "Nintendo Switch, PC, Xbox Series X/S",
-        "match_type": "exact",
-        "match_score": 139,
-        "genres": [
-          "Adventure"
-        ]
-      },
-      "opencritic": {
-        "title": "Great God Grove",
-        "game_id": 17653,
-        "url": "https://opencritic.com/game/17653/great-god-grove",
-        "top_critic_score": 76.2,
-        "percent_recommended": 57.1,
-        "tier": "Strong",
-        "median_score": 71,
-        "review_count": 8,
-        "release_year": 2024,
-        "match_type": "exact",
-        "match_score": 147
-      },
-      "short_game_score": {
-        "score": 83.3,
-        "critic_score": 76.2,
-        "duration_fit_score": 100.0,
-        "main_story_hours": 5.9,
-        "target_hours": 15.0
-      }
     },
     {
       "catalog_group": "intersection",
@@ -15796,13 +15558,13 @@
         "game_id": 157653,
         "url": "https://howlongtobeat.com/game/157653",
         "image_url": "https://howlongtobeat.com/games/157653_Kernel_Hearts.jpg",
-        "main_story_seconds": null,
-        "review_score": 30,
-        "completion_count": null,
+        "main_story_seconds": 45180,
+        "review_score": 55,
+        "completion_count": 3,
         "release_year": 2026,
         "profile_platform": "Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
-        "match_score": 141,
+        "match_score": 139,
         "genres": [
           "Action",
           "Roguelike",
@@ -18435,64 +18197,6 @@
     {
       "catalog_group": "intersection",
       "is_on_gfn": true,
-      "title": "Moonlighter",
-      "normalized_title": "moonlighter",
-      "gfn_stores": [
-        "EPIC",
-        "STEAM"
-      ],
-      "gfn_has_xbox_store": false,
-      "xbox_title": "Moonlighter",
-      "xbox_product_id": "9P8XJRLCLH2P",
-      "xbox_url": "https://www.microsoft.com/store/productId/9P8XJRLCLH2P",
-      "publisher": "11 bit studios",
-      "developer": "Digital Sun",
-      "release_date": "2018-05-29T13:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.23038.14078999020725962.ddb83977-3b2d-4498-aa21-0a1bdeb1cddc.b1c79423-8a23-4943-804b-c5333d258492",
-      "description": "Moonlighter is an Action RPG with rogue-lite elements that demonstrates two sides of the coin – revealing everyday routines of Will, an adventurous shopkeeper that secretly dreams of becoming a hero.",
-      "match_type": "exact-title",
-      "match_score": 120,
-      "howlongtobeat": {
-        "title": "Moonlighter",
-        "game_id": 56787,
-        "url": "https://howlongtobeat.com/game/56787",
-        "image_url": "https://howlongtobeat.com/games/56787_Moonlighter.jpg",
-        "main_story_seconds": 50713,
-        "review_score": 73,
-        "completion_count": 2355,
-        "release_year": 2018,
-        "profile_platform": "Google Stadia, Mobile, Nintendo Switch, PC, PlayStation 4, Xbox One",
-        "match_type": "exact",
-        "match_score": 142,
-        "genres": [
-          "Action",
-          "Role-Playing"
-        ]
-      },
-      "opencritic": {
-        "title": "Moonlighter",
-        "game_id": 6087,
-        "url": "https://opencritic.com/game/6087/moonlighter",
-        "top_critic_score": 81.9,
-        "percent_recommended": 78.2,
-        "tier": "Strong",
-        "median_score": 80,
-        "review_count": 111,
-        "release_year": 2018,
-        "match_type": "exact",
-        "match_score": 152
-      },
-      "short_game_score": {
-        "score": 87.3,
-        "critic_score": 81.9,
-        "duration_fit_score": 100.0,
-        "main_story_hours": 14.1,
-        "target_hours": 15.0
-      }
-    },
-    {
-      "catalog_group": "intersection",
-      "is_on_gfn": true,
       "title": "Moonlighter 2: The Endless Vault",
       "normalized_title": "moonlighter 2 the endless vault",
       "gfn_stores": [
@@ -20459,57 +20163,6 @@
     {
       "catalog_group": "intersection",
       "is_on_gfn": true,
-      "title": "Pigeon Simulator",
-      "normalized_title": "pigeon simulator",
-      "gfn_stores": [
-        "XBOX"
-      ],
-      "gfn_has_xbox_store": true,
-      "xbox_title": "Pigeon Simulator",
-      "xbox_product_id": "9NRHQLZX3900",
-      "xbox_url": "https://www.microsoft.com/store/productId/9NRHQLZX3900",
-      "publisher": "tinyBuild",
-      "developer": "tinyBuild Riga",
-      "release_date": "2025-11-11T17:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.14972.14382953481681867.8b1ccf01-d587-4b7f-afbc-ee46cb87b3d4.1fad44e8-f1ea-4e87-bc34-f4995c5a6509",
-      "description": "Born to protect, forced to pigeon.",
-      "match_type": "exact-title",
-      "match_score": 120,
-      "howlongtobeat": {
-        "title": "Pigeon Simulator",
-        "game_id": 114696,
-        "url": "https://howlongtobeat.com/game/114696",
-        "image_url": "https://howlongtobeat.com/games/114696_Pigeon_Simulator.jpg",
-        "main_story_seconds": null,
-        "review_score": 44,
-        "completion_count": 3,
-        "release_year": 2025,
-        "profile_platform": "PC, Xbox Series X/S",
-        "match_type": "exact",
-        "match_score": 137,
-        "genres": [
-          "Adventure",
-          "Simulation"
-        ]
-      },
-      "opencritic": {
-        "title": "Pigeon Simulator",
-        "game_id": 19654,
-        "url": "https://opencritic.com/game/19654/pigeon-simulator",
-        "top_critic_score": null,
-        "percent_recommended": null,
-        "tier": null,
-        "median_score": null,
-        "review_count": 2,
-        "release_year": 2024,
-        "match_type": "exact",
-        "match_score": 141
-      },
-      "short_game_score": null
-    },
-    {
-      "catalog_group": "intersection",
-      "is_on_gfn": true,
       "title": "Pillars of Eternity",
       "normalized_title": "pillars of eternity",
       "gfn_stores": [
@@ -20974,63 +20627,6 @@
         "critic_score": 73.3,
         "duration_fit_score": 100.0,
         "main_story_hours": 15.0,
-        "target_hours": 15.0
-      }
-    },
-    {
-      "catalog_group": "intersection",
-      "is_on_gfn": true,
-      "title": "Police Simulator: Patrol Officers",
-      "normalized_title": "police simulator patrol officers",
-      "gfn_stores": [
-        "STEAM",
-        "XBOX"
-      ],
-      "gfn_has_xbox_store": true,
-      "xbox_title": "Police Simulator: Patrol Officers",
-      "xbox_product_id": "9P0NPLQ9P1DB",
-      "xbox_url": "https://www.microsoft.com/store/productId/9P0NPLQ9P1DB",
-      "publisher": "astragon Entertainment GmbH",
-      "developer": "Aesir Interactive",
-      "release_date": "2022-11-10T08:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.17215.14523320294659833.0e9cb134-00a8-4d23-9793-93834d8d61ef.369317a5-4d5d-4ffb-8f6a-0cb7e56fed25",
-      "description": "POLICE SIMULATOR: PATROL OFFICERS offers a Simulation Mode for veteran players looking for the most authentic experience, as well as a Casual Mode for players who want a more relaxing patrol around the streets of Brighton.",
-      "match_type": "exact-title",
-      "match_score": 120,
-      "howlongtobeat": {
-        "title": "Police Simulator: Patrol Officers",
-        "game_id": 96090,
-        "url": "https://howlongtobeat.com/game/96090",
-        "image_url": "https://howlongtobeat.com/games/96090_Police_Simulator_Patrol_Officers.jpg",
-        "main_story_seconds": 52511,
-        "review_score": 55,
-        "completion_count": 115,
-        "release_year": 2021,
-        "profile_platform": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
-        "match_type": "exact",
-        "match_score": 136,
-        "genres": [
-          "Simulation"
-        ]
-      },
-      "opencritic": {
-        "title": "Police Simulator: Patrol Officers",
-        "game_id": 13965,
-        "url": "https://opencritic.com/game/13965/police-simulator-patrol-officers",
-        "top_critic_score": 56.5,
-        "percent_recommended": 47.8,
-        "tier": "Weak",
-        "median_score": 65,
-        "review_count": 23,
-        "release_year": 2022,
-        "match_type": "exact",
-        "match_score": 148
-      },
-      "short_game_score": {
-        "score": 69.5,
-        "critic_score": 56.5,
-        "duration_fit_score": 100.0,
-        "main_story_hours": 14.6,
         "target_hours": 15.0
       }
     },
@@ -22053,47 +21649,6 @@
         "main_story_hours": 12.3,
         "target_hours": 15.0
       }
-    },
-    {
-      "catalog_group": "intersection",
-      "is_on_gfn": true,
-      "title": "Relic Hunters Legend",
-      "normalized_title": "relic hunters legend",
-      "gfn_stores": [
-        "STEAM"
-      ],
-      "gfn_has_xbox_store": false,
-      "xbox_title": "Relic Hunters Legend",
-      "xbox_product_id": "9P81K2C8RBF4",
-      "xbox_url": "https://www.microsoft.com/store/productId/9P81K2C8RBF4",
-      "publisher": "Rogue Snail",
-      "developer": "Rogue Snail",
-      "release_date": "2025-08-14T15:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.14074.14097016447581693.ee94877f-b509-44d9-abed-33614d4bfc2b.8789bca2-7579-4756-8220-19fb8cefa24f",
-      "description": "A Top-Down Shooter/Looter RPG with a touching story inspired by JRPG classics. Shoot enemies, get loot, and customize your characters. Multiple endgame systems and over 100 hours of play await you solo or up to 4-player co-op!",
-      "match_type": "exact-title",
-      "match_score": 120,
-      "howlongtobeat": {
-        "title": "Relic Hunters Legend",
-        "game_id": 116800,
-        "url": "https://howlongtobeat.com/game/116800",
-        "image_url": "https://howlongtobeat.com/games/116800_Relic_Hunters_Legend.jpg",
-        "main_story_seconds": 56100,
-        "review_score": 72,
-        "completion_count": 5,
-        "release_year": 2023,
-        "profile_platform": "PC, Xbox Series X/S",
-        "match_type": "exact",
-        "match_score": 125,
-        "genres": [
-          "Scrolling",
-          "Action",
-          "Adventure",
-          "Role-Playing"
-        ]
-      },
-      "opencritic": null,
-      "short_game_score": null
     },
     {
       "catalog_group": "intersection",
@@ -23756,9 +23311,9 @@
         "game_id": 161771,
         "url": "https://howlongtobeat.com/game/161771",
         "image_url": "https://howlongtobeat.com/games/161771_Shape_of_Dreams.jpg",
-        "main_story_seconds": 29846,
+        "main_story_seconds": 29944,
         "review_score": 77,
-        "completion_count": 103,
+        "completion_count": 108,
         "release_year": 2025,
         "profile_platform": "Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
         "match_type": "exact",
@@ -29051,64 +28606,6 @@
       }
     },
     {
-      "catalog_group": "xbox-only",
-      "is_on_gfn": false,
-      "title": "Total Chaos",
-      "normalized_title": "total chaos",
-      "gfn_stores": [],
-      "gfn_has_xbox_store": false,
-      "xbox_title": "Total Chaos",
-      "xbox_product_id": "9PHTX5QZ035T",
-      "xbox_url": "https://www.microsoft.com/store/productId/9PHTX5QZ035T",
-      "publisher": "Infogrames, Atari, Apogee Entertainment",
-      "developer": "Trigger Happy Interactive, Black Sheep Studio",
-      "release_date": "2025-11-20T19:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.24807.14224411830682092.a75ca261-09af-4d3c-9aa3-170861aaf880.2484038d-3717-4598-a25b-bbb4c7cdc5a4",
-      "description": "Fort Oasis is no paradise—it's a decaying nightmare where reality crumbles. The creator of Turbo Overkill unleashes survival-horror stacked with mysteries and monstrosities. Scavenge to craft weapons, while a voice on your walkie-talkie guides you into the island's depths.",
-      "match_type": "xbox-only",
-      "match_score": 0,
-      "howlongtobeat": {
-        "title": "Total Chaos",
-        "game_id": 166129,
-        "url": "https://howlongtobeat.com/game/166129",
-        "image_url": "https://howlongtobeat.com/games/166129_Total_Chaos.jpg",
-        "main_story_seconds": 38991,
-        "review_score": 67,
-        "completion_count": 63,
-        "release_year": 2025,
-        "profile_platform": "Nintendo Switch 2, PC, PlayStation 5, Xbox Series X/S",
-        "match_type": "exact",
-        "match_score": 139,
-        "genres": [
-          "First-Person",
-          "Action",
-          "Adventure",
-          "Horror",
-          "Survival"
-        ]
-      },
-      "opencritic": {
-        "title": "Total Chaos",
-        "game_id": 19729,
-        "url": "https://opencritic.com/game/19729/total-chaos",
-        "top_critic_score": 73.7,
-        "percent_recommended": 55.3,
-        "tier": "Fair",
-        "median_score": 80,
-        "review_count": 38,
-        "release_year": 2025,
-        "match_type": "exact",
-        "match_score": 148
-      },
-      "short_game_score": {
-        "score": 81.6,
-        "critic_score": 73.7,
-        "duration_fit_score": 100.0,
-        "main_story_hours": 10.8,
-        "target_hours": 15.0
-      }
-    },
-    {
       "catalog_group": "intersection",
       "is_on_gfn": true,
       "title": "Totally Accurate Battle Simulator",
@@ -32481,64 +31978,6 @@
         "critic_score": 71.2,
         "duration_fit_score": 100.0,
         "main_story_hours": 10.4,
-        "target_hours": 15.0
-      }
-    },
-    {
-      "catalog_group": "intersection",
-      "is_on_gfn": true,
-      "title": "Wreckfest",
-      "normalized_title": "wreckfest",
-      "gfn_stores": [
-        "EPIC",
-        "STEAM"
-      ],
-      "gfn_has_xbox_store": false,
-      "xbox_title": "Wreckfest",
-      "xbox_product_id": "BRJNRZ9N734V",
-      "xbox_url": "https://www.microsoft.com/store/productId/BRJNRZ9N734V",
-      "publisher": "THQ Nordic",
-      "developer": "Bugbear Entertainment",
-      "release_date": "2019-08-26T22:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.64141.69762792333465121.4086c71f-fab9-4c14-b959-3e77164a74cf.27e4efda-6f6d-4d33-b636-4d6ef45396ea",
-      "description": "Break the rules and take full-contact racing to the limit with Wreckfest! \r\n\r\n\r\n\r\n\r\n\r\nExpect epic crashes, neck-to-neck fights over the finish line and brand-new ways for metal to bend – These are the once-in-a-lifetime moments that can only be achieved in Wreckfest, with its true-to-life physics simulation crafted by legendary developer Bugbear, who also brought you FlatOut 1 & 2!\r\n\r\n\r\n\r\n\r\n\r\nBurn rubber and shred metal in the ultimate driving playground!",
-      "match_type": "exact-title",
-      "match_score": 120,
-      "howlongtobeat": {
-        "title": "Wreckfest",
-        "game_id": 16136,
-        "url": "https://howlongtobeat.com/game/16136",
-        "image_url": "https://howlongtobeat.com/games/NextCarGame.jpg",
-        "main_story_seconds": 63806,
-        "review_score": 76,
-        "completion_count": 773,
-        "release_year": 2018,
-        "profile_platform": "Mobile, Nintendo Switch, PC, PlayStation 4, PlayStation 5, Xbox One",
-        "match_type": "exact",
-        "match_score": 136,
-        "genres": [
-          "Racing/Driving",
-          "Vehicular Combat"
-        ]
-      },
-      "opencritic": {
-        "title": "Wreckfest",
-        "game_id": 6229,
-        "url": "https://opencritic.com/game/6229/wreckfest",
-        "top_critic_score": 79.6,
-        "percent_recommended": 78.0,
-        "tier": "Strong",
-        "median_score": 80,
-        "review_count": 83,
-        "release_year": 2018,
-        "match_type": "exact",
-        "match_score": 145
-      },
-      "short_game_score": {
-        "score": 83.4,
-        "critic_score": 79.6,
-        "duration_fit_score": 92.2,
-        "main_story_hours": 17.7,
         "target_hours": 15.0
       }
     },
