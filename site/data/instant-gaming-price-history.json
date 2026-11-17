@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T08:05:47+00:00",
+  "generated_at": "2026-11-17T21:03:46+00:00",
   "currency": "CHF",
   "products": [
     {
@@ -11,7 +11,7 @@
       "canonical_url": "https://www.instant-gaming.com/fr/4994-acheter-xbox-game-pass-ultimate-3-mois-xbox-one-xbox-series-x-s-pc-microsoft-store/",
       "image_url": "https://gaming-cdn.com/images/products/4994/616x353/xbox-game-pass-ultimate-3-mois-xbox-one-xbox-series-x-s-pc-microsoft-store-cover.jpg?v=1776851245",
       "current": {
-        "timestamp": "2026-11-17T08:05:47+00:00",
+        "timestamp": "2026-11-17T21:03:46+00:00",
         "price": 41.59,
         "available": true,
         "discount_percent": 29,
@@ -2258,6 +2258,14 @@
           "discount_percent": 29,
           "preorder": false,
           "retail_price": 58.0
+        },
+        {
+          "timestamp": "2026-11-17T21:03:46+00:00",
+          "price": 41.59,
+          "available": true,
+          "discount_percent": 29,
+          "preorder": false,
+          "retail_price": 58.0
         }
       ]
     },
@@ -2270,7 +2278,7 @@
       "canonical_url": "https://www.instant-gaming.com/fr/4993-acheter-xbox-game-pass-ultimate-1-mois-xbox-one-xbox-series-x-s-pc-microsoft-store/",
       "image_url": "https://gaming-cdn.com/images/products/4993/616x353/xbox-game-pass-ultimate-1-mois-xbox-one-xbox-series-x-s-pc-microsoft-store-cover.jpg?v=1776843160",
       "current": {
-        "timestamp": "2026-11-17T08:05:47+00:00",
+        "timestamp": "2026-11-17T21:03:46+00:00",
         "price": 15.71,
         "available": true,
         "discount_percent": 19,
@@ -4517,6 +4525,14 @@
           "discount_percent": 19,
           "preorder": false,
           "retail_price": 19.0
+        },
+        {
+          "timestamp": "2026-11-17T21:03:46+00:00",
+          "price": 15.71,
+          "available": true,
+          "discount_percent": 19,
+          "preorder": false,
+          "retail_price": 19.0
         }
       ]
     },
@@ -4529,7 +4545,7 @@
       "canonical_url": "https://www.instant-gaming.com/fr/7613-acheter-xbox-game-pass-3-mois-pc-microsoft-store/",
       "image_url": "https://gaming-cdn.com/images/products/7613/616x353/xbox-game-pass-3-mois-pc-microsoft-store-cover.jpg?v=1786528310",
       "current": {
-        "timestamp": "2026-11-17T08:05:47+00:00",
+        "timestamp": "2026-11-17T21:03:46+00:00",
         "price": 31.42,
         "available": false,
         "discount_percent": 13,
@@ -6776,6 +6792,14 @@
           "discount_percent": 13,
           "preorder": false,
           "retail_price": 36.0
+        },
+        {
+          "timestamp": "2026-11-17T21:03:46+00:00",
+          "price": 31.42,
+          "available": false,
+          "discount_percent": 13,
+          "preorder": false,
+          "retail_price": 36.0
         }
       ]
     },
@@ -6788,7 +6812,7 @@
       "canonical_url": "https://www.instant-gaming.com/fr/15846-acheter-dragon-quest-builders-pc-jeu-steam/",
       "image_url": "https://gaming-cdn.com/images/products/15846/616x353/dragon-quest-builders-pc-jeu-steam-cover.jpg?v=1706631799",
       "current": {
-        "timestamp": "2026-11-17T08:05:47+00:00",
+        "timestamp": "2026-11-17T21:03:46+00:00",
         "price": 13.03,
         "available": true,
         "discount_percent": 52,
@@ -8787,6 +8811,14 @@
           "discount_percent": 52,
           "preorder": false,
           "retail_price": 27.0
+        },
+        {
+          "timestamp": "2026-11-17T21:03:46+00:00",
+          "price": 13.03,
+          "available": true,
+          "discount_percent": 52,
+          "preorder": false,
+          "retail_price": 27.0
         }
       ]
     },
@@ -8799,7 +8831,7 @@
       "canonical_url": "https://www.instant-gaming.com/fr/6027-acheter-dragon-quest-builders-2-pc-jeu-steam/",
       "image_url": "https://gaming-cdn.com/images/products/6027/616x353/dragon-quest-builders-2-pc-jeu-steam-cover.jpg?v=1651506855",
       "current": {
-        "timestamp": "2026-11-17T08:05:47+00:00",
+        "timestamp": "2026-11-17T21:03:46+00:00",
         "price": 20.98,
         "available": true,
         "discount_percent": 58,
@@ -10798,6 +10830,14 @@
           "discount_percent": 58,
           "preorder": false,
           "retail_price": 50.0
+        },
+        {
+          "timestamp": "2026-11-17T21:03:46+00:00",
+          "price": 20.98,
+          "available": true,
+          "discount_percent": 58,
+          "preorder": false,
+          "retail_price": 50.0
         }
       ]
     },
@@ -10810,7 +10850,7 @@
       "canonical_url": "https://www.instant-gaming.com/fr/22735-acheter-007-first-light-pc-steam/",
       "image_url": "https://gaming-cdn.com/images/products/22735/616x353/007-first-light-pc-steam-cover.jpg?v=1782205282",
       "current": {
-        "timestamp": "2026-11-17T08:05:47+00:00",
+        "timestamp": "2026-11-17T21:03:46+00:00",
         "price": 31.14,
         "available": true,
         "discount_percent": 61,
@@ -10905,6 +10945,14 @@
           "discount_percent": 61,
           "preorder": false,
           "retail_price": 80.0
+        },
+        {
+          "timestamp": "2026-11-17T21:03:46+00:00",
+          "price": 31.14,
+          "available": true,
+          "discount_percent": 61,
+          "preorder": false,
+          "retail_price": 80.0
         }
       ]
     },
@@ -10917,7 +10965,7 @@
       "canonical_url": "https://www.instant-gaming.com/fr/21584-acheter-007-first-light-xbox-series-x-s-pc-microsoft-store/",
       "image_url": "https://gaming-cdn.com/images/products/21584/616x353/007-first-light-xbox-series-x-s-pc-microsoft-store-cover.jpg?v=1779895399",
       "current": {
-        "timestamp": "2026-11-17T08:05:47+00:00",
+        "timestamp": "2026-11-17T21:03:46+00:00",
         "price": 37.43,
         "available": true,
         "discount_percent": 42,
@@ -11012,6 +11060,14 @@
           "discount_percent": 42,
           "preorder": false,
           "retail_price": 65.0
+        },
+        {
+          "timestamp": "2026-11-17T21:03:46+00:00",
+          "price": 37.43,
+          "available": true,
+          "discount_percent": 42,
+          "preorder": false,
+          "retail_price": 65.0
         }
       ]
     },
@@ -11024,7 +11080,7 @@
       "canonical_url": "https://www.instant-gaming.com/fr/22993-acheter-nba-2k27-pc-steam/",
       "image_url": "https://gaming-cdn.com/images/products/22993/616x353/nba-2k27-pc-steam-cover.jpg?v=1788527440",
       "current": {
-        "timestamp": "2026-11-17T08:05:47+00:00",
+        "timestamp": "2026-11-17T21:03:46+00:00",
         "price": 48.99,
         "available": true,
         "discount_percent": 30,
@@ -11119,6 +11175,14 @@
           "discount_percent": 30,
           "preorder": false,
           "retail_price": 70.0
+        },
+        {
+          "timestamp": "2026-11-17T21:03:46+00:00",
+          "price": 48.99,
+          "available": true,
+          "discount_percent": 30,
+          "preorder": false,
+          "retail_price": 70.0
         }
       ]
     },
@@ -11131,7 +11195,7 @@
       "canonical_url": "https://www.instant-gaming.com/fr/12619-acheter-hitman-world-of-assassination-pc-steam/",
       "image_url": "https://gaming-cdn.com/images/products/12619/616x353/hitman-world-of-assassination-pc-steam-cover.jpg?v=1771857586",
       "current": {
-        "timestamp": "2026-11-17T08:05:47+00:00",
+        "timestamp": "2026-11-17T21:03:46+00:00",
         "price": 21.62,
         "available": true,
         "discount_percent": 72,
@@ -11218,6 +11282,14 @@
           "discount_percent": 72,
           "preorder": false,
           "retail_price": 78.0
+        },
+        {
+          "timestamp": "2026-11-17T21:03:46+00:00",
+          "price": 21.62,
+          "available": true,
+          "discount_percent": 72,
+          "preorder": false,
+          "retail_price": 78.0
         }
       ]
     },
@@ -11230,7 +11302,7 @@
       "canonical_url": "https://www.instant-gaming.com/fr/997-acheter-divinity-original-sin-ii-definitive-edition-definitive-edition-pc-jeu-gog-com/",
       "image_url": "https://gaming-cdn.com/images/products/997/616x353/divinity-original-sin-ii-definitive-edition-definitive-edition-pc-jeu-gog-com-cover.jpg?v=1712741216",
       "current": {
-        "timestamp": "2026-11-17T08:05:47+00:00",
+        "timestamp": "2026-11-17T21:03:46+00:00",
         "price": 14.78,
         "available": true,
         "discount_percent": 69,
@@ -11309,6 +11381,14 @@
           "discount_percent": 69,
           "preorder": false,
           "retail_price": 48.0
+        },
+        {
+          "timestamp": "2026-11-17T21:03:46+00:00",
+          "price": 14.78,
+          "available": true,
+          "discount_percent": 69,
+          "preorder": false,
+          "retail_price": 48.0
         }
       ]
     },
@@ -11321,7 +11401,7 @@
       "canonical_url": "https://www.instant-gaming.com/fr/384-acheter-divinity-original-sin-enhanced-edition-pc-gog-com/",
       "image_url": "https://gaming-cdn.com/images/products/384/616x353/divinity-original-sin-enhanced-edition-pc-gog-com-cover.jpg?v=1761661857",
       "current": {
-        "timestamp": "2026-11-17T08:05:47+00:00",
+        "timestamp": "2026-11-17T21:03:46+00:00",
         "price": 7.48,
         "available": true,
         "discount_percent": 80,
@@ -11395,6 +11475,14 @@
         },
         {
           "timestamp": "2026-11-17T08:05:47+00:00",
+          "price": 7.48,
+          "available": true,
+          "discount_percent": 80,
+          "preorder": false,
+          "retail_price": 38.0
+        },
+        {
+          "timestamp": "2026-11-17T21:03:46+00:00",
           "price": 7.48,
           "available": true,
           "discount_percent": 80,
