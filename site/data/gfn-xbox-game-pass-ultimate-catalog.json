@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T22:17:37+00:00",
+  "generated_at": "2026-11-17T08:05:52+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -14,10 +14,10 @@
   },
   "counts": {
     "gfn_titles": 6313,
-    "xbox_game_pass_titles": 898,
-    "catalog_titles": 682,
+    "xbox_game_pass_titles": 899,
+    "catalog_titles": 683,
     "intersection_titles": 395,
-    "xbox_only_titles": 287
+    "xbox_only_titles": 288
   },
   "summary": {
     "store_counts": {
@@ -85,9 +85,9 @@
     ],
     "gfn_xbox_store_matches": 195,
     "intersection_titles": 395,
-    "xbox_only_titles": 287,
+    "xbox_only_titles": 288,
     "hltb_matches": 488,
-    "opencritic_matches": 557,
+    "opencritic_matches": 558,
     "short_game_score_matches": 356,
     "exact_matches": 363,
     "partial_matches": 32
@@ -2866,7 +2866,7 @@
       "publisher": "Devolver Digital",
       "developer": "Kenny Sun",
       "release_date": "2025-10-15T16:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.49009.13835016463632115.666396b5-f6e8-4a0a-ae87-81ee6b77084a.d422168a-035e-42c7-819e-d93987acea85",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.25906.13835016463632115.e71b68fd-01a3-4f56-bac2-9c7e69d8f4f9.a9f8253f-e148-47b2-acca-9481d782d01f",
       "description": "BALL x PIT is a brick-breaking, ball-fusing, base-building survival roguelite. Batter hordes of enemies with ricocheting balls and gather the riches of the pit to expand your homestead, generate resources and recruit unique heroes.",
       "match_type": "exact-title",
       "match_score": 120,
@@ -19710,6 +19710,39 @@
       }
     },
     {
+      "catalog_group": "xbox-only",
+      "is_on_gfn": false,
+      "title": "PAW Patrol™: Dino World",
+      "normalized_title": "paw patrol dino world",
+      "gfn_stores": [],
+      "gfn_has_xbox_store": false,
+      "xbox_title": "PAW Patrol™: Dino World",
+      "xbox_product_id": "9N3P3TRJGWV0",
+      "xbox_url": "https://www.microsoft.com/store/productId/9N3P3TRJGWV0",
+      "publisher": "Outright Games Ltd.",
+      "developer": "3DClouds",
+      "release_date": "2026-07-30T22:00:00.0000000Z",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.6586.14003155671712527.e2286374-c296-44cb-8b6c-1bb5b97b583a.541483cb-d84e-4407-a531-08c76a595a07",
+      "description": "Join the PAW Patrol and Rex on colossal missions across Dino Island. Create roar-some looks, play minigames with friends and more.",
+      "match_type": "xbox-only",
+      "match_score": 0,
+      "howlongtobeat": null,
+      "opencritic": {
+        "title": "PAW Patrol: Dino World",
+        "game_id": 21139,
+        "url": "https://opencritic.com/game/21139/paw-patrol-dino-world",
+        "top_critic_score": null,
+        "percent_recommended": 62.5,
+        "tier": null,
+        "median_score": null,
+        "review_count": 8,
+        "release_year": 2026,
+        "match_type": "exact",
+        "match_score": 147
+      },
+      "short_game_score": null
+    },
+    {
       "catalog_group": "intersection",
       "is_on_gfn": true,
       "title": "Pax Dei",
@@ -26952,7 +26985,7 @@
       "publisher": "NEXON",
       "developer": "NEXON Games Co., Ltd.",
       "release_date": "2024-06-30T07:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.69.14088967971354578.6905da5e-eaf6-4f51-aabc-e221a5476323.b846aec6-4e7d-4847-b836-27fcdb7e97a6",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.56041.14088967971354578.21f9976e-3fb0-4fe0-89fd-e7a4a3274e5d.1db4da7e-d526-4ac2-9db6-2edfda66f560",
       "description": "The First Descendant is a cross-platform (free-to-play) next-gen, third-person looter shooter powered by Unreal Engine 5.",
       "match_type": "exact-title",
       "match_score": 120,
