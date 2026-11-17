@@ -19,6 +19,12 @@
       "STEAM"
     ]
   },
+  "10 second mixtape": {
+    "name": "10 Second Mixtape",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "10 second mixtape demo": {
     "name": "10 Second Mixtape Demo",
     "stores": [
@@ -441,6 +447,12 @@
   },
   "a story about my uncle": {
     "name": "A Story About My Uncle",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "a story of questions prologue": {
+    "name": "A Story of Questions: Prologue",
     "stores": [
       "STEAM"
     ]
@@ -1492,6 +1504,12 @@
   },
   "ancient space": {
     "name": "Ancient Space",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "angel investor simulator": {
+    "name": "Angel Investor Simulator™",
     "stores": [
       "STEAM"
     ]
@@ -4898,6 +4916,18 @@
       "STEAM"
     ]
   },
+  "can em all": {
+    "name": "Can 'Em All",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "can em all demo": {
+    "name": "Can 'Em All Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "can t drive this": {
     "name": "Can't Drive This",
     "stores": [
@@ -5693,6 +5723,12 @@
   },
   "cielchan anime desktop ai companion": {
     "name": "CielChan: Anime Desktop AI Companion",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "cinema owner prologue": {
+    "name": "Cinema Owner: Prologue",
     "stores": [
       "STEAM"
     ]
@@ -30023,6 +30059,12 @@
       "STEAM"
     ]
   },
+  "storyteller": {
+    "name": "Storyteller",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "straima": {
     "name": "Straima",
     "stores": [
@@ -35864,6 +35906,12 @@
   },
   "unfortunate spacemen": {
     "name": "Unfortunate Spacemen",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "unicorn academy island of magic": {
+    "name": "Unicorn Academy: Island of Magic",
     "stores": [
       "STEAM"
     ]

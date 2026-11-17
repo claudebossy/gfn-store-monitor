@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T07:52:19+00:00",
+  "generated_at": "2026-11-17T20:52:46+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -7030,6 +7030,64 @@
       "new_game_count": 0,
       "new_store_count": 0,
       "new_games": [],
+      "new_stores": []
+    },
+    {
+      "timestamp": "2026-11-17T20:52:46+00:00",
+      "baseline": false,
+      "catalog_game_count": 6321,
+      "new_game_count": 8,
+      "new_store_count": 0,
+      "new_games": [
+        {
+          "name": "10 Second Mixtape",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "A Story of Questions: Prologue",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Angel Investor Simulator™",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Can 'Em All",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Can 'Em All Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Cinema Owner: Prologue",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Storyteller",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Unicorn Academy: Island of Magic",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
       "new_stores": []
     }
   ]
