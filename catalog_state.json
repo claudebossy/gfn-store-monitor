@@ -1007,6 +1007,12 @@
       "XBOX"
     ]
   },
+  "airframe ultra": {
+    "name": "Airframe Ultra",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "airhead": {
     "name": "Airhead",
     "stores": [
@@ -8504,6 +8510,12 @@
   },
   "dice fold": {
     "name": "Dice & Fold",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "dice hoarder": {
+    "name": "Dice Hoarder",
     "stores": [
       "STEAM"
     ]
