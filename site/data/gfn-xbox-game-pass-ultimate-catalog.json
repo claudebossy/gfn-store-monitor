@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T07:41:30+00:00",
+  "generated_at": "2026-11-18T20:40:48+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,7 +13,7 @@
     }
   },
   "counts": {
-    "gfn_titles": 6323,
+    "gfn_titles": 6326,
     "xbox_game_pass_titles": 899,
     "catalog_titles": 683,
     "intersection_titles": 395,
@@ -87,7 +87,7 @@
     "intersection_titles": 395,
     "xbox_only_titles": 288,
     "hltb_matches": 488,
-    "opencritic_matches": 558,
+    "opencritic_matches": 559,
     "short_game_score_matches": 356,
     "exact_matches": 363,
     "partial_matches": 32
@@ -4359,7 +4359,7 @@
       "publisher": "Ubisoft",
       "developer": "Blue Mammoth Games",
       "release_date": "2018-11-06T00:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.54575.13891464908023063.a2b61e88-13f6-441b-9e30-86dbd5d67e01.9a535c78-96cc-466f-b15e-b4c99c64c13c",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.48463.65958767407690020.98622844-3c98-4c9a-8967-6c15ee09f981.adf3db9a-a0f7-4d86-a27c-37393190d7e8",
       "description": "An epic platform fighter for up to 8 players online or locally. Try casual free-for-alls, ranked matches, or invite friends to a private room. And it's free! Play cross-platform with millions of players on PlayStation, Xbox, Nintendo Switch, iOS, Android and Steam! Frequent updates. Over fifty Legends.",
       "match_type": "exact-title",
       "match_score": 120,
@@ -14601,7 +14601,19 @@
           "Adventure"
         ]
       },
-      "opencritic": null,
+      "opencritic": {
+        "title": "Hope in the City",
+        "game_id": 21733,
+        "url": "https://opencritic.com/game/21733/hope-in-the-city",
+        "top_critic_score": null,
+        "percent_recommended": null,
+        "tier": null,
+        "median_score": null,
+        "review_count": 1,
+        "release_year": 2026,
+        "match_type": "exact",
+        "match_score": 147
+      },
       "short_game_score": null
     },
     {

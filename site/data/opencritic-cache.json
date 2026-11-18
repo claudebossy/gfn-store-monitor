@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T07:41:41+00:00",
+  "updated_at": "2026-11-18T20:40:59+00:00",
   "entries": {
     "1000xresist": {
       "title": "1000xRESIST",
@@ -11685,9 +11685,21 @@
     },
     "hope in the city": {
       "title": "Hope in the City",
-      "status": "not_found",
-      "fetched_at": "2026-11-11T19:42:29+00:00",
-      "data": null
+      "status": "matched",
+      "fetched_at": "2026-11-18T20:40:58+00:00",
+      "data": {
+        "title": "Hope in the City",
+        "game_id": 21733,
+        "url": "https://opencritic.com/game/21733/hope-in-the-city",
+        "top_critic_score": null,
+        "percent_recommended": null,
+        "tier": null,
+        "median_score": null,
+        "review_count": 1,
+        "release_year": 2026,
+        "match_type": "exact",
+        "match_score": 147
+      }
     },
     "thronefall": {
       "title": "Thronefall",
