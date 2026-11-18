@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T07:24:06+00:00",
+  "generated_at": "2026-11-18T20:28:42+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -7105,6 +7105,40 @@
         },
         {
           "name": "Dice Hoarder",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
+      "new_stores": []
+    },
+    {
+      "timestamp": "2026-11-18T20:28:42+00:00",
+      "baseline": false,
+      "catalog_game_count": 6326,
+      "new_game_count": 4,
+      "new_store_count": 0,
+      "new_games": [
+        {
+          "name": "Bomb Them Ores",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "CAPTURED",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Lord of Undead",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Potions Galore",
           "stores": [
             "STEAM"
           ]

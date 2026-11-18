@@ -4168,6 +4168,12 @@
       "STEAM"
     ]
   },
+  "bomb them ores": {
+    "name": "Bomb Them Ores",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "bombagun": {
     "name": "Bombagun",
     "stores": [
@@ -4990,6 +4996,12 @@
   },
   "captain of industry": {
     "name": "Captain of Industry",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "captured": {
+    "name": "CAPTURED",
     "stores": [
       "STEAM"
     ]
@@ -18080,6 +18092,12 @@
       "STEAM"
     ]
   },
+  "lord of undead": {
+    "name": "Lord of Undead",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "lord of undead demo": {
     "name": "Lord of Undead Demo",
     "stores": [
@@ -23591,6 +23609,12 @@
   },
   "potion permit": {
     "name": "Potion Permit",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "potions galore": {
+    "name": "Potions Galore",
     "stores": [
       "STEAM"
     ]
@@ -38061,12 +38085,6 @@
   },
   "wrath aeon of ruin": {
     "name": "WRATH: Aeon of Ruin",
-    "stores": [
-      "STEAM"
-    ]
-  },
-  "wrath and retribution demo": {
-    "name": "Wrath and Retribution Demo",
     "stores": [
       "STEAM"
     ]
