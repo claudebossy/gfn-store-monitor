@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T07:21:29+00:00",
+  "generated_at": "2026-11-19T20:33:18+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -7154,6 +7154,155 @@
       "new_store_count": 0,
       "new_games": [],
       "new_stores": []
+    },
+    {
+      "timestamp": "2026-11-19T20:33:18+00:00",
+      "baseline": false,
+      "catalog_game_count": 6334,
+      "new_game_count": 10,
+      "new_store_count": 7,
+      "new_games": [
+        {
+          "name": "A Thousand Stamps",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Aethermancer",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "BOOMER",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Bulwark: Falconeer Chronicles",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Faroda",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Grand Theft Timeline",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Granny Remake",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Hope in the City",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Rocket Scrapyard",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Ultrapool",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
+      "new_stores": [
+        {
+          "name": "Baldur's Gate 3",
+          "stores": [
+            "GOG",
+            "STEAM",
+            "XBOX"
+          ],
+          "new_stores": [
+            "XBOX"
+          ]
+        },
+        {
+          "name": "DOOM",
+          "stores": [
+            "GOG",
+            "STEAM"
+          ],
+          "new_stores": [
+            "GOG"
+          ]
+        },
+        {
+          "name": "DOOM Eternal",
+          "stores": [
+            "EPIC",
+            "GOG",
+            "STEAM",
+            "XBOX"
+          ],
+          "new_stores": [
+            "GOG"
+          ]
+        },
+        {
+          "name": "Fallout 4",
+          "stores": [
+            "GOG",
+            "STEAM"
+          ],
+          "new_stores": [
+            "GOG"
+          ]
+        },
+        {
+          "name": "Graveyard Keeper 2",
+          "stores": [
+            "EPIC",
+            "GOG",
+            "STEAM"
+          ],
+          "new_stores": [
+            "EPIC",
+            "GOG"
+          ]
+        },
+        {
+          "name": "Indiana Jones™ and the Great Circle™",
+          "stores": [
+            "GOG",
+            "STEAM",
+            "XBOX"
+          ],
+          "new_stores": [
+            "GOG"
+          ]
+        },
+        {
+          "name": "The Elder Scrolls V: Skyrim Special Edition",
+          "stores": [
+            "EPIC",
+            "GOG",
+            "STEAM",
+            "XBOX"
+          ],
+          "new_stores": [
+            "GOG"
+          ]
+        }
+      ]
     }
   ]
 }

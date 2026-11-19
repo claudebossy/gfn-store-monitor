@@ -457,6 +457,12 @@
       "STEAM"
     ]
   },
+  "a thousand stamps": {
+    "name": "A Thousand Stamps",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "a total war saga troy": {
     "name": "A Total War Saga: TROY",
     "stores": [
@@ -722,6 +728,12 @@
   },
   "aetheris": {
     "name": "AETHERIS",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "aethermancer": {
+    "name": "Aethermancer",
     "stores": [
       "STEAM"
     ]
@@ -2969,7 +2981,8 @@
     "name": "Baldur's Gate 3",
     "stores": [
       "GOG",
-      "STEAM"
+      "STEAM",
+      "XBOX"
     ]
   },
   "ball x pit": {
@@ -4252,6 +4265,12 @@
       "STEAM"
     ]
   },
+  "boomer": {
+    "name": "BOOMER",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "boomerang fu": {
     "name": "Boomerang Fu",
     "stores": [
@@ -4663,8 +4682,8 @@
       "STEAM"
     ]
   },
-  "bulwark evolution falconeer chronicles": {
-    "name": "Bulwark Evolution: Falconeer Chronicles",
+  "bulwark falconeer chronicles": {
+    "name": "Bulwark: Falconeer Chronicles",
     "stores": [
       "STEAM"
     ]
@@ -9030,6 +9049,7 @@
   "doom": {
     "name": "DOOM",
     "stores": [
+      "GOG",
       "STEAM"
     ]
   },
@@ -9044,6 +9064,7 @@
     "name": "DOOM Eternal",
     "stores": [
       "EPIC",
+      "GOG",
       "STEAM",
       "XBOX"
     ]
@@ -11311,6 +11332,7 @@
   "fallout 4": {
     "name": "Fallout 4",
     "stores": [
+      "GOG",
       "STEAM"
     ]
   },
@@ -11571,6 +11593,12 @@
     "stores": [
       "STEAM",
       "XBOX"
+    ]
+  },
+  "faroda": {
+    "name": "Faroda",
+    "stores": [
+      "STEAM"
     ]
   },
   "farthest frontier": {
@@ -13487,8 +13515,20 @@
       "STEAM"
     ]
   },
+  "grand theft timeline": {
+    "name": "Grand Theft Timeline",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "grandma no": {
     "name": "Grandma, No!",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "granny remake": {
+    "name": "Granny Remake",
     "stores": [
       "STEAM"
     ]
@@ -13539,6 +13579,8 @@
   "graveyard keeper 2": {
     "name": "Graveyard Keeper 2",
     "stores": [
+      "EPIC",
+      "GOG",
       "STEAM"
     ]
   },
@@ -15138,6 +15180,12 @@
       "STEAM"
     ]
   },
+  "hope in the city": {
+    "name": "Hope in the City",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "horripilant": {
     "name": "Horripilant",
     "stores": [
@@ -15794,6 +15842,7 @@
   "indiana jones and the great circle": {
     "name": "Indiana Jones™ and the Great Circle™",
     "stores": [
+      "GOG",
       "STEAM",
       "XBOX"
     ]
@@ -19672,12 +19721,6 @@
   },
   "model builder complete edition": {
     "name": "Model Builder: Complete Edition",
-    "stores": [
-      "STEAM"
-    ]
-  },
-  "modern naval warfare": {
-    "name": "Modern Naval Warfare",
     "stores": [
       "STEAM"
     ]
@@ -25864,6 +25907,12 @@
   },
   "rocket science": {
     "name": "Rocket Science",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "rocket scrapyard": {
+    "name": "Rocket Scrapyard",
     "stores": [
       "STEAM"
     ]
@@ -32306,6 +32355,7 @@
     "name": "The Elder Scrolls V: Skyrim Special Edition",
     "stores": [
       "EPIC",
+      "GOG",
       "STEAM",
       "XBOX"
     ]
@@ -35822,6 +35872,12 @@
   },
   "ultrakill": {
     "name": "ULTRAKILL",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "ultrapool": {
+    "name": "Ultrapool",
     "stores": [
       "STEAM"
     ]
