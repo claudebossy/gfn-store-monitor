@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T07:37:23+00:00",
+  "generated_at": "2026-11-19T20:47:02+00:00",
   "gfn_country": "CH",
   "gfn_language": "en_US",
   "xbox_market": "CH",
@@ -13,22 +13,22 @@
     }
   },
   "counts": {
-    "gfn_titles": 6326,
+    "gfn_titles": 6334,
     "xbox_game_pass_titles": 899,
     "catalog_titles": 683,
-    "intersection_titles": 395,
-    "xbox_only_titles": 288
+    "intersection_titles": 396,
+    "xbox_only_titles": 287
   },
   "summary": {
     "store_counts": {
-      "STEAM": 355,
+      "STEAM": 356,
       "XBOX": 195,
       "EPIC": 73,
       "UPLAY": 65,
       "BATTLENET": 21,
       "EA_APP": 17,
+      "GOG": 7,
       "NONE": 4,
-      "GOG": 3,
       "GAIJIN": 2,
       "UNKNOWN": 2,
       "WARGAMING": 1
@@ -84,12 +84,12 @@
       }
     ],
     "gfn_xbox_store_matches": 195,
-    "intersection_titles": 395,
-    "xbox_only_titles": 288,
+    "intersection_titles": 396,
+    "xbox_only_titles": 287,
     "hltb_matches": 488,
     "opencritic_matches": 559,
     "short_game_score_matches": 356,
-    "exact_matches": 363,
+    "exact_matches": 364,
     "partial_matches": 32
   },
   "games": [
@@ -7954,6 +7954,7 @@
       "title": "DOOM",
       "normalized_title": "doom",
       "gfn_stores": [
+        "GOG",
         "STEAM"
       ],
       "gfn_has_xbox_store": false,
@@ -9898,6 +9899,7 @@
       "title": "Fallout 4",
       "normalized_title": "fallout 4",
       "gfn_stores": [
+        "GOG",
         "STEAM"
       ],
       "gfn_has_xbox_store": false,
@@ -12804,7 +12806,7 @@
       "publisher": "Coffee Stain Publishing AB",
       "developer": "Coffee Stain North AB",
       "release_date": "2022-11-17T00:00:00.0000000Z",
-      "image_url": "https://store-images.s-microsoft.com/image/apps.36241.13691300234764634.6bd09c5e-3ea8-4ca5-9bd9-98e21eb55d43.ff3594fe-a85f-4633-b367-eb9adbb28cd8",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.54665.13691300234764634.9df58869-5b63-4949-9867-599eb0b0c79d.c8a00543-e493-4e4d-a55a-1b64c5724144",
       "description": "Pilgor’s baaack! \n\nGather your herd and venture forth into Goat Simulator 3; an all-new, totally realistic, sandbox farmyard experience. Invite up to three friends in local or online co-op, create carnage as a team, or compete in mini-games and then not be friends anymore.",
       "match_type": "exact-title",
       "match_score": 120,
@@ -14569,11 +14571,13 @@
       }
     },
     {
-      "catalog_group": "xbox-only",
-      "is_on_gfn": false,
+      "catalog_group": "intersection",
+      "is_on_gfn": true,
       "title": "Hope in the City",
       "normalized_title": "hope in the city",
-      "gfn_stores": [],
+      "gfn_stores": [
+        "STEAM"
+      ],
       "gfn_has_xbox_store": false,
       "xbox_title": "Hope in the City",
       "xbox_product_id": "9P1S707BPW6W",
@@ -14583,8 +14587,8 @@
       "release_date": "2026-11-11T18:00:00.0000000Z",
       "image_url": "https://store-images.s-microsoft.com/image/apps.40080.14501332661010356.1878bbae-b86e-4579-a4ee-b6e5b6f9498a.231af6ac-8729-4c13-b3a2-c71f94a11a58",
       "description": "17-year-old Hope Song thought the national exams were her biggest worry... until she got home to a ransacked apartment and two missing parents. Investigate through the eyes of an artist, turn sketches into evidence, and watch her family's mystery grow stranger and darker with every answer.",
-      "match_type": "xbox-only",
-      "match_score": 0,
+      "match_type": "exact-title",
+      "match_score": 120,
       "howlongtobeat": {
         "title": "Hope in the City",
         "game_id": 191158,
@@ -14861,6 +14865,7 @@
       "title": "Indiana Jones™ and the Great Circle™",
       "normalized_title": "indiana jones and the great circle",
       "gfn_stores": [
+        "GOG",
         "STEAM",
         "XBOX"
       ],
@@ -26832,6 +26837,7 @@
       "normalized_title": "the elder scrolls v skyrim special edition",
       "gfn_stores": [
         "EPIC",
+        "GOG",
         "STEAM",
         "XBOX"
       ],
