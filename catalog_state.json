@@ -19982,6 +19982,12 @@
       "XBOX"
     ]
   },
+  "moomin midsummer madness": {
+    "name": "Moomin: Midsummer Madness",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "moon mystery": {
     "name": "Moon Mystery",
     "stores": [
@@ -31757,7 +31763,7 @@
   "terratech legion": {
     "name": "TerraTech Legion",
     "stores": [
-      "XBOX"
+      "STEAM"
     ]
   },
   "terratech legion demo": {
