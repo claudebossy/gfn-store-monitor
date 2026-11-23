@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T07:33:14+00:00",
+  "generated_at": "2026-11-23T23:51:01+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -7405,6 +7405,58 @@
       "new_game_count": 0,
       "new_store_count": 0,
       "new_games": [],
+      "new_stores": []
+    },
+    {
+      "timestamp": "2026-11-23T23:51:01+00:00",
+      "baseline": false,
+      "catalog_game_count": 6343,
+      "new_game_count": 7,
+      "new_store_count": 0,
+      "new_games": [
+        {
+          "name": "Blood Rails Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Here Comes the Horde",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Neverwake Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Poco Loco",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Smoke & Lottery Simulator",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Substrate: Emergence",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Wolfsbanner: Medieval Kingdom RPG",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
       "new_stores": []
     }
   ]

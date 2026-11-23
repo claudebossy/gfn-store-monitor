@@ -3992,6 +3992,12 @@
       "STEAM"
     ]
   },
+  "blood rails demo": {
+    "name": "Blood Rails Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "blood rush": {
     "name": "Blood Rush",
     "stores": [
@@ -10096,12 +10102,6 @@
       "STEAM"
     ]
   },
-  "elderand": {
-    "name": "Elderand",
-    "stores": [
-      "STEAM"
-    ]
-  },
   "elderborn": {
     "name": "ELDERBORN",
     "stores": [
@@ -14675,6 +14675,12 @@
   },
   "herdling": {
     "name": "Herdling",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "here comes the horde": {
+    "name": "Here Comes the Horde",
     "stores": [
       "STEAM"
     ]
@@ -20928,6 +20934,12 @@
       "STEAM"
     ]
   },
+  "neverwake demo": {
+    "name": "Neverwake Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "neverwinter": {
     "name": "Neverwinter",
     "stores": [
@@ -23463,6 +23475,12 @@
   },
   "pocket kingdom": {
     "name": "Pocket Kingdom",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "poco loco": {
+    "name": "Poco Loco",
     "stores": [
       "STEAM"
     ]
@@ -28245,6 +28263,12 @@
       "STEAM"
     ]
   },
+  "smoke lottery simulator": {
+    "name": "Smoke & Lottery Simulator",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "smoots tennis survival zombie": {
     "name": "Smoots Tennis Survival Zombie",
     "stores": [
@@ -30480,6 +30504,12 @@
   },
   "subsistence": {
     "name": "Subsistence",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "substrate emergence": {
+    "name": "Substrate: Emergence",
     "stores": [
       "STEAM"
     ]
@@ -37862,6 +37892,12 @@
   },
   "wolfpack": {
     "name": "Wolfpack",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "wolfsbanner medieval kingdom rpg": {
+    "name": "Wolfsbanner: Medieval Kingdom RPG",
     "stores": [
       "STEAM"
     ]
