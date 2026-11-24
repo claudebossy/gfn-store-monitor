@@ -10102,6 +10102,12 @@
       "STEAM"
     ]
   },
+  "elderand": {
+    "name": "Elderand",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "elderborn": {
     "name": "ELDERBORN",
     "stores": [
@@ -15688,12 +15694,6 @@
   },
   "idun prologue frontline survival": {
     "name": "IDUN Prologue - Frontline Survival",
-    "stores": [
-      "STEAM"
-    ]
-  },
-  "ifsunsets": {
-    "name": "IfSunSets",
     "stores": [
       "STEAM"
     ]

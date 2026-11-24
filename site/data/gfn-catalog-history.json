@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T23:51:01+00:00",
+  "generated_at": "2026-11-24T09:51:07+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -7452,6 +7452,22 @@
         },
         {
           "name": "Wolfsbanner: Medieval Kingdom RPG",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
+      "new_stores": []
+    },
+    {
+      "timestamp": "2026-11-24T09:51:07+00:00",
+      "baseline": false,
+      "catalog_game_count": 6343,
+      "new_game_count": 1,
+      "new_store_count": 0,
+      "new_games": [
+        {
+          "name": "Elderand",
           "stores": [
             "STEAM"
           ]
