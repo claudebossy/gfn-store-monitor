@@ -218,6 +218,12 @@
       "STEAM"
     ]
   },
+  "8am the graveyard": {
+    "name": "8AM: The Graveyard",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "8am the office": {
     "name": "8AM: The Office",
     "stores": [
@@ -1877,6 +1883,12 @@
   },
   "arboria": {
     "name": "Arboria",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "arboria demo": {
+    "name": "Arboria Demo",
     "stores": [
       "STEAM"
     ]
@@ -6221,6 +6233,12 @@
   },
   "code of princess": {
     "name": "Code of Princess",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "code of shadows": {
+    "name": "Code of Shadows",
     "stores": [
       "STEAM"
     ]
@@ -19497,8 +19515,8 @@
       "STEAM"
     ]
   },
-  "might magic fates heroes tcg": {
-    "name": "Might & Magic Fates - Heroes TCG",
+  "might and magic the card game": {
+    "name": "Might and Magic The Card Game",
     "stores": [
       "STEAM"
     ]
@@ -21737,6 +21755,12 @@
       "STEAM"
     ]
   },
+  "once alive": {
+    "name": "Once Alive",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "once human": {
     "name": "Once Human",
     "stores": [
@@ -21767,6 +21791,12 @@
     "stores": [
       "STEAM",
       "XBOX"
+    ]
+  },
+  "one more donut": {
+    "name": "One More Donut",
+    "stores": [
+      "STEAM"
     ]
   },
   "one more island": {

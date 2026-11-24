@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T09:51:07+00:00",
+  "generated_at": "2026-11-24T22:23:52+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -7468,6 +7468,52 @@
       "new_games": [
         {
           "name": "Elderand",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
+      "new_stores": []
+    },
+    {
+      "timestamp": "2026-11-24T22:23:52+00:00",
+      "baseline": false,
+      "catalog_game_count": 6348,
+      "new_game_count": 6,
+      "new_store_count": 0,
+      "new_games": [
+        {
+          "name": "8AM: The Graveyard",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Arboria Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Code of Shadows",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Might and Magic The Card Game",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Once Alive",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "One More Donut",
           "stores": [
             "STEAM"
           ]
