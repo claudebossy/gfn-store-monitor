@@ -2220,6 +2220,12 @@
       "STEAM"
     ]
   },
+  "ashes of kardoria": {
+    "name": "Ashes of Kardoria",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "ashes of the damned the forgotten ward": {
     "name": "Ashes of the Damned: The Forgotten Ward",
     "stores": [
@@ -7925,6 +7931,12 @@
   },
   "deadside": {
     "name": "Deadside",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "deadstick bush pilot simulator demo": {
+    "name": "Deadstick - Bush Pilot Simulator Demo",
     "stores": [
       "STEAM"
     ]
@@ -13687,6 +13699,12 @@
       "STEAM"
     ]
   },
+  "greedland": {
+    "name": "Greedland",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "green hell": {
     "name": "Green Hell",
     "stores": [
@@ -16367,7 +16385,8 @@
   "john carpenter s toxic commando": {
     "name": "John Carpenter's Toxic Commando",
     "stores": [
-      "STEAM"
+      "STEAM",
+      "XBOX"
     ]
   },
   "john carpenter s toxic commando demo": {
@@ -25166,6 +25185,12 @@
       "STEAM"
     ]
   },
+  "rejected draft": {
+    "name": "Rejected Draft",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "reka": {
     "name": "REKA",
     "stores": [
@@ -28420,7 +28445,8 @@
   "sniper ghost warrior contracts 2": {
     "name": "Sniper Ghost Warrior Contracts 2",
     "stores": [
-      "STEAM"
+      "STEAM",
+      "XBOX"
     ]
   },
   "snooker 19": {
@@ -31838,6 +31864,12 @@
       "STEAM"
     ]
   },
+  "territory": {
+    "name": "Territory",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "terrordrome reign of the legends": {
     "name": "Terrordrome - Reign of the Legends",
     "stores": [
@@ -33673,6 +33705,12 @@
     "name": "The Spectrum Retreat",
     "stores": [
       "EPIC"
+    ]
+  },
+  "the spell brigade": {
+    "name": "The Spell Brigade",
+    "stores": [
+      "STEAM"
     ]
   },
   "the spirit and the mouse": {
@@ -36873,6 +36911,12 @@
       "STEAM"
     ]
   },
+  "walk hero demo": {
+    "name": "Walk Hero Demo",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "wall world": {
     "name": "Wall World",
     "stores": [
@@ -38044,7 +38088,8 @@
   "world of tanks blitz": {
     "name": "World of Tanks Blitz",
     "stores": [
-      "STEAM"
+      "STEAM",
+      "WARGAMING"
     ]
   },
   "world of tanks heat": {

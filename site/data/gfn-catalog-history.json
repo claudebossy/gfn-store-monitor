@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T08:28:26+00:00",
+  "generated_at": "2026-11-25T21:39:16+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -7536,6 +7536,89 @@
         }
       ],
       "new_stores": []
+    },
+    {
+      "timestamp": "2026-11-25T21:39:16+00:00",
+      "baseline": false,
+      "catalog_game_count": 6356,
+      "new_game_count": 7,
+      "new_store_count": 3,
+      "new_games": [
+        {
+          "name": "Ashes of Kardoria",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Deadstick - Bush Pilot Simulator Demo",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Greedland",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Rejected Draft",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Territory",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "The Spell Brigade",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Walk Hero Demo",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
+      "new_stores": [
+        {
+          "name": "John Carpenter's Toxic Commando",
+          "stores": [
+            "STEAM",
+            "XBOX"
+          ],
+          "new_stores": [
+            "XBOX"
+          ]
+        },
+        {
+          "name": "Sniper Ghost Warrior Contracts 2",
+          "stores": [
+            "STEAM",
+            "XBOX"
+          ],
+          "new_stores": [
+            "XBOX"
+          ]
+        },
+        {
+          "name": "World of Tanks Blitz",
+          "stores": [
+            "STEAM",
+            "WARGAMING"
+          ],
+          "new_stores": [
+            "WARGAMING"
+          ]
+        }
+      ]
     }
   ]
 }
