@@ -4341,6 +4341,12 @@
       "STEAM"
     ]
   },
+  "bore": {
+    "name": "BORE",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "born of bread": {
     "name": "Born of Bread",
     "stores": [
@@ -11565,6 +11571,12 @@
       "STEAM"
     ]
   },
+  "farmer s diary": {
+    "name": "Farmer's Diary",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "farmer s father save the innocence": {
     "name": "Farmer's Father: Save the Innocence",
     "stores": [
@@ -15178,12 +15190,6 @@
     "name": "Honkai: Star Rail",
     "stores": [
       "UNKNOWN"
-    ]
-  },
-  "hood warfare 2": {
-    "name": "Hood Warfare 2",
-    "stores": [
-      "STEAM"
     ]
   },
   "hop step sing astral piece": {
@@ -25323,6 +25329,12 @@
       "XBOX"
     ]
   },
+  "reshine": {
+    "name": "Reshine",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "resident evil 2": {
     "name": "Resident Evil 2",
     "stores": [
@@ -29239,6 +29251,12 @@
   },
   "split brain": {
     "name": "Split Brain",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "split brain samsara": {
+    "name": "Split Brain Samsara",
     "stores": [
       "STEAM"
     ]
@@ -34786,6 +34804,12 @@
   },
   "tooth and tail": {
     "name": "Tooth and Tail",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "top steed": {
+    "name": "TOP STEED",
     "stores": [
       "STEAM"
     ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T08:12:36+00:00",
+  "generated_at": "2026-11-26T21:28:40+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -7627,6 +7627,46 @@
       "new_game_count": 0,
       "new_store_count": 0,
       "new_games": [],
+      "new_stores": []
+    },
+    {
+      "timestamp": "2026-11-26T21:28:40+00:00",
+      "baseline": false,
+      "catalog_game_count": 6360,
+      "new_game_count": 5,
+      "new_store_count": 0,
+      "new_games": [
+        {
+          "name": "BORE",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Farmer's Diary",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Reshine",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Split Brain Samsara",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "TOP STEED",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
       "new_stores": []
     }
   ]
