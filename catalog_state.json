@@ -1813,6 +1813,12 @@
       "STEAM"
     ]
   },
+  "appulse": {
+    "name": "Appulse",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "appulse demo": {
     "name": "Appulse Demo",
     "stores": [
@@ -1987,6 +1993,12 @@
       "STEAM"
     ]
   },
+  "arctic drive": {
+    "name": "Arctic Drive",
+    "stores": [
+      "STEAM"
+    ]
+  },
   "area 86": {
     "name": "Area 86",
     "stores": [
@@ -2057,6 +2069,12 @@
   },
   "arkanoid eternal battle battle royale f2p edition": {
     "name": "Arkanoid - Eternal Battle : Battle Royale F2P Edition",
+    "stores": [
+      "STEAM"
+    ]
+  },
+  "arkheron": {
+    "name": "Arkheron",
     "stores": [
       "STEAM"
     ]

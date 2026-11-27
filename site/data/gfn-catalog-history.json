@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T08:25:24+00:00",
+  "generated_at": "2026-11-27T21:14:40+00:00",
   "country": "CH",
   "language": "en_US",
   "entries": [
@@ -7676,6 +7676,34 @@
       "new_game_count": 0,
       "new_store_count": 0,
       "new_games": [],
+      "new_stores": []
+    },
+    {
+      "timestamp": "2026-11-27T21:14:40+00:00",
+      "baseline": false,
+      "catalog_game_count": 6363,
+      "new_game_count": 3,
+      "new_store_count": 0,
+      "new_games": [
+        {
+          "name": "Appulse",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Arctic Drive",
+          "stores": [
+            "STEAM"
+          ]
+        },
+        {
+          "name": "Arkheron",
+          "stores": [
+            "STEAM"
+          ]
+        }
+      ],
       "new_stores": []
     }
   ]
